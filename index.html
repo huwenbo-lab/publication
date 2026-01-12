@@ -43,6 +43,37 @@
             min-height: 80vh;
         }
 
+        /* 搜索框样式 */
+        .search-container {
+            margin: 0 auto 30px auto;
+            max-width: 600px;
+            position: relative;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: 15px 20px;
+            font-size: 1.1rem;
+            border: 2px solid #e0e0e0;
+            border-radius: 50px;
+            outline: none;
+            transition: var(--transition);
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+        }
+
+        .search-input:focus {
+            border-color: var(--accent-color);
+            box-shadow: 0 4px 12px rgba(52, 152, 219, 0.2);
+        }
+
+        .search-stats {
+            text-align: center;
+            color: var(--text-sub);
+            font-size: 0.9rem;
+            margin-top: 10px;
+            height: 20px; /* 占位防止跳动 */
+        }
+
         /* 头部导航 */
         header {
             margin-bottom: 30px;
@@ -201,12 +232,22 @@
 </div>
 
 <div class="container">
+    <div class="search-container">
+        <input type="text" id="search-input" class="search-input" placeholder="输入标题、摘要或作者关键词进行搜索...">
+        <div id="search-stats" class="search-stats"></div>
+    </div>
     <header>
         <h1>期刊文献数据库</h1>
         <div id="breadcrumbs" class="breadcrumbs">
             <!-- 动态生成的面包屑导航 -->
         </div>
     </header>
+
+    <!-- 搜索结果列表 -->
+    <div id="section-search" class="view-section">
+        <h3 style="margin-bottom: 20px; color: var(--primary-color);">搜索结果</h3>
+        <div id="search-list" class="article-list"></div>
+    </div>
 
     <!-- 第一层：期刊列表 -->
     <div id="section-journals" class="view-section">
@@ -278,6 +319,7 @@
             
             console.log(`Loaded ${DATA.length} records.`);
             
+            setupSearch();
             render();
             
             // Hide loading overlay
@@ -295,13 +337,17 @@
 
     // 渲染主函数：根据状态决定显示哪个界面
     function render() {
-        // 1. 更新面包屑导航
-        renderBreadcrumbs();
-
-        // 2. 控制视图显示/隐藏
+        // 隐藏所有区域
         document.querySelectorAll('.view-section').forEach(el => el.classList.remove('active'));
+        
+        // 更新面包屑
+        updateBreadcrumbs();
 
-        if (state.view === 'journals') {
+        // 根据状态显示对应区域
+        if (state.view === 'search') {
+            document.getElementById('section-search').classList.add('active');
+            renderSearchResults();
+        } else if (state.view === 'journals') {
             document.getElementById('section-journals').classList.add('active');
             renderJournalList();
         } else if (state.view === 'years') {
@@ -313,19 +359,23 @@
         }
     }
 
-    // 渲染面包屑
-    function renderBreadcrumbs() {
+    function updateBreadcrumbs() {
         const container = document.getElementById('breadcrumbs');
         let html = `<span class="breadcrumb-item ${state.view === 'journals' ? 'active' : ''}" onclick="resetToJournals()">所有期刊</span>`;
 
-        if (state.selectedJournal) {
-            html += ` <span class="breadcrumb-separator">/</span> 
-                      <span class="breadcrumb-item ${state.view === 'years' ? 'active' : ''}" onclick="backToYears()">${state.selectedJournal}</span>`;
-        }
-
-        if (state.selectedYear) {
-            html += ` <span class="breadcrumb-separator">/</span> 
-                      <span class="breadcrumb-item active">${state.selectedYear}</span>`;
+        if (state.view === 'search') {
+             html += ` <span class="breadcrumb-separator">/</span> 
+                      <span class="breadcrumb-item active">搜索结果: "${state.searchQuery}"</span>`;
+        } else {
+            if (state.selectedJournal) {
+                html += ` <span class="breadcrumb-separator">/</span> 
+                          <span class="breadcrumb-item ${state.view === 'years' ? 'active' : ''}" onclick="backToYears()">${state.selectedJournal}</span>`;
+            }
+    
+            if (state.selectedYear) {
+                html += ` <span class="breadcrumb-separator">/</span> 
+                          <span class="breadcrumb-item active">${state.selectedYear}</span>`;
+            }
         }
 
         container.innerHTML = html;
@@ -431,6 +481,92 @@
         state.selectedYear = null;
         state.view = 'years';
         render();
+    }
+
+    // === 搜索功能 ===
+
+    function renderSearchResults() {
+        const container = document.getElementById('search-list');
+        const stats = document.getElementById('search-stats');
+        const query = state.searchQuery ? state.searchQuery.trim().toLowerCase() : '';
+
+        if (!query) {
+            container.innerHTML = '<div class="empty-state">请输入关键词进行搜索</div>';
+            stats.textContent = '';
+            return;
+        }
+
+        // 搜索逻辑
+        const results = [];
+        const maxResults = 100; // 限制显示数量以保证性能
+        
+        for (let i = 0; i < DATA.length; i++) {
+            const item = DATA[i];
+            const title = (item["Article Title"] || "").toLowerCase();
+            const abstract = (item["Abstract"] || "").toLowerCase();
+            const author = (item["Author Full Names"] || "").toLowerCase();
+
+            if (title.includes(query) || abstract.includes(query) || author.includes(query)) {
+                results.push(item);
+                if (results.length >= maxResults) break;
+            }
+        }
+
+        // 更新统计
+        stats.textContent = `找到 ${results.length}${results.length >= maxResults ? '+' : ''} 条匹配结果`;
+
+        if (results.length === 0) {
+            container.innerHTML = '<div class="empty-state">未找到匹配的文献</div>';
+            return;
+        }
+
+        // 渲染结果
+        container.innerHTML = results.map(article => {
+            // 高亮处理
+            const highlight = (text) => {
+                if (!text) return "";
+                const regex = new RegExp(`(${state.searchQuery.trim()})`, 'gi');
+                return text.replace(regex, '<span style="background-color: #fff3cd; color: #856404;">$1</span>');
+            };
+
+            return `
+            <div class="article-card">
+                <div class="article-title">${highlight(article["Article Title"] || "无标题")}</div>
+                <div class="article-meta">
+                    <strong>年份:</strong> ${article["Publication Year"]} | 
+                    <strong>期刊:</strong> ${article["Source Title"]} |
+                    <strong>作者:</strong> ${highlight(article["Author Full Names"] || "未知作者")}
+                </div>
+                <div class="article-abstract">
+                    <span class="abstract-label">摘要:</span>
+                    ${highlight(article["Abstract"] || "暂无摘要")}
+                </div>
+            </div>
+            `;
+        }).join('');
+    }
+
+    // 搜索输入监听 (防抖)
+    let debounceTimer;
+    function setupSearch() {
+        const input = document.getElementById('search-input');
+        if (!input) return;
+
+        input.addEventListener('input', (e) => {
+            clearTimeout(debounceTimer);
+            debounceTimer = setTimeout(() => {
+                const val = e.target.value.trim();
+                if (val) {
+                    state.searchQuery = val;
+                    state.view = 'search';
+                } else {
+                    state.searchQuery = '';
+                    // 如果清空搜索，返回到之前的视图或期刊列表
+                    state.view = state.selectedJournal ? (state.selectedYear ? 'articles' : 'years') : 'journals';
+                }
+                render();
+            }, 300); // 300ms 延迟
+        });
     }
 
     // 启动应用
