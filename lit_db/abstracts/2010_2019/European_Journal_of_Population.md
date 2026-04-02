@@ -33,7 +33,7 @@
 ### Fewer Siblings, More Wealth? Sibship Size and Wealth Attainment
 **年份**: 2019 | **DOI**: [10.1007/s10680-018-09512-x](https://doi.org/10.1007/s10680-018-09512-x)
 **作者**: Lersch, Philipp M.
-**摘要**: （暂无）
+**摘要**: This study examines the association between sibship size and wealth in adulthood. The study draws on resource dilution theory and additionally discusses potentially wealth-enhancing consequences of having siblings.…
 
 ### The Impact of Publicly Funded Childcare on Parental Well-Being: Evidence from Cut-Off Rules
 **年份**: 2019 | **DOI**: [10.1007/s10680-019-09526-z](https://doi.org/10.1007/s10680-019-09526-z)
@@ -48,7 +48,7 @@
 ### The Role of Neighbourhood and Workplace Ethnic Contexts in the Formation of Inter-ethnic Partnerships: A Native Majority Perspective
 **年份**: 2019 | **DOI**: [10.1007/s10680-019-09528-x](https://doi.org/10.1007/s10680-019-09528-x)
 **作者**: Rahnu, Leen; Puur, Allan; Kleinepier, Tom 等4人
-**摘要**: （暂无）
+**摘要**: Although inter-ethnic encounters take place in multiple domains of daily life, ethnic intermarriage has typically been studied in relation to places of residence but rarely in relation to workplaces.…
 
 ### The Measure of Population Aging in Different Welfare Regimes: A Bayesian Dynamic Modeling Approach
 **年份**: 2019 | **DOI**: [10.1007/s10680-019-09531-2](https://doi.org/10.1007/s10680-019-09531-2)
@@ -88,7 +88,7 @@
 ### Neighbourhood Concentration and Representation of Non-European Migrants: New Results from Norway
 **年份**: 2019 | **DOI**: [10.1007/s10680-019-09522-3](https://doi.org/10.1007/s10680-019-09522-3)
 **作者**: Rogne, Adrian F.; Andersson, Eva K.; Malmberg, Bo 等4人
-**摘要**: （暂无）
+**摘要**: In a previous study, Andersson et al. (A comparative study of segregation patterns in Belgium, Denmark, the Netherlands and Sweden: neighbourhood concentration and representation of non-European migrants.…
 
 ### Naomi R. Cahn, June Carbone, Laurie Fields DeRose, and W. Bradford Wilcox (Eds.): Unequal Family Lives: Causes and Consequences in Europe and the Americas
 **年份**: 2019 | **DOI**: [10.1007/s10680-019-09521-4](https://doi.org/10.1007/s10680-019-09521-4)
@@ -108,7 +108,7 @@
 ### Trends in Childlessness Among Highly Educated Men in Sweden
 **年份**: 2019 | **DOI**: [10.1007/s10680-018-9511-3](https://doi.org/10.1007/s10680-018-9511-3)
 **作者**: Chudnovskaya, Margarita
-**摘要**: （暂无）
+**摘要**: Among men with post-secondary degrees in Sweden, one in four are childless by age 45, and this level has been constant over time (in this study, for men born 1956–1972). This high level of childlessness is somewhat surprising in the context of a significant gender imbalance among the highly educated…
 
 ### Are Young Swedes Moving More? A Cohort Analysis of Internal Migration by Move Order
 **年份**: 2019 | **DOI**: [10.1007/s10680-019-09542-z](https://doi.org/10.1007/s10680-019-09542-z)
@@ -133,12 +133,12 @@
 ### How Does Birth Order and Number of Siblings Affect Fertility? A Within-Family Comparison Using Swedish Register Data
 **年份**: 2019 | **DOI**: [10.1007/s10680-019-09525-0](https://doi.org/10.1007/s10680-019-09525-0)
 **作者**: Morosow, Kathrin; Kolk, Martin
-**摘要**: （暂无）
+**摘要**: This study examines how the sibling constellation in childhood is associated with later fertility behaviour of men and women in Sweden. Administrative register data are used to investigate how birth order affects completed fertility, how the number of siblings and birth order jointly affect complete…
 
 ### Making a Place for Space: A Demographic Spatial Perspective on Living Arrangements Among the Elderly in Historical Europe
 **年份**: 2019 | **DOI**: [10.1007/s10680-019-09520-5](https://doi.org/10.1007/s10680-019-09520-5)
 **作者**: Szołtysek, Mikołaj; Ogórek, Bartosz; Poniat, Radosław 等4人
-**摘要**: （暂无）
+**摘要**: Much of the previous scholarship on the historical living arrangements of the aged has taken place without the benefit of large-scale harmonised census microdata and did not embrace even rudimentary forms of spatial modelling.…
 
 ### Are Children Barriers to the Gender Revolution? International Comparisons
 **年份**: 2019 | **DOI**: [10.1007/s10680-018-09515-8](https://doi.org/10.1007/s10680-018-09515-8)
@@ -158,7 +158,7 @@
 ### Naturalization in a Context of Free Mobility: Evidence from Cross-National Data on Finnish Immigrants in Sweden
 **年份**: 2019 | **DOI**: [10.1007/s10680-019-09530-3](https://doi.org/10.1007/s10680-019-09530-3)
 **作者**: Saarela, Jan; Scott, Kirk
-**摘要**: （暂无）
+**摘要**: Using unique longitudinal microdata linking administrative records from Sweden and Finland, we study how immigrant naturalization relates to cultural proximity. We analyze how Swedish citizenship acquisition depends on mother tongue by comparing Swedish-speaking and Finnish-speaking immigrants from …
 
 ### Intensity of Agricultural Workload and the Seasonality of Births in Italy
 **年份**: 2019 | **DOI**: [10.1007/s10680-019-09524-1](https://doi.org/10.1007/s10680-019-09524-1)
@@ -188,7 +188,7 @@
 ### The Length of Working Life in Spain: Levels, Recent Trends, and the Impact of the Financial Crisis
 **年份**: 2018 | **DOI**: [10.1007/s10680-017-9458-9](https://doi.org/10.1007/s10680-017-9458-9)
 **作者**: Dudel, Christian; López Gómez, María Andrée; Benavides, Fernando G. 等4人
-**摘要**: （暂无）
+**摘要**: While there has been considerable debate about extending the length of working life, relatively little is known about this issue. We use data from the Spanish Continuous Working Life Sample for 2004-2013 to calculate period working life tables, which in turn allows us to assess the impact of the fin…
 
 ### Comparing Patterns of Segregation in North-Western Europe: A Multiscalar Approach
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9477-1](https://doi.org/10.1007/s10680-018-9477-1)
@@ -203,17 +203,17 @@
 ### The Effects of Ageing on Intergenerational Support Exchange: A New Look at the Hypothesis of Flow Reversal
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9472-6](https://doi.org/10.1007/s10680-018-9472-6)
 **作者**: Kalmijn, Matthijs
-**摘要**: （暂无）
+**摘要**: There has been debate about whether the flow of intergenerational support reverses as parents age. One view is that in western countries, parents remain 'net donors' to children, even in very old age.…
 
 ### Does Children’s Union Dissolution Hurt Elderly Parents? Linked Lives, Divorce and Mental Health in Europe
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9501-5](https://doi.org/10.1007/s10680-018-9501-5)
 **作者**: Tosi, Marco; Albertini, Marco
-**摘要**: （暂无）
+**摘要**: Previous research has shown that parent's union dissolution has negative consequences for individuals' well-being, parent-child relationships and children's outcomes. However, less attention has been devoted to the effects in the opposite direction, i.e.…
 
 ### Parity and Mortality: An Examination of Different Explanatory Mechanisms Using Data on Biological and Adoptive Parents
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9469-1](https://doi.org/10.1007/s10680-018-9469-1)
 **作者**: Barclay, Kieron; Kolk, Martin
-**摘要**: （暂无）
+**摘要**: A growing literature has demonstrated a relationship between parity and mortality, but the explanation for that relationship remains unclear. This study aims to pick apart physiological and social explanations for the parity-mortality relationship by examining the mortality of parents who adopt chil…
 
 ### Jani Erola and Elina Kilpi-Jakonen (eds.): Social Inequality Across the Generations: The Role of Compensation and Multiplication in Resource Accumulation
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9474-4](https://doi.org/10.1007/s10680-018-9474-4)
@@ -228,7 +228,7 @@
 ### Unpacking Summary Measures of Ethnic Residential Segregation Using an Age Group and Age Cohort Perspective
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9475-3](https://doi.org/10.1007/s10680-018-9475-3)
 **作者**: Sabater, Albert; Catney, Gemma
-**摘要**: （暂无）
+**摘要**: The residential segregation literature has underplayed the significance of age in shaping the ethnic compositions of neighbourhoods. This paper develops an age group and age cohort perspective as a way to unpack summary measures of residential segregation.…
 
 ### Stephanie E. L. Bengtsson, Bilal Barakat and Raya Muttarak: The Role of Education in Enabling the Sustainable Development Agenda
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9495-z](https://doi.org/10.1007/s10680-018-9495-z)
@@ -238,7 +238,7 @@
 ### Online Distance Education and Transition to Parenthood Among Female University Students in Sweden
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9503-3](https://doi.org/10.1007/s10680-018-9503-3)
 **作者**: Andersson, Linus
-**摘要**: （暂无）
+**摘要**: The expansion of tertiary education is key to understanding postponement of first births. Currently, online distance education is changing the nature of university enrolment. In this study, I suggest that online distance education impacts on fertility by facilitating the transition to parenthood amo…
 
 ### Ethnic and Socioeconomic Segregation in Belgium: A Multiscalar Approach Using Individualised Neighbourhoods
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9480-6](https://doi.org/10.1007/s10680-018-9480-6)
@@ -253,22 +253,22 @@
 ### Immigration and Integration Policy and Labour Market Attainment Among Immigrants to Scandinavia
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9483-3](https://doi.org/10.1007/s10680-018-9483-3)
 **作者**: Jakobsen, Vibeke; Korpi, Tomas; Lorentzen, Thomas
-**摘要**: （暂无）
+**摘要**: Insufficient integration of immigrants into the labour market has been identified as a major problem in the Scandinavian countries Denmark, Norway and Sweden. Integration depends, inter alia, on immigration and integration policy, and for most of the post-war period the policies of the three countri…
 
 ### Time and Generation: Parents’ Integration and Children’s School Performance in Sweden, 1989–2011
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9498-9](https://doi.org/10.1007/s10680-018-9498-9)
 **作者**: Smith, Christopher D.; Helgertz, Jonas; Scott, Kirk
-**摘要**: （暂无）
+**摘要**: A central element of assimilation theory is that increasing time and number of previous immigrant generations in a host country leaves immigrants and their children more integrated and capable of navigating the host society.…
 
 ### The Time Cost of Raising Children in Different Fertility Contexts: Evidence from France and Italy
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9470-8](https://doi.org/10.1007/s10680-018-9470-8)
 **作者**: Pailhé, Ariane; Solaz, Anne; Tanturri, Maria Letizia
-**摘要**: （暂无）
+**摘要**: This article provides an original comparison of the time cost of children for the parental couple and for each parent in two European countries-France and Italy-that differ in terms of structural and normative constraints.…
 
 ### Voluntary Associations and Net Fertility During the Swedish Demographic Transition
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9465-5](https://doi.org/10.1007/s10680-018-9465-5)
 **作者**: Junkka, Johan
-**摘要**: （暂无）
+**摘要**: This study investigates the role of changing social relations for fertility decline during the European fertility transition. The growth of voluntary associations at the end of the nineteenth century entailed a radical shift in the landscape of social relations in Sweden.…
 
 ### The Decline in Marriage in Israel, 1960–2007: Period or Cohort Effect?
 **年份**: 2018 | **DOI**: [10.1007/s10680-017-9457-x](https://doi.org/10.1007/s10680-017-9457-x)
@@ -278,22 +278,22 @@
 ### Education, Gender, and Cohort Fertility in the Nordic Countries
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9492-2](https://doi.org/10.1007/s10680-018-9492-2)
 **作者**: Jalovaara, Marika; Neyer, Gerda; Andersson, Gunnar 等7人
-**摘要**: （暂无）
+**摘要**: Systematic comparisons of fertility developments based on education, gender and country context are rare. Using harmonized register data, we compare cohort total fertility and ultimate childlessness by gender and educational attainment for cohorts born beginning in 1940 in four Nordic countries.…
 
 ### Selectivity of Migration and the Educational Disadvantages of Second-Generation Immigrants in Ten Host Societies
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9484-2](https://doi.org/10.1007/s10680-018-9484-2)
 **作者**: van de Werfhorst, Herman G.; Heath, Anthony
-**摘要**: （暂无）
+**摘要**: Selectivity of migration varies significantly between ethnic/origin country groups, and between the destination countries which these groups have migrated to. Yet, little comparative research has measured empirically how selective different migrant groups are in multiple destination countries, nor h…
 
 ### The Long Harm of Childhood: Childhood Exposure to Mortality and Subsequent Risk of Adult Mortality in Utah and The Netherlands
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9505-1](https://doi.org/10.1007/s10680-018-9505-1)
 **作者**: van Dijk, Ingrid K.; Janssens, Angelique; Smith, Ken R.
-**摘要**: （暂无）
+**摘要**: How do early-life conditions affect adult mortality? Research has yielded mixed evidence about the influence of infant and child mortality in birth cohorts on adult health and mortality. Studies rarely consider the specific role of mortality within the family.…
 
 ### Who Moves to Whom? Gender Differences in the Distance Moved to a Shared Residence
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9490-4](https://doi.org/10.1007/s10680-018-9490-4)
 **作者**: Brandén, Maria; Haandrikman, Karen
-**摘要**: （暂无）
+**摘要**: Although the migration of couples and families is well examined, the migration that occurs at the start of co-residence has only been minimally studied. This study examines (1) whether women move more often and move over longer distances at the start of co-residence and (2) whether gender difference…
 
 ### The Effect of Population Growth on the Environment: Evidence from European Regions
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9486-0](https://doi.org/10.1007/s10680-018-9486-0)
@@ -308,22 +308,22 @@
 ### Is a Positive Relationship Between Fertility and Economic Development Emerging at the Sub-National Regional Level? Theoretical Considerations and Evidence from Europe
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9485-1](https://doi.org/10.1007/s10680-018-9485-1)
 **作者**: Fox, Jonathan; Klüsener, Sebastian; Myrskylä, Mikko
-**摘要**: （暂无）
+**摘要**: Evidence for nation-states suggests that the long-standing negative relationship between fertility and economic development might turn positive at high levels of development. The robustness of the reversal continues to be debated.…
 
 ### Residential Segregation of European and Non-European Migrants in Sweden: 1990–2012
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9478-0](https://doi.org/10.1007/s10680-018-9478-0)
 **作者**: Malmberg, Bo; Andersson, Eva K.; Nielsen, Michael M. 等4人
-**摘要**: （暂无）
+**摘要**: In this paper, we analyse how a migrant population that is both expanding and changing in composition has affected the composition of Swedish neighbourhoods at different scales. The analysis is based on Swedish geocoded individual-level register data for the years 1990, 1997, 2005, and 2012.…
 
 ### Age of Retirement and Human Capital in an Aging China, 2015–2050
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9467-3](https://doi.org/10.1007/s10680-018-9467-3)
 **作者**: Feng, Qiushi; Yeung, Wei-Jun Jean; Wang, Zhenglian 等4人
-**摘要**: （暂无）
+**摘要**: As China continues to age rapidly, whether the country should adjust the official retirement age, and if so, when and how, are currently major policy concerns. We examine the impact of postponing the retirement age on the human capital of China in the next four decades.…
 
 ### Taking Turns or Halving It All: Care Trajectories of Dual-Caring Couples
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9473-5](https://doi.org/10.1007/s10680-018-9473-5)
 **作者**: Eriksson, Helen
-**摘要**: （暂无）
+**摘要**: Interview and observational studies document that dual-caring is characterized by temporality. Two 'ideal-typical' trajectories are identified: 'halving it all' in which couples divide care equally on a daily or weekly basis and 'taking turns' in which parents take month- or year-long turns in servi…
 
 ### Under-5 Mortality Rates in G7 Countries: Analysis of Fractional Persistence, Structural Breaks and Nonlinear Time Trends
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9499-8](https://doi.org/10.1007/s10680-018-9499-8)
@@ -333,7 +333,7 @@
 ### A Comparative Study of Segregation Patterns in Belgium, Denmark, the Netherlands and Sweden: Neighbourhood Concentration and Representation of Non-European Migrants
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9481-5](https://doi.org/10.1007/s10680-018-9481-5)
 **作者**: Andersson, Eva K.; Malmberg, Bo; Costa, Rafael 等6人
-**摘要**: （暂无）
+**摘要**: In this paper, we use geo-coded, individual-level register data on four European countries to compute comparative measures of segregation that are independent of existing geographical sub-divisions.…
 
 ### Regional Sex Ratio and the Dissolution of Relationships in Germany
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9506-0](https://doi.org/10.1007/s10680-018-9506-0)
@@ -343,37 +343,37 @@
 ### Do Japanese and Italian Women Live Longer than Women in Scandinavia?
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9468-2](https://doi.org/10.1007/s10680-018-9468-2)
 **作者**: Borgan, Ørnulf; Keilman, Nico
-**摘要**: （暂无）
+**摘要**: Life expectancies at birth are routinely computed from period life tables. When mortality is falling, such period life expectancies will typically underestimate real life expectancies, that is, life expectancies for birth cohorts.…
 
 ### Migration Versus Immobility, and Ties to Parents
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9494-0](https://doi.org/10.1007/s10680-018-9494-0)
 **作者**: Ermisch, John; Mulder, Clara H.
-**摘要**: （暂无）
+**摘要**: We investigate the association between geographic proximity to parents and the likelihood of moving longer distances (e.g. at least 40 km), using British panel data from the Understanding Society study and probit regression.…
 
 ### Family Structure and Early Home Leaving: A Mediation Analysis
 **年份**: 2018 | **DOI**: [10.1007/s10680-017-9461-1](https://doi.org/10.1007/s10680-017-9461-1)
 **作者**: van den Berg, Lonneke; Kalmijn, Matthijs; Leopold, Thomas
-**摘要**: （暂无）
+**摘要**: An ample body of research has shown that young adults from non-intact families are more likely to leave the parental home at an early age than young adults from intact families. However, little is known about the mechanisms underlying this relationship.…
 
 ### Childlessness in Twentieth-Century Spain: A Cohort Analysis for Women Born 1920–1969
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9471-7](https://doi.org/10.1007/s10680-018-9471-7)
 **作者**: Reher, David; Requena, Miguel
-**摘要**: （暂无）
+**摘要**: Studies of childlessness in the twentieth century in developed countries have underscored the existence of diverging trends with higher levels among cohorts born at the beginning of the twentieth century, lower ones among the baby boom cohorts and finally higher ones for cohorts born after the Secon…
 
 ### The Measurement of Ethnic Segregation in the Netherlands: Differences Between Administrative and Individualized Neighbourhoods
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9479-z](https://doi.org/10.1007/s10680-018-9479-z)
 **作者**: Sleutjes, Bart; de Valk, Helga A. G.; Ooijevaar, Jeroen
-**摘要**: （暂无）
+**摘要**: The debate on residential segregation often focuses on the concentration of migrant groups in specific neighbourhoods and its presumed effects on, e.g. personal life chances and social inclusion.…
 
 ### Fertility History and Physical and Mental Health Changes in European Older Adults
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9489-x](https://doi.org/10.1007/s10680-018-9489-x)
 **作者**: Keenan, Katherine; Grundy, Emily
-**摘要**: （暂无）
+**摘要**: Previous studies have shown that aspects of reproductive history, such as earlier parenthood and high parity, are associated with poorer health in mid and later life. However, it is unclear which dimensions of health are most affected by reproductive history, and whether the pattern of associations …
 
 ### A Quantitative Assessment of the Rush Hour of Life in Austria, Italy and Slovenia
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9502-4](https://doi.org/10.1007/s10680-018-9502-4)
 **作者**: Zannella, Marina; Hammer, Bernhard; Prskawetz, Alexia 等4人
-**摘要**: （暂无）
+**摘要**: This article builds on time use data to explore cross-country differences between Austria, Italy and Slovenia in unpaid labour and its implications in terms of gender distribution of total work.…
 
 ### Location–Scale Models in Demography: A Useful Re-parameterization of Mortality Models
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9497-x](https://doi.org/10.1007/s10680-018-9497-x)
@@ -393,7 +393,7 @@
 ### Agreement of Self-Reported and Administrative Data on Employment Histories in a German Cohort Study: A Sequence Analysis
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9476-2](https://doi.org/10.1007/s10680-018-9476-2)
 **作者**: Wahrendorf, Morten; Marr, Anja; Antoni, Manfred 等11人
-**摘要**: （暂无）
+**摘要**: Collecting life course data is increasingly common in social and epidemiological research, either through record linkage of administrative data or by collecting retrospective interview data.…
 
 ### Re-urbanizing the European City: A Multivariate Analysis of Population Dynamics During Expansion and Recession Times
 **年份**: 2018 | **DOI**: [10.1007/s10680-017-9462-0](https://doi.org/10.1007/s10680-017-9462-0)
@@ -433,12 +433,12 @@
 ### Does Population Diversity Matter for Economic Development in the Very Long Term? Historic Migration, Diversity and County Wealth in the US
 **年份**: 2018 | **DOI**: [10.1007/s10680-018-9507-z](https://doi.org/10.1007/s10680-018-9507-z)
 **作者**: Rodríguez-Pose, Andrés; von Berlepsch, Viola
-**摘要**: （暂无）
+**摘要**: Does population diversity matter for economic development in the long run? Is there a different impact of diversity across time? This paper traces the short-, medium- and long-term economic impact of population diversity resulting from the big migration waves of the late nineteenth and early twentie…
 
 ### Ronald J. Burke and Lisa M. Calvano (eds): The Sandwich Generation. Caring for Oneself and Others at Home and at Work
 **年份**: 2017 | **DOI**: [10.1007/s10680-017-9449-x](https://doi.org/10.1007/s10680-017-9449-x)
 **作者**: Abramowska-Kmon, Anita
-**摘要**: （暂无）
+**摘要**: examines the exchange of care between generations and its impact on caregivers' lives from different theoretical and practical perspectives. Moreover, it addresses the important issue of supporting carers in their responsibilities towards family members and professional work by organizations and soc…
 
 ### Why Childless Men and Women Give Up on Having Children
 **年份**: 2017 | **DOI**: [10.1007/s10680-017-9429-1](https://doi.org/10.1007/s10680-017-9429-1)
@@ -448,12 +448,12 @@
 ### Partnership Choice and Childbearing in Norway and Spain
 **年份**: 2017 | **DOI**: [10.1007/s10680-017-9432-6](https://doi.org/10.1007/s10680-017-9432-6)
 **作者**: Rutigliano, Roberta; Esping-Andersen, Gøsta
-**摘要**: （暂无）
+**摘要**: Cohabitation has, in a number of countries, become a genuine alternative to marriage. Where this occurs, will we see a convergence in fertility behavior between the two partnership options?…
 
 ### Geographical Distances Between Separated Parents: A Longitudinal Analysis
 **年份**: 2017 | **DOI**: [10.1007/s10680-017-9437-1](https://doi.org/10.1007/s10680-017-9437-1)
 **作者**: Thomas, Michael J.; Mulder, Clara H.; Cooke, Thomas J.
-**摘要**: （暂无）
+**摘要**: Using detailed geocoded microdata from the British Household Panel Survey and longitudinal random-effects models, we analyse the determinants and trajectories of geographical distances between separated parents.…
 
 ### Partner Choice and the Transition to Parenthood for Second-Generation Women of Turkish and Moroccan Origin in Belgium
 **年份**: 2017 | **DOI**: [10.1007/s10680-017-9438-0](https://doi.org/10.1007/s10680-017-9438-0)
@@ -463,7 +463,7 @@
 ### Family Trajectories and Well-being of Children Born to Lone Mothers in the UK
 **年份**: 2017 | **DOI**: [10.1007/s10680-017-9420-x](https://doi.org/10.1007/s10680-017-9420-x)
 **作者**: Mariani, Elena; Özcan, Berkay; Goisis, Alice
-**摘要**: （暂无）
+**摘要**: We investigate how lone mothers' heterogeneity in partnership trajectories is associated with children's well-being. We use data from the Millennium Cohort Study, which follows a large sample of children born in the UK in 2000-2002.…
 
 ### Reconstructing Long-Term Coherent Cause-of-Death Series, a Necessary Step for Analyzing Trends
 **年份**: 2017 | **DOI**: [10.1007/s10680-017-9453-1](https://doi.org/10.1007/s10680-017-9453-1)
@@ -488,12 +488,12 @@
 ### Changes in Employment Uncertainty and the Fertility Intention–Realization Link: An Analysis Based on the Swiss Household Panel
 **年份**: 2017 | **DOI**: [10.1007/s10680-016-9408-y](https://doi.org/10.1007/s10680-016-9408-y)
 **作者**: Hanappi, Doris; Ryser, Valérie-Anne; Bernardi, Laura 等4人
-**摘要**: （暂无）
+**摘要**: How do changes in employment uncertainty matter for fertility? Empirical studies on the impact of employment uncertainty on reproductive decision-making offer a variety of conclusions, ranging from gender and socio-economic differences in the effect of employment uncertainty on fertility intentions …
 
 ### Explaining Conflicting Results in Research on the Heterogeneous Effects of Parental Separation on Children’s Educational Attainment According to Social Background
 **年份**: 2017 | **DOI**: [10.1007/s10680-017-9417-5](https://doi.org/10.1007/s10680-017-9417-5)
 **作者**: Bernardi, Fabrizio; Boertien, Diederik
-**摘要**: （暂无）
+**摘要**: In recent years, researchers have become increasingly interested in how the effects of parental separation on children's educational attainment vary with social background. On the one hand, parents with more resources might be better able to prevent possible adverse events like separation to affect …
 
 ### The Reversed Gender Gap in Education and Assortative Mating in Europe
 **年份**: 2017 | **DOI**: [10.1007/s10680-016-9407-z](https://doi.org/10.1007/s10680-016-9407-z)
@@ -513,12 +513,12 @@
 ### Parental Separation and School Performance Among Children of Immigrant Mothers in Sweden
 **年份**: 2017 | **DOI**: [10.1007/s10680-017-9419-3](https://doi.org/10.1007/s10680-017-9419-3)
 **作者**: Erman, Jeylan; Härkönen, Juho
-**摘要**: （暂无）
+**摘要**: Immigration and family change are two demographic processes that have changed the face of European societies and are associated with inequalities in child outcomes. Yet there is little research outside the USA on whether the effects of family dynamics on children's life chances vary by immigrant bac…
 
 ### Regional Diffusion of Divorce in Turkey
 **年份**: 2017 | **DOI**: [10.1007/s10680-017-9441-5](https://doi.org/10.1007/s10680-017-9441-5)
 **作者**: Caarls, Kim; de Valk, Helga A. G.
-**摘要**: （暂无）
+**摘要**: While demographic change has been well documented for many Western countries, much less is known about demographic transitions in other countries, including Turkey. Demographic change in European societies can be characterized by, amongst others, increased prevalence of divorce.…
 
 ### Intentions to Live Together Among Couples Living Apart: Differences by Age and Gender
 **年份**: 2017 | **DOI**: [10.1007/s10680-017-9446-0](https://doi.org/10.1007/s10680-017-9446-0)
@@ -543,7 +543,7 @@
 ### Surviving the Holocaust: Socio-demographic Differences Among Amsterdam Jews
 **年份**: 2017 | **DOI**: [10.1007/s10680-016-9403-3](https://doi.org/10.1007/s10680-016-9403-3)
 **作者**: Tammes, Peter
-**摘要**: （暂无）
+**摘要**: This study determined the victimisation rate among Amsterdam Jews and socio-demographic differences in surviving the Holocaust. After linking a registration list of over 77,000 Jewish inhabitants in 1941 to post-war lists of Jewish victims and survivors, the victimisation rate lies between 74.3 and …
 
 ### Does Migrant Background Matter for Adolescents’ Fertility Preferences? The Latin American 1.5 Generation in Spain
 **年份**: 2017 | **DOI**: [10.1007/s10680-017-9427-3](https://doi.org/10.1007/s10680-017-9427-3)
@@ -558,7 +558,7 @@
 ### Constrained Mortality Extrapolation to Old Age: An Empirical Assessment
 **年份**: 2017 | **DOI**: [10.1007/s10680-017-9434-4](https://doi.org/10.1007/s10680-017-9434-4)
 **作者**: Ediev, Dalkhat M.
-**摘要**: （暂无）
+**摘要**: This paper aims to improve the accuracy of parametric extrapolations of the death rates into old age by constraining the extrapolation model on presumed life expectancy at old age. Such a task is particularly important in cases where the data quality at old age, in particular the age exaggeration, i…
 
 ### Investigating the Dynamics of Migration and Health in Australia: A Longitudinal Study
 **年份**: 2017 | **DOI**: [10.1007/s10680-017-9439-z](https://doi.org/10.1007/s10680-017-9439-z)
@@ -578,12 +578,12 @@
 ### Health Convergence Between East and West Germany as Reflected in Long-Term Cause-Specific Mortality Trends: To What Extent was it Due to Reunification?
 **年份**: 2017 | **DOI**: [10.1007/s10680-017-9455-z](https://doi.org/10.1007/s10680-017-9455-z)
 **作者**: Grigoriev, Pavel; Pechholdová, Markéta
-**摘要**: （暂无）
+**摘要**: The sizeable mortality gap between the German Democratic Republic (East Germany) and the pre-unified Federal Republic of Germany (West Germany) narrowed rapidly after the two states were unified.…
 
 ### The Influence of Parental Educational Attainment on the Partnership Context at First Birth in 16 Western Societies
 **年份**: 2017 | **DOI**: [10.1007/s10680-017-9421-9](https://doi.org/10.1007/s10680-017-9421-9)
 **作者**: Koops, Judith C.; Liefbroer, Aart C.; Gauthier, Anne H.
-**摘要**: （暂无）
+**摘要**: In the US, growing up with parents with a low socio-economic status (SES) has been shown to increase the chance of having a birth outside marriage. However, less is known about the influence of parental SES in other Western countries.…
 
 ### André Grow and Jan Van Bavel (eds): Agent-Based Modelling in Population Studies: Concepts, Methods, and Applications
 **年份**: 2017 | **DOI**: [10.1007/s10680-017-9425-5](https://doi.org/10.1007/s10680-017-9425-5)
@@ -628,12 +628,12 @@
 ### Choosing to Remain Childless? A Comparative Study of Fertility Intentions Among Women and Men in Italy and Britain
 **年份**: 2017 | **DOI**: [10.1007/s10680-016-9404-2](https://doi.org/10.1007/s10680-016-9404-2)
 **作者**: Fiori, Francesca; Rinesi, Francesca; Graham, Elspeth
-**摘要**: （暂无）
+**摘要**: Pathways to childlessness may differ not only between individuals but also at the population level. This paper investigates differences in childlessness by comparing two countries—Britain and Italy—where levels of childlessness are high in comparison with many other European countries, but which hav…
 
 ### Does Living in a Fatherless Household Compromise Educational Success? A Comparative Study of Cognitive and Non-cognitive Skills
 **年份**: 2017 | **DOI**: [10.1007/s10680-017-9414-8](https://doi.org/10.1007/s10680-017-9414-8)
 **作者**: Radl, Jonas; Salazar, Leire; Cebolla-Boado, Héctor
-**摘要**: （暂无）
+**摘要**: This study addresses the relationship between various family forms and the level of cognitive and non-cognitive skills among 15- to 16-year-old students. We measure cognitive skills using standardized scores in mathematics; non-cognitive abilities are captured by a composite measure of internal locu…
 
 ### Biodemography of Aging Determinants of Healthy Life Span and Longevity
 **年份**: 2017 | **DOI**: [10.1007/s10680-017-9444-2](https://doi.org/10.1007/s10680-017-9444-2)
@@ -652,7 +652,7 @@
 ### Between ‘Pioneers’ of the Cardiovascular Revolution and Its ‘Late Followers’: Mortality Changes in the Czech Republic and Poland Since 1968
 **年份**: 2017 | **DOI**: [10.1007/s10680-017-9456-y](https://doi.org/10.1007/s10680-017-9456-y)
 **作者**: Fihel, Agnieszka; Pechholdová, Marketa
-**摘要**: （暂无）
+**摘要**: After several decades of stagnation, mortality in most Central European countries started to decrease after 1989. The Czech Republic and Poland were the first former Communist countries in this region to experience a rapid and sustained increase in life expectancy.…
 
 ### Employment After Parenthood: Women of Migrant Origin and Natives Compared
 **年份**: 2017 | **DOI**: [10.1007/s10680-017-9431-7](https://doi.org/10.1007/s10680-017-9431-7)
@@ -672,7 +672,7 @@
 ### Recent Mortality Trend Reversal in Russia: Are Regions Following the Same Tempo?
 **年份**: 2017 | **DOI**: [10.1007/s10680-017-9451-3](https://doi.org/10.1007/s10680-017-9451-3)
 **作者**: Timonin, Sergey; Danilova, Inna; Andreev, Evgeny 等4人
-**摘要**: （暂无）
+**摘要**: After several decades of negative trends and short-term fluctuations, life expectancy has been increasing in Russia since 2004. Between 2003 and 2014, the length of life rose by 6.6 years among males and by 4.6 years among females.…
 
 ### Individual Survival Expectations and Actual Mortality: Evidence from Dutch Survey and Administrative Data
 **年份**: 2017 | **DOI**: [10.1007/s10680-017-9411-y](https://doi.org/10.1007/s10680-017-9411-y)
@@ -687,12 +687,12 @@
 ### Alcohol-Related Causes of Death and Drinking Patterns in Moldova as Compared to Russia and Ukraine
 **年份**: 2017 | **DOI**: [10.1007/s10680-017-9450-4](https://doi.org/10.1007/s10680-017-9450-4)
 **作者**: Penina, Olga
-**摘要**: （暂无）
+**摘要**: Most studies dedicated to alcohol-related mortality in the former USSR countries explore the situation primarily in Russia and Belarus, while somewhat less so in Ukraine. In these countries, the consumption of spirits is one of the main contributors to a huge decline in adult health since the mid-60…
 
 ### Education, Other Socioeconomic Characteristics Across the Life Course, and Fertility Among Finnish Men
 **年份**: 2017 | **DOI**: [10.1007/s10680-017-9430-8](https://doi.org/10.1007/s10680-017-9430-8)
 **作者**: Nisén, Jessica; Martikainen, Pekka; Myrskylä, Mikko 等4人
-**摘要**: （暂无）
+**摘要**: The level of education and other adult socioeconomic characteristics of men are known to associate with their fertility, but early-life socioeconomic characteristics may also be related.…
 
 ### Difficulties Conceiving and Relationship Stability in Sub-Saharan Africa: The Case of Ghana
 **年份**: 2017 | **DOI**: [10.1007/s10680-016-9401-5](https://doi.org/10.1007/s10680-016-9401-5)
@@ -712,7 +712,7 @@
 ### Decision-Making in Agent-Based Models of Migration: State of the Art and Challenges
 **年份**: 2016 | **DOI**: [10.1007/s10680-015-9362-0](https://doi.org/10.1007/s10680-015-9362-0)
 **作者**: Klabunde, Anna; Willekens, Frans
-**摘要**: （暂无）
+**摘要**: We review agent-based models (ABM) of human migration with respect to their decision-making rules. The most prominent behavioural theories used as decision rules are the random utility theory, as implemented in the discrete choice model, and the theory of planned behaviour.…
 
 ### Jonas Wood: Essays on Socio-Economic Differentiation in European Fertility—The Impact of Economic Context and Social Policy
 **年份**: 2016 | **DOI**: [10.1007/s10680-016-9396-y](https://doi.org/10.1007/s10680-016-9396-y)
@@ -722,12 +722,12 @@
 ### Counting the Population or Describing Society? A Comparison of English and Welsh and French Censuses
 **年份**: 2016 | **DOI**: [10.1007/s10680-015-9372-y](https://doi.org/10.1007/s10680-015-9372-y)
 **作者**: Coast, Ernestina; Fanghanel, Alex; Lelièvre, Eva 等4人
-**摘要**: （暂无）
+**摘要**: Data collected at household level in censuses are used for a wide range of purposes including practical planning and academic analysis of changing social conditions. Comparability is a core demographic value, and to understand the limits of the comparability of census data across time and space, it …
 
 ### Does the Impact of the Tobacco Epidemic Explain Structural Changes in the Decline of Mortality?
 **年份**: 2016 | **DOI**: [10.1007/s10680-016-9384-2](https://doi.org/10.1007/s10680-016-9384-2)
 **作者**: Peters, F.; Mackenbach, J. P.; Nusselder, W. J.
-**摘要**: （暂无）
+**摘要**: Since 1950, most developed countries have exhibited structural changes in mortality decline. This complicates extrapolative forecasts, such as the commonly used Lee-Carter model, that require the presence of a steady long-term trend.…
 
 ### The Spreading of Cohabitation as a Diffusion Process: Evidence from Italy
 **年份**: 2016 | **DOI**: [10.1007/s10680-016-9380-6](https://doi.org/10.1007/s10680-016-9380-6)
@@ -737,7 +737,7 @@
 ### Marriage Migration Versus Family Reunification: How Does the Marriage and Migration History Affect the Timing of First and Second Childbirth Among Turkish Immigrants in Germany?
 **年份**: 2016 | **DOI**: [10.1007/s10680-016-9402-4](https://doi.org/10.1007/s10680-016-9402-4)
 **作者**: Wolf, Katharina
-**摘要**: （暂无）
+**摘要**: Our study focuses on the fertility of first-generation female and male Turkish migrants in Germany. To evaluate whether timing effects such as fertility disruption or an interrelation of marriage, migration and childbirth occur, we examine first and second births in the years before and after immigr…
 
 ### Child Care, Maternal Employment, and Children’s School Outcomes. An Analysis of Italian Data
 **年份**: 2016 | **DOI**: [10.1007/s10680-015-9370-0](https://doi.org/10.1007/s10680-015-9370-0)
@@ -757,7 +757,7 @@
 ### The Effect of Gender Policies on Fertility: The Moderating Role of Education and Normative Context
 **年份**: 2016 | **DOI**: [10.1007/s10680-015-9356-y](https://doi.org/10.1007/s10680-015-9356-y)
 **作者**: Baizan, Pau; Arpino, Bruno; Delclòs, Carlos Eric
-**摘要**: （暂无）
+**摘要**: In this paper, we aim to assess the extent to which individual-level completed fertility varies across contexts characterized by policies supporting different gender division of labor models.…
 
 ### Referees
 **年份**: 2016 | **DOI**: [10.1007/s10680-016-9374-4](https://doi.org/10.1007/s10680-016-9374-4)
@@ -766,7 +766,7 @@
 ### Influence of Heterogamy by Religion on Risk of Marital Dissolution: A Cohort Study of 20,000 Couples
 **年份**: 2016 | **DOI**: [10.1007/s10680-016-9398-9](https://doi.org/10.1007/s10680-016-9398-9)
 **作者**: Wright, David M.; Rosato, Michael; O’Reilly, Dermot
-**摘要**: （暂无）
+**摘要**: Heterogamous marriages, in which partners have dissimilar attributes (e.g. by socio-economic status or ethnicity), are often at elevated risk of dissolution. We investigated the influences of heterogamy by religion and area of residence on risk of marital dissolution in Northern Ireland, a country w…
 
 ### Healthy Migrants? Health Selection of Internal Migrants in Germany
 **年份**: 2016 | **DOI**: [10.1007/s10680-016-9397-x](https://doi.org/10.1007/s10680-016-9397-x)
@@ -781,22 +781,22 @@
 ### Return Migration of Foreign Students
 **年份**: 2016 | **DOI**: [10.1007/s10680-015-9360-2](https://doi.org/10.1007/s10680-015-9360-2)
 **作者**: Bijwaard, Govert E.; Wang, Qi
-**摘要**: （暂无）
+**摘要**: Using administrative panel data, this paper presents a comprehensive empirical analysis of the return of recent foreign students in the Netherlands. We focus on how individual labour market changes and marriage formation influence their decision to leave.…
 
 ### Parenthood and Well-Being: The Moderating Role of Leisure and Paid Work
 **年份**: 2016 | **DOI**: [10.1007/s10680-016-9391-3](https://doi.org/10.1007/s10680-016-9391-3)
 **作者**: Roeters, Anne; Mandemakers, Jornt J.; Voorpostel, Marieke
-**摘要**: （暂无）
+**摘要**: This study contributes to our knowledge on the association between parenthood and psychological well-being by examining whether pre-parenthood lifestyles (leisure and paid work) moderate the transition to parenthood.…
 
 ### Religion and Fertility in Western Europe: Trends Across Cohorts in Britain, France and the Netherlands
 **年份**: 2016 | **DOI**: [10.1007/s10680-015-9371-z](https://doi.org/10.1007/s10680-015-9371-z)
 **作者**: Peri-Rotem, Nitzan
-**摘要**: （暂无）
+**摘要**: The role of religion in explaining fertility differences is often overlooked in demographic studies, particularly in Western Europe, where there has been a substantial decline in institutional forms of religious adherence.…
 
 ### Country-Specific Conditions for Work and Family Reconciliation: An Attempt at Quantification
 **年份**: 2016 | **DOI**: [10.1007/s10680-015-9366-9](https://doi.org/10.1007/s10680-015-9366-9)
 **作者**: Matysiak, Anna; Węziak-Białowolska, Dorota
-**摘要**: （暂无）
+**摘要**: The country-specific conditions for work and family reconciliation (family policies, labour market structures and gender norms) are believed to influence tensions between paid employment and childbearing.…
 
 ### Work–Family Conflict Moderates the Relationship Between Childbearing and Subjective Well-Being
 **年份**: 2016 | **DOI**: [10.1007/s10680-016-9390-4](https://doi.org/10.1007/s10680-016-9390-4)
@@ -806,7 +806,7 @@
 ### Leaving Home and Destination of Early Nest Leavers: Ethnicity, Spaces and Prices
 **年份**: 2016 | **DOI**: [10.1007/s10680-016-9375-3](https://doi.org/10.1007/s10680-016-9375-3)
 **作者**: Zorlu, Aslan; van Gaalen, Ruben
-**摘要**: （暂无）
+**摘要**: This study examines ethnic differences in leaving the parental home and the choice of destination (both location and quality of housing) in the Netherlands. Using unique individual administrative panel data, we study the mobility of the entire birth cohort 1983.…
 
 ### The Parenthood Happiness Puzzle: An Introduction to Special Issue
 **年份**: 2016 | **DOI**: [10.1007/s10680-016-9392-2](https://doi.org/10.1007/s10680-016-9392-2)
@@ -821,7 +821,7 @@
 ### Like Mother(-in-Law) Like Daughter? Influence of the Older Generation’s Fertility Behaviours on Women’s Desired Family Size in Bihar, India
 **年份**: 2016 | **DOI**: [10.1007/s10680-016-9379-z](https://doi.org/10.1007/s10680-016-9379-z)
 **作者**: Kumar, Abhishek; Bordone, Valeria; Muttarak, Raya
-**摘要**: （暂无）
+**摘要**: This paper investigates the associations between preferred family size of women in rural Bihar, India and the fertility behaviours of their mother and mother-in-law. Scheduled interviews of 440 pairs of married women aged 16-34 years and their mothers-in-law were conducted in 2011.…
 
 ### Educational Enrolment, Double-Status Positions and the Transition to Motherhood in Hungary
 **年份**: 2016 | **DOI**: [10.1007/s10680-016-9394-0](https://doi.org/10.1007/s10680-016-9394-0)
@@ -866,7 +866,7 @@
 ### Religion and Fertility in Contemporary Northern Ireland
 **年份**: 2016 | **DOI**: [10.1007/s10680-016-9399-8](https://doi.org/10.1007/s10680-016-9399-8)
 **作者**: McGregor, Patrick; McKee, Patricia
-**摘要**: （暂无）
+**摘要**: Northern Ireland has been and continues to be deeply divided on the basis of religion. This paper examines and compares contemporary fertility in the two communities given the sharp declines that have occurred in recent decades.…
 
 ### Ettore Recchi (2015): Mobile Europe: The Theory and Practice of Free Movement in the EU
 **年份**: 2016 | **DOI**: [10.1007/s10680-016-9381-5](https://doi.org/10.1007/s10680-016-9381-5)
@@ -891,7 +891,7 @@
 ### Children’s Sex and the Happiness of Parents
 **年份**: 2016 | **DOI**: [10.1007/s10680-016-9387-z](https://doi.org/10.1007/s10680-016-9387-z)
 **作者**: Margolis, Rachel; Myrskyla, Mikko
-**摘要**: （暂无）
+**摘要**: Demographers are interested in sex preferences for children because they can skew sex ratios and influence population-level fertility, parenting behavior, and family outcomes. Based on parity progression ratios, in most European countries, there are no sex preferences for a first child, but a strong…
 
 ### Happy People Have Children: Choice and Self-Selection into Parenthood
 **年份**: 2016 | **DOI**: [10.1007/s10680-016-9389-x](https://doi.org/10.1007/s10680-016-9389-x)
@@ -916,7 +916,7 @@
 ### Brigit Glorius, Izabela Grabowska-Lusińska &amp; Aimee Kuvik (eds.): Mobility in Transition. Migration Patterns After EU Enlargement
 **年份**: 2015 | **DOI**: [10.1007/s10680-015-9352-2](https://doi.org/10.1007/s10680-015-9352-2)
 **作者**: Strzelecki, Paweł
-**摘要**: （暂无）
+**摘要**: The EU enlargement in the beginning of twenty-first century can be seen by demographers as a huge natural experiment regarding migrations. The book ''Mobility in transition. Migration patterns after EU enlargement'' describes some aspects of massive post-accession migration, but proposes also a refl…
 
 ### Referees
 **年份**: 2015 | **DOI**: [10.1007/s10680-015-9347-z](https://doi.org/10.1007/s10680-015-9347-z)
@@ -990,7 +990,7 @@
 ### The Association Between Parents’ and Adult Children’s Homeownership: A Comparative Analysis
 **年份**: 2015 | **DOI**: [10.1007/s10680-015-9351-3](https://doi.org/10.1007/s10680-015-9351-3)
 **作者**: Mulder, Clara H.; Dewilde, Caroline; van Duijn, Mark 等4人
-**摘要**: （暂无）
+**摘要**: We investigate the extent to which the intergenerational transmission of homeownership varies across European countries. Our main hypotheses are that the impact of parental homeownership on the likelihood and timing of an adult child's entry into homeownership is less strong in contexts where homeow…
 
 ### Beyond l’Auberge Espagnole: The Effect of Individual Mobility on the Formation of Intra-European Couples
 **年份**: 2015 | **DOI**: [10.1007/s10680-015-9343-3](https://doi.org/10.1007/s10680-015-9343-3)
@@ -1080,7 +1080,7 @@
 ### A Novel Time Series Approach to Bridge Coding Changes with a Consistent Solution Across Causes of Death
 **年份**: 2014 | **DOI**: [10.1007/s10680-013-9307-4](https://doi.org/10.1007/s10680-013-9307-4)
 **作者**: van der Stegen, Ronald H. M.; Koren, L. G. H.; Harteloh, Peter P. M. 等5人
-**摘要**: （暂无）
+**摘要**: Revisions of the International Classification of Diseases (ICD) can lead to biases in cause-specific mortality levels and trends. We propose a novel time series approach to bridge ICD coding changes which provides a consistent solution across causes of death.…
 
 ### Anne Lise Ellingsaeter, An-Magritt Jensen, Merete Lie (Eds.): The Social Meaning of Children and Fertility Change in Europe
 **年份**: 2014 | **DOI**: [10.1007/s10680-014-9312-2](https://doi.org/10.1007/s10680-014-9312-2)
@@ -1094,7 +1094,7 @@
 ### How Similar are Cohabiting and Married Parents? Second Conception Risks by Union Type in the United States and Across Europe
 **年份**: 2014 | **DOI**: [10.1007/s10680-014-9320-2](https://doi.org/10.1007/s10680-014-9320-2)
 **作者**: Perelli-Harris, Brienna
-**摘要**: （暂无）
+**摘要**: The increase in births within cohabitation in the United States and across Europe suggests that cohabitation and marriage have become more similar with respect to childbearing. However, little is known about additional childbearing after first birth.…
 
 ### A Note from the New Editor-in-Chief: EJP on Course for a Bright Future!
 **年份**: 2014 | **DOI**: [10.1007/s10680-014-9317-x](https://doi.org/10.1007/s10680-014-9317-x)
@@ -1114,7 +1114,7 @@
 ### Differences in Gender Norms Between Countries: Are They Valid? The Issue of Measurement Invariance
 **年份**: 2014 | **DOI**: [10.1007/s10680-014-9329-6](https://doi.org/10.1007/s10680-014-9329-6)
 **作者**: Weziak-Bialowolska, Dorota
-**摘要**: （暂无）
+**摘要**: The values and attitudes towards gender roles are often investigated and compared from a cross-country perspective without the proper statistical treatment of the measurement invariance (MI) assessment.…
 
 ### Jana Vobecká, Demographic Avant-Garde: Jews in Bohemia Between the Enlightenment and the Shoah
 **年份**: 2014 | **DOI**: [10.1007/s10680-014-9311-3](https://doi.org/10.1007/s10680-014-9311-3)
@@ -1129,7 +1129,7 @@
 ### The Effect of Union Status at First Childbirth on Union Stability: Evidence from Eastern and Western Germany
 **年份**: 2014 | **DOI**: [10.1007/s10680-013-9304-7](https://doi.org/10.1007/s10680-013-9304-7)
 **作者**: Schnor, Christine
-**摘要**: （暂无）
+**摘要**: It is often assumed that cohabitation is much less stable than marriage. If cohabitation becomes more common among parents, children may be increasingly exposed to separation. However, little is known about how the proportion of cohabiting parents relates to their separation behavior.…
 
 ### Do Family Support Environments Influence Fertility? Evidence from 20 European Countries
 **年份**: 2014 | **DOI**: [10.1007/s10680-013-9308-3](https://doi.org/10.1007/s10680-013-9308-3)
@@ -1209,7 +1209,7 @@
 ### Small Effects of Selective Migration and Selective Survival in Retrospective Studies of Fertility
 **年份**: 2013 | **DOI**: [10.1007/s10680-013-9293-6](https://doi.org/10.1007/s10680-013-9293-6)
 **作者**: Andersson, Gunnar; Sobolev, Boris
-**摘要**: （暂无）
+**摘要**: In this study, we assess the accuracy of fertility estimates that stem from the retrospective information that can be derived from an existing cross-sectional population. Swedish population registers contain information on the childbearing of all people ever registered as living in Sweden, and thus …
 
 ### Mechtild Oechsle, Ursula Müller, and Sabine Hess (eds): Fatherhood in Late Modernity. Cultural Images, Social Practices, Structural Frames
 **年份**: 2013 | **DOI**: [10.1007/s10680-013-9291-8](https://doi.org/10.1007/s10680-013-9291-8)
@@ -1259,7 +1259,7 @@
 ### Diverse Effects of Women’s Employment on Fertility: Insights From Italy and Poland
 **年份**: 2013 | **DOI**: [10.1007/s10680-013-9287-4](https://doi.org/10.1007/s10680-013-9287-4)
 **作者**: Matysiak, Anna; Vignoli, Daniele
-**摘要**: （暂无）
+**摘要**: In this paper, we look into how country-specific factors shape the interrelationship between childbearing and women's labor supply. To this end, we compare Italy and Poland, two low-fertility countries where the country-specific obstacles to work and family reconciliation are similarly strong but wh…
 
 ### Becky Pettit and Jennifer L. Hook: Gendered Tradeoffs. Family, Social Policy, and Economic Inequality in Twenty-One Countries
 **年份**: 2013 | **DOI**: [10.1007/s10680-013-9302-9](https://doi.org/10.1007/s10680-013-9302-9)
@@ -1287,7 +1287,7 @@
 ### Booth, A., Brown, S. L., Landale, N. S., Manning, W. D., McHale, S. M. (eds): Early Adulthood in a Family Context
 **年份**: 2012 | **DOI**: [10.1007/s10680-012-9275-0](https://doi.org/10.1007/s10680-012-9275-0)
 **作者**: Mynarska, Monika
-**摘要**: （暂无）
+**摘要**: Family formation is increasingly delayed in the contemporary developed world.A few decades ago, young adulthood (age 18-24) was a period of family formation.Nowadays, the usual steps of entry into adulthood-marriage, childbearing-come much later in the life-course.The age 18-24 is no longer a time o…
 
 ### Explaining the Flight of Cupid’s Arrow: A Spatial Random Utility Model of Partner Choice
 **年份**: 2012 | **DOI**: [10.1007/s10680-012-9260-7](https://doi.org/10.1007/s10680-012-9260-7)
@@ -1302,7 +1302,7 @@
 ### Partner Choice Patterns Among the Descendants of Turkish Immigrants in Europe
 **年份**: 2012 | **DOI**: [10.1007/s10680-012-9265-2](https://doi.org/10.1007/s10680-012-9265-2)
 **作者**: Huschek, Doreen; de Valk, Helga A. G.; Liefbroer, Aart C.
-**摘要**: （暂无）
+**摘要**: We examine the partner choice patterns of second-generation Turks in 13 European cities in seven countries. We not only compare intermarriage versus endogamous marriage, but also explicitly include the choice of a second-generation partner of the same origin and of a partner of other migrant origin …
 
 ### A Cross-National Perspective on Unemployment and First Births
 **年份**: 2012 | **DOI**: [10.1007/s10680-012-9262-5](https://doi.org/10.1007/s10680-012-9262-5)
@@ -1332,7 +1332,7 @@
 ### Subjective Well-Being by Partnership Status and Its Dependence on the Normative Climate
 **年份**: 2012 | **DOI**: [10.1007/s10680-012-9257-2](https://doi.org/10.1007/s10680-012-9257-2)
 **作者**: Verbakel, Ellen
-**摘要**: （暂无）
+**摘要**: This study first examines the relationship between partnership status and subjective well-being in 45 European countries by analyzing the European Values Study 2008. It was expected and empirically confirmed that married individuals have the highest level of well-being, followed by (in order) cohabi…
 
 ### Serial Cohabitation among Men in Britain: Does Work History Matter?
 **年份**: 2012 | **DOI**: [10.1007/s10680-012-9274-1](https://doi.org/10.1007/s10680-012-9274-1)
@@ -1382,7 +1382,7 @@
 ### Secularization, Union Formation Practices, and Marital Stability: Evidence from Italy
 **年份**: 2012 | **DOI**: [10.1007/s10680-012-9255-4](https://doi.org/10.1007/s10680-012-9255-4)
 **作者**: Impicciatore, Roberto; Billari, Francesco C.
-**摘要**: （暂无）
+**摘要**: Descriptive statistics indicate that civil marriages and marriages preceded by premarital cohabitation are more unstable, i.e., more frequently followed by divorce. However, the literature has shown that selectivity plays an important role in the relationship between premarital cohabitation and unio…
 
 ### Analysing Multiple Causes of Death: Which Methods For Which Data? An Application to the Cancer-Related Mortality in France and Italy
 **年份**: 2012 | **DOI**: [10.1007/s10680-012-9272-3](https://doi.org/10.1007/s10680-012-9272-3)
@@ -1397,7 +1397,7 @@
 ### Family Formation Trajectories in Romania, the Russian Federation and France: Towards the Second Demographic Transition?
 **年份**: 2012 | **DOI**: [10.1007/s10680-012-9279-9](https://doi.org/10.1007/s10680-012-9279-9)
 **作者**: Potârcă, Gina; Mills, Melinda; Lesnard, Laurent
-**摘要**: （暂无）
+**摘要**: This study examines family formation trajectories as a manifestation of the second demographic transition (SDT) in three countries, comparing and contrasting two post-socialist countries (Romania and the Russian Federation) with France as benchmark country advanced in the SDT.…
 
 ### Socioeconomic Resources and the Dissolution of Cohabitations and Marriages
 **年份**: 2012 | **DOI**: [10.1007/s10680-012-9280-3](https://doi.org/10.1007/s10680-012-9280-3)
@@ -1457,7 +1457,7 @@
 ### The Impact of Subjective Work Control, Job Strain and Work–Family Conflict on Fertility Intentions: a European Comparison
 **年份**: 2011 | **DOI**: [10.1007/s10680-011-9244-z](https://doi.org/10.1007/s10680-011-9244-z)
 **作者**: Begall, Katia; Mills, Melinda
-**摘要**: （暂无）
+**摘要**: The link between employment and fertility is often only examined by focussing on women's labour market status or the impact of part- versus full-time employment. This study introduces a new explanation by extending research to examine how women's subjective perceptions of control or autonomy over wo…
 
 ### A Century of Nuptiality in Spain, 1900–2007
 **年份**: 2011 | **DOI**: [10.1007/s10680-011-9234-1](https://doi.org/10.1007/s10680-011-9234-1)
@@ -1467,7 +1467,7 @@
 ### Navigating New Socio-Demographic Landscapes: Using Anthropological Demography to Understand the ‘Persistence’ of High and Early Fertility Among British Pakistanis
 **年份**: 2011 | **DOI**: [10.1007/s10680-011-9252-z](https://doi.org/10.1007/s10680-011-9252-z)
 **作者**: Hampshire, Kate; Blell, Mwenza; Simpson, Bob
-**摘要**: （暂无）
+**摘要**: British Pakistanis continue to have earlier and higher fertility than other ethnic groups in the UK, despite a recent rise in educational and employment opportunities for British Pakistani women.…
 
 ### Long-term Mortality of War Cohorts: The Case of Finland
 **年份**: 2011 | **DOI**: [10.1007/s10680-011-9246-x](https://doi.org/10.1007/s10680-011-9246-x)
@@ -1497,7 +1497,7 @@
 ### The Influence of Men’s Income and Employment on Marriage and Cohabitation: Testing Oppenheimer’s Theory in Europe
 **年份**: 2011 | **DOI**: [10.1007/s10680-011-9238-x](https://doi.org/10.1007/s10680-011-9238-x)
 **作者**: Kalmijn, Matthijs
-**摘要**: （暂无）
+**摘要**: This article discusses Oppenheimer's theory on marriage timing, reviews the way this theory was received in European demography and family sociology, and develops a new test of the theory using annual panel data from 13 European countries for the period 1994-2001.…
 
 ### Gøsta Esping-Andersen: The Incomplete Revolution: Adapting to Women’s New Roles
 **年份**: 2011 | **DOI**: [10.1007/s10680-011-9235-0](https://doi.org/10.1007/s10680-011-9235-0)
@@ -1512,7 +1512,7 @@
 ### Mortality of British Jews at the Turn of the 20th Century in a Comparative Perspective
 **年份**: 2011 | **DOI**: [10.1007/s10680-011-9239-9](https://doi.org/10.1007/s10680-011-9239-9)
 **作者**: Staetsky, L.
-**摘要**: （暂无）
+**摘要**: This paper presents an analysis of the mortality data of British Jews. Not much was known about mortality of British Jews until recently. Recent availability of mortality data of British Jews represents a remarkable development in Jewish demography.…
 
 ### An Extension of the Conventional TFR
 **年份**: 2011 | **DOI**: [10.1007/s10680-011-9247-9](https://doi.org/10.1007/s10680-011-9247-9)
@@ -1522,7 +1522,7 @@
 ### A Life-Course Perspective on Migration and Integration
 **年份**: 2011 | **DOI**: [10.1007/s10680-011-9250-1](https://doi.org/10.1007/s10680-011-9250-1)
 **作者**: Diehl, Claudia
-**摘要**: （暂无）
+**摘要**: A Life-Course Perspective on Migration and Integration'' is an edited volume that compiles a number of articles on immigrants' integration. It is an ambitious book whose main goal is to demonstrate that the life course approach is a useful paradigm for this research field that has so far not receive…
 
 ### H. Maier, J. Gampe, J. W. Vaupel and J.-M. Robine (eds.): Supercentenarians. Demographic Research Monographs
 **年份**: 2011 | **DOI**: [10.1007/s10680-011-9248-8](https://doi.org/10.1007/s10680-011-9248-8)
@@ -1547,12 +1547,12 @@
 ### Does Community Context Have an Important Impact on Divorce Risk? A Fixed-Effects Study of Twenty Norwegian First-Marriage Cohorts
 **年份**: 2011 | **DOI**: [10.1007/s10680-010-9226-6](https://doi.org/10.1007/s10680-010-9226-6)
 **作者**: Lyngstad, Torkild Hovde
-**摘要**: （暂无）
+**摘要**: The decision to divorce may be affected by the characteristics of the local community. Community characteristics may be barriers to divorce, or they may increase the attractiveness of divorcing (e.g., access to a good remarriage market), but our knowledge of such influences is sparse.…
 
 ### Ethnic Minority–Majority Unions in Estonia
 **年份**: 2011 | **DOI**: [10.1007/s10680-011-9236-z](https://doi.org/10.1007/s10680-011-9236-z)
 **作者**: van Ham, Maarten; Tammaru, Tiit
-**摘要**: （暂无）
+**摘要**: Ethnic minority-majority unions-also referred to as mixed ethnic unions-are often seen as the ultimate evidence of the integration of ethnic minorities into their host societies. We investigated minority-majority unions in Estonia, where ethnic minorities account for one-third of the total populatio…
 
 ### H. Engelhardt, H.-P. Kohler, and A. Prskawetz (eds), Causal Analysis in Population Studies: Concepts, Methods, Applications
 **年份**: 2010 | **DOI**: [10.1007/s10680-010-9218-6](https://doi.org/10.1007/s10680-010-9218-6)
@@ -1587,7 +1587,7 @@
 ### Overcoming the Problems of Inconsistent International Migration data: A New Method Applied to Flows in Europe
 **年份**: 2010 | **DOI**: [10.1007/s10680-010-9220-z](https://doi.org/10.1007/s10680-010-9220-z)
 **作者**: de Beer, Joop; Raymer, James; van der Erf, Rob 等4人
-**摘要**: （暂无）
+**摘要**: Due to differences in definitions and measurement methods, cross-country comparisons of international migration patterns are difficult and confusing. Emigration numbers reported by sending countries tend to differ from the corresponding immigration numbers reported by receiving countries.…
 
 ### Fertile Debates: A Comparative Account of Low Fertility in the British and Greek National Press
 **年份**: 2010 | **DOI**: [10.1007/s10680-010-9224-8](https://doi.org/10.1007/s10680-010-9224-8)
@@ -1646,7 +1646,7 @@
 ### Hervé Le Bras: The Nature of Demography
 **年份**: 2010 | **DOI**: [10.1007/s10680-010-9212-z](https://doi.org/10.1007/s10680-010-9212-z)
 **作者**: Janssen, F.
-**摘要**: （暂无）
+**摘要**: Odille Jacob), is about change, as demonstrated by the title of the introduction: 'the dynamics of change in demography' (p. 1).On the one hand, measuring, modelling and understanding demographic changes at the individual and population level are regarded as central to the book.The author actually p…
 
 ### Immigrant fertility in West Germany: Is there a socialization effect in transitions to second and third births?
 **年份**: 2010 | **DOI**: [10.1007/s10680-010-9211-0](https://doi.org/10.1007/s10680-010-9211-0)

@@ -473,17 +473,17 @@
 ### Failing in school? Yes; victims of war? No
 **年份**: 2003 | **DOI**: [10.2307/1519872](https://doi.org/10.2307/1519872)
 **作者**: Riordan, C
-**摘要**: （暂无）
+**摘要**: Dans le domaine de l'education, les Etats-Unis menent depuis une trentaine d'annees une politique de reduction de l'inegalite des chances entre garcons et filles, a travers differentes mesures destinees a faciliter une meilleure partipation des filles.…
 
 ### Gender, Bourdieu, and the anomaly of women's achievement Redux
 **年份**: 2003 | **DOI**: [10.2307/1519873](https://doi.org/10.2307/1519873)
 **作者**: Mickelson, RA
-**摘要**: （暂无）
+**摘要**: Pourquoi, en depit de moins bonnes gratifications sur le plan professionnel (discriminations de statuts et de salaires) les femmes continuent-elles de s'investir dans les etudes et a obtenir de meilleurs resultats que les hommes ? Faisant reference aux travaux de Bourdieu, l'A.…
 
 ### Gender, education, and society: The limits and possibilities of feminist reproduction theory
 **年份**: 2003 | **DOI**: [10.2307/1519874](https://doi.org/10.2307/1519874)
 **作者**: Dillabough, JA
-**摘要**: （暂无）
+**摘要**: En examinant differents determinants des inegalites de genre en matiere d'education, cet article explore les apports et les limites de la theorie feministe de la reproduction sociale.…
 
 ### Children's word play: Resisting and accommodating Confucian values in a Taiwanese kindergarten classroom
 **年份**: 2003 | **DOI**: [10.2307/3108465](https://doi.org/10.2307/3108465)

@@ -1913,7 +1913,7 @@
 ### Differences in perinatal health between immigrant and native-origin children: Evidence from differentials in birth weight in Spain
 **年份**: 2016 | **DOI**: [10.4054/DemRes.2016.35.7](https://doi.org/10.4054/DemRes.2016.35.7)
 **作者**: Cebolla-Boado, Hector; Salazar, Leire
-**摘要**: （暂无）
+**摘要**: Background: We re-examine the logic of the 'healthy immigrant paradox,' according to which the children of immigrant mothers have superior birth outcomes. Objective: This paper explores perinatal inequality between migrants and natives in Spain, or, more specifically, differences in birth weight.…
 
 ### Sigma and beta convergence in regional mortality: A case study of the Netherlands
 **年份**: 2016 | **DOI**: [10.4054/DemRes.2016.35.4](https://doi.org/10.4054/DemRes.2016.35.4)
@@ -2503,1122 +2503,1122 @@
 ### When people shed religious identity in Ireland and Austria: Evidence from censuses
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.43](https://doi.org/10.4054/demres.2014.31.43)
 **作者**: McClendon, David; Hackett, Conrad
-**摘要**: （暂无）
+**摘要**: Our findings offer insight into some of the social factors behind recent religious change across Europe and highlight the need for more cross-national research on the age and cohort dimensions of this change.
 
 ### The pace of aging: Intrinsic time scales in demography
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.57](https://doi.org/10.4054/demres.2014.30.57)
 **作者**: Wrycza, Tomasz; Baudisch, Annette
-**摘要**: （暂无）
+**摘要**: The pace of aging is a concept that captures the time-related aspect of aging. It formalizes the idea of a characteristic life span or intrinsic population time scale. In the rapidly developing field of comparative biodemography, measures that account for
 
 ### Religion and union formation in Italy: Catholic precepts, social pressure, and tradition
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.35](https://doi.org/10.4054/demres.2014.31.35)
 **作者**: Vignoli, Daniele; Salvini, Silvana
-**摘要**: （暂无）
+**摘要**: Italy is customarily viewed as a traditional Catholic country. At the same time, couples are increasingly living together without marrying. Establishing links between religion and family formation is a complex issue and little is known about specific mecha
 
 ### Ethnic differences in integration levels and return migration intentions
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.13](https://doi.org/10.4054/demres.2014.30.13)
 **作者**: Anniste, Kristi; Tammaru, Tiit
-**摘要**: （暂无）
+**摘要**: Immigrantsâ desire to stay in the host country or return to the country of origin depends largely on the balance between their degree of integration in the host country and their level of attachment to the country of origin. Ethnic diversity is growing rap
 
 ### The mid-twentieth century Baby Boom and the changing educational gradient in Belgian cohort fertility
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.33](https://doi.org/10.4054/demres.2014.30.33)
 **作者**: Van Bavel, Jan
-**摘要**: （暂无）
+**摘要**: The historical transition towards low fertility in many Western countries was interrupted during the period around the 1950s and â60s, called the Baby Boom. This upturn in fertility was completely unanticipated. One of the reasons for expecting continued f
 
 ### White-Hispanic differences in meeting lifetime fertility intentions in the U.S.
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.43](https://doi.org/10.4054/demres.2014.30.43)
 **作者**: Hartnett, Caroline
-**摘要**: （暂无）
+**摘要**: Higher fertility among Hispanics compared with Whites in the U.S. is due to a combination of wanted and unwanted fertility. In addition, despite relatively high completed fertility, a large proportion of Hispanic women and men fall short of early life intentions.
 
 ### Free to stay, free to leave: Insights from Poland into the meaning of cohabitation
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.36](https://doi.org/10.4054/demres.2014.31.36)
 **作者**: Mynarska, Monika; Baranowska-Rataj, Anna; Matysiak, Anna
-**摘要**: （暂无）
+**摘要**: Previous studies have shown that in Poland cohabitation is most of all a transitory step or a testing period before marriage. Polish law does not recognize this living arrangement and it has been portrayed as uncommitted and short-lived. However, few studi
 
 ### Anticipatory child fostering and household economic security in Malawi
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.40](https://doi.org/10.4054/demres.2014.30.40)
 **作者**: Bachan, Lauren
-**摘要**: （暂无）
+**摘要**: Households that anticipate fostering responsibilities exhibit the greatest increase in household wealth. While fostering households that do not anticipate fostering responsibilities may not experience these gains, there is no evidence to indicate that such households are negatively impacted relative…
 
 ### Why the racial gap in life expectancy is declining in the United States
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.32](https://doi.org/10.4054/demres.2014.31.32)
 **作者**: Firebaugh, Glenn; Acciai, Francesco; Noah, Aggie 等5人
-**摘要**: （暂无）
+**摘要**: Our findings shed light on the sources of the declining racial gap in life expectancy in the United States, and help to identify where advances need to be made to achieve the goal of eliminating racial disparities in life expectancy.
 
 ### She said, he said: Comparing mothers' and fathers' reports on the non-resident father's contact with his children
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.31](https://doi.org/10.4054/demres.2014.30.31)
 **作者**: Kitterød, Ragni Hege; Lyngstad, Jan
-**摘要**: （暂无）
+**摘要**: Analyses of contact frequency between non-resident fathers and children have often been based on samples of non-resident fathers or resident mothers only. It is well established that non-resident fathers tend to report more contact than the resident mother
 
 ### Migration and marriage: Modeling the joint process
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.47](https://doi.org/10.4054/demres.2014.30.47)
 **作者**: Jang, Bohyun; Casterline, John; Snyder, Anastasia
-**摘要**: （暂无）
+**摘要**: Omitting inter-dependency between life course events can lead to a mistaken impression of the direct effects of certain features of each event on the other.
 
 ### Investigating healthy life expectancy using a multi-state model in the presence of missing data and misclassification
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.42](https://doi.org/10.4054/demres.2014.30.42)
 **作者**: van den Hout, Ardo; Ogurtsova, Ekaterina; Gampe, Jutta 等4人
-**摘要**: （暂无）
+**摘要**: Background: A continuous-time three-state model can be used to describe change in cognitive function in the older population. State 1 corresponds to normal cognitive function, state 2 to cognitive impairment, and state 3 to dead.…
 
 ### Heterogeneity's ruses: How hidden variation affects population trajectories of age-dependent fecundity in Drosophila melanogaster
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.10](https://doi.org/10.4054/demres.2014.30.10)
 **作者**: Khazaeli, Aziz; Curtsinger, James
-**摘要**: （暂无）
+**摘要**: Progress in understanding senescence requires information about age-dependent changes in individual organisms. However, for experimental systems such as Drosophila melanogaster we usually do not know whether population trajectories are an accurate guide to
 
 ### Towards a Geography of Unmarried Cohabitation in the Americas
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.59](https://doi.org/10.4054/demres.2014.30.59)
 **作者**: López-Gay, Antonio; Esteve, Albert; López-Colás, Julián 等8人
-**摘要**: （暂无）
+**摘要**: Our results raise the question as to which forces have shaped these patterns and remind us that such forces need to be taken into account to understand recent patterns, particularly increases, in cohabitation.
 
 ### Stillbirth incidence in Spain: A comparison of native and recent immigrant mothers
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.29](https://doi.org/10.4054/demres.2014.31.29)
 **作者**: Fuster, Vicente; Zuluaga, Pilar; Román-Busto, Jorge
-**摘要**: （暂无）
+**摘要**: This analysis focuses on determining differences in the risk of stillbirth in Spain by comparing native and foreign mothers with regard to bio-demographic factors.
 
 ### Spatial inequalities in infant survival at an early stage of the longevity revolution
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.68](https://doi.org/10.4054/demres.2014.30.68)
 **作者**: Kluesener, Sebastian; Devos, Isabelle; Ekamper, Peter 等9人
-**摘要**: （暂无）
+**摘要**: Spatial inequalities in human development are of great concern to international organisations and national governments. Demographic indicators like the infant mortality rate are important measures for determining these inequalities. Using demographic indic
 
 ### Pathways to marriage and cohabitation in Central America
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.6](https://doi.org/10.4054/demres.2014.30.6)
 **作者**: Grace, Kathryn; Sweeney, Stuart
-**摘要**: （暂无）
+**摘要**: The notion that increasing prevalence of cohabitation relative to marriage, and increasing age at first marriage are part of a broader shift in societal norms -- a second demographic transition -- is now well supported by studies focused on US and European
 
 ### The residential segregation of detailed Hispanic and Asian groups in the United States: 1980-2010
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.20](https://doi.org/10.4054/demres.2014.31.20)
 **作者**: Iceland, John; Weinberg, Daniel; Hughes, Lauren
-**摘要**: （暂无）
+**摘要**: The overarching trend is that ethnic groups are becoming more residentially integrated, suggestive of assimilation, though there is significant variation across ethnic groups.
 
 ### Do student loans delay marriage? Debt repayment and family formation in young adulthood
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.69](https://doi.org/10.4054/demres.2014.30.69)
 **作者**: Bozick, Robert; Estacion, Angela
-**摘要**: （暂无）
+**摘要**: With increasing levels of student loan debt, the path to economic stability may be less smooth than it was for earlier generations of college graduates. This paper explores this emerging trend by assessing whether or not student loan debt influences family
 
 ### Quantifying policy tradeoffs to support aging populations
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.20](https://doi.org/10.4054/demres.2014.30.20)
 **作者**: Scherbov, Sergei; Sanderson, Warren C.; Mamolo, Marija
-**摘要**: （暂无）
+**摘要**: Coping with aging populations is a challenge for most developed countries. Supporting non-working adults can create an unsustainable burden on those working. One way of dealing with this is to raise the normal pension age, but this has proven unpopular. A
 
 ### Educational differentials in cohort fertility during the fertility transition in South Korea
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.53](https://doi.org/10.4054/demres.2014.30.53)
 **作者**: Yoo, Sam Hyun
-**摘要**: （暂无）
+**摘要**: While there has been a considerable amount of research on the association between womenâs education and fertility rates, few of these studies have examined the pattern of fertility differentials over the course of the fertility transition. As a country tha
 
 ### A note on computing average state occupation times
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.62](https://doi.org/10.4054/demres.2014.30.62)
 **作者**: Beyersmann, Jan; Putter, Hein
-**摘要**: （暂无）
+**摘要**: This review discusses how biometricians would probably compute or estimate expected waiting times, if they had the data.
 
 ### Maternal longevity is associated with lower infant mortality
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.42](https://doi.org/10.4054/demres.2014.31.42)
 **作者**: Caselli, Graziella; Lapucci, Enrica; Lipsi, Rosa Maria 等9人
-**摘要**: （暂无）
+**摘要**: Referring to the multidisciplinary and multipurpose survey AKeA2, and focusing on family genealogy data on centenarian women and controls, this paper aims to verify the hypothesis that maternal longevity is associated with lower infant mortality in offspri
 
 ### Why do lifespan variability trends for the young and old diverge? A perturbation analysis
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.48](https://doi.org/10.4054/demres.2014.30.48)
 **作者**: Engelman, Michal; Caswell, Hal; Agree, Emily
-**摘要**: （暂无）
+**摘要**: These findings provide insight into the dynamic relationship between the age pattern of survival improvements and time trends in lifespan variability.
 
 ### Towards a new understanding of cohabitation
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.34](https://doi.org/10.4054/demres.2014.31.34)
 **作者**: Perelli-Harris, Brienna; Mynarska, Monika; Berrington, Ann 等10人
-**摘要**: （暂无）
+**摘要**: Across the industrialized world, more couples are living together without marrying. Although researchers have compared cohabitation cross-nationally using quantitative data, few have compared union formation using qualitative data.
 
 ### The long-term consequences of parental divorce for children’s educational attainment
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.61](https://doi.org/10.4054/demres.2014.30.61)
 **作者**: Bernardi, Fabrizio; Radl, Jonas
-**摘要**: （暂无）
+**摘要**: In this paper we study the long-term consequences of parental divorce in a comparative perspective. Special attention is paid to the heterogeneity of the consequences of divorce for childrenâs educational attainment by parental education.
 
 ### Multistate event history analysis with frailty
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.58](https://doi.org/10.4054/demres.2014.30.58)
 **作者**: Bijwaard, Govert Ewout
-**摘要**: （暂无）
+**摘要**: In survival analysis a large literature using frailty models, or models with unobserved heterogeneity, exists. In the growing literature and modelling on multistate models, this issue is only in its infant phase. Ignoring frailty can, however, produce inco
 
 ### Sibling support and the educational prospects of young adults in Malawi
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.19](https://doi.org/10.4054/demres.2014.30.19)
 **作者**: Trinitapoli, Jenny; Yeatman, Sara; Fledderjohann, Jasmine
-**摘要**: （暂无）
+**摘要**: We question the established notion that siblings unilaterally subtract from resource pools, and argue that sibling support may be consequential for a wide range of demographic outcomes in a variety of cultural contexts.…
 
 ### Disagreements among cohabiting and married couples in 22 European countries
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.10](https://doi.org/10.4054/demres.2014.31.10)
 **作者**: van der Lippe, Tanja; Voorpostel, Marieke; Hewitt, Belinda
-**摘要**: （暂无）
+**摘要**: Cross-national research suggests that married people have higher levels of well-being than cohabiting people. However, relationship quality has both positive and negative dimensions. Researchers have paid little attention to disagreements within cohabiting
 
 ### Attrition in the Austrian Generations and Gender Survey
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.16](https://doi.org/10.4054/demres.2014.31.16)
 **作者**: Buber-Ennser, Isabella
-**摘要**: （暂无）
+**摘要**: In longitudinal research the loss of sample members between waves is a possible source of bias. It is therefore crucial to analyse attrition.
 
 ### Gender differentials in the timing of measles vaccination in rural India
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.67](https://doi.org/10.4054/demres.2014.30.67)
 **作者**: Rammohan, Anu; Awofeso, Niyi; Iqbal, Kazi
-**摘要**: （暂无）
+**摘要**: Descriptive statistics 4.2 Regression results 4.3 Probit results 4.4 Influence of household characteristics 4.5 Role of infrastructure 4.6 Regional variations 4.7 Logit fixed effects model 5 Conclusion
 
 ### Rivalry, solidarity, and longevity among siblings
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.38](https://doi.org/10.4054/demres.2014.31.38)
 **作者**: Donrovich, Robyn; Puschmann, Paul; Matthijs, Koen
-**摘要**: （暂无）
+**摘要**: Family composition and household dynamics, both in early and in later life, influence individual health and longevity. Both positive and negative effects can be expected in terms of sibling size and composition.…
 
 ### Fertility transition and social stratification in the town of Alghero, Sardinia (1866-1935)
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.28](https://doi.org/10.4054/demres.2014.30.28)
 **作者**: Breschi, Marco; Esposito, Massimo; Mazzoni, Stanislao 等4人
-**摘要**: （暂无）
+**摘要**: Despite the large amount of research on European fertility transition, the mechanisms of this demographic process are still poorly understood. This is particularly true in the Italian demographic experience, especially for some regions.
 
 ### The impact of grandparental investment on mothers’ fertility intentions in four European countries
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.1](https://doi.org/10.4054/demres.2014.31.1)
 **作者**: Tanskanen, Antti O.; Rotkirch, Anna
-**摘要**: （暂无）
+**摘要**: Evolutionary theory predicts that grandparental investment should support the childbearing of adult children, but evidence from contemporary developed countries is mixed or relatively weak. One possible reason for this lack of clarity is that grandparental
 
 ### The labour trajectories of immigrant women in Spain: Are there signs of upward social mobility?
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.13](https://doi.org/10.4054/demres.2014.31.13)
 **作者**: Vidal-Coso, Elena; Miret-Gamundi, Pau
-**摘要**: （暂无）
+**摘要**: In Spain, foreign-born women are disproportionately employed in housework or care work, and quantitative research has shown that female migrants are disadvantaged relative to male migrants in the occupational status of their first job in Spain. However, th
 
 ### The gender divide in urban China: Singlehood and assortative mating by age and education
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.45](https://doi.org/10.4054/demres.2014.31.45)
 **作者**: Qian, Yue; Qian, Zhenchao
-**摘要**: （暂无）
+**摘要**: Chinese media labels highly educated, urban women who are still single in their late 20s as "leftover ladies". We investigate whether indeed highly educated women are less likely to marry than their less-educated counterparts, and how assortative mating pa
 
 ### Estimating the contribution of mothers of foreign origin to total fertility
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.12](https://doi.org/10.4054/demres.2014.30.12)
 **作者**: Van Landschoot, Lisa; Van Bavel, Jan; de Valk, Helga
-**摘要**: （暂无）
+**摘要**: Since the early 21st century, period total fertility has been recovering from (very) low levels in many European countries. This trend is partly attributable to the end of the postponement of childbearing. The question has risen, however, to what extent th
 
 ### Lab experiments in demographic fieldwork
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.47](https://doi.org/10.4054/demres.2014.31.47)
 **作者**: Dodoo, F. Nii-Amoo; Horne, Christine; Dodoo, Naa Dodua
-**摘要**: （暂无）
+**摘要**: Anthropological literature has long linked bridewealth payments to decision-making about fertility. Recent research underscores the significance of menâs preferences regarding womenâs reproductive behavior, and suggests that bridewealth payments place cons
 
 ### Homogamy in socio-economic background and education, and the dissolution of cohabiting unions
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.65](https://doi.org/10.4054/demres.2014.30.65)
 **作者**: Mäenpää, Elina; Jalovaara, Marika
-**摘要**: （暂无）
+**摘要**: Background: Despite the increasing prevalence of cohabitation, knowledge of how socio-economic homogamy affects the stability of cohabiting unions is scant. Few studies have compared the effects of homogamy in both ascribed and achieved socio-economic status on union dissolution.…
 
 ### When not to have another baby: An evolutionary approach to low fertility
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.37](https://doi.org/10.4054/demres.2014.30.37)
 **作者**: Mace, Ruth
-**摘要**: （暂无）
+**摘要**: In this paper, I explain the theoretical foundations of fertility from the perspective of evolutionary demography and evolutionary anthropology.
 
 ### Entropy of the Gompertz-Makeham mortality model
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.49](https://doi.org/10.4054/demres.2014.30.49)
 **作者**: Wrycza, Tomasz
-**摘要**: （暂无）
+**摘要**: Life table entropy is a quantity frequently used in demography; e.g., as a measure of heterogeneity in age at death, or as the elasticity of life expectancy with regards to proportional changes in age-specific mortality. It is therefore instructive to cal
 
 ### Reverse survival method of fertility estimation
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.9](https://doi.org/10.4054/demres.2014.31.9)
 **作者**: Spoorenberg, Thomas
-**摘要**: （暂无）
+**摘要**: For the most part, demographers have relied on the ever-growing body of sample surveys collecting full birth history to derive total fertility estimates in less statistically developed countries. Yet alternative methods of fertility estimation can return v
 
 ### Male and female sterility in Zambia
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.14](https://doi.org/10.4054/demres.2014.30.14)
 **作者**: Pantazis, Athena; Clark, Samuel J.
-**摘要**: （暂无）
+**摘要**: The odds of sterility were higher for women than men, though women's odds of sterility were only 1.5 times that of men's in the middle reproductive years. The odds of sterility increased steadily with age for both men and women, and across all datasets.…
 
 ### Heterophily in rural Malawi
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.50](https://doi.org/10.4054/demres.2014.31.50)
 **作者**: Weinreb, Alexander A.
-**摘要**: （暂无）
+**摘要**: A rich layer of empirical research detailing the effects of social networks on attitudes and behavior has accumulated in demography over the last 20 years. But there is limited data on social interaction in general, and odd inconsistencies between network
 
 ### Do coresidence and intentions make a difference? Relationship satisfaction in married, cohabiting, and living apart together couples in four countries
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.3](https://doi.org/10.4054/demres.2014.31.3)
 **作者**: Tai, Tsui-o; Baxter, Janeen; Hewitt, Belinda
-**摘要**: （暂无）
+**摘要**: A large body of research has compared relationship satisfaction and quality in cohabiting versus married relationships. Despite increased recognition of couples in living apart together (LAT) relationships, very little research has examined the experiences
 
 ### Social networks and fertility
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.22](https://doi.org/10.4054/demres.2014.30.22)
 **作者**: Bernardi, Laura; Klärner, Andreas
-**摘要**: （暂无）
+**摘要**: The fields of demography, sociology, and socio-psychology have been increasingly drawing on social network theories, which posit that individual fertility decision-making depends in part on the fertility behavior of other members of the population, and on
 
 ### What happens after you drop out? Transition to adulthood among early school-leavers in urban Indonesia
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.41](https://doi.org/10.4054/demres.2014.30.41)
 **作者**: Utomo, Ariane; Reimondos, Anna; Utomo, Iwu 等5人
-**摘要**: （暂无）
+**摘要**: The high incidence of young people dropping out of school prior to completing secondary schooling remains a nationwide problem in Indonesia. While it is commonly assumed that early school-leavers will become child workers, in fact little is known about the
 
 ### Pregnancy scares and subsequent unintended pregnancy
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.40](https://doi.org/10.4054/demres.2014.31.40)
 **作者**: Gatny, Heather; Kusunoki, Yasamin; Barber, Jennifer
-**摘要**: （暂无）
+**摘要**: Young women from less advantaged backgrounds are more likely to experience a pregnancy scare, and pregnancy scares are often followed by an unintended pregnancy.
 
 ### Adult outcomes of teen mothers across birth cohorts
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.44](https://doi.org/10.4054/demres.2014.30.44)
 **作者**: Driscoll, Anne
-**摘要**: （暂无）
+**摘要**: Comparisons between teen mothers and both young adult and all adult mothers within cohorts suggest that gaps in single motherhood and poverty between teen and adult mothers have widened over time, to the detriment of teen mothers.…
 
 ### Health consequences of child labour in Bangladesh
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.4](https://doi.org/10.4054/demres.2014.30.4)
 **作者**: Ahmad, Salma; Ray, Ranjan
-**摘要**: （暂无）
+**摘要**: The paper examines the effect of child labour on child health outcomes in Bangladesh, advancing the methodologies and the results of papers published in different journals.
 
 ### When one spouse has an affair, who is more likely to leave?
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.18](https://doi.org/10.4054/demres.2014.30.18)
 **作者**: England, Paula; Allison, Paul D.; Sayer, Liana C.
-**摘要**: （暂无）
+**摘要**: Results suggest that it is more common to leave because one is having an affair, or to have an affair because one has decided to leave, than it is to discover one's spouse having an affair and initiate a divorce.
 
 ### Factors responsible for mortality variation in the United States: A latent variable analysis
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.2](https://doi.org/10.4054/demres.2014.31.2)
 **作者**: Tencza, Christopher; Stokes, Andrew C.; Preston, Samuel
-**摘要**: （暂无）
+**摘要**: The majority of interstate variation in mortality among white working-age adults in the United States is associated with a combination of smoking and obesity, substance abuse and rural/urban residence.
 
 ### Socioeconomic fertility differentials in a late transition setting: A micro-level analysis of the Saguenay region in Quebec
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.38](https://doi.org/10.4054/demres.2014.30.38)
 **作者**: Vézina, Hélène; Gauvreau, Danielle; Gagnon, Alain
-**摘要**: （暂无）
+**摘要**: Historically, the French Canadian population of Quebec, Canada, is known for its high fertility, which lasted well into the 20th century, and for its late fertility transition. Within Quebec, regions such as Saguenay are known for having experienced an eve
 
 ### Social class and net fertility before, during, and after the demographic transition: A micro-level analysis of Sweden 1880-1970
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.15](https://doi.org/10.4054/demres.2014.30.15)
 **作者**: Dribe, Martin; Scalone, Francesco
-**摘要**: （暂无）
+**摘要**: Although demographers have long been interested in studying the historical fertility transition, there is still a lack of knowledge about disaggregated patterns. Identifying these patterns could help us to better understand the mechanisms behind the transi
 
 ### A Bayesian analysis of the spatial concentration of individual wealth in the US North during the nineteenth century
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.36](https://doi.org/10.4054/demres.2014.30.36)
 **作者**: Kasakoff, Alice; Lawson, Andrew; Van Meter, Emily
-**摘要**: （暂无）
+**摘要**: Kin effects can be difficult to distinguish from those of spatial proximity, since kin tend to live close to each other. Thus, past research showing correlations between the wealth of relatives may be showing the effects of proximity and shared locations,
 
 ### Assimilation effects on infant mortality among immigrants in Norway: Does maternal source country matter?
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.26](https://doi.org/10.4054/demres.2014.31.26)
 **作者**: Kinge, Jonas; Kornstad, Tom
-**摘要**: （暂无）
+**摘要**: Assimilation models of infant outcomes among immigrants have received considerable attention in the social sciences. However, little effort has been made to investigate how these models are influenced by the source country.
 
 ### Certainty of meeting fertility intentions declines in Europe during the 'Great Recession'
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.23](https://doi.org/10.4054/demres.2014.31.23)
 **作者**: Testa, Maria Rita; Gietel-Basten, Stuart
-**摘要**: （暂无）
+**摘要**: Relatively little research has been conducted on how economic recessions impact fertility intentions. In particular, uncertainty in reproductive intentions has not been examined in relation to economic shocks.
 
 ### Economic crisis and women’s labor force return after childbirth: Evidence from South Korea
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.18](https://doi.org/10.4054/demres.2014.31.18)
 **作者**: Ma, Li
-**摘要**: （暂无）
+**摘要**: Most research on womenâs labor force return after childbirth concentrates on industrialized countries in the West; the link between economic swings and mothersâ work-return behavior is rarely addressed. This study closes these gaps by focusing on South Kor
 
 ### Mortality selection in the first three months of life and survival in the following thirty-three months in rural Veneto (North-East Italy) from 1816 to 1835
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.39](https://doi.org/10.4054/demres.2014.31.39)
 **作者**: Piccione, Leonardo; Dalla Zuanna, Gianpiero; Minello, Alessandra
-**摘要**: （暂无）
+**摘要**: A number of studies have examined the influence of life conditions in infancy (and pregnancy) on mortality risks in adulthood or old age. For those individuals who survived difficult life conditions, some scholars have found a prevalence of positive select
 
 ### Socioeconomic status and fertility before, during, and after the demographic transition: An introduction
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.7](https://doi.org/10.4054/demres.2014.31.7)
 **作者**: Dribe, Martin; Oris, Michel; Pozzi, Lucia
-**摘要**: （暂无）
+**摘要**: Despite a long interest in the historical fertility transition, there is still a lack of knowledge about disaggregated patterns that could help us understand the mechanisms behind the transition. In previous research the widely held view is that there was
 
 ### Attitudes on marriage and new relationships
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.54](https://doi.org/10.4054/demres.2014.30.54)
 **作者**: Treas, Judith; Lui, Jonathan; Gubernskaya, Zoya
-**摘要**: （暂无）
+**摘要**: Attitude changes on 'new relationships' and marital alternatives are compatible with the deinstitutionalization of marriage. Beliefs arguably more central to the marital institution do not conform as neatly to this thesis.…
 
 ### Gender and time allocation of cohabiting and married women and men in France, Italy, and the United States
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.8](https://doi.org/10.4054/demres.2014.31.8)
 **作者**: Bianchi, Suzanne; Lesnard, Laurent; Nazio, Tiziana 等4人
-**摘要**: （暂无）
+**摘要**: Cohabitating men's and women's time allocated to market and nonmarket work is generally more similar than married men and women. Our expectations about country differences are only partially borne out by the findings.…
 
 ### Ageing dynamics of a human-capital-specific population
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.44](https://doi.org/10.4054/demres.2014.31.44)
 **作者**: Philipov, Dimiter; Goujon, Anne; Di Giulio, Paola
-**摘要**: （暂无）
+**摘要**: Research on how rising human capital affects the consequences of population ageing rarely considers the fact that the human capital of the elderly population is composed in a specific way that is shaped by their earlier schooling and work experience. For a
 
 ### Long-term trends of men’s co-residence with children in England and Wales
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.23](https://doi.org/10.4054/demres.2014.30.23)
 **作者**: Henz, Ursula
-**摘要**: （暂无）
+**摘要**: Increasing numbers of childless men as well as fathers with reduced or no contact with their children have sparked concern about an erosion of fatherhood. Although the general trend is undisputed, claims about men's decreasing family involvement lack a sou
 
 ### A matrix approach to the statistics of longevity in heterogeneous frailty models
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.19](https://doi.org/10.4054/demres.2014.31.19)
 **作者**: Caswell, Hal
-**摘要**: （暂无）
+**摘要**: The gamma-Gompertz model is a fixed frailty model in which baseline mortality increases exponentially with age, frailty has a proportional effect on mortality, and frailty at birth follows a gamma distribution. Mortality selects against the more frail, so
 
 ### Income pooling strategies among cohabiting and married couples
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.55](https://doi.org/10.4054/demres.2014.30.55)
 **作者**: Hiekel, Nicole; Liefbroer, Aart C.; Poortman, Anne-Rigt
-**摘要**: （暂无）
+**摘要**: Studies explaining why cohabiters are more likely to keep money separate than spouses have mainly focused on selection processes, without taking into account the heterogeneity within both union types in levels of commitment. Cross-national studies are rare
 
 ### Software for multistate analysis
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.14](https://doi.org/10.4054/demres.2014.31.14)
 **作者**: Willekens, Frans; Putter, Hein
-**摘要**: （暂无）
+**摘要**: The growing interest in pathways, the increased availability of life-history data, innovations in statistical and demographic techniques, and advances in software technology have stimulated the development of software packages for multistate modeling of
 
 ### Three-generation family households in early childhood: Comparisons between the United States, the United Kingdom, and Australia
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.60](https://doi.org/10.4054/demres.2014.30.60)
 **作者**: Pilkauskas, Natasha; Martinson, Melissa
-**摘要**: （暂无）
+**摘要**: We find that nearly one quarter of US children live in a three-generation household during early childhood, compared with 8% of children in the UK and 11% in Australia. Although there are large differences in the frequency of coresidence cross-nationally, we find that similar demographic groups live…
 
 ### Another 'futile quest'? A simulation study of Yang and Land's Hierarchical Age-Period-Cohort model
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.11](https://doi.org/10.4054/demres.2014.30.11)
 **作者**: Bell, Andrew; Jones, Kelvyn
-**摘要**: （暂无）
+**摘要**: Whilst some argue that a solution to the age-period-cohort (APC) 'identification problem' is impossible, numerous methodological solutions have been proposed, including Yang and Land's Hierarchical-APC (HAPC) model: a multilevel model considering periods a
 
 ### Cohabitation and marriage in Austria
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.37](https://doi.org/10.4054/demres.2014.31.37)
 **作者**: Berghammer, Caroline; Fliegenschnee, Katrin; Schmidt, Eva-Maria
-**摘要**: （暂无）
+**摘要**: Although cohabitation has spread rapidly in Austria during the past decades, it is more a prelude than an alternative to marriage. The individualization thesis serves as a conceptual framework for explaining the rise of cohabiting unions.
 
 ### Structural and diffusion effects in the Dutch fertility transition, 1870-1940
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.5](https://doi.org/10.4054/demres.2014.30.5)
 **作者**: Bras, Hilde
-**摘要**: （暂无）
+**摘要**: Ever since the Princeton European Fertility Project, structural and diffusion effects on fertility behavior have been juxtaposed. However, we still hardly know what the relative effects were of shifting socio-economic conditions and shifts in sociability i
 
 ### Non-marital pregnancy and the second demographic transition in Australia in historical perspective
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.21](https://doi.org/10.4054/demres.2014.30.21)
 **作者**: Carmichael, Gordon
-**摘要**: （暂无）
+**摘要**: Australia has remarkably detailed data on non-marital pregnancy dating from 1908. They both offer insight into long-term trends in childbearing resulting from non-marital sexual activity and reveal in historical context key features of the second demograph
 
 ### Is the fraction of people ever born who are currently alive rising or falling?
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.56](https://doi.org/10.4054/demres.2014.30.56)
 **作者**: Cohen, Joel E.
-**摘要**: （暂无）
+**摘要**: Some journalists and demographers have asked: How many people have ever been born? What is the fraction F(t) of those ever born up to calendar year t who are alive at t? The conditions under which F(t) rises or falls appear never to have been analyzed.
 
 ### Measuring remittances through surveys
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.41](https://doi.org/10.4054/demres.2014.31.41)
 **作者**: Brown, Richard; Carling, Jørgen; Fransen, Sonja 等4人
-**摘要**: （暂无）
+**摘要**: The accurate measurement of migrant remittances is central to understanding both the dynamics and the consequences of migration. Empirical studies rely on survey data about remittances, which are difficult to collect in a precise and reliable form.
 
 ### The sexual double standard and gender differences in attitudes toward casual sex among U.S. university students
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.46](https://doi.org/10.4054/demres.2014.30.46)
 **作者**: England, Paula; Bearak, Jonathan
-**摘要**: （暂无）
+**摘要**: A significant portion of premarital sexual activity is casual rather than in relationships, and commentators disagree on whether this is what women prefer.
 
 ### Age-specific fertility by educational level in the Finnish male cohort born 1940‒1950
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.5](https://doi.org/10.4054/demres.2014.31.5)
 **作者**: Nisén, Jessica; Martikainen, Pekka; Silventoinen, Karri 等4人
-**摘要**: （暂无）
+**摘要**: Education is positively associated with completed fertility rate (CFR) among men in Nordic countries, but the age patterns of fertility by educational level are poorly documented. Moreover, it is not known what parities contribute to the higher CFR among m
 
 ### Value of Children and the social production of welfare
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.66](https://doi.org/10.4054/demres.2014.30.66)
 **作者**: Nauck, Bernhard
-**摘要**: （暂无）
+**摘要**: The paper describes the origins of the Value of Children (VOC) approach to the cross-cultural research on fertility behavior around the Pacific Rim, and critically discusses its shortcomings at this stage.
 
 ### An empirical analysis of the importance of controlling for unobserved heterogeneity when estimating the income-mortality gradient
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.30](https://doi.org/10.4054/demres.2014.31.30)
 **作者**: Kalwij, Adriaan
-**摘要**: （暂无）
+**摘要**: Statistical theory predicts that failing to control for unobserved heterogeneity in a Gompertz mortality risk model attenuates the estimated income-mortality gradient toward zero.
 
 ### Joint probabilistic projection of female and male life expectancy
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.27](https://doi.org/10.4054/demres.2014.30.27)
 **作者**: Raftery, Adrian E.; Lalic, Nevena; Gerland, Patrick
-**摘要**: （暂无）
+**摘要**: We find that the average gap between female and male life expectancy has been increasing for female life expectancy below 75, and decreasing for female life expectancy above 75. Our projections of the gap are lower than the UN's 2008 projections for most countries and so lead to higher projections o…
 
 ### Household ecology and out-migration among ethnic Karen along the Thai-Myanmar border
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.39](https://doi.org/10.4054/demres.2014.30.39)
 **作者**: Parker, Daniel M.; Wood, James W.; Tomita, Shinsuke 等6人
-**摘要**: （暂无）
+**摘要**: Local migration in developing-world settings, particularly among rural populations, is an important yet understudied demographic process. Research on migration in such populations can help us test and inform anthropological and demographic theory. Furtherm
 
 ### Occupation and fertility on the frontier
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.29](https://doi.org/10.4054/demres.2014.30.29)
 **作者**: Maloney, Thomas N.; Hanson, Heidi; Smith, Ken
-**摘要**: （暂无）
+**摘要**: Examination of detailed micro-level data on fertility change identifies important differences in the patterns of change which may be tied to variation in relevant economic circumstances - for instance, the length of education and training required for particular occupations, or the need for family-b…
 
 ### Fertility in the context of Mexican migration to the United States
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.24](https://doi.org/10.4054/demres.2014.30.24)
 **作者**: Choi, Kate
-**摘要**: （暂无）
+**摘要**: Mexican-American fertility is poorly understood because data limitations prevent researchers from accurately estimating the fertility levels of members of this group and from determining how their fertility changes within and across generations.
 
 ### Economic support ratios and the demographic dividend in Europe
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.34](https://doi.org/10.4054/demres.2014.30.34)
 **作者**: Prskawetz, Alexia; Sambt, Jože
-**摘要**: （暂无）
+**摘要**: Support ratios and dependency ratios are widely used as indicators for measuring the effects of population ageing on economic development. Both of these indicators use fixed age limits to distinguish between the working and the dependent populations.
 
 ### Local determinants of crime
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.21](https://doi.org/10.4054/demres.2014.31.21)
 **作者**: Paloyo, Alfredo; Vance, Colin; Vorell, Matthias
-**摘要**: （暂无）
+**摘要**: The majority of crime is committed by young men, and young men comprise the majority of the military-base population. The confluence of these two empirical regularities invites a scientific look at the contribution of a military base to criminal activity i
 
 ### Men’s economic status and marital transitions of fragile families
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.3](https://doi.org/10.4054/demres.2014.30.3)
 **作者**: Sassler, Sharon; Roy, Soma; Stasny, Elizabeth
-**摘要**: （暂无）
+**摘要**: Men"s ability to fill the provider role remains a consistent requirement for marriage across the class spectrum and cross-nationally. Fiscal concerns appear less salient for transitions to parenthood or to informal unions such as cohabitation.
 
 ### Education, Elderly Health, and Differential Population Aging in South Korea: A Demographic Approach
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.26](https://doi.org/10.4054/demres.2014.30.26)
 **作者**: Kye, Bongoh; Arenas, Erika; Teruel, Graciela 等4人
-**摘要**: （暂无）
+**摘要**: Population aging proceeds with other socioeconomic developments, including educational expansion. Improvements in educational attainment lead to changes in demographic behaviors such as assortative mating, fertility, and the intergenerational transmission
 
 ### Migration, sexual networks, and HIV in Agbogbloshie, Ghana
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.28](https://doi.org/10.4054/demres.2014.31.28)
 **作者**: Cassels, Susan; Jenness, Samuel M.; Biney, Adriana A. E. 等5人
-**摘要**: （暂无）
+**摘要**: Population-based surveys of migration and sexual risk behavior using relationship history calendars in low-resource settings can produce high quality data. Residents in Agbogbloshie are disproportionately affected by HIV, and have high levels of short-term mobility.…
 
 ### Digit preferences in marriage formation in Sweden
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.25](https://doi.org/10.4054/demres.2014.30.25)
 **作者**: Ohlsson-Wijk, Sofi
-**摘要**: （暂无）
+**摘要**: Digit preferences are normally seen as potentially harmful biases in respondentsâ reports. Possibly such preferences might also be the cause of some patterns found in Swedish marriage formation, thus affecting actual demographic behavior.
 
 ### How does education change the relationship between fertility and age-dependency under environmental constraints? A long-term simulation exercise
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.16](https://doi.org/10.4054/demres.2014.30.16)
 **作者**: Striessnig, Erich; Lutz, Wolfgang
-**摘要**: （暂无）
+**摘要**: When asked what a desirable fertility level for populations might be, most politicians, journalists, and even social scientists would say it is around two children per woman, a level that has been labelled by demographers "replacement-level fertility." The
 
 ### An application of MCMC simulation in mortality projection for populations with limited data
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.1](https://doi.org/10.4054/demres.2014.30.1)
 **作者**: Li, Jackie
-**摘要**: （暂无）
+**摘要**: IIn this paper, we investigate the use of Bayesian modeling and Markov chain Monte Carlo (MCMC) simulation, via the software WinBUGS, to project future mortality for populations with limited data. In particular, we adapt some extensions of the Lee-Carter m
 
 ### Divergence without decoupling
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.51](https://doi.org/10.4054/demres.2014.31.51)
 **作者**: Noymer, Andrew; Van, Viola
-**摘要**: （暂无）
+**摘要**: Divergence of male and female life expectancy is a well-documented phenomenon. Comovement is a heretofore-neglected aspect of changes in male and female mortality.
 
 ### Race, color, and income inequality across the Americas
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.24](https://doi.org/10.4054/demres.2014.31.24)
 **作者**: Bailey, Stanley R.; Saperstein, Aliya; Penner, Andrew
-**摘要**: （暂无）
+**摘要**: Racial inequality in the U.S. is typically described in terms of stark categorical difference, as compared to the more gradational stratification based on skin color often said to prevail in parts of Latin America. However, nationally representative data w
 
 ### Births to single mothers: Age- and education-related changes in Poland between 1985 and 2010
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.52](https://doi.org/10.4054/demres.2014.30.52)
 **作者**: Brzozowska, Zuzanna
-**摘要**: （暂无）
+**摘要**: In Poland the share of non-marital births has increased steadily for more than two decades. Studies differentiating between births to unmarried partnered and unpartnered women are rare.
 
 ### Exploring the population implications of male preference when the sex probabilities at birth can be altered
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.25](https://doi.org/10.4054/demres.2014.31.25)
 **作者**: Denton, Frank T.; Spencer, Byron G.
-**摘要**: （暂无）
+**摘要**: The paper explores the population effects of male preference stopping rules and of alternative combinations of fertility rates and male-biased birth sex ratios.
 
 ### Variance in age at death equals average squared remaining life expectancy at death
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.50](https://doi.org/10.4054/demres.2014.30.50)
 **作者**: Wrycza, Tomasz
-**摘要**: （暂无）
+**摘要**: Variance in life span 2 and life expectancy lost due to death e are important demographic indicators of life disparity.
 
 ### Quantifying paradigm change in demography
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.32](https://doi.org/10.4054/demres.2014.30.32)
 **作者**: Bijak, Jakub; Courgeau, Daniel; Silverman, Eric 等4人
-**摘要**: （暂无）
+**摘要**: Demography is a uniquely empirical research area amongst the social sciences. We posit that the same principle of empiricism should be applied to studies of the population sciences as a discipline, contributing to greater self-awareness amongst its practit
 
 ### A method for socially evaluating the effects of long-run demographic paths on living standards
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.11](https://doi.org/10.4054/demres.2014.31.11)
 **作者**: Parr, Nick; Guest, Ross
-**摘要**: （暂无）
+**摘要**: The paper is motivated by the need for improved social evaluation of prospective demographic change in order to better inform policies that are designed to reduce the very long-run costs of population ageing and to achieve sustainable economic development.
 
 ### Couples' fertility decision-making
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.63](https://doi.org/10.4054/demres.2014.30.63)
 **作者**: Stein, Petra; Willen, Sebastian; Pavetic, Monika
-**摘要**: （暂无）
+**摘要**: The decision about whether to start a family within a partnership can be viewed as a result of an interaction process. The influence of each of the partners in a couple differs depending on their individual preferences and intentions towards having child
 
 ### The historical fertility transition at the micro level
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.17](https://doi.org/10.4054/demres.2014.30.17)
 **作者**: Bengtsson, Tommy; Dribe, Martin
-**摘要**: （暂无）
+**摘要**: We know a great deal about the historical fertility transition at the macro level. The dominating focus on the macro level in previous research on the fertility transition means, however, that to a large extent we lack knowledge about details of the declin
 
 ### A life-course approach to fertility
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.45](https://doi.org/10.4054/demres.2014.30.45)
 **作者**: Huinink, Johannes; Kohli, Martin
-**摘要**: （暂无）
+**摘要**: The life-course approach as a methodological framework for the empirical analysis of longitudinal individual-level data has fundamentally changed the agenda of demographic research. However, these methodological innovations have not been paralleled by a si
 
 ### HealthPaths: Using functional health trajectories to quantify the relative importance of selected health determinants
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.31](https://doi.org/10.4054/demres.2014.31.31)
 **作者**: Wolfson, Michael; Rowe, Geoff
-**摘要**: （暂无）
+**摘要**: It is widely known that that there is a significant dispersion in health status, as well as a strong correlation between health status and socio-economic status. But considerable uncertainty remains as to the quantitative importance of the various explanat
 
 ### Children are costly, but raising them may pay
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.8](https://doi.org/10.4054/demres.2014.30.8)
 **作者**: Werding, Martin
-**摘要**: （暂无）
+**摘要**: This article provides a non-technical introduction to analyses of fertility which are based on a rational-choice paradigm and which acknowledge that raising children may have a strong impact on the well-being of parents that can be described in terms of co
 
 ### Changing partner choice and marriage propensities by education in post-industrial Taiwan, 2000-2010
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.33](https://doi.org/10.4054/demres.2014.31.33)
 **作者**: Cheng, Yen-Hsin Alice
-**摘要**: （暂无）
+**摘要**: Very little is known about recent marriage differentials by education in times of marriage decline and economic restructuring in East Asia.
 
 ### Family size and intra-family inequalities in education in Ouagadougou
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.49](https://doi.org/10.4054/demres.2014.31.49)
 **作者**: Lachaud, James; Adjiwanou, Vissého; LeGrand, Thomas 等4人
-**摘要**: （暂无）
+**摘要**: While the potential benefits for educational investment of decline in family size are well known, some questions have emerged on the distribution of these benefits. Do all the children in a family benefit equitably from the improved conditions brought abou
 
 ### Jobs, careers, and becoming a parent under state socialist and market conditions: Evidence from Estonia 1971-2006
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.64](https://doi.org/10.4054/demres.2014.30.64)
 **作者**: Billingsley, Sunnee; Puur, Allan; Sakkeus, Luule
-**摘要**: （暂无）
+**摘要**: Entering employment and achieving a stable position in the labour market are considered important preconditions for childbearing. Existing studies addressing the relationship between work experience and the timing of parenthood focus exclusively on Western
 
 ### Regional probabilistic fertility forecasting by modeling between-country correlations
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.35](https://doi.org/10.4054/demres.2014.30.35)
 **作者**: Fosdick, Bailey; Raftery, Adrian E.
-**摘要**: （暂无）
+**摘要**: Our results suggest that a substantial proportion of the correlation between forecast errors for TFR in different countries is due to countries' geographic proximity to one another, and that if this correlation is accounted for, the quality of probabilitistic projections of TFR for regions and other…
 
 ### Fertility and the fast-track
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.15](https://doi.org/10.4054/demres.2014.31.15)
 **作者**: Stanfors, Maria
-**摘要**: （暂无）
+**摘要**: During recent decades women have made considerable advances in education and the labor market, even in fast-track professions such as law, medicine, and academia. While women have entered high-status professions, the career paths of some jobs have changed
 
 ### Immigrant fertility in Sweden, 2000-2011: A descriptive note
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.30](https://doi.org/10.4054/demres.2014.30.30)
 **作者**: Persson, Lotta; Hoem, Jan M.
-**摘要**: （暂无）
+**摘要**: Modern Scandinavian population registers provide excellent data sources that allow a user to quickly gain an impression of the level of fertility and its structure across subpopulations. This may also allow the analyst to check a feature of the much-cited
 
 ### Varying association between education and second births in Europe
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.27](https://doi.org/10.4054/demres.2014.31.27)
 **作者**: Klesment, Martin; Puur, Allan; Rahnu, Leen 等4人
-**摘要**: （暂无）
+**摘要**: Previous research has shown considerable variation in the relationship between womenâs educational attainment and second births in contemporary Europe. A negative association is found in some countries, while a positive or non-negative relationship is repo
 
 ### Sex composition of children, parental separation, and parity progression: Is Finland a Nordic outlier?
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.2](https://doi.org/10.4054/demres.2014.30.2)
 **作者**: Saarela, Jan; Finnäs, Fjalar
-**摘要**: （暂无）
+**摘要**: Previous studies that have studied parental gender preferences for children have analysed either divorce or parity progression. We use Finnish register data that make it possible to study both events simultaneously by following the same couples with childr
 
 ### The declining effect of sibling size on children's education in Costa Rica
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.48](https://doi.org/10.4054/demres.2014.31.48)
 **作者**: Li, Jing; Dow, William; Rosero-Bixby, Luis
-**摘要**: （暂无）
+**摘要**: Costa Rica experienced a dramatic fertility decline in the 1960s and 1970s. The same period saw substantial improvement in childrenâs educational attainment in Costa Rica. This correlation is consistent with household-level quantity-quality tradeoffs, but
 
 ### Children’s union status and contact with mothers: A cross-national study
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.51](https://doi.org/10.4054/demres.2014.30.51)
 **作者**: Yahirun, Jenjira; Hamplová, Dana
-**摘要**: （暂无）
+**摘要**: We find that across all countries, cohabiting offspring have the least contact with mothers compared to married or single offspring. However, the effects of marriage are not universal and vary greatly across countries.…
 
 ### Male fertility in Greece
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.6](https://doi.org/10.4054/demres.2014.31.6)
 **作者**: Tragaki, Alexandra; Bagavos, Christos
-**摘要**: （暂无）
+**摘要**: Background: More than downplayed, the role of men in the demographic analysis of reproduction has been entirely neglected. However, male fertility can be an important issue for exploring how economic and employment uncertainties relate to fertility and family dynamics.…
 
 ### Modelling the constraints on consanguineous marriage when fertility declines
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.9](https://doi.org/10.4054/demres.2014.30.9)
 **作者**: Barakat, Bilal; Gietel-Basten, Stuart
-**摘要**: （暂无）
+**摘要**: Consanguinity - or marriage between close blood relatives, in particular first cousins - is widely practised and even socially encouraged in many countries. However, in the face of fertility transition where the number of cousins eligible to marry declines
 
 ### Age patterns of racial/ethnic/nativity differences in disability and physical functioning in the United States
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.17](https://doi.org/10.4054/demres.2014.31.17)
 **作者**: Melvin, Jennifer; Hummer, Robert A.; Elo, Irma T. 等4人
-**摘要**: （暂无）
+**摘要**: Higher levels of functional limitations and disability among U.S.-born minority groups and immigrant populations in older adulthood pose serious challenges for health providers and policymakers in a rapidly diversifying and aging population.
 
 ### A cross-country comparison of math achievement at teen age and cognitive performance 40 years later
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.4](https://doi.org/10.4054/demres.2014.31.4)
 **作者**: Skirbekk, Vegard; Bordone, Valeria; Weber, Daniela
-**摘要**: （暂无）
+**摘要**: Maintaining cognitive functioning through mid- to late-life is relevant for the individual and societal aim of active ageing. Evidence shows considerable stability in individual-level rank-ordering of cognitive functioning, but little attention has been gi
 
 ### Self-Reported Versus Performance-Based Measures of Physical Function
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.30.7](https://doi.org/10.4054/demres.2014.30.7)
 **作者**: Goldman, Noreen; Glei, Dana; Rosero-Bixby, Luis 等5人
-**摘要**: （暂无）
+**摘要**: Although previous studies have indicated that performance assessments strongly predict future survival, few have evaluated the incremental value in the presence of controls for self-reported activity and mobility limitations.
 
 ### Unobserved population heterogeneity
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.22](https://doi.org/10.4054/demres.2014.31.22)
 **作者**: Vaupel, James W.; Missov, Trifon
-**摘要**: （暂无）
+**摘要**: Survival models accounting for unobserved heterogeneity (frailty models) play an important role in mortality research, yet there is no article that concisely summarizes useful relationships.
 
 ### Fertility and education in Poland during state socialism
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.12](https://doi.org/10.4054/demres.2014.31.12)
 **作者**: Brzozowska, Zuzanna
-**摘要**: （暂无）
+**摘要**: Studies on fertility in Poland focus on the turbulent transition period and its consequences. However, during state socialism significant societal and demographic changes took place.
 
 ### The educational gradient of childlessness and cohort parity progression in 14 low fertility countries
 **年份**: 2014 | **DOI**: [10.4054/demres.2014.31.46](https://doi.org/10.4054/demres.2014.31.46)
 **作者**: Wood, Jonas; Neels, Karel; Kil, Tine
-**摘要**: （暂无）
+**摘要**: Although the association between fertility and education is central to several theories of fertility behaviour and is frequently explored in empirical work, educational differentials in childlessness and cohort parity progression have been scarcely documen
 
 ### Explaining the rural-urban gap in infant mortality in India
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.18](https://doi.org/10.4054/demres.2013.29.18)
 **作者**: Saikia, Nandita; Singh, Abhishek; Jasilionis, Domantas 等4人
-**摘要**: （暂无）
+**摘要**: Prior studies suggest that infant mortality in rural areas of India is substantially higher than in urban areas. However, little is known about the determinants explaining such excess of rural mortality.
 
 ### Working life gain from gain in old age life expectancy in India
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.26](https://doi.org/10.4054/demres.2013.28.26)
 **作者**: Dhillon, Preeti; Ladusingh, Laishram
-**摘要**: （暂无）
+**摘要**: It is important to evaluate the interaction between increasing life expectancy and changing age patterns in work participation from the perspective of planning for the greying population of India.
 
 ### Family policies in the context of low fertility and social structure
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.37](https://doi.org/10.4054/demres.2013.29.37)
 **作者**: Fent, Thomas; Aparicio Diaz, Belinda; Prskawetz, Alexia
-**摘要**: （暂无）
+**摘要**: In this paper we investigate the effectiveness of family policies in the context of the social structure of a population.
 
 ### Integrating uncertainty in time series population forecasts: An illustration using a simple projection model
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.43](https://doi.org/10.4054/demres.2013.29.43)
 **作者**: Abel, Guy; Bijak, Jakub; Forster, Jonathan J. 等6人
-**摘要**: （暂无）
+**摘要**: Population forecasts are widely used for public policy purposes. Methods to quantify the uncertainty in forecasts tend to ignore model uncertainty and to be based on a single model.
 
 ### Distortion of regional old-age mortality due to late-life migration in the Netherlands?
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.5](https://doi.org/10.4054/demres.2013.29.5)
 **作者**: Kibele, Eva; Janssen, Fanny
-**摘要**: （暂无）
+**摘要**: Regional mortality differences are an important public health indicator and can serve as the basis for population forecasts and local planning. Health-related migration at old age may distort observed regional mortality.
 
 ### Age at marriage and the risk of divorce in England and Wales
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.7](https://doi.org/10.4054/demres.2013.29.7)
 **作者**: Lampard, Richard
-**摘要**: （暂无）
+**摘要**: A well-documented association exists between age at marriage and the risk of divorce. However, substantial gaps in our knowledge and understanding of its origins, nature, and implications still exist.
 
 ### Age groups and the measure of population aging
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.23](https://doi.org/10.4054/demres.2013.29.23)
 **作者**: d'Albis, Hippolyte; Collard, Fabrice
-**摘要**: （暂无）
+**摘要**: Measures of population aging are important because they shape our perception of demographic trends. Indicators of aging based on fixed ages contributed to a dramatic portrayal of demographic evolutions, some of which were associated with the myth of declin
 
 ### Validation of spatially allocated small area estimates for 1880 Census demography
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.22](https://doi.org/10.4054/demres.2013.29.22)
 **作者**: Ruther, Matt; Maclaurin, Galen; Leyk, Stefan 等5人
-**摘要**: （暂无）
+**摘要**: This paper details the validation of a methodology which spatially allocates Census microdata to census tracts, based on known, aggregate tract population distributions. To protect confidentiality, public-use microdata contain no spatial identifiers other
 
 ### Patterns of reproductive behavior in transitional Italy
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.44](https://doi.org/10.4054/demres.2013.29.44)
 **作者**: Breschi, Marco; Fornasin, Alessio; Manfredini, Matteo
-**摘要**: （暂无）
+**摘要**: Few studies have investigated the role of the intermediate variables of fertility at the micro-level in Italy, and, in particular, little is known about the influence of socioeconomic factors. This is the reason that the mechanisms through which women arri
 
 ### Mortality by marital status in a rapidly changing society: Evidence from the Czech Republic
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.12](https://doi.org/10.4054/demres.2013.29.12)
 **作者**: Pechholdová, Markéta; Šamanová, Gabriela
-**摘要**: （暂无）
+**摘要**: Married people tend to live longer than their unmarried counterparts, and the advantage in life expectancy enjoyed by married people relative to other groups has been increasing over time. The question of whether the benefits of marriage result from selection or protection continues to be debated.…
 
 ### What has high fertility got to do with the low birth weight problem in Africa?
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.25](https://doi.org/10.4054/demres.2013.28.25)
 **作者**: Kodzi, Ivy; Kravdal, Øystein
-**摘要**: （暂无）
+**摘要**: There has been much concern about adverse individual and societal consequences of high fertility in sub-Saharan Africa. One concern is that children of high birth orders may have low birth weight. However, the evidence for such an effect is not strong.
 
 ### Thinking about post-transitional demographic regimes
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.46](https://doi.org/10.4054/demres.2013.28.46)
 **作者**: Wilson, Chris
-**摘要**: （暂无）
+**摘要**: For the last 70 years the concept of the demographic transition has provided a basis for understanding and predicting population trends in the developing world. However, a majority of the developing worldâs population will soon be post-transitional - what
 
 ### Register-based estimates of parents' coresidence in Sweden, 1969-2007
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.42](https://doi.org/10.4054/demres.2013.29.42)
 **作者**: Thomson, Elizabeth; Eriksson, Helen
-**摘要**: （暂无）
+**摘要**: Many of the dramatic changes in family formation and dissolution observed in wealthy countries over the past 60 years are tracked through vital statistics or censuses. The signature change in family behavior -- non-marital cohabitation -- is not, however,
 
 ### Domestic gender equality and childbearing in Sweden
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.40](https://doi.org/10.4054/demres.2013.29.40)
 **作者**: Goldscheider, Frances; Bernhardt, Eva; Brandén, Maria
-**摘要**: （暂无）
+**摘要**: Sweden, which is among the most gender-equal societies in the world, combines 'modern' family patterns such as unmarried cohabitation, delayed parenthood, high maternal labor force participation, and high break-up rates - all usually linked with low birth
 
 ### Transitions to adulthood in urban Kenya
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.37](https://doi.org/10.4054/demres.2013.28.37)
 **作者**: Clark, Shelley; Cotton, Cassandra
-**摘要**: （暂无）
+**摘要**: Migration is often intrinsically tied to key adolescent transitions in sub-Saharan Africa. However, while many adolescents move in order to improve their life trajectories, migration may also coincide with new challenges and considerable disruption of family support.
 
 ### An examination of black/white differences in the rate of age-related mortality increase
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.17](https://doi.org/10.4054/demres.2013.29.17)
 **作者**: Fenelon, Andrew
-**摘要**: （暂无）
+**摘要**: The black/white mortality crossover reflects large differences in the rate of age-related mortality increase. Instead of reflecting the impact of specific causes of death, this pattern exists across many disparate disease conditions, indicating the need for a broad explanation.
 
 ### Effects of Parental Union Dissolution on Child Mortality and Child Schooling in Burkina Faso
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.29](https://doi.org/10.4054/demres.2013.29.29)
 **作者**: Gnoumou, Bilampoa; LeGrand, Thomas; Kobiané, Jean-François
-**摘要**: （暂无）
+**摘要**: Family structure and union dissolution has been one of the most thoroughly studied determinants of childrenâs wellbeing worldwide. To date, however, few of these studies have examined sub-Saharan Africa, especially countries in West Africa where marital br
 
 ### The impact of immigration under the defined-benefit pension system
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.21](https://doi.org/10.4054/demres.2013.28.21)
 **作者**: Jinno, Masatoshi
-**摘要**: （暂无）
+**摘要**: Background: Recently, theoretical studies have started a discussion on how the influx of immigrants affects the finances of the host country.
 
 ### Delayed entry into first marriage and marital stability
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.20](https://doi.org/10.4054/demres.2013.29.20)
 **作者**: Lehrer, Evelyn; Chen, Yu
-**摘要**: （暂无）
+**摘要**: In their pioneering research, Becker, Landes, and Michael (1977) found that beyond age 30 there is a positive relationship between womenâs age at first marriage and marital instability. They interpreted this finding as a "poor-match effect" emerging when t
 
 ### Occupational trajectories and occupational cost among Senegalese immigrants in Europe
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.19](https://doi.org/10.4054/demres.2013.28.19)
 **作者**: Obućina, Ognjen
-**摘要**: （暂无）
+**摘要**: Immigration from Africa to Europe has increased substantially in recent decades. The main goal of this paper is to contribute to a better understanding of contemporary international migration processes by analyzing the occupational trajectories and occupat
 
 ### Does his paycheck also matter?
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.31](https://doi.org/10.4054/demres.2013.28.31)
 **作者**: Jalovaara, Marika; Miettinen, Anneli
-**摘要**: （暂无）
+**摘要**: Previous research on fertility has focused on women, and less attention has been paid to men and couples.
 
 ### Estimating spatial inequalities of urban child mortality
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.2](https://doi.org/10.4054/demres.2013.28.2)
 **作者**: Jankowska, Marta; Benza, Magdalena; Weeks, John
-**摘要**: （暂无）
+**摘要**: Results suggest the potential value of the Rajaratnam et al. method at the micro-spatial scale. Estimated rates indicate that there is variability in child mortality between zones, with a spread of up to 50 deaths per 1,000 births.…
 
 ### A Bayesian semiparametric multilevel survival modelling of age at first birth in Nigeria
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.45](https://doi.org/10.4054/demres.2013.28.45)
 **作者**: Gayawan, Ezra; Adebayo, Samson B.
-**摘要**: （暂无）
+**摘要**: The age at which childbearing begins influences the total number of children a woman bears throughout her reproductive period, in the absence of any active fertility control. For countries in sub-Saharan Africa where contraceptive prevalence rate is still
 
 ### Gamma-Gompertz life expectancy at birth
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.9](https://doi.org/10.4054/demres.2013.28.9)
 **作者**: Missov, Trifon
-**摘要**: （暂无）
+**摘要**: The gamma-Gompertz multiplicative frailty model is the most common parametric model applied to human mortality data at adult and old ages. The resulting life expectancy has been calculated so far only numerically.
 
 ### The sequential propensity household projection model
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.24](https://doi.org/10.4054/demres.2013.28.24)
 **作者**: Wilson, Tom
-**摘要**: （暂无）
+**摘要**: The standard method of projecting living arrangements and households in Australia and New Zealand is the âpropensity model', a type of extended headship rate model. Unfortunately it possesses a number of serious shortcomings, including internal inconsisten
 
 ### Maternal age at first birth and adolescent education in Brazil
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.28](https://doi.org/10.4054/demres.2013.28.28)
 **作者**: Marteleto, Leticia; Dondero, Molly
-**摘要**: （暂无）
+**摘要**: Adolescent educational disadvantages associated with being born to a young mother are not an artifact of selectivity, at least in southern Brazil. Regional variation in the effect of maternal age at first birth on adolescent education suggests the important role of the extended family and the father…
 
 ### The determinants of internal mobility in Italy, 1995-2006
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.16](https://doi.org/10.4054/demres.2013.29.16)
 **作者**: Ricciardo Lamonica, Giuseppe; Zagaglia, Barbara
-**摘要**: （暂无）
+**摘要**: In this paper, we study the determinants of internal migration in Italy from 1995 to 2006.
 
 ### Minor gradient in mortality by education at the highest ages
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.19](https://doi.org/10.4054/demres.2013.29.19)
 **作者**: Rau, Roland; Muszyńska-Spielauer, Magdalena; Eilers, Paul
-**摘要**: （暂无）
+**摘要**: Socioeconomic mortality differentials are known to exist almost universally. Many studies show a trend towards convergence with increasing age. Information about the highest ages is very rare, though.
 
 ### Parental Education and the Gender Gap in University Completion in Europe
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.3](https://doi.org/10.4054/demres.2013.29.3)
 **作者**: McDaniel, Anne
-**摘要**: （暂无）
+**摘要**: A female-favorable gender gap in university completion has emerged in the majority of industrialized countries in recent decades. Research in the United States demonstrates that the female advantage in college completion is the largest among individuals wi
 
 ### The life cycle dimension of time transfers in Europe
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.35](https://doi.org/10.4054/demres.2013.29.35)
 **作者**: Zagheni, Emilio; Zannella, Marina
-**摘要**: （暂无）
+**摘要**: Reallocation of economic resources between generations and genders has important consequences for economic growth and inequality. Unpaid work is a relevant component of intergenerational transfers, but is invisible to traditional accounts. Time use data ca
 
 ### Cause-specific measures of life years lost
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.41](https://doi.org/10.4054/demres.2013.29.41)
 **作者**: Andersen, Per Kragh; Canudas-Romo, Vladimir; Keiding, Niels
-**摘要**: （暂无）
+**摘要**: measure of the number of life years lost due to specific causes of death is introduced.
 
 ### The more you learn the less you know? Interpretive ambiguity across three modes of qualitative data
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.33](https://doi.org/10.4054/demres.2013.28.33)
 **作者**: Angotti, Nicole; Kaler, Amy
-**摘要**: （暂无）
+**摘要**: Researchers who use mixed methods approaches for triangulation should consider the influence of research-awareness on their methods. These situational specifics are crucial for understanding the applicability of research to real life.…
 
 ### Declining health disadvantage of non-marital children
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.25](https://doi.org/10.4054/demres.2013.29.25)
 **作者**: Štípková, Martina
-**摘要**: （暂无）
+**摘要**: There has been a rapid spread of non-marital childbearing in the Czech Republic during the last two decades. At the same time, the low birth weight rates of children born to married and unmarried mothers have converged.
 
 ### Do small labor market entry cohorts reduce unemployment?
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.15](https://doi.org/10.4054/demres.2013.29.15)
 **作者**: Garloff, Alfred; Pohl, Carsten; Schanne, Norbert
-**摘要**: （暂无）
+**摘要**: Germany, like many OECD countries, faces a shift in the age composition of its population, and will face an even more drastic demographic change in the years ahead. From a theoretical point of view, decreasing cohort sizes may on the one hand reduce unemp
 
 ### Very long range global population scenarios to 2300 and the implications of sustained low fertility
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.39](https://doi.org/10.4054/demres.2013.28.39)
 **作者**: Gietel-Basten, Stuart; Lutz, Wolfgang; Scherbov, Sergei
-**摘要**: （暂无）
+**摘要**: Depending on whether the global level of fertility is assumed to converge to the current European TFR (~1.5) or that of Southeast Asia or Central America (~2.5), global population will either decline to 2.3-2.9 billion by 2200 or increase to 33-37 billion,
 
 ### Societal foundations for explaining fertility: Gender equity
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.34](https://doi.org/10.4054/demres.2013.28.34)
 **作者**: McDonald, Peter
-**摘要**: （暂无）
+**摘要**: Gender equity theory in relation to fertility argues that very low fertility is the result of incoherence in the levels of gender equity in individually-oriented social institutions and family-oriented social institutions. The salience of gender to the fer
 
 ### The fragility of the future and the tug of the past
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.21](https://doi.org/10.4054/demres.2013.29.21)
 **作者**: Palloni, Alberto; Souza, Laeticia
-**摘要**: （暂无）
+**摘要**: Changing composition of cohorts by early exposures constitutes a powerful force that could drag down or halt short-run progress of life expectancy at older ages.
 
 ### Impact of parental ages and other characteristics at childbearing on congenital anomalies
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.5](https://doi.org/10.4054/demres.2013.28.5)
 **作者**: Rychtarikova, Jitka; Gourbin, Catherine; Wunsch, Guillaume 等4人
-**摘要**: （暂无）
+**摘要**: While it is widely known that maternal age at childbearing plays a role in the occurrence of Down syndrome, less is known about the effects of maternal age on other major congenital anomalies.…
 
 ### Could changes in reported sex ratios at birth during China's 1958-1961 famine support the adaptive sex ratio adjustment hypothesis?
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.33](https://doi.org/10.4054/demres.2013.29.33)
 **作者**: Zhao, Zhongwei; Zhu, Yuan; Reimondos, Anna
-**摘要**: （暂无）
+**摘要**: The adaptive sex ratio adjustment hypothesis suggests that when mothers are in poor conditions the sex ratio of their offspring will be biased towards females. Major famines provide opportunities for testing this hypothesis because they lead to the widespr
 
 ### Patriarchy and fertility in Albania
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.6](https://doi.org/10.4054/demres.2013.29.6)
 **作者**: Lerch, Mathias
-**摘要**: （暂无）
+**摘要**: Theories of fertility collapse in the post-socialist era imply a decline in the moral primacy of traditional social institutions. Yet gender inequality actually increased in many countries, and there is a scarcity of empirical evidence for the role played
 
 ### Sex ratios at sexual maturity and longevity
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.31](https://doi.org/10.4054/demres.2013.29.31)
 **作者**: Barclay, Kieron James
-**摘要**: （暂无）
+**摘要**: This study tests the recently proposed hypothesis that the contextual sex ratio at sexual maturity is related to longevity. Previous empirical research in the United States has shown that a higher proportion of males at the age of sexual maturity increases
 
 ### Health and development among Mexican, black and white preschool children: An integrative approach using latent class analysis
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.44](https://doi.org/10.4054/demres.2013.28.44)
 **作者**: Landale, Nancy; Lanza, Stephanie; Hillemeier, Marianne 等4人
-**摘要**: （暂无）
+**摘要**: Latent class analysis is a useful method for incorporating measures of physical conditions, functional problems, and development into a single analysis in order to identify key dimensions of childhood health and locate ethnoracial health disparities.
 
 ### Fertility intentions
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.8](https://doi.org/10.4054/demres.2013.29.8)
 **作者**: Ajzen, Icek; Klobas, Jane
-**摘要**: （暂无）
+**摘要**: Objective: To discuss issues and concerns in the application of the theory of planned behavior (TPB) to the decision to have a child. Methods: We review the basic structure of the TPB, its principles, and its assumptions as they apply to fertility decisions.…
 
 ### The effect of education on second births in Hungary
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.1](https://doi.org/10.4054/demres.2013.28.1)
 **作者**: Bartus, Tamás; Murinkó, Lívia; Szalma, Ivett 等4人
-**摘要**: （暂无）
+**摘要**: In recent years, several studies have reported a positive effect of womenâs education on the transition to second births. This finding contradicts the economic theory of fertility. Three explanations were proposed: the selection, the time-squeeze, and the
 
 ### Does the kin orientation of a British woman’s social network influence her entry into motherhood?
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.11](https://doi.org/10.4054/demres.2013.28.11)
 **作者**: Mathews, Paul; Sear, Rebecca
-**摘要**: （暂无）
+**摘要**: The influence of family and friends on an individualâs fertility has long been an important topic within demography. Researchers who focus on social network effects and evolutionary demography have shown a renewed interest in this issue in recent years. Ho
 
 ### Probabilistic household forecasts based on register data- the case of Denmark and Finland
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.43](https://doi.org/10.4054/demres.2013.28.43)
 **作者**: Christiansen, Solveig; Keilman, Nico
-**摘要**: （暂无）
+**摘要**: Household forecasts are important for public planning and for predicting consumer demand.
 
 ### Educational Differences in Divorce in Japan
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.6](https://doi.org/10.4054/demres.2013.28.6)
 **作者**: Raymo, James; Fukuda, Setsuya; Iwasawa, Miho
-**摘要**: （暂无）
+**摘要**: Evidence of a negative relationship between educational attainment and divorce in Japan is not consistent with predictions derived from standard theoretical emphases on the costs of divorce.
 
 ### A dynamic birth-death model via Intrinsic Linkage
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.35](https://doi.org/10.4054/demres.2013.28.35)
 **作者**: Schoen, Robert
-**摘要**: （暂无）
+**摘要**: Dynamic population models, or models with changing vital rates, are only beginning to receive serious attention from mathematical demographers. Despite considerable progress, there is still no general analytical solution for the size or composition of a po
 
 ### Does migration benefit the schooling of children left behind?
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.2](https://doi.org/10.4054/demres.2013.29.2)
 **作者**: Hu, Feng
-**摘要**: （暂无）
+**摘要**: While many studies have found that migration can benefit home communities and family members left behind by increasing household income, thus easing liquidity constraints on investment; less is known about how "internal" migration and remittances affect th
 
 ### Low fertility, human capital, and economic growth
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.32](https://doi.org/10.4054/demres.2013.29.32)
 **作者**: Clark, Rob; Matsukura, Rikiya; Ogawa, Naohiro
-**摘要**: （暂无）
+**摘要**: International research has shown that workers have a rather low level of financial literacy. Financial literacy is associated with lifetime planning and saving for retirement. This article focuses on the role of financial literacy in the demand for human c
 
 ### Family dynamics and housing
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.14](https://doi.org/10.4054/demres.2013.29.14)
 **作者**: Mulder, Clara
-**摘要**: （暂无）
+**摘要**: In this reflection I discuss my conceptual ideas and the latest empirical findings regarding the connections between leaving the parental home, marriage, parenthood, and separation on the one hand, and housing on the other. I also discuss the limitations o
 
 ### How do immigrants fare during the downturn? Evidence from matching comparable natives
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.8](https://doi.org/10.4054/demres.2013.28.8)
 **作者**: Paggiaro, Adriano
-**摘要**: （暂无）
+**摘要**: This paper provides empirical evidence regarding the supposed vulnerability of immigrants to the recent economic downturn.
 
 ### Reforging the Wedding Ring
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.27](https://doi.org/10.4054/demres.2013.29.27)
 **作者**: Bijak, Jakub; Hilton, Jason D.; Silverman, Eric 等4人
-**摘要**: （暂无）
+**摘要**: We extend the "Wedding Ringâ agent-based model of marriage formation to include some empirical information on the natural population change for the United Kingdom together with behavioural explanations that drive the observed nuptiality trends.
 
 ### Application of the modified PGW method for determining the smoking attributable fraction of deaths in New Zealand Maori, Pacific and non-Maori non-Pacific populations
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.7](https://doi.org/10.4054/demres.2013.28.7)
 **作者**: Sandiford, Peter; Bramley, Dale
-**摘要**: （暂无）
+**摘要**: Preston, Glei and Wilmoth recently proposed a new method for estimating smoking-attributable mortality in high income countries and an improvement to the method was proposed by Rostron. The method greatly simplifies estimation of smoking attributable frac
 
 ### Citizenship Reporting in the American Community Survey
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.1](https://doi.org/10.4054/demres.2013.29.1)
 **作者**: Van Hook, Jennifer; Bachmeier, James
-**摘要**: （暂无）
+**摘要**: For applications that use citizenship as an indicator of legal status, we recommend that self-reported data on citizenship be accepted at face value for all groups except those with less than five years of U.S. residence and Mexican men.
 
 ### Youth prospects in a time of economic recession
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.36](https://doi.org/10.4054/demres.2013.29.36)
 **作者**: Aassve, Arnstein; Cottini, Elena; Vitali, Agnese
-**摘要**: （暂无）
+**摘要**: The paper gives an update to earlier analysis considering youth poverty and transition to adulthood, which is timely given the economic crisis engulfing many countries in Europe. Whereas the crisis is affecting young people in particular, there is also a c
 
 ### The age pattern of increases in mortality affected by HIV
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.39](https://doi.org/10.4054/demres.2013.29.39)
 **作者**: Sharrow, David; Clark, Samuel J.; Collinson, Mark 等5人
-**摘要**: （暂无）
+**摘要**: The motivating aim of this work is to develop new methods that can be useful in applying the HP eight-parameter model of age-specific mortality. We have done this and chosen an interesting application to demonstrate the new methods.
 
 ### Patterns of contraceptive use among Mexican-origin women
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.41](https://doi.org/10.4054/demres.2013.28.41)
 **作者**: White, Kari; Potter, Joseph E.
-**摘要**: （暂无）
+**摘要**: Future studies are needed to clarify the extent to which disparities in fertility result from differences in contraceptive access.
 
 ### Does the orphan disadvantage "spill over"? An analysis of whether living in an area with a higher concentration of orphans is associated with children’s school enrollment in sub-Saharan Africa
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.40](https://doi.org/10.4054/demres.2013.28.40)
 **作者**: Smith-Greenaway, Emily; Heckert, Jessica
-**摘要**: （暂无）
+**摘要**: In western and eastern Africa, the negative association between living in a setting more densely populated with orphans and children's school enrollment provides suggestive evidence that the orphan disadvantage "spills over" in the communities most heavily affected.…
 
 ### Love, marriage, then the baby carriage? Marriage timing and childbearing in Sweden
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.11](https://doi.org/10.4054/demres.2013.29.11)
 **作者**: Holland, Jennifer A.
-**摘要**: （暂无）
+**摘要**: Some scholars claim that marriage is an outmoded institution, decoupled from the childbearing process in Sweden. However, it is likely that the presence of children is still linked to marriage, since most children born to cohabiting couples experience the
 
 ### Changing Patterns of Tobacco and Alcohol Co-Use by Gender in the United States, 1976-2010
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.22](https://doi.org/10.4054/demres.2013.28.22)
 **作者**: Daw, Jonathan; Nowotny, Kathryn; Boardman, Jason
-**摘要**: （暂无）
+**摘要**: We conclude that co-users of tobacco and alcohol are an increasingly select subpopulation. This suggests that continued decreases in the contribution of substance use to population health and mortality may not continue apace.
 
 ### When the group encourages extramarital sex
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.30](https://doi.org/10.4054/demres.2013.28.30)
 **作者**: Cordero Coma, Julia
-**摘要**: （暂无）
+**摘要**: Recent research on the HIV epidemic in sub-Saharan Africa has highlighted the relevance of married individualsâ extramarital sexual behavior for the spread of the disease. At the same time, there is social disapproval of sexual infidelity.
 
 ### Intergenerational transfers and European families: Does the number of siblings matter?
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.10](https://doi.org/10.4054/demres.2013.29.10)
 **作者**: Emery, Tom
-**摘要**: （暂无）
+**摘要**: Existing research on intergenerational transfers has focused on income and wealth as the predominant determinants of the provision of financial assistance to adult children (Albertini, Kohli, and Vogel 2006; Zissimopoulos and Smith 2010; Albertini and Radl
 
 ### How do educational and occupational resources relate to the timing of family formation? A couple analysis of the Netherlands
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.34](https://doi.org/10.4054/demres.2013.29.34)
 **作者**: Begall, Katia
-**摘要**: （暂无）
+**摘要**: Fertility research often uses data from women only. This can bias the results if the effects of education and occupation on fertility are dependent upon the characteristics of the male partner. Using retrospective life-course information from both partners
 
 ### Post-divorce custody arrangements and binuclear family structures of Flemish adolescents
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.15](https://doi.org/10.4054/demres.2013.28.15)
 **作者**: Sodermans, An Katrien; Vanassche, Sofie; Matthijs, Koen
-**摘要**: （暂无）
+**摘要**: Because of the tendency towards equal parental rights in post-divorce custody decisions, the number of children living partially in two households after divorce has increased. Because of this evolution, traditional family typologies have been challenged.
 
 ### Daughter preference in Japan: A reflection of gender role attitudes?
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.36](https://doi.org/10.4054/demres.2013.28.36)
 **作者**: Fuse, Kana
-**摘要**: （暂无）
+**摘要**: Unlike other East Asian nations where preference for sons over daughters still prevails, gender preference for children in Japan has progressively shifted from son preference to a noticeable daughter preference over the past few decades. This emergence of
 
 ### Impact of different mortality forecasting methods and explicit assumptions on projected future life expectancy: The case of the Netherlands
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.13](https://doi.org/10.4054/demres.2013.29.13)
 **作者**: Stoeldraijer, Lenny; van Duin, Coen; van Wissen, Leo 等4人
-**摘要**: （暂无）
+**摘要**: With the rapid aging of the population, mortality forecasting becomes increasingly important, especially for the insurance and pension industries. However, a wide variety of projection methods are in use, both between and within countries, that produce dif
 
 ### Estimating global migration flow tables using place of birth data
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.18](https://doi.org/10.4054/demres.2013.28.18)
 **作者**: Abel, Guy
-**摘要**: （暂无）
+**摘要**: International migration flow data often lack adequate measurements of volume, direction and completeness. These pitfalls limit empirical comparative studies of migration and cross national population projections to use net migration measures or inadequat
 
 ### The power of the interviewer
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.27](https://doi.org/10.4054/demres.2013.28.27)
 **作者**: Randall, Sara; Coast, Ernestina; Compaore, Natacha 等4人
-**摘要**: （暂无）
+**摘要**: African censuses and surveys remain dependent on interviewers for data collection. Data quality is assured through training and supervision. Many survey concepts are difficult to translate into African languages and some, such as "household", may have mult
 
 ### Lifetime income and old age mortality risk in Italy over two decades
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.45](https://doi.org/10.4054/demres.2013.29.45)
 **作者**: Belloni, Michele; Alessie, Rob; Kalwij, Adriaan 等4人
-**摘要**: （暂无）
+**摘要**: The evidence on the shape and trend of the relationship between (lifetime) income and old age mortality is scarce and mixed both for North American and European countries. Nationwide evidence for Italy does not exist yet.
 
 ### All tied up: Tied staying and tied migration within the United States, 1997 to 2007
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.30](https://doi.org/10.4054/demres.2013.29.30)
 **作者**: Cooke, Thomas J.
-**摘要**: （暂无）
+**摘要**: The family migration literature presumes that women are cast into the role of the tied migrant. However, clearly identifying tied migrants is a difficult empirical task since it requires the identification of a counterfactual: Who moved but did not want to
 
 ### Old age mortality in Eastern and South-Eastern Asia
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.38](https://doi.org/10.4054/demres.2013.29.38)
 **作者**: Gu, Danan; Gerland, Patrick; Andreev, Kirill F. 等6人
-**摘要**: （暂无）
+**摘要**: Eastern and South-Eastern Asian countries have witnessed a marked decline in old age mortality in recent decades. Yet no studies have investigated the trends and patterns in old age mortality and cause-of-death in the region.
 
 ### Fertility and marriage behavior in Israel
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.17](https://doi.org/10.4054/demres.2013.28.17)
 **作者**: Okun, Barbara S.
-**摘要**: （暂无）
+**摘要**: Based on aggregate statistics, the population of Israel, as compared to all or most other developed societies, has very high levels of fertility and marriage (e.g. TFR of 2.96 in 2009 and only 9.7% never married among women aged 40-44 in 2009). However, st
 
 ### Recent fertility patterns of Finnish women by union status
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.14](https://doi.org/10.4054/demres.2013.28.14)
 **作者**: Hoem, Jan M.; Jalovaara, Marika; Muresan, Cornelia
-**摘要**: （暂无）
+**摘要**: Remarkably little is known about the significance of consensual unions for fertility. This is true everywhere, but the lacuna is more important in the Nordic countries where there is so much childbearing outside of marriage, mostly in consensual unions. Th
 
 ### Components and possible determinants of decrease in Russian mortality in 2004-2010
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.32](https://doi.org/10.4054/demres.2013.28.32)
 **作者**: Shkolnikov, Vladimir; Andreev, Evgeny M.; McKee, Martin 等4人
-**摘要**: （暂无）
+**摘要**: After a long decline, life expectancy in Russia substantially increased in 2004-2010; this is the longest period of health improvement that has been observed in the country since 1965. This study is the first analysis of this positive trend.
 
 ### Drop-out mayors and graduate farmers: Educational fertility differentials by occupational status and industry in six European countries
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.42](https://doi.org/10.4054/demres.2013.28.42)
 **作者**: Barakat, Bilal; Durham, Rachel
-**摘要**: （暂无）
+**摘要**: Understanding the relationship of education to fertility requires the disentangling of the potentially confounding effect of social status, which is highly correlated with education.
 
 ### Shaping human mortality patterns through intrinsic and extrinsic vitality processes
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.12](https://doi.org/10.4054/demres.2013.28.12)
 **作者**: Li, Ting; Anderson, James
-**摘要**: （暂无）
+**摘要**: While historical declines in human mortality are clearly shaped by lifestyle and environmental improvements, modeling patterns is difficult because intrinsic and extrinsic processes shape mortality through complex stochastic interactions.
 
 ### Chronological objects in demographic research
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.23](https://doi.org/10.4054/demres.2013.28.23)
 **作者**: Willekens, Frans
-**摘要**: （暂无）
+**摘要**: Calendar time, age and duration are chronological objects. They represent an instant or a time period. Age and duration are usually expressed in units with varying lengths. The number of days in a month or a year depends on the position on the calendar. Th
 
 ### Family influence in fertility: A longitudinal analysis of sibling correlations in first birth risk and completed fertility among Swedish men and women
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.9](https://doi.org/10.4054/demres.2013.29.9)
 **作者**: Dahlberg, Johan
-**摘要**: （暂无）
+**摘要**: The intergenerational transmission of fertility has received much attention in demography. This has been done by estimating the correlation between parentsâ and offspringsâ fertility. An alternative method that provides a more comprehensive account of the
 
 ### Progress in Spatial Demography
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.10](https://doi.org/10.4054/demres.2013.28.10)
 **作者**: Matthews, Stephen; Parker, Daniel M.
-**摘要**: （暂无）
+**摘要**: Many important demographic questions can be studied and framed using spatial approaches. This will become even more evident as changes in the volume, source, and form of available demographic data-much of it geocoded-further alter the data landscape, and ultimately the conceptual models and analytic…
 
 ### Putting on the moves
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.28](https://doi.org/10.4054/demres.2013.29.28)
 **作者**: Pendakur, Ravi; Young, Nathan
-**摘要**: （暂无）
+**摘要**: Internal residential mobility is an important contributor to economic vitality, helping to address gaps in the labour market, assisting regions to develop comparative advantages, and encouraging the circulation of skills, capital, and networks within a cou
 
 ### Fertility Reactions to the "Great Recession" in Europe
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.4](https://doi.org/10.4054/demres.2013.29.4)
 **作者**: Goldstein, Joshua R.; Kreyenfeld, Michaela; Jasilioniene, Aiva 等4人
-**摘要**: （暂无）
+**摘要**: This paper provides recent cross-national evidence of the impact of the great recession on fertility in Europe in the context of the recent decade.
 
 ### Spatial continuities and discontinuities in two successive demographic transitions
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.4](https://doi.org/10.4054/demres.2013.28.4)
 **作者**: Lesthaeghe, Ron; López-Gay, Antonio
-**摘要**: （暂无）
+**摘要**: This is a study of how the synergisms between cultural and structural factors, which played a major role during the historical fertility and nuptiality transition (first demographic transition or FDT), have continued to condition demographic innovation
 
 ### Age, education, and earnings in the course of Brazilian development: Does composition matter?
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.20](https://doi.org/10.4054/demres.2013.28.20)
 **作者**: Amaral, Ernesto F.L.; Potter, Joseph E.; Hamermesh, Daniel 等4人
-**摘要**: （暂无）
+**摘要**: These trends might be a consequence of technological shifts and increasing demand for labor with either education or experience. Compositional shifts are influential, which suggests that this approach could prove useful in studying this central problem in economic development.
 
 ### Prenatal malnutrition and subsequent foetal loss risk: Evidence from the 1959-1961 Chinese famine
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.26](https://doi.org/10.4054/demres.2013.29.26)
 **作者**: Song, Shige
-**摘要**: （暂无）
+**摘要**: Scientists disagree on whether prenatal malnutrition has long-term influences on women's reproductive function, and empirical evidence of such long-term effects remains limited and inconsistent.
 
 ### Characteristics of joint physical custody families in Flanders
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.29](https://doi.org/10.4054/demres.2013.28.29)
 **作者**: Sodermans, An Katrien; Matthijs, Koen; Swicegood, Gray
-**摘要**: （暂无）
+**摘要**: Research conducted in the 1990s showed that children who live alternately with their mother and father after divorce (joint physical custody) have closer relationships with both parents and better emotional outcomes. In 1995 and 2006, joint legal custody a
 
 ### Modeling reproductive decisions with simple heuristics
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.24](https://doi.org/10.4054/demres.2013.29.24)
 **作者**: Todd, Peter; Hills, Thomas; Hendrickson, Andrew
-**摘要**: （暂无）
+**摘要**: Many of the reproductive decisions that humans make happen without much planning or forethought, arising instead through the use of simple choice rules or heuristics that involve relatively little information and processing. Nonetheless, these heuristic-gu
 
 ### Perceived risk of HIV infection and mental health in rural Malawi
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.13](https://doi.org/10.4054/demres.2013.28.13)
 **作者**: Hsieh, Ning
-**摘要**: （暂无）
+**摘要**: The emerging literature on HIV/AIDS and mental health in sub-Saharan Africa stresses that HIV-positive status is significantly related to mental illness. However, the literature has neglected an equally important concern in contexts where HIV is highly pre
 
 ### Nonresident Fathers and Formal Child Support: Evidence from the CPS, NSFG, and SIPP
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.29.46](https://doi.org/10.4054/demres.2013.29.46)
 **作者**: Stykes, J. Bart; Manning, Wendy; Brown, Susan L.
-**摘要**: （暂无）
+**摘要**: Since the beginning of the 1980s, researchers have been raising concerns that surveys underestimated nonresident fatherhood due to sampling and questionnaire effects. Consequently, federal data collection efforts focused resources on reports from custodial
 
 ### Indigenous life expectancy in Sweden 1850-1899: Towards a long and healthy life?
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.16](https://doi.org/10.4054/demres.2013.28.16)
 **作者**: Karlsson, Lena
-**摘要**: （暂无）
+**摘要**: Previous research has shown that the health transition and demographical pattern of indigenous people has followed a different path compared to non-indigenous groups living in the same area with higher mortality rates and shortened life expectancy at birth
 
 ### Disentangling how educational expansion did not increase women's age at union formation in Latin America from 1970 to 2000
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.3](https://doi.org/10.4054/demres.2013.28.3)
 **作者**: Esteve, Albert; López-Ruiz, Luis Ángel; Spijker, Jeroen
-**摘要**: （暂无）
+**摘要**: One of the most salient features of Latin American marriages over the last few decades is the stable timing of their union formation, despite educational expansion, the postponement of and retreat from marriage, and the increase in non-marital cohabitation
 
 ### A Stata module for computing fertility rates and TFRs from birth histories: tfr2
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.38](https://doi.org/10.4054/demres.2013.28.38)
 **作者**: Schoumaker, Bruno
-**摘要**: （暂无）
+**摘要**: Since the 1970s, birth history data have become widely available, thanks to the World Fertility survey and the Demographic and Health Surveys programs. Despite their wide availability, these data remain under-exploited. Computation, even of simple indicato
 
 ### What is on a Demographer’s Mind?
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.26.16](https://doi.org/10.4054/demres.2012.26.16)
 **作者**: van Dalen, Hendrik P.; Henkens, Kène
-**摘要**: （暂无）
+**摘要**: Over the years, the community of demographers has grown in numbers and research interests, and has become increasingly interdisciplinary. The question is whether this process of growth and diversity has led to a fragmented community of demographers.
 
 ### Family ties and depression across the life course: An Overview
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.27.8](https://doi.org/10.4054/demres.2012.27.8)
 **作者**: Moor, Nienke; Komter, Aafke
-**摘要**: （暂无）
+**摘要**: Family ties in Europe are affected by demographic trends associated with parenting and partnering, such as a decline in fertility, an increase in childlessness, postponement of parenthood and of partnership formation, the rise of "new" relationship forms a
 
 ### Economic Uncertainty and Family Dynamics in Europe
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.27.28](https://doi.org/10.4054/demres.2012.27.28)
 **作者**: Kreyenfeld, Michaela; Andersson, Gunnar; Pailhé, Ariane
-**摘要**: （暂无）
+**摘要**: Economic uncertainty has become an increasingly important factor in explanations of declining fertility and postponed family formation across Europe. Yet the micro-level evidence on this topic is still limited.
 
 ### Living arrangements, intergenerational support types and older adult loneliness in Eastern and Western Europe
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.27.7](https://doi.org/10.4054/demres.2012.27.7)
 **作者**: Gierveld, Jenny; Dykstra, Pearl A.; Schenk, Niels
-**摘要**: （暂无）
+**摘要**: Previous research has shown that living arrangements (independent households of those living alone or as a couple, versus coresident households encompassing adult children) are important determinants of older adultsâ loneliness. However, little is known ab
 
 ### Couple disagreement about short-term fertility desires in Austria: Effects on intentions and contraceptive behaviour
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.26.3](https://doi.org/10.4054/demres.2012.26.3)
 **作者**: Testa, Maria Rita
-**摘要**: （暂无）
+**摘要**: Because of the dyadic nature of reproduction, the couple is the most suitable context for studying reproductive decision-making.
 
 ### Like daughter, like son? Fertility decline and the transformation of gender systems in the family
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.27.16](https://doi.org/10.4054/demres.2012.27.16)
 **作者**: Allendorf, Keera
-**摘要**: （暂无）
+**摘要**: An important question for population research is whether fertility decline transforms gender systems.
 
 ### Intergenerational Transfers in the Era of HIV/AIDS: Evidence from Rural Malawi
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.27.27](https://doi.org/10.4054/demres.2012.27.27)
 **作者**: Kohler, Iliana; Kohler, Hans-Peter; Anglewicz, Phil 等4人
-**摘要**: （暂无）
+**摘要**: Our findings are that: (1) intergenerational financial and non-financial transfers are widespread and a key characteristic of family relationships in rural Malawi; (2) downward and upward transfers are importantly constrained and determined by the availability of transfer partners (parents or adult …
 
 ### From desires to behavior
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.26.20](https://doi.org/10.4054/demres.2012.26.20)
 **作者**: Hayford, Sarah R.; Agadjanian, Victor
-**摘要**: （暂无）
+**摘要**: Both factors related to the ability to carry out desires to stop childbearing and factors related to the strength and consistency of these desires moderate the association between desires and behaviors.…
 
 ### Further evidence of community education effects on fertility in sub-Saharan Africa
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.27.22](https://doi.org/10.4054/demres.2012.27.22)
 **作者**: Kravdal, Øystein
-**摘要**: （暂无）
+**摘要**: Earlier investigations have shown that a woman's chance of having a child, or various proximate determinants of her fertility, are influenced by the socioeconomic resources in the community in which she lives, net of her own resources.
 
 ### Natural resources and rural livelihoods
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.26.24](https://doi.org/10.4054/demres.2012.26.24)
 **作者**: Nawrotzki, Raphael; Hunter, Lori; Dickinson, Thomas W.
-**摘要**: （暂无）
+**摘要**: Although we cannot examine livelihood strategies per se, the results suggest variation in livelihood potential among migrants and non-migrants in rural Madagascar, with migrants tending to have greater capital assets. In addition, access to natural resources is a central livelihood strategy.
 
 ### Mortality decline and reproductive change during the Dutch demographic transition
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.27.11](https://doi.org/10.4054/demres.2012.27.11)
 **作者**: van Poppel, Frans; Reher, David; Sanz-Gimeno, Alberto 等5人
-**摘要**: （暂无）
+**摘要**: According to classic demographic transition theory, mortality change is the key factor that triggers a decline in fertility. Research on this topic has mostly relied on aggregate or time series data. Since fertility is based on the joint decisions of coupl
 
 ### Mapping the results of local statistics
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.26.6](https://doi.org/10.4054/demres.2012.26.6)
 **作者**: Matthews, Stephen; Yang, Tse-Chuan
-**摘要**: （暂无）
+**摘要**: The application of geographically weighted regression (GWR) - a local spatial statistical technique used to test for spatial nonstationarity - has grown rapidly in the social, health and demographic sciences.…
 
 ### Discussing the Strehler-Mildvan model of mortality
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.26.9](https://doi.org/10.4054/demres.2012.26.9)
@@ -3628,292 +3628,292 @@
 ### Labour market integration, occupational uncertainty, and fertility choices in Germany and the UK
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.26.12](https://doi.org/10.4054/demres.2012.26.12)
 **作者**: Schmitt, Christian
-**摘要**: （暂无）
+**摘要**: The aim of this paper is to investigate how occupational prospects affect first-birth decisions of men and women. Contrasting the continental conservative German welfare state with the liberal market economy of the UK, the focus of analyses rests on ho
 
 ### The mystery of Japan's missing centenarians explained
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.26.11](https://doi.org/10.4054/demres.2012.26.11)
 **作者**: Saito, Yasuhiko; Yong, Vanessa; Robine, Jean-Marie
-**摘要**: （暂无）
+**摘要**: This report elucidates the issue of Japan's missing centenarians, which was uncovered in 2010. We provide the latest figures from verification efforts, discuss sources of centenarian information in Japan, examine possible causes, and evaluate the effect of the missing centenarians on official statis…
 
 ### Detecting the Evolution of Deliberate Fertility Control before the Demographic Transition in Germany
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.27.19](https://doi.org/10.4054/demres.2012.27.19)
 **作者**: Amialchuk, Aliaksandr; Dimitrova, Elitsa
-**摘要**: （暂无）
+**摘要**: Previous literature has established the existence of deliberate non-parity-specific fertility control in pre-transitional populations. However, less focus has been given to the timing of its onset. In addition, previous studies focused on the changes in fe
 
 ### Social mobility and demographic behaviour: Long term perspectives
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.26.8](https://doi.org/10.4054/demres.2012.26.8)
 **作者**: Dribe, Martin; Van Bavel, Jan; Campbell, Cameron
-**摘要**: （暂无）
+**摘要**: We introduce a collection of papers that examine interactions between demographic behavior and social mobility via analysis of historical and contemporary longitudinal, individual- and household-level socioeconomic and demographic data. The authors origina
 
 ### Point and interval forecasts of age-specific life expectancies
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.27.21](https://doi.org/10.4054/demres.2012.27.21)
 **作者**: Shang, Han Lin
-**摘要**: （暂无）
+**摘要**: Any improvement in the forecast accuracy of life expectancy would be beneficial for policy decision regarding the allocation of current and future resources. In this paper, I revisit some methods for forecasting age-specific life expectancies.
 
 ### Whose job instability affects the likelihood of becoming a parent in Italy? A tale of two partners
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.26.2](https://doi.org/10.4054/demres.2012.26.2)
 **作者**: Vignoli, Daniele; Drefahl, Sven; De Santis, Gustavo
-**摘要**: （暂无）
+**摘要**: We examine the likelihood of becoming a parent in Italy taking into account the employment (in)stability of both partners in a couple. We use data from four waves of the Italian section of the EU-SILC (Statistics on Income and Living Condition), 2004-2
 
 ### Employment and household tasks of Japanese couples, 1994-2009
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.27.24](https://doi.org/10.4054/demres.2012.27.24)
 **作者**: Tsuya, Noriko O.; Bumpass, Larry L.; Choe, Minja K. 等4人
-**摘要**: （暂无）
+**摘要**: The paper examines changes in the relationship between employment and household tasks of Japanese couples, using data drawn from national cross-sectional surveys in 1994, 2000 and 2009 of persons aged 20-49 and from the 2009 follow-up of the 2000 survey.…
 
 ### The intermediate effect of geographic proximity on intergenerational support
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.27.17](https://doi.org/10.4054/demres.2012.27.17)
 **作者**: Heylen, Leen; Mortelmans, Dimitri; Hermans, Maarten 等4人
-**摘要**: （暂无）
+**摘要**: The geographic proximity of parents and adult children is a key element of intergenerational solidarity. Many studies have identified geographical distance as an important determinant of intergenerational support: living nearby increases the amount of mutu
 
 ### The contribution of smoking to regional mortality differences in the Netherlands
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.27.9](https://doi.org/10.4054/demres.2012.27.9)
 **作者**: Janssen, Fanny; Spriensma, Alette
-**摘要**: （暂无）
+**摘要**: Smoking is an important preventable determinant of morbidity and mortality. Knowledge about its role in regional mortality differences can help us to identify relevant policy areas, and to explain national mortality differences.
 
 ### Demography, foreclosure, and crime:
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.26.18](https://doi.org/10.4054/demres.2012.26.18)
 **作者**: Arnio, Ashley N.; Baumer, Eric P.
-**摘要**: （暂无）
+**摘要**: The present research evaluates the possibility of spatial heterogeneity in the effects on neighborhood crime rates of both traditional demographic indicators - immigrant concentration, racial composition, socioeconomic disadvantage, and residential instabi
 
 ### Point process models for household distributions within small areal units
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.26.22](https://doi.org/10.4054/demres.2012.26.22)
 **作者**: Almquist, Zack W.; Butts, Carter T.
-**摘要**: （暂无）
+**摘要**: Spatio-demographic data sets are increasingly available worldwide, permitting ever more realistic modeling and analysis of social processes ranging from mobility to disease transmission. The information provided by these data sets is typically aggregat
 
 ### Estimating trends in the total fertility rate with uncertainty using imperfect data
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.26.15](https://doi.org/10.4054/demres.2012.26.15)
 **作者**: Alkema, Leontine; Raftery, Adrian E.; Gerland, Patrick 等5人
-**摘要**: （暂无）
+**摘要**: When working with multiple imperfect observations from different data sources to estimate the total fertility rate, or demographic indicators in general, potential biases and differences in error variance should be taken into account to improve the estimates and their uncertainty assessment.
 
 ### Stationary populations with below-replacement fertility
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.26.14](https://doi.org/10.4054/demres.2012.26.14)
 **作者**: Schmertmann, Carl
-**摘要**: （暂无）
+**摘要**: A population with sustained below-replacement fertility and constant immigration eventually becomes stationary. Stationary-through-immigration (SI) populations have unusual age structures that depend on the distribution of immigrants' arrival ages.
 
 ### Labor-market status, migrant status and first childbearing in Sweden
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.27.25](https://doi.org/10.4054/demres.2012.27.25)
 **作者**: Lundström, Karin; Andersson, Gunnar
-**摘要**: （暂无）
+**摘要**: Labor market uncertainties and employment insecurity have emerged as increasingly important factors in research on family formation and fertility.
 
 ### Is fertility stalling in Jordan?
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.26.13](https://doi.org/10.4054/demres.2012.26.13)
 **作者**: Cetorelli, Valeria; Leone, Tiziana
-**摘要**: （暂无）
+**摘要**: Most of the recent literature on fertility stalls has concentrated on sub-Saharan Africa and has highlighted flaws in DHS data. No similar detailed research exists for presumed stalls occurring in countries outside that region. This is particularly surpris
 
 ### Premarital conceptions, postconception ("shotgun") marriages, and premarital first births
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.27.6](https://doi.org/10.4054/demres.2012.27.6)
 **作者**: England, Paula; Shafer, Emily Fitzgibbons; Wu, Lawrence
-**摘要**: （暂无）
+**摘要**: In the U.S. today, premarital first births occur disproportionately to women with low education and income. We lack studies of whether this education gradient was present in cohorts born earlier.
 
 ### European views of divorce among parents of young children
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.27.2](https://doi.org/10.4054/demres.2012.27.2)
 **作者**: Rijken, Arieke; Liefbroer, Aart C.
-**摘要**: （暂无）
+**摘要**: We examine differences across Europe in attitudes towards divorce involving children under the age of 12. We hypothesize that these attitudes are less favourable in countries where poverty among single parent households is common than in countries where su
 
 ### Untraditional caring arrangements among parents living apart
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.27.5](https://doi.org/10.4054/demres.2012.27.5)
 **作者**: Kitterød, Ragni Hege; Lyngstad, Jan
-**摘要**: （暂无）
+**摘要**: In spite of quite symmetric parental roles in Norway, shared residence and father sole custody are still rare when parents split up. Several countries have witnessed an increase in shared residence for children recently, and this is also the case in Norway
 
 ### Whose education affects a child’s nutritional status? From parents' to household's education
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.27.23](https://doi.org/10.4054/demres.2012.27.23)
 **作者**: Burchi, Francesco
-**摘要**: （暂无）
+**摘要**: The paper engages in the ongoing debate regarding the determinants of child nutrition in developing countries and stresses the potential contribution of the education of household members other than the childâs parents.
 
 ### Spatially varying predictors of teenage birth rates among counties in the United States
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.27.14](https://doi.org/10.4054/demres.2012.27.14)
 **作者**: Shoff, Carla; Yang, Tse-Chuan
-**摘要**: （暂无）
+**摘要**: BACKGROUND: Limited information is available about teenage pregnancy and childbearing in rural areas, even though approximately 20 percent of the nation's youth live in rural areas. Identifying whether there are differences in the teenage birth rate (TBR) across metropolitan and nonmetropolitan area…
 
 ### Changes in educational differentials in old-age mortality in Finland and Sweden between 1971-1975 and 1996-2000
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.26.19](https://doi.org/10.4054/demres.2012.26.19)
 **作者**: Zarulli, Virginia; Jasilionis, Domantas; Jdanov, Dmitri A.
-**摘要**: （暂无）
+**摘要**: The majority of the studies on developed countries confirm that socioeconomic mortality inequalities have been persisting or even widening. It has also been suggested that inequalities have been becoming increasingly important for old ages.
 
 ### Family life and developmental idealism in Yazd, Iran
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.26.10](https://doi.org/10.4054/demres.2012.26.10)
 **作者**: Abbasi Shavazi, Mohammad Jalal; Askari Nodoushan, Abbas; Thornton, Arland
-**摘要**: （暂无）
+**摘要**: BACKGROUND: This paper is motivated by the theory that developmental idealism has been disseminated globally and has become an international force for family and demographic change. Developmental idealism is a set of cultural beliefs and values about development and how development relates to family…
 
 ### The temporal dynamics of international migration in Europe: Recent trends
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.26.21](https://doi.org/10.4054/demres.2012.26.21)
 **作者**: DeWaard, Jack; Raymer, James
-**摘要**: （暂无）
+**摘要**: Descriptive studies of international migration typically rely on measures of migrant stocks and migration rates to assess migration patterns. In this paper, we propose a third alternative. Using harmonized data on age-specific migration flows from and
 
 ### How life expectancy varies with perturbations in age-specific mortality
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.27.13](https://doi.org/10.4054/demres.2012.27.13)
 **作者**: Wrycza, Tomasz; Baudisch, Annette
-**摘要**: （暂无）
+**摘要**: A naturally arising question in demography is how a given change in mortality affects life expectancy. Scholars have targeted this question with different aims and from different perspectives.
 
 ### The Second Demographic Transition in Israel: One for All?
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.27.10](https://doi.org/10.4054/demres.2012.27.10)
 **作者**: Bystrov, Evgenia
-**摘要**: （暂无）
+**摘要**: This article explores family behaviours and attitudes in Israel over the last decades through the lens of the Second Demographic Transition (SDT). Israel is divided by religious affiliation, the level of religiosity, ethnic origin and timing of immigra
 
 ### Generational interdependencies in families
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.27.18](https://doi.org/10.4054/demres.2012.27.18)
 **作者**: Dykstra, Pearl A.; Komter, Aafke
-**摘要**: （暂无）
+**摘要**: We identify four research themes where MULTILINKS, a programme of research on intergenerational family ties funded through the Seventh Framework of the European Commission, has brought new and unique insights. Key premises of the MULTILINKS approach involv
 
 ### Grandparenting and mothers’ labour force participation: A comparative analysis using the Generations and Gender Survey
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.27.3](https://doi.org/10.4054/demres.2012.27.3)
 **作者**: Aassve, Arnstein; Arpino, Bruno; Goisis, Alice
-**摘要**: （暂无）
+**摘要**: It is well known that the provision of public childcare plays an important role for women labour force participation and its availability varies tremendously across countries. In many countries, informal childcare is also important and typically provided b
 
 ### Old age, health and social inequality
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.26.23](https://doi.org/10.4054/demres.2012.26.23)
 **作者**: Edvinsson, Sören; Broström, Göran
-**摘要**: （暂无）
+**摘要**: Social position is one of the major determinants of health. Less is known about its effect in historical contexts. Previous studies have shown surprisingly small effects of social class in working age populations. Not much is known about social differences
 
 ### The difference between alternative averages
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.27.15](https://doi.org/10.4054/demres.2012.27.15)
 **作者**: Vaupel, James W.; Zhang, Zhen
-**摘要**: （暂无）
+**摘要**: Relationship 2 Proof 3 History and related results 4 Applications 4.1 Average family sizes weighted by mothers and by children 4.2 Effect of changes in fertility 4.3 Change in number of births due to population growth 4.4 Weighted vs. unweighted averages References
 
 ### Smoothing and projecting age-specific probabilities of death by TOPALS
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.27.20](https://doi.org/10.4054/demres.2012.27.20)
 **作者**: de Beer, Joop
-**摘要**: （暂无）
+**摘要**: TOPALS is a new relational model for smoothing and projecting age schedules. The model is operationally simple, flexible, and transparent.
 
 ### Sampling and Surveying Hard-to-Reach Populations for Demographic Research
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.26.5](https://doi.org/10.4054/demres.2012.26.5)
 **作者**: Agadjanian, Victor; Zotova, Natalya
-**摘要**: （暂无）
+**摘要**: Because household-based survey designs are notoriously ineffective in studying hard-to-reach groups such as irregular migrants, these groups, however numerically large they may be, are rarely represented in demographic analyses. In this paper, we repor
 
 ### Do women delay family formation in expensive housing markets?
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.27.1](https://doi.org/10.4054/demres.2012.27.1)
 **作者**: Clark, William A.V.
-**摘要**: （暂无）
+**摘要**: The effect of being in an expensive housing market is a delay of first births by three to four years, after controlling for education, ethnicity and labor market participation. However, the relatively modest fit of individual models suggest that while the housing market may play a role it is also cl…
 
 ### Estimates of Age-Specific Reductions in HIV Prevalence in Uganda: Bayesian Melding Estimation and Probabilistic Population Forecast with an HIV-enabled Cohort Component Projection Model
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.27.26](https://doi.org/10.4054/demres.2012.27.26)
 **作者**: Clark, Samuel J.; Thomas, Jason; Bao, Le
-**摘要**: （暂无）
+**摘要**: We demonstrate that: (1) it is possible to model HIV epidemics in Africa taking account of sex and age, (2) there are important advantages to the Bayesian estimation method, including rigorous quantification of uncertainty and the ability to make probabilistic forecasts, and (3) that there were impo…
 
 ### Regional family cultures and child care by grandparents in Europe
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.27.4](https://doi.org/10.4054/demres.2012.27.4)
 **作者**: Jappens, Maaike; Van Bavel, Jan
-**摘要**: （暂无）
+**摘要**: Child care is widely considered a key issue in confronting demographic change in Europe today, given its centrality in the labour market participation of parents, and of mothers in particular. There are considerable international differences in child care
 
 ### Historical Addendum to "Life lived equals life left in stationary populations"
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.26.7](https://doi.org/10.4054/demres.2012.26.7)
 **作者**: Goldstein, Joshua R.
-**摘要**: （暂无）
+**摘要**: This note provides some earlier history of the relationship given in FormalRelationships1, "Life left equals life lived in stationary populations," (Goldstein2009) and shows that while the expectation of life at the mean age of the population is close
 
 ### The fertility of immigrants after arrival: The Italian case
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.26.4](https://doi.org/10.4054/demres.2012.26.4)
 **作者**: Mussino, Eleonora; Strozza, Salvatore
-**摘要**: （暂无）
+**摘要**: Previous studies show that migration and fertility may be strongly connected and that the migration history and duration of stay should be included in the analysis of reproductive behavior of foreign women.
 
 ### Educational differences in chronic conditions and their role in the educational differences in overall mortality
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.27.12](https://doi.org/10.4054/demres.2012.27.12)
 **作者**: Castro, Ruben
-**摘要**: （暂无）
+**摘要**: Demographers use different models to decompose the prevalence of given health conditions. This article discusses how these models can help us understand the ways in which these conditions affect overall mortality. In particular, this framework can be u
 
 ### Space, race, and poverty: Spatial inequalities in walkable neighborhood amenities?
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.26.17](https://doi.org/10.4054/demres.2012.26.17)
 **作者**: Duncan, Dustin T.; Aldstadt, Jared; Whalen, John 等6人
-**摘要**: （暂无）
+**摘要**: Future research in other geographic areas (including international contexts) and using different definitions of neighborhoods (including small-area definitions) should evaluate if spatial inequalities are found using composite measures but also should use measures of specific neighborhood amenities.
 
 ### The influence of employment uncertainty on childbearing in France: A tempo or quantum effect?
 **年份**: 2012 | **DOI**: [10.4054/demres.2012.26.1](https://doi.org/10.4054/demres.2012.26.1)
 **作者**: Pailhé, Ariane; Solaz, Anne
-**摘要**: （暂无）
+**摘要**: This paper investigates whether unemployment and insecure employment periods merely delay fertility or also impact on completed fertility in France. It analyses both the timing of first childbearing and the fertility reached at age 40. Different indica
 
 ### Should governments in Europe be more aggressive in pushing for gender equality to raise fertility? The first "YES"
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.7](https://doi.org/10.4054/demres.2011.24.7)
 **作者**: Toulemon, Laurent
-**摘要**: （暂无）
+**摘要**: Together with three colleagues, I have been asked by the MPIDR to debate the following question: âShould governments in Europe be more aggressive in pushing for gender equality to raise fertility? Setting aside the âlightheartedâ side of this âRostock
 
 ### Self-perceived health in Belarus: Evidence from the income and expenditures of households survey
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.23](https://doi.org/10.4054/demres.2011.24.23)
 **作者**: Grigoriev, Pavel; Grigorieva, Olga
-**摘要**: （暂无）
+**摘要**: Based on data from five cross-sectional household surveys conducted during 1996-2007, this study provides initial results of an analysis of self-perceived health in Belarus. The findings suggest that there has been a compression of morbidity. Self-perc
 
 ### Out of Sync? Demographic and other social science research on health conditions in developing countries
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.2](https://doi.org/10.4054/demres.2011.24.2)
 **作者**: Behrman, Jere; Behrman, Julia; Perez, Nykia M.
-**摘要**: （暂无）
+**摘要**: In this paper, we present a framework for considering whether the marginal social benefits of demographic and social science research on various health conditions in developing countries are likely to be relatively high.…
 
 ### A new relational method for smoothing and projecting age-specific fertility rates: TOPALS
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.18](https://doi.org/10.4054/demres.2011.24.18)
 **作者**: de Beer, Joop
-**摘要**: （暂无）
+**摘要**: Age-specific fertility rates can be smoothed using parametric models or splines. Alternatively a relational model can be used which relates the age profile to be fitted or projected to a standard age schedule. This paper introduces TOPALS (tool for pro
 
 ### Changes in the age-at-death distribution in four low mortality countries: A nonparametric approach
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.25.19](https://doi.org/10.4054/demres.2011.25.19)
 **作者**: Ouellette, Nadine; Bourbeau, Robert
-**摘要**: （暂无）
+**摘要**: Since the beginning of the twentieth century, important transformations have occurred in the age-at-death distribution within human populations. We propose a flexible nonparametric smoothing approach based on P-splines to refine the monitoring of these
 
 ### The potential impact of intermarriage on the population decline of the Parsis of Mumbai, India
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.25.17](https://doi.org/10.4054/demres.2011.25.17)
 **作者**: Shroff, Zubin; Castro, Márcia C.
-**摘要**: （暂无）
+**摘要**: The Parsis, a community of Iranian descent, are an important ethno-religious minority group in India. Over the past few decades this group has shown a sharp numerical decline. The Parsis in India are endogamous and children of women married outside the
 
 ### Does nativity matter?
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.32](https://doi.org/10.4054/demres.2011.24.32)
 **作者**: Buckley, Cynthia; Hofmann, Erin; Minagawa-Sugawara, Yuka
-**摘要**: （暂无）
+**摘要**: The Russian Federation has experienced simultaneous declines in health and rises in international migration. Guided by the âhealthy migrant effectâ found elsewhere, we examine two questions. First, do the foreign-born in the Russian Federation exhibit
 
 ### Gender equality and fertility intentions revisited
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.20](https://doi.org/10.4054/demres.2011.24.20)
 **作者**: Miettinen, Anneli; Gietel-Basten, Stuart; Rotkirch, Anna
-**摘要**: （暂无）
+**摘要**: Stimulated by the recent debate on gender roles and menâs fertility behaviour (Puur et al. 2008; Westoff and Higgins 2009; Goldscheider, OlÃ¡h and Puur 2010), we present evidence from Finland as a country well into the second phase of the so-called gend
 
 ### Things change: Women’s and men’s marital disruption dynamics in Italy during a time of social transformations, 1970-2003
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.5](https://doi.org/10.4054/demres.2011.24.5)
 **作者**: Salvini, Silvana; Vignoli, Daniele
-**摘要**: （暂无）
+**摘要**: We study womenâs and menâs marital disruption in Italy between 1970 and 2003. By applying an event-history analysis to the 2003 Italian variant of the Generations and Gender Survey we found that the spread of marital disruption started among middle-hig
 
 ### A Dynamic Extension of the Period Life Table
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.34](https://doi.org/10.4054/demres.2011.24.34)
 **作者**: Denton, Frank T.; Spencer, Byron G.
-**摘要**: （暂无）
+**摘要**: The standard period life table is based entirely on the death probabilities of the given period. Popular (not expert) usage of life expectancies from a period table typically ignores the fact that the expectancies make no allowance for future declines
 
 ### An inquiry into the uneven distribution of women’s HIV infection in rural Malawi
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.25.28](https://doi.org/10.4054/demres.2011.25.28)
 **作者**: Poulin, Michelle; Muula, Adamson S.
-**摘要**: （暂无）
+**摘要**: Ecological comparisons in sub-Saharan Africa show that HIV prevalence is lower where men are generally circumcised than where they are not. Randomized controlled trials have found a 50-60% reduction in HIV acquisition for newly circumcised men.…
 
 ### Should governments in Europe be more aggressive in pushing for gender equality to raise fertility? The second "NO"
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.10](https://doi.org/10.4054/demres.2011.24.10)
 **作者**: Neyer, Gerda
-**摘要**: （暂无）
+**摘要**: This paper argues against the suggestion that governments should push for gender equality more aggressively in order to raise fertility. The paper presents a threefold "no" to this proposal.…
 
 ### Exploring the meaning of context for health: Community influences on child health in South India
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.15](https://doi.org/10.4054/demres.2011.24.15)
 **作者**: Luke, Nancy; Xu, Hongwei
-**摘要**: （暂无）
+**摘要**: Much research attention has been devoted to community context and health. Communities are often defined as residential spaces, such as neighborhoods, or as social groupings, such as caste in India.…
 
 ### The crossover between life expectancies at birth and at age one: The imbalance in the life table
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.4](https://doi.org/10.4054/demres.2011.24.4)
 **作者**: Canudas-Romo, Vladimir; Becker, Stan
-**摘要**: （暂无）
+**摘要**: The single most used demographic measure to describe population health is life expectancy at birth, but life expectancies at ages other than zero are also used in the study of human longevity. Our intuition tells us that the longest life expectancy is
 
 ### Assimilation and emerging health disparities among new generations of U.S. children
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.25.25](https://doi.org/10.4054/demres.2011.25.25)
 **作者**: Hamilton, Erin R.; Cardoso, Jodi Berger; Hummer, Robert A. 等4人
-**摘要**: （暂无）
+**摘要**: This article shows that the prevalence of four common child health conditions increases across generations (from first-generation immigrant children to second-generation U.S.-born children of immigrants to third-and-higher-generation children) within e
 
 ### Economic crisis and recovery: Changes in second birth rates within occupational classes and educational groups
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.16](https://doi.org/10.4054/demres.2011.24.16)
 **作者**: Billingsley, Sunnee
-**摘要**: （暂无）
+**摘要**: This study assesses the decline in second birth rates for men and women across different skill levels in transitional Russia. Changes within educational groups and occupational classes are observed over three distinct time periods: the Soviet era, econ
 
 ### An editorial on plagiarism
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.17](https://doi.org/10.4054/demres.2011.24.17)
 **作者**: Keilman, Nico; Hinde, Andrew; Goldstein, Joshua R.
-**摘要**: （暂无）
+**摘要**: In January this year, we were confronted with a case of plagiarism. One paper that had been submitted last year by a certain person turned out to be written by three other persons. It was presented by the three true authors at a conference in 2010, whe
 
 ### Challenges in moving from macro to micro: Population and family structures in ageing societies
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.25.10](https://doi.org/10.4054/demres.2011.25.10)
 **作者**: Herlofson, Katharina; Hagestad, Gunhild
-**摘要**: （暂无）
+**摘要**: Assumptions are often made about how population ageing on the macro level has altered generational structures of families at the micro level. The purpose of this paper is to increase the awareness of challenges and potential pitfalls in bridging the tw
 
 ### Reproductive contributions of Taiwan´s foreign wives from the top five source countries
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.26](https://doi.org/10.4054/demres.2011.24.26)
 **作者**: Liaw, Kao-Lee; Ji-Ping, Lin; Liu, Chien-Chia
-**摘要**: （暂无）
+**摘要**: This research studies the reproductive contributions of Taiwanâs foreign wives from China, Vietnam, Indonesia, Thailand, and the Philippines, based on applications of the multinomial logit model to the micro data of the 2003 Census of Foreign Spouses.
 
 ### Variance in death and its implications for modeling and forecasting mortality
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.21](https://doi.org/10.4054/demres.2011.24.21)
@@ -3923,292 +3923,292 @@
 ### Exceptional Longevity in Okinawa:
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.25.7](https://doi.org/10.4054/demres.2011.25.7)
 **作者**: Poulain, Michel
-**摘要**: （暂无）
+**摘要**: The topic of this article is the exceptional longevity in Okinawa. This phenomenon should be thoroughly validated at both the individual and population levels. This contribution analyzes the demographic data available for the population of Okinawa, in
 
 ### Divorce risk factors and their variation over time in Spain
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.31](https://doi.org/10.4054/demres.2011.24.31)
 **作者**: Bernardi, Fabrizio; Martínez-Pastor, Juan-Ignacio
-**摘要**: （暂无）
+**摘要**: The aim of this article is to analyse the determinants of marriage dissolution in Spain and their variation over time for women married between 1949 and 2006. Data are drawn from the Survey of Fertility, Family and Values of 2006. The article analyses
 
 ### Linking period and cohort life-expectancy linear increases in Gompertz proportional hazards models
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.19](https://doi.org/10.4054/demres.2011.24.19)
 **作者**: Missov, Trifon; Lenart, Adam
-**摘要**: （暂无）
+**摘要**: In a Gompertz mortality model with constant yearly improvements at all ages, linear increases in period life expectancy correspond to linear increases in the respective cohort life expectancy. The link between the two measures can be given by a simple
 
 ### China’s far below replacement fertility and its long-term impact: Comments on the preliminary results of the 2010 census
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.25.26](https://doi.org/10.4054/demres.2011.25.26)
 **作者**: Zhao, Zhongwei; Chen, Wei
-**摘要**: （暂无）
+**摘要**: The Chinese government conducted its sixth national census in 2010 and released its major results in April 2011. According to the National Bureau of Statistics the quality of the census was very high. Although the currently released census results cons
 
 ### On the correspondence between CAL and lagged cohort life expectancy
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.25](https://doi.org/10.4054/demres.2011.24.25)
 **作者**: Guillot, Michel; Kim, Hyun Sik
-**摘要**: （暂无）
+**摘要**: It has been established that under certain mortality assumptions, the current value of the Cross-sectional Average length of Life (CAL) is equal to the life expectancy for the cohort currently reaching its life expectancy.…
 
 ### Life expectancy
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.11](https://doi.org/10.4054/demres.2011.24.11)
 **作者**: Cohen, Joel E.
-**摘要**: （暂无）
+**摘要**: We give simple upper and lower bounds on life expectancy. In a life-table population, if e(0) is the life expectancy at birth, M is the median length of life, and e(M) is the expected remaining life at age M, then (M+e(M))/2≤e(0)≤M+e(M)/2.
 
 ### Age-specific growth, reproductive values, and intrinsic r
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.33](https://doi.org/10.4054/demres.2011.24.33)
 **作者**: Schoen, Robert
-**摘要**: （暂无）
+**摘要**: The age-specific growth function of an observed population and the reproductive value function based on the populationÂ´s current vital rates determine the intrinsic rate of growth implied by those vital rates through the simple relationship given in eq
 
 ### On the links between employment, partnership quality, and the desire to have a first child
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.24](https://doi.org/10.4054/demres.2011.24.24)
 **作者**: Berninger, Ina; Weiß, Bernd; Wagner, Michael
-**摘要**: （暂无）
+**摘要**: We examine the impact of precarious work (low income and job security satisfaction) on the intention to have a first child. We consider a direct and an indirect effect; the latter is mediated by partnersâ conflict behaviour, conflict level, and partner
 
 ### A note on race, ethnicity and nativity differentials in remarriage in the United States
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.13](https://doi.org/10.4054/demres.2011.24.13)
 **作者**: McNamee, Catherine B.; Raley, R. Kelly
-**摘要**: （暂无）
+**摘要**: The objectives of this study are to produce up-to-date estimates of race/ethnic/nativity differentials for remarriage and repartnership among women in the United States and to see if these differences are due to across-group differences in demographic
 
 ### Constructing a survey over time: Audio-visual feedback and theatre sketches in rural Mali
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.25.22](https://doi.org/10.4054/demres.2011.25.22)
 **作者**: Hertrich, Véronique; Lesclingand, Marie; Quaglia, Martine 等4人
-**摘要**: （暂无）
+**摘要**: Knowledge dissemination is an emerging issue in population studies, both in terms of ethics and data quality. The challenge is especially important in long term follow-up surveys and it requires methodological imagination when the population is illiter
 
 ### Should governments in Europe be more aggressive in pushing for gender equality to raise fertility? The first "NO"
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.8](https://doi.org/10.4054/demres.2011.24.8)
 **作者**: Philipov, Dimiter
-**摘要**: （暂无）
+**摘要**: This paper takes the "no" side in the debate on the question posed in the title. The paper assumes that the dual-earner/dual-carer household model is the most likely aim of policies that push aggressively for gender equality in order to raise fertility.…
 
 ### Point and interval forecasts of mortality rates and life expectancy: A comparison of ten principal component methods
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.25.5](https://doi.org/10.4054/demres.2011.25.5)
 **作者**: Shang, Han Lin; Booth, Heather; Hyndman, Rob
-**摘要**: （暂无）
+**摘要**: Using the age- and sex-specific data of 14 developed countries, we compare the point and interval forecast accuracy and bias of ten principal component methods for forecasting mortality rates and life expectancy. The ten methods are variants and extens
 
 ### The reproductive value as part of the shadow price of population
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.28](https://doi.org/10.4054/demres.2011.24.28)
 **作者**: Feichtinger, Gustav; Kuhn, Michael; Prskawetz, Alexia 等4人
-**摘要**: （暂无）
+**摘要**: The reproductive value (see Fisher 1930) arises as part of the shadow price of the population in a large class of age-structured optimal control models.
 
 ### The contribution of increases in family benefits to Australia’s early 21st-century fertility increase: An empirical analysis
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.25.6](https://doi.org/10.4054/demres.2011.25.6)
 **作者**: Parr, Nick
-**摘要**: （暂无）
+**摘要**: Between 2001 and 2008 Australiaâs total fertility increased from 1.73 to 1.96. This period also saw changes to family benefits, most notably the introduction of a universal, flat-rate at birth payment and an increased subsidisation of child care. This
 
 ### Significance of life table estimates for small populations: Simulation-based study of estimation errors
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.22](https://doi.org/10.4054/demres.2011.24.22)
 **作者**: Scherbov, Sergei; Ediev, Dalkhat
-**摘要**: （暂无）
+**摘要**: We study bias, standard errors, and distributions of characteristics of life tables for small populations. Theoretical considerations and simulations show that statistical efficiency of different methods is, above all, affected by the population size.
 
 ### HIV/AIDS and time allocation in rural Malawi
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.27](https://doi.org/10.4054/demres.2011.24.27)
 **作者**: Bignami, Simona; Van Assche, Ari; Anglewicz, Phil 等5人
-**摘要**: （暂无）
+**摘要**: AIDS-related morbidity and mortality are expected to have a large economic impact in rural Malawi, because they reduce the time that adults can spend on production for subsistence and on income-generating activities.…
 
 ### Who fears and who welcomes population decline?
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.25.13](https://doi.org/10.4054/demres.2011.25.13)
 **作者**: van Dalen, Hendrik P.; Henkens, Kène
-**摘要**: （暂无）
+**摘要**: European countries are experiencing population decline and the tacit assumption in most analyses is that the decline may have detrimental welfare effects. In this paper we use a survey among the population in the Netherlands to discover whether populat
 
 ### The effects of integration and transnational ties on international return migration intentions
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.25.24](https://doi.org/10.4054/demres.2011.25.24)
 **作者**: de Haas, Hein; Fokkema, Tineke
-**摘要**: （暂无）
+**摘要**: While return migration is receiving increasing attention, there is still insufficient insight into the factors which determine migrantsâ intentions and decisions to return. It is often assumed that integration in receiving countries and the concomitant
 
 ### Constraint or choice? Disentangling fertility determinants by switching regressions
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.25.23](https://doi.org/10.4054/demres.2011.25.23)
 **作者**: Sax, Christoph
-**摘要**: （暂无）
+**摘要**: In 1953, many poor countries had not yet approached the demographic transition. Accordingly, income generally had a positive impact on fertility in poor countries, while it has a negative impact today. EasterlinÂ´s supply-demand framework offers an expl
 
 ### A summary period measure of immigrant advancement in the U.S.
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.12](https://doi.org/10.4054/demres.2011.24.12)
 **作者**: Pitkin, John; Myers, Dowell
-**摘要**: （暂无）
+**摘要**: This paper proposes a method for summarizing the pace of advancement of the foreign-born population in a given period. The method standardizes for variations in the duration of residence or age composition of immigrant groups, attainments possessed by
 
 ### Preface to the Rostock Debate on Demographic Change
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.6](https://doi.org/10.4054/demres.2011.24.6)
 **作者**: Bernardi, Laura; Hetze, Pascal
-**摘要**: （暂无）
+**摘要**: The first Rostock Debate on Demographic Change, which took place on February 21, 2006, centered on the following question: Should governments in Europe push much more aggressively for gender equality to raise fertility? The four debaters were Laurent T
 
 ### Intergenerational family constellations in contemporary Europe
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.25.4](https://doi.org/10.4054/demres.2011.25.4)
 **作者**: Puur, Allan; Sakkeus, Luule; Põldma, Asta 等4人
-**摘要**: （暂无）
+**摘要**: Demographic research has drawn attention to the multiple ways in which changes in mortality and childbearing have produced major shifts in intergenerational family structures. The aim of this article is to contribute to this body of research by analysi
 
 ### Ethnic differentials of the impact of Family Planning Program on contraceptive use in Nepal
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.25.27](https://doi.org/10.4054/demres.2011.25.27)
 **作者**: Sharma, Sharad Kumar; Pratap, Naresh; Ghimire, Dhruba Raj
-**摘要**: （暂无）
+**摘要**: There is wide variation of family planning services use among ethnic groups in Nepal. Despite three decades of implementation the need for family planning services is substantially unmet (25%), and there have been no systematic studies evaluating the i
 
 ### Cohort change, diffusion, and support for gender egalitarianism in cross-national perspective
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.25.21](https://doi.org/10.4054/demres.2011.25.21)
 **作者**: Pampel, Fred
-**摘要**: （暂无）
+**摘要**: Arguments about the spread of gender egalitarian values through a population highlight several sources of change. First, structural arguments point to increases in the proportion of women with high education, jobs with good pay, commitment to careers
 
 ### Household composition across the new Europe: Where do the new Member States fit in?
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.25.14](https://doi.org/10.4054/demres.2011.25.14)
 **作者**: Iacovou, Maria; Skew, Alexandra J.
-**摘要**: （暂无）
+**摘要**: In this paper we present indicators of household structure for 26 of the 27 countries of the post-enlargement European Union. As well as broad indicators of household type, we present statistics on single-person and extended-family households, and on t
 
 ### The changing determinants of UK young adults' living arrangements
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.25.20](https://doi.org/10.4054/demres.2011.25.20)
 **作者**: Stone, Juliet; Berrington, Ann; Falkingham, Jane
-**摘要**: （暂无）
+**摘要**: The postponement of partnership formation and parenthood in the context of an early average age at leaving home has resulted in increased heterogeneity in the living arrangements of young adults in the UK. More young adults now remain in the parental h
 
 ### Gender differences in social mortality differentials in Switzerland (1990-2005)
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.25.8](https://doi.org/10.4054/demres.2011.25.8)
 **作者**: Schumacher, Reto; Vilpert, Sarah
-**摘要**: （暂无）
+**摘要**: Using data from the 1990 and 2000 Swiss Federal Censuses linked to the death records of the years 1990-1995 and 2000-2005, this paper investigates gender differences in mortality differentials by level of educational achievement and by marital status.
 
 ### Intergenerational transmission of women’s educational attainment in South Korea
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.3](https://doi.org/10.4054/demres.2011.24.3)
 **作者**: Kye, Bongoh
-**摘要**: （暂无）
+**摘要**: Using a multi-group population projection model, this study examines the implications of educational mobility and differential demographic rates on changing womenâs educational distribution in South Korea. This article focuses on the implications of a
 
 ### Towards an integrated approach for the analysis of gender equity in policies supporting paid work and care responsibilities
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.25.11](https://doi.org/10.4054/demres.2011.25.11)
 **作者**: Saraceno, Chiara; Keck, Wolfgang
-**摘要**: （暂无）
+**摘要**: This paper aims to develop a conceptual framework for analysing the degree to which public policies support gender equity in paid work and care. Combining the distinction between commodification and decommodification and the distinction between defamil
 
 ### Should governments in Europe be more aggressive in pushing for gender equality to raise fertility? The second "YES"
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.9](https://doi.org/10.4054/demres.2011.24.9)
 **作者**: Oláh, Livia Sz.
-**摘要**: （暂无）
+**摘要**: This paper is based on my contribution to a debate, organized by MPIDR, on the question displayed in the title above. I was asked to present arguments for the "yes"-response (together with Laurent Toulemon, and arguing against the "no"-side represented
 
 ### Thou shalt not pass?
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.1](https://doi.org/10.4054/demres.2011.24.1)
 **作者**: Helgertz, Jonas
-**摘要**: （暂无）
+**摘要**: The paper studies a sample of natives and 18 immigrant nationalities in the Swedish labor market between 1970 and 1990. The purpose is examining the existence of an immigrant specific glass ceiling. Results suggest a considerable overall advantage in t
 
 ### The future of death in America
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.25.1](https://doi.org/10.4054/demres.2011.25.1)
 **作者**: Soneji, Samir; King, Gary
-**摘要**: （暂无）
+**摘要**: Population mortality forecasts are widely used for allocating public health expenditures, setting research priorities, and evaluating the viability of public and private pensions, and health care financing systems.…
 
 ### Children's stunting in sub-Saharan Africa: Is there an externality effect of high fertility?
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.25.18](https://doi.org/10.4054/demres.2011.25.18)
 **作者**: Kravdal, Øystein; Kodzi, Ivy
-**摘要**: （暂无）
+**摘要**: A positive relationship between the number of siblings and a childâs chance of being stunted has been seen in several studies. It is possible that individual stunting risks are also raised by high fertility in the community, partly because of the impac
 
 ### Occupational inequalities in health expectancies in France in the early 2000s: Unequal chances of reaching and living retirement in good health
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.25.12](https://doi.org/10.4054/demres.2011.25.12)
 **作者**: Cambois, Emmanuelle; Laborde, Caroline; Romieu, Isabelle 等4人
-**摘要**: （暂无）
+**摘要**: Increasing life expectancy (LE) raises expectations for social participation at later ages. We computed health expectancies (HE) to assess the (un)equal chances of social/work participation after age 50 in the context of France in 2003. We considered f
 
 ### More on the Cohort-Component Model of Population Projection in the Context of HIV/AIDS: A Leslie Matrix Representation and New Estimates
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.25.2](https://doi.org/10.4054/demres.2011.25.2)
 **作者**: Thomas, Jason; Clark, Samuel J.
-**摘要**: （暂无）
+**摘要**: This article presents an extension of the cohort-component model of population projection (CCMPP) first formulated by Heuveline (2003) that is capable of modeling a population affected by HIV.…
 
 ### Family size and intergenerational social mobility during the fertility transition
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.14](https://doi.org/10.4054/demres.2011.24.14)
 **作者**: Van Bavel, Jan; Moreels, Sarah; Van de Putte, Bart 等4人
-**摘要**: （暂无）
+**摘要**: It has been argued in sociology, economics, and evolutionary anthropology that family size limitation enhances the intergenerational upward mobility chances in modernized societies. If parents have a large flock, family resources get diluted and interg
 
 ### The interplay of employment uncertainty and education in explaining second births in Europe
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.25.16](https://doi.org/10.4054/demres.2011.25.16)
 **作者**: Adserà, Alícia
-**摘要**: （暂无）
+**摘要**: This paper analyzes how labor market instability since the late 1980s in Europe mediated decisions to second births. In particular, it examines which are the dimensions of economic uncertainty that affect women with different educational backgrounds.…
 
 ### Demographic responses to short-term stress in a 19th century Tuscan population: The case of household out-migration
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.25.15](https://doi.org/10.4054/demres.2011.25.15)
 **作者**: Breschi, Marco; Fornasin, Alessio; Manfredini, Matteo
-**摘要**: （暂无）
+**摘要**: This paper deals with the relationship between household emigration and short-term crisis in a rural community of mid-19th century Tuscany. Based on a detailed reconstruction of individual and household life-histories, the paper shows the close relatio
 
 ### Sampling international migrants with origin-based snowballing method: New evidence on biases and limitations
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.25.3](https://doi.org/10.4054/demres.2011.25.3)
 **作者**: Beauchemin, Cris; González-Ferrer, Amparo
-**摘要**: （暂无）
+**摘要**: This paper provides a methodological assessment of the advantages and drawbacks of the origin-based snowballing technique as a reliable method to construct representative samples of international migrants in destination areas. Using data from the MAFE-
 
 ### MAPLES: A general method for the estimation of age profiles from standard demographic surveys (with an application to fertility)
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.29](https://doi.org/10.4054/demres.2011.24.29)
 **作者**: Impicciatore, Roberto; Billari, Francesco
-**摘要**: （暂无）
+**摘要**: In this paper we present MAPLES (Method for Age Profiles Longitudinal EStimation), a general method for the estimation of age profiles that uses standard micro-level demographic survey data. The aim is to estimate smoothed age profiles and relative ris
 
 ### Economic resources and the first child in Italy: A focus on income and job stability
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.25.9](https://doi.org/10.4054/demres.2011.25.9)
 **作者**: Santarelli, Elisabetta
-**摘要**: （暂无）
+**摘要**: At the turn of the twentieth century Italy registered a lowest-low fertility level, i.e., a total fertility rate of 1.26 children per woman in 2000. In this paper we investigate whether and how in that period economic resources and, in particular, inco
 
 ### Consumption-Driven Environmental Impact and Age Structure Change in OECD Countries
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.30](https://doi.org/10.4054/demres.2011.24.30)
 **作者**: Liddle, Brantley
-**摘要**: （暂无）
+**摘要**: This paper examines two environmental impacts for which population has a substantial demonstrated influence: transport carbon emissions and residential electricity consumption. It takes as its starting point the STIRPAT framework and disaggregates popu
 
 ### Modeling fertility curves in Africa
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.10](https://doi.org/10.4054/demres.2010.22.10)
 **作者**: Gayawan, Ezra; Adebayo, Samson B.; Ipinyomi, Reuben A. 等4人
-**摘要**: （暂无）
+**摘要**: The modeling of fertility patterns is an essential method researchers use to understand world-wide population patterns. Various types of fertility models have been reported in the literature to capture the patterns specific to developed countries. Whil
 
 ### Siblings and human capital: A comparison between Italy and France
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.21](https://doi.org/10.4054/demres.2010.23.21)
 **作者**: Ferrari, Giulia; Dalla Zuanna, Gianpiero
-**摘要**: （暂无）
+**摘要**: This paper investigates how family size affects children's human capital, comparing Italy and France. We tested the dilution effect in these countries, starting with the assumption that the higher the number of siblings, the fewer parental resources are available for each child, and the lower the pr…
 
 ### Can public policies sustain fertility in the Nordic countries?
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.13](https://doi.org/10.4054/demres.2010.22.13)
 **作者**: Rønsen, Marit; Skrede, Kari
-**摘要**: （暂无）
+**摘要**: The collective evidence of past research indicates that Nordic social welfare policies have had positive impacts on fertility. Yet, some patterns cause concern. One concern is that the good recuperation at cohort level partly is explained by relatively
 
 ### The negative educational gradients in Romanian fertility
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.4](https://doi.org/10.4054/demres.2010.22.4)
 **作者**: Muresan, Cornelia; Hoem, Jan M.
-**摘要**: （暂无）
+**摘要**: In Western countries, rates of second and third births typically increase with educational attainment, a feature that usually disappears if unobserved heterogeneity is brought into the event-history analysis. By contrast, in a country like Romania, sec
 
 ### Measuring pregnancy planning
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.11](https://doi.org/10.4054/demres.2010.23.11)
 **作者**: Rocca, Corinne; Krishnan, Suneeta; Barrett, Geraldine 等4人
-**摘要**: （暂无）
+**摘要**: We evaluated the psychometric properties of the London Measure of Unplanned Pregnancy among Indian women using classical methods and Item Response Modeling. The scale exhibited good internal consistency and internal structure, with overall scores correlating well with each item's response categories…
 
 ### Multi-residence in France and Australia
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.1](https://doi.org/10.4054/demres.2010.23.1)
 **作者**: Toulemon, Laurent; Pennec, Sophie
-**摘要**: （暂无）
+**摘要**: With the increasing diversity of family situations, growing numbers of people, including children, have more than one home. In France, nearly 4% of inhabitants are likely to be counted twice in surveys; while in Australia, the proportion is less than 2
 
 ### Attrition in heterogeneous cohorts
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.26](https://doi.org/10.4054/demres.2010.23.26)
 **作者**: Vaupel, James W.; Zhang, Zhen
-**摘要**: （暂无）
+**摘要**: In a heterogeneous cohort, the change with age in the force of mortality or some other kind of hazard or intensity of attrition depends on how the hazard changes with age for the individuals in the cohort and on how the composition of the cohort change
 
 ### Timing of first union among second-generation Turks in Europe
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.16](https://doi.org/10.4054/demres.2010.22.16)
 **作者**: Huschek, Doreen; de Valk, Helga; Liefbroer, Aart C.
-**摘要**: （暂无）
+**摘要**: This study examines the influence of parents and peers on first union timing among the Turkish second generation in Europe using pooled data from the TIES survey. Cross-national differences in union formation are assessed by comparing countries with di
 
 ### Studying historical occupational careers with multilevel growth models
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.24](https://doi.org/10.4054/demres.2010.23.24)
 **作者**: Schulz, Wiebke; Maas, Ineke
-**摘要**: （暂无）
+**摘要**: In this article we propose to study occupational careers with historical data by using multilevel growth models. Historical career data are often characterized by a lack of information on the timing of occupational changes and by different numbers of o
 
 ### Contraceptive use and intent in Guatemala
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.12](https://doi.org/10.4054/demres.2010.23.12)
 **作者**: Grace, Kathryn
-**摘要**: （暂无）
+**摘要**: Guatemala is characterized by low contraceptive use rates and one of the highest fertility rates in the Western Hemisphere. These rates are particularly extreme for the poorest segment of the population and for the indigenous population. T
 
 ### Sensitivity of life disparity with respect to changes in mortality rates
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.3](https://doi.org/10.4054/demres.2010.23.3)
 **作者**: Wagner, Peter
-**摘要**: （暂无）
+**摘要**: This article is concerned with sensitivity analysis of life disparity with respect to changes in mortality rates. A relationship is derived that describes the effect on life disparity caused by a perturbation of the force of mortality. Recently Zhang a
 
 ### Extra-marital sexual partnerships and male friendships in rural Malawi
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.1](https://doi.org/10.4054/demres.2010.22.1)
 **作者**: Clark, Shelley
-**摘要**: （暂无）
+**摘要**: Extra-marital sexual partnerships (EMSPs) are a major route of HIV/AIDS transmission in sub-Saharan Africa. In this paper, we investigate the roles of two types of male friendships - best friends and friends with whom they talk about AIDS - in determining whether men have EMSPs.…
 
 ### Moving close to parents and adult children in the Netherlands: the influence of support needs
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.31](https://doi.org/10.4054/demres.2010.22.31)
 **作者**: Smits, Annika
-**摘要**: （暂无）
+**摘要**: In this paper, the extent to which support needs lead to moves of adult children (aged 30 and above) to within one kilometer of their parents and vice versa is examined. Using Netherlands population data from 2004 and 2005, it is found that the divorce
 
 ### Sibship size and status attainment across contexts: Evidence from the Netherlands, 1840-1925
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.4](https://doi.org/10.4054/demres.2010.23.4)
 **作者**: Bras, Hilde; Kok, Jan; Mandemakers, Kees
-**摘要**: （暂无）
+**摘要**: This paper investigates the effects of sibship size on status attainment across different contexts and subgroups. Resource dilution theory predicts that with larger sibship size, childrenâs status outcomes fall. However, the empirical record has shown
 
 ### Mortality in the Caucasus
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.23](https://doi.org/10.4054/demres.2010.22.23)
 **作者**: Duthé, Géraldine; Badurashvili, Irina; Kuyumjyan, Karine 等5人
-**摘要**: （暂无）
+**摘要**: With the collapse of the Soviet Union, Caucasian countries experienced remarkable migration flows, political conflicts, and deterioration of civil registration systems. The reassessment of Armenian and Georgian population after censuses carried out in
 
 ### Marriage, childbearing, and migration in Kyrgyzstan: Exploring interdependencies
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.7](https://doi.org/10.4054/demres.2010.22.7)
 **作者**: Nedoluzhko, Lesia; Agadjanian, Victor
-**摘要**: （暂无）
+**摘要**: In our study we investigate interdependencies between entry into a marital union, childbearing, and migration. We apply event-history techniques to retrospective data on women aged 18-29 from a survey conducted in northern Kyrgyzstan in 2005 to examine
 
 ### A review of the antecedents of union dissolution
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.10](https://doi.org/10.4054/demres.2010.23.10)
@@ -4218,274 +4218,274 @@
 ### Variations in attitudinal gender preferences for children across 50 less-developed countries
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.36](https://doi.org/10.4054/demres.2010.23.36)
 **作者**: Fuse, Kana
-**摘要**: （暂无）
+**摘要**: While a number of studies have examined gender preferences for children by studying behavioral measures, such as skewed sex ratios, sex imbalance in infant mortality, and sibling size/order; attitudinal measures have been analyzed less systematically.
 
 ### Men´s and women´s economic activity and first marriage: Jews in Israel, 1987-1995
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.29](https://doi.org/10.4054/demres.2010.22.29)
 **作者**: Raz-Yurovich, Liat
-**摘要**: （暂无）
+**摘要**: Using both analysis of the effect of lagged economic and current educational characteristics and analysis of life-course changes in these characteristics, this study provides insights into the theoretical debate concerning the relationships between men
 
 ### Women´s wages and childbearing decisions: Evidence from Italy
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.19](https://doi.org/10.4054/demres.2010.22.19)
 **作者**: Rondinelli, Concetta; Aassve, Arnstein; Billari, Francesco
-**摘要**: （暂无）
+**摘要**: During the early 1990s, Italy became one of the first countries to reach lowest-low fertility. This was also a period in which womenÂ´s education and labour force participation increased. We analyze the role of womenÂ´s (potential) wages on their fertili
 
 ### Trends in educational assortative marriage in China from 1970 to 2000
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.24](https://doi.org/10.4054/demres.2010.22.24)
 **作者**: Han, Hongyun
-**摘要**: （暂无）
+**摘要**: This research examines trends in educational assortative marriage in China among first marriages from 1970 to 2000 using data from the 2000 China Population Census and the 2001 Chinese Demographic Reproductive Health Survey. The results reveal decreasi
 
 ### Patterns of Asexuality in the United States
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.18](https://doi.org/10.4054/demres.2010.23.18)
 **作者**: Poston, Dudley L.; Baumle, Amanda
-**摘要**: （暂无）
+**摘要**: In this paper we use data from the 2002 National Survey of Family Growth (NSFG) to ascertain and analyze patterns of asexuality in the United States. We endeavor to extend the earlier work of Bogaert (2004) on this topic, which focused on patterns of a
 
 ### The compression of deaths above the mode
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.17](https://doi.org/10.4054/demres.2010.22.17)
 **作者**: Thatcher, A. Roger; Cheung, Siu Lan Karen; Horiuchi, Shiro 等4人
-**摘要**: （暂无）
+**摘要**: Kannisto (2001) has shown that as the frequency distribution of ages at death has shifted to the right, the age distribution of deaths above the modal age has become more compressed.…
 
 ### Projection of populations by level of educational attainment, age, and sex for 120 countries for 2005-2050
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.15](https://doi.org/10.4054/demres.2010.22.15)
 **作者**: KC, Samir; Barakat, Bilal; Goujon, Anne 等6人
-**摘要**: （暂无）
+**摘要**: Using demographic multi-state, cohort-component methods, we produce projections for 120 countries (covering 93% of the world population in 2005) by five-year age groups, sex, and four levels of educational attainment for the years 2005-2050. Taking int
 
 ### How do employers cope with an ageing workforce?
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.32](https://doi.org/10.4054/demres.2010.22.32)
 **作者**: van Dalen, Hendrik P.; Henkens, Kène; Schippers, Joop
-**摘要**: （暂无）
+**摘要**: How age-conscious are human resource policies? Using a survey of Dutch employers, we examine how employers deal with the prospect of an ageing work force. We supplement our analysis with an additional survey of Dutch employees to compare human resource
 
 ### Completing incomplete cohort fertility schedules
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.9](https://doi.org/10.4054/demres.2010.23.9)
 **作者**: Cheng, Pao-Chih Roger; Lin, Eric S.
-**摘要**: （暂无）
+**摘要**: This paper develops a simple age-period-cohort framework in completing incomplete cohort fertility schedules, and makes full use of 1917--2005 U.S. data to obtain robust outcomes. Empirically, we indicate that the period effect is the key to transformi
 
 ### No consistent effects of prenatal or neonatal exposure to Spanish flu on late-life mortality in 24 developed countries
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.20](https://doi.org/10.4054/demres.2010.22.20)
 **作者**: Cohen, Alan; Tillinghast, John; Canudas-Romo, Vladimir
-**摘要**: （暂无）
+**摘要**: We test the effects of early life exposure to disease on later health by looking for differences in late-life mortality in cohorts born around the 1918-1919 flu pandemic using data from the Human Mortality Database for 24 countries.…
 
 ### Examining the predictive value of fertility preferences among Ghanaian women
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.30](https://doi.org/10.4054/demres.2010.22.30)
 **作者**: Kodzi, Ivy; Johnson, David; Casterline, John
-**摘要**: （暂无）
+**摘要**: Despite extensive research, doubts remain regarding the degree of correspondence between prior stated fertility preferences and subsequent fertility behavior. Preference instability is a factor that potentially undermines predictiveness.…
 
 ### Ethnic differentials in the timing of family formation
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.7](https://doi.org/10.4054/demres.2010.23.7)
 **作者**: Booth, Heather
-**摘要**: （暂无）
+**摘要**: Ethnic differentials in the timing of family formation in Fiji cannot be adequately explained by the norms, characteristics, minority group, and interaction hypotheses. The missing dimensions are socioeconomic level within ethnicity and time, including
 
 ### Family size, adolescents’ schooling and the Demographic Transition: Evidence from Brazil
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.15](https://doi.org/10.4054/demres.2010.23.15)
 **作者**: Marteleto, Leticia
-**摘要**: （暂无）
+**摘要**: The goal of this paper is to address whether and how the changing family sizes of cohorts of adolescents born pre- and post-demographic transition are associated with increasing schooling of Brazilian adolescents. Decomposition analyses of nationally r
 
 ### Age, relationship status, and the planning status of births
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.13](https://doi.org/10.4054/demres.2010.23.13)
 **作者**: Hayford, Sarah R.; Guzzo, Karen
-**摘要**: （暂无）
+**摘要**: In the United States historically, births to older mothers have been more likely to be planned than births to younger mothers, and births to unmarried women have been less likely to be planned than births to married women. As the average age of mothers
 
 ### The impact of unemployment on the transition to parenthood
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.29](https://doi.org/10.4054/demres.2010.23.29)
 **作者**: Özcan, Berkay; Mayer, Karl Ulrich; Luedicke, Joerg
-**摘要**: （暂无）
+**摘要**: This paper seeks to advance our understanding about the impact of unemployment on fertility. From a theoretical perspective, both negative and positive effects might be expected. Existing empirical studies have produced contradictory results, partly be
 
 ### Levels of recent union formation
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.9](https://doi.org/10.4054/demres.2010.22.9)
 **作者**: Hoem, Jan M.; Gabrielli, Giuseppe; Jasilioniene, Aiva 等5人
-**摘要**: （暂无）
+**摘要**: We offer a comparison between the age profiles of risks of formation of marital and non-marital unions in Russia, Romania, Poland, Hungary, Bulgaria, and Italy. We show that there is considerable variability across these populations in the level and ag
 
 ### Model migration schedules incorporating student migration peaks
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.8](https://doi.org/10.4054/demres.2010.23.8)
 **作者**: Wilson, Tom
-**摘要**: （暂无）
+**摘要**: This paper proposes an extension of the standard parameterized model migration schedule to account for highly age-concentrated student migration. Many age profiles of regional migration are characterized by sudden 'spiked' increases in migration intensities in the late teenage years, which are relat…
 
 ### Marriage choices and social reproduction
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.14](https://doi.org/10.4054/demres.2010.22.14)
 **作者**: Dribe, Martin; Lundh, Christer
-**摘要**: （暂无）
+**摘要**: This article studies the relationship between partner selection and socioeconomic status (SES) attainment and mobility in five rural parishes in southern Sweden, 1815-1894. Three different aspects of partner selection are considered: age, social origin
 
 ### A modified new method for estimating smoking-attributable mortality in high-income countries
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.14](https://doi.org/10.4054/demres.2010.23.14)
 **作者**: Rostron, Brian L.
-**摘要**: （暂无）
+**摘要**: recently proposed an innovative regression-based method for estimating smoking-attributable mortality in developed countries based on observed lung cancer death rates. Their estimates for females, however, differ appreciably from some published estimates.…
 
 ### Single motherhood and low birthweight in Spain
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.27](https://doi.org/10.4054/demres.2010.22.27)
 **作者**: Castro Martín, Teresa
-**摘要**: （暂无）
+**摘要**: Nonmarital childbearing is becoming an increasingly common path to family formation in Spain. The proportion of births to unmarried mothers has increased from 2% in 1975 to 30.2% in 2007. Along with this marked increase, there has been an important shi
 
 ### Beyond the local marriage market
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.33](https://doi.org/10.4054/demres.2010.23.33)
 **作者**: Maas, Ineke; Zijdeman, Richard
-**摘要**: （暂无）
+**摘要**: This study examines whether the increase of geographical heterogamy in the nineteenth and early twentieth century is related to modernization. Specifically, we test whether mass communication and mass transport enhanced the likelihood of a geographical
 
 ### Total daily change with age equals average lifetime change
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.36](https://doi.org/10.4054/demres.2010.22.36)
 **作者**: Vaupel, James W.
-**摘要**: （暂无）
+**摘要**: In a stationary population, the change with age in some characteristic at a point in time, summed over all the individuals in the population, equals the change in this characteristic, from the start to the end of the lifetime of each individual, averag
 
 ### Satisfaction with life as an antecedent of fertility
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.21](https://doi.org/10.4054/demres.2010.22.21)
 **作者**: Parr, Nick
-**摘要**: （暂无）
+**摘要**: This paper examines the relationships between satisfaction with life in general, particular domains of life, the partner, and parental relationships with existing children, and subsequent fertility. The data are from 2,948 women and 2,622 men aged 15 t
 
 ### Life expectancy is the death-weighted average of the reciprocal of the survival-specific force of mortality
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.5](https://doi.org/10.4054/demres.2010.22.5)
 **作者**: Cohen, Joel E.
-**摘要**: （暂无）
+**摘要**: The hazard of mortality is usually presented as a function of age, but can be defined as a function of the fraction of survivors. This definition enables us to derive new relationships for life expectancy. Specifically, in a life-table population with
 
 ### Arthur Roger Thatcher's contributions to longevity research
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.18](https://doi.org/10.4054/demres.2010.22.18)
 **作者**: Robine, Jean-Marie; Cheung, Siu Lan Karen; Horiuchi, Shiro
-**摘要**: （暂无）
+**摘要**: Arthur Roger Thatcher, CB, died in London on February 13, 2010, at 83 years of age. He was actively engaged in demographic research until his death. One of his last papers, The Compression of Deaths above the Mode, is published in this volume of Demog
 
 ### Revisiting the mortality of France and Italy with the multiple-cause-of-death approach
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.28](https://doi.org/10.4054/demres.2010.23.28)
 **作者**: Désesquelles, Aline; Salvatore, Michele Antonio; Frova, Luisa 等7人
-**摘要**: （暂无）
+**摘要**: In this paper, we use the multiple cause-of-death approach to compare the mortality profiles of France and Italy in 2003. Our analysis leads to a substantial re-evaluation of the role played by certain conditions in the process leading to death. Regard
 
 ### Reporting on first sexual experience
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.11](https://doi.org/10.4054/demres.2010.22.11)
 **作者**: Poulin, Michelle
-**摘要**: （暂无）
+**摘要**: Survey methodologists typically seek to improve data on sensitive topics by standardizing surveys and avoiding the use of human interviewers. This study uses data collected from 90 never-married young adults in rural Malawi to compare reports on first sexual encounters between a standard survey and …
 
 ### Senescence vs. sustenance: Evolutionary-demographic models of aging
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.23](https://doi.org/10.4054/demres.2010.23.23)
 **作者**: Baudisch, Annette; Vaupel, James W.
-**摘要**: （暂无）
+**摘要**: Humans, and many other species, suffer senescence: mortality increases and fertility declines with adult age. Some species, however, enjoy sustenance: mortality and fertility remain constant. Here we develop simple but general evolutionary-demographic
 
 ### Premarital cohabitation and divorce: Support for the "Trial Marriage" Theory?
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.31](https://doi.org/10.4054/demres.2010.23.31)
 **作者**: Kulu, Hill; Boyle, Paul
-**摘要**: （暂无）
+**摘要**: A number of studies show that premarital cohabitation is associated with an increased risk of subsequent marital dissolution. Some argue that this is a consequence of selection effects and that once these are controlled for premarital cohabitation has
 
 ### Children’s Experiences of Family Disruption in Sweden
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.17](https://doi.org/10.4054/demres.2010.23.17)
 **作者**: Kennedy, Sheela; Thomson, Elizabeth
-**摘要**: （暂无）
+**摘要**: This paper examines the living arrangements of Swedish children from 1970 through 1999 using the Level of Living Survey. Sweden, with low levels of economic inequality and a generous welfare state, provides an important context for studying socioeconomic differentials in family structure.…
 
 ### The association between resilience and survival among Chinese elderly
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.5](https://doi.org/10.4054/demres.2010.23.5)
 **作者**: Shen, Ke; Zeng, Yi
-**摘要**: （暂无）
+**摘要**: Based on the unique longitudinal data of the elderly aged 65+ with a sufficiently large sub-sample of the oldest-old aged 85+ from the Chinese Longitudinal Healthy Longevity Survey, we construct a resilience scale with 7 indicators for the Chinese elderly, based on the framework of the Connor-Davids…
 
 ### The early socioeconomic effects of teenage childbearing
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.25](https://doi.org/10.4054/demres.2010.23.25)
 **作者**: Lee, Dohoon
-**摘要**: （暂无）
+**摘要**: A large body of literature has documented a negative correlation between teenage childbearing and teen mothersâ socioeconomic outcomes, yet researchers continue to disagree as to whether the association represents a true causal effect. This article ext
 
 ### Ethnic differences in transition to first marriage in Iran
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.2](https://doi.org/10.4054/demres.2010.22.2)
 **作者**: Torabi, Fatemeh; Baschieri, Angela
-**摘要**: （暂无）
+**摘要**: This paper, using data from the 2000 Iran Demographic and Health Survey and a range of time-varying district-level contextual information derived from the 1986 and 1996 censuses of Iran, applies a discrete time hazard model to study ethnic differences
 
 ### Reproductive value, the stable stage distribution, and the sensitivity of the population growth rate to changes in vital rates
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.19](https://doi.org/10.4054/demres.2010.23.19)
 **作者**: Caswell, Hal
-**摘要**: （暂无）
+**摘要**: The population growth rate, or intrinsic rate of increase, is the rate of growth that will be achieved by a population with fixed vital rates.The sensitivity of population growth rate to changes in the vital rates can be written in terms of the stable stage or age distribution and the reproductive v…
 
 ### Reconciling studies of men’s gender attitudes and fertility
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.8](https://doi.org/10.4054/demres.2010.22.8)
 **作者**: Goldscheider, Frances; Oláh, Livia Sz.; Puur, Allan
-**摘要**: （暂无）
+**摘要**: A reflexion by Westoff and Higgins (2009) in response to a study by Puur, OlÃ¡h, Tazi-Preve and Dorbritz (2008) has been recently published in this journal. Both articles addressed the relationship between menâs gender attitudes and fertility, using dif
 
 ### ´Just Living Together´
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.16](https://doi.org/10.4054/demres.2010.23.16)
 **作者**: González, María-José; Miret-Gamundi, Pau; Treviño, Rocío
-**摘要**: （暂无）
+**摘要**: This article tests the assumption that cohabitation makes a difference in the allocation of child care responsibilities within couples. It has often been presumed that cohabiting individuals are less likely to adhere to traditional gender ideology than
 
 ### The effects of shocks in early life mortality on later life expectancy and mortality compression: A cohort analysis
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.12](https://doi.org/10.4054/demres.2010.22.12)
 **作者**: Myrskylä, Mikko
-**摘要**: （暂无）
+**摘要**: I study how shocks in cohort-level early life conditions, as represented by deviations from trend in mortality before age 5, affect later mortality. I use data for six European countries and find that shocks that increase infant mortality decrease late
 
 ### Age-adjusted disability rates and regional effects in Russia
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.27](https://doi.org/10.4054/demres.2010.23.27)
 **作者**: Andreev, Aleksandr; Becker, Charles M.
-**摘要**: （暂无）
+**摘要**: We provide three measures of age-standardized disability rates for each Russian region and show that most, though not all, of the regional patterns in disability prevalence disappear with standardization. Disability prevalence remains unusually high fo
 
 ### Men’s and women’s migration in coastal Ghana
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.25](https://doi.org/10.4054/demres.2010.22.25)
 **作者**: Reed, Holly E.; Andrzejewski, Catherine S.; White, Michael
-**摘要**: （暂无）
+**摘要**: This article uses life history calendar (LHC) data from coastal Ghana and event history statistical methods to examine inter-regional migration for men and women, focusing on four specific migration types: rural-urban, rural-rural, urban-urban, and urban-rural.…
 
 ### Health and socio-demographic conditions as determinants of marriage and social mobility
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.33](https://doi.org/10.4054/demres.2010.22.33)
 **作者**: Breschi, Marco; Manfredini, Matteo; Mazzoni, Stanislao
-**摘要**: （暂无）
+**摘要**: This paper makes use of data collected from military registers and marriage certificates for the population of Alghero, in Sardinia, for the period 1866-1925, with the aim of investigating the role played by physical characteristics and health in the p
 
 ### Asking God about the date you will die: HIV testing as a zone of uncertainty in rural Malawi
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.32](https://doi.org/10.4054/demres.2010.23.32)
 **作者**: Kaler, Amy; Watkins, Susan
-**摘要**: （暂无）
+**摘要**: Testing for HIV is becoming more available in Africa. Global advocates of testing see it as key to AIDS prevention. However, testing is not always perceived as a good thing by people at risk. Here, we consider testing from the perspective of people in a high-prevalence community.…
 
 ### Demographers’ interest in fertility trends and determinants in developed countries: Is it warranted?
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.22](https://doi.org/10.4054/demres.2010.22.22)
 **作者**: Kravdal, Øystein
-**摘要**: （暂无）
+**摘要**: Studies of fertility trends and determinants in developed countries are high on demographersâ research agenda. The interest in this subject is probably, to a large extent, motivated by a notion about low fertility being problematic, but demographers ha
 
 ### Family life in power couples.
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.30](https://doi.org/10.4054/demres.2010.23.30)
 **作者**: Dribe, Martin; Stanfors, Maria
-**摘要**: （暂无）
+**摘要**: This article studies continued childbearing and union stability among "power couples," or dual-career couples. The determinants of these events are analysed multivariately using longitudinal data on couples from population registers in Sweden, 1991â200
 
 ### Masculine sex ratios, population age structure and the potential spread of HIV in China
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.3](https://doi.org/10.4054/demres.2010.22.3)
 **作者**: Merli, M. Giovanna; Hertog, Sara
-**摘要**: （暂无）
+**摘要**: There is much speculation regarding the contribution of Chinaâs changing demography to the spread of HIV/AIDS. We employ a bio-behavioral macrosimulation model of the heterosexual spread of HIV/AIDS to evaluate the roles that Chinaâs unique demographi
 
 ### Estimation of multi-state life table functions and their variability from complex survey data using the SPACE Program
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.6](https://doi.org/10.4054/demres.2010.22.6)
 **作者**: Cai, Liming; Hayward, Mark D.; Saito, Yasuhiko 等6人
-**摘要**: （暂无）
+**摘要**: The multistate life table (MSLT) model is an important demographic method to document life cycle processes. In this paper, we present the SPACE (Stochastic Population Analysis for Complex Events) program to estimate MSLT functions and their sampling variability.…
 
 ### The differential impact of mortality of American troops in the Iraq War: The non-metropolitan dimension
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.2](https://doi.org/10.4054/demres.2010.23.2)
 **作者**: Curtis, Katherine J.; Payne, Collin
-**摘要**: （暂无）
+**摘要**: This study investigates the disproportionate impact of mortality among United States troops in Iraq on rural communities. We advance scholarly research and popular accounts that suggest a non-metropolitan disadvantage by disaggregating the risk of mortality according to the metropolitan status of th…
 
 ### Effects of education on second births before and after societal transition: Evidence from the Estonian GGS
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.28](https://doi.org/10.4054/demres.2010.22.28)
 **作者**: Klesment, Martin; Puur, Allan
-**摘要**: （暂无）
+**摘要**: This article examines the influence of educational attainment and enrolment on second births in Estonia, comparing the patterns before and after the onset of the societal transformation of the 1990s. While many Northern and Western European countries h
 
 ### The relationship context of nonmarital childbearing in the U.S.
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.22](https://doi.org/10.4054/demres.2010.23.22)
 **作者**: Manlove, Jennifer; Ryan, Suzanne; Wildsmith, Elizabeth 等4人
-**摘要**: （暂无）
+**摘要**: Using Early Childhood Longitudinal Study-Birth Cohort data, we present estimates of nonmarital births in the United States in 2001, both within and outside of cohabiting unions. We additionally examine how mother and father characteristics are associated with the relationship context at birth, and a…
 
 ### Circular migration patterns and determinants in Nairobi slum settlements
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.20](https://doi.org/10.4054/demres.2010.23.20)
 **作者**: Beguy, Donatien; Bocquier, Philippe; Zulu, Eliya Msiyaphazi
-**摘要**: （暂无）
+**摘要**: This paper measures migration flows and determinants in two slum settlements in Nairobi City between 2003 and 2007. The results confirm the high intensity of migration with a quarter of the total slum population and a third of those aged 15-30 being re
 
 ### Understanding the long term effects of family policies on fertility: The diffusion of different family models in France and Germany
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.34](https://doi.org/10.4054/demres.2010.22.34)
 **作者**: Salles, Anne; Rossier, Clémentine; Brachet, Sara
-**摘要**: （暂无）
+**摘要**: European countries in which mothers are encouraged to remain in the labour market have higher fertility levels. It is difficult, however, to link specific policies to fertility increases. We hypothesize that policy changes do not affect fertility decis
 
 ### A fish stinks from the head: Ethnic diversity, segregation, and the collapse of Yugoslavia
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.35](https://doi.org/10.4054/demres.2010.22.35)
 **作者**: Hammel, E. A.; Mason, Carl; Stevanovic, Mirjana
-**摘要**: （暂无）
+**摘要**: Demographic analysis clarifies political issues in the collapse of Yugoslavia. In most regions, 1961-1991, ethnic diversity (estimated by informational entropy) increased and segregation (estimated by Theilâs H) decreased. In a few regions there was a
 
 ### Comparisons of infant mortality in the Austrian Empire Länder using the Tafeln (1851-54)
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.22.26](https://doi.org/10.4054/demres.2010.22.26)
 **作者**: Dalla Zuanna, Gianpiero; Rossi, Fiorenzo
-**摘要**: （暂无）
+**摘要**: In this paper we measure differences in infant mortality among the central European populations of the Austrian Empire during the mid-19th century using data published in the Tafeln zur Statistik der Ãsterreichischen Monarchie (Statistical Tables of th
 
 ### Income, health, and well-being in rural Malawi
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.35](https://doi.org/10.4054/demres.2010.23.35)
 **作者**: Chin, Brian
-**摘要**: （暂无）
+**摘要**: This paper attempts to isolate the causal link of income on health status and subjective well-being for the rural population in Malawi using three waves of household panel data spanning the period 2004-2008 from the Malawi Diffusion and Ideational Change Project (MDICP) and the Malawi Longitudinal S…
 
 ### A description of within-family resource exchange networks in a Malawian village
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.6](https://doi.org/10.4054/demres.2010.23.6)
 **作者**: Potter, Gail E.; Handcock, Mark S.
-**摘要**: （暂无）
+**摘要**: In this paper we explore patterns of economic transfers between adults within household and family networks in a village in Malawi's Rumphi district, using data from the 2006 round of the Malawi Longitudinal Study of Families and Health.…
 
 ### The implications of marital instability for a woman’s fertility: Empirical evidence from Italy
 **年份**: 2010 | **DOI**: [10.4054/demres.2010.23.34](https://doi.org/10.4054/demres.2010.23.34)
 **作者**: Meggiolaro, Silvia; Ongaro, Fausta
-**摘要**: （暂无）
+**摘要**: Using a sample of Italian women interviewed in 2003 in the survey âFamily and Social Subject,â this paper investigates two issues: (1) how a womanâs family life-course (union status and parity/ages of children born in the first marriage) influences the

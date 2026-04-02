@@ -598,7 +598,7 @@
 ### The demographic impact of a female deficit in China, 2000-2050
 **年份**: 2006 | **DOI**: [10.1111/j.1728-4457.2006.00149.x](https://doi.org/10.1111/j.1728-4457.2006.00149.x)
 **作者**: Attane, Isabelle
-**摘要**: （暂无）
+**摘要**: Archined est l’archive ouverte institutionnelle et la base patrimoniale des publications, communications et autres travaux scientifiques produits par les chercheur.e.s, y compris les chercheur.e.s associé.e.s, et ingénieur.e.s de l’Ined.
 
 ### The impact of past conflicts and social disruption on the elderly in Cambodia
 **年份**: 2006 | **DOI**: [10.1111/j.1728-4457.2006.00122.x](https://doi.org/10.1111/j.1728-4457.2006.00122.x)

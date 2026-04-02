@@ -1713,7 +1713,7 @@
 ### Parental socioeconomic status and the timing of first marriage: What is the role of unmarried cohabitation? Results from a cross-national comparison
 **年份**: 2021 | **DOI**: [10.4054/DemRes.2021.45.15](https://doi.org/10.4054/DemRes.2021.45.15)
 **作者**: Brons, M. D. (Anne); Liefbroer, Aart C.; Ganzeboom, Harry B. G.
-**摘要**: （暂无）
+**摘要**: Previous research has shown that individuals from high-status families enter marriage later than those from low-status families. However, in many Western societies, it has become common to cohabit prior to marriage. Does this change the link between parent
 
 ### Is the accuracy of individuals' survival beliefs associated with their knowledge of population life expectancy?
 **年份**: 2021 | **DOI**: [10.4054/DemRes.2021.45.14](https://doi.org/10.4054/DemRes.2021.45.14)
@@ -2338,7 +2338,7 @@
 ### Are sibling models a suitable tool in analyses of how reproductive factors affect child mortality?
 **年份**: 2020 | **DOI**: [10.4054/DemRes.2020.42.28](https://doi.org/10.4054/DemRes.2020.42.28)
 **作者**: Kravdal, Oystein
-**摘要**: （暂无）
+**摘要**: Several studies of how reproductive factors affect child mortality or other child outcomes have been based on sibling comparisons. With such models one controls for unobserved determinants of the outcome that are shared by the siblings and linked to the re
 
 ### A visual tool to explore the composition of international migration flows in the EU countries, 1998-2015
 **年份**: 2020 | **DOI**: [10.4054/DemRes.2020.42.27](https://doi.org/10.4054/DemRes.2020.42.27)

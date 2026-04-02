@@ -868,7 +868,7 @@
 ### The degree generation: the making of unequal graduate lives
 **年份**: 2023 | **DOI**: [10.1080/01425692.2023.2269504](https://doi.org/10.1080/01425692.2023.2269504)
 **作者**: Hordosy, Rita; Promenzio, Luany; Stich, Amy E. 等11人
-**摘要**: （暂无）
+**摘要**: The Making of Unequal Graduate Lives by Nicola Ingram and the research team behind the Paired Peers project reminds us of our role as higher education professionals: to support our students to become happy, successful students and then graduates wherever they go.It also, however, provides a reminder…
 
 ### Decolonial love as a pedagogy of care for Black immigrant post-secondary students
 **年份**: 2023 | **DOI**: [10.1080/01425692.2023.2260113](https://doi.org/10.1080/01425692.2023.2260113)
@@ -1228,12 +1228,12 @@
 ### Doctoral theses
 **年份**: 2022 | **DOI**: [10.1080/01425692.2022.2142136](https://doi.org/10.1080/01425692.2022.2142136)
 **作者**: [Anonymous]
-**摘要**: （暂无）
+**摘要**: "Doctoral theses." British Journal of Sociology of Education, ahead-of-print(ahead-of-print), pp. 1–2
 
 ### Doctoral theses
 **年份**: 2022 | **DOI**: [10.1080/01425692.2022.2140617](https://doi.org/10.1080/01425692.2022.2140617)
 **作者**: Kehal, Prabhdeep Singh
-**摘要**: （暂无）
+**摘要**: "Doctoral theses." British Journal of Sociology of Education, 43(8), pp. 1312–1313 FundingThe author(s) reported there is no funding associated with the work featured in this article.
 
 ### The impact of school space on primary education art teachers' pedagogical practices: a Bernsteinian approach
 **年份**: 2022 | **DOI**: [10.1080/01425692.2022.2126822](https://doi.org/10.1080/01425692.2022.2126822)

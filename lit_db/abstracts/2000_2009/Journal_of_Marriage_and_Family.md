@@ -1975,7 +1975,7 @@
 ### Work, Family, Health, and Well‐Being ‐ Edited by Suzanne M. Bianchi, Lynne M. Casper, &amp; Rosalind Berkowitz King (Eds.)
 **年份**: 2006 | **DOI**: [10.1111/j.1741-3737.2006.00289_5.x](https://doi.org/10.1111/j.1741-3737.2006.00289_5.x)
 **作者**: Lang, Molly Monahan
-**摘要**: （暂无）
+**摘要**: Work, Family, Health, and Well-Being. Suzanne M. Bianchi, Lynne M. Casper, & Rosalind Berkowitz King (Eds.) Mahwah, NJ: Lawrence Erlbaum Associates. 2005. 583 pp. ISBN 0-8058-5254-9. $145 (cloth).…
 
 ### Single by Chance, Mothers by Choice: How Women are Choosing Parenthood Without Marriage and Creating the New American Family ‐ Edited by Rosanna Hertz
 **年份**: 2006 | **DOI**: [10.1111/j.1741-3737.2006.00317_3.x](https://doi.org/10.1111/j.1741-3737.2006.00317_3.x)
@@ -2482,7 +2482,7 @@
 ### Putting Children First: How Low‐Wage Working Mothers Manage Child Care, by Ajay Chaudry
 **年份**: 2005 | **DOI**: [10.1111/j.1741-3737.2005.00221_5.x](https://doi.org/10.1111/j.1741-3737.2005.00221_5.x)
 **作者**: Rudd, Elizabeth
-**摘要**: （暂无）
+**摘要**: Putting Children First: How Low-Wage Working Mothers Manage Child Care. Ajay Chaudry. New York: Russell Sage Foundation. 2004. 341 pp. ISBN 0-87154-171-8. $39.95 (hardback). In Putting Children First, which is based on 3 years of fieldwork with 42 low-income mother-child pairs in New York City, Ajay…
 
 ### One nation, underprivileged: Why American poverty affects us all.
 **年份**: 2005 | **DOI**: [10.1111/j.0022-2445.2005.00br6.x](https://doi.org/10.1111/j.0022-2445.2005.00br6.x)
@@ -3121,12 +3121,12 @@
 ### The Power of Older Women and Men in Egyptian and Tunisian Families
 **年份**: 2004 | **DOI**: [10.1111/j.0022-2445.2004.00010.x](https://doi.org/10.1111/j.0022-2445.2004.00010.x)
 **作者**: Yount, Kathryn M.; Agree, Emily M.
-**摘要**: （暂无）
+**摘要**: We adapt resource theory to compare involvement in family decisions by older women and men in the more patriarchal setting of Egypt and the more egalitarian setting of Tunisia. Data from the World Health Organization Collaborative Study on Social and Health Aspects of Aging are analyzed.…
 
 ### Family Time and the Psychosocial Adjustment of Adolescent Siblings and Their Parents
 **年份**: 2004 | **DOI**: [10.1111/j.0022-2445.2004.00011.x](https://doi.org/10.1111/j.0022-2445.2004.00011.x)
 **作者**: Crouter, Ann C.; Head, Melissa R.; Mchale, Susan M. 等4人
-**摘要**: （暂无）
+**摘要**: This study examined the implications of family time for firstborn and secondborn adolescent offspring, mothers, and fathers in 192 dual-earner families, defining family time as time shared by the foursome in activities across 7 days. Data were gathered in daily telephone interviews.…
 
 ### Cohabitation and Children's Family Instability
 **年份**: 2004 | **DOI**: [10.1111/j.0022-2445.2004.00014.x-i1](https://doi.org/10.1111/j.0022-2445.2004.00014.x-i1)
@@ -3260,7 +3260,7 @@
 ### A Different Shade of Gray: Midlife and Beyond in the Inner City
 **年份**: 2004 | **DOI**: [10.1111/j.1741-3737.2004.0br_2.x](https://doi.org/10.1111/j.1741-3737.2004.0br_2.x)
 **作者**: Calasanti, Toni
-**摘要**: （暂无）
+**摘要**: A Different Shade of Gray: Midlife and Beyond in the Inner City. Katherine S. Newman. New York: The New Press. 2003. 306 pp. ISBN 1-56584-615-X. $29.95 (cloth). Katherine Newman's book examines a long-neglected group within the inner city: minorities who are middle aged and older.…
 
 ### The Best of Ties, the Worst of Ties: Close, Problematic, and Ambivalent Social Relationships
 **年份**: 2004 | **DOI**: [10.1111/j.0022-2445.2004.00053.x](https://doi.org/10.1111/j.0022-2445.2004.00053.x)
@@ -3503,7 +3503,7 @@
 ### Consequences of Male Partner Violence for Low-Income Minority Women
 **年份**: 2004 | **DOI**: [10.1111/j.0022-2455.2004.00014.x](https://doi.org/10.1111/j.0022-2455.2004.00014.x)
 **作者**: Leone, Janel M.; Johnson, Michael P.; Cohan, Catherine L. 等4人
-**摘要**: （暂无）
+**摘要**: The current study used a random sample of 563 low-income women to test Johnson's (1995) theory that there are two major forms of male-partner violence, situational couple violence and intimate terrorism, which are distinguished in terms of their embeddedness in a general pattern of control.…
 
 ### Social change, premarital nonfamily experiences, and marital dynamics
 **年份**: 2004 | **DOI**: [10.1111/j.0022-2445.2004.00083.x](https://doi.org/10.1111/j.0022-2445.2004.00083.x)
@@ -3598,7 +3598,7 @@
 ### Cute butts and housework: A gynocentric theory of assortative mating
 **年份**: 2004 | **DOI**: [10.1111/j.0022-2445.2004.00074.x](https://doi.org/10.1111/j.0022-2445.2004.00074.x)
 **作者**: Press, Julie E.
-**摘要**: （暂无）
+**摘要**: In the 1992 screenplay for Sleepless in Seattle Tom Hanks's character, Sam, a recently widowed single father, is facing the dating pool after 14 years. “I want to know what it's like over there,” he asks his friend Jay. The answer comes back, “… Pecs and a cute butt.…
 
 ### Education, wage work, and marriage: Perspectives of Egyptian working women
 **年份**: 2004 | **DOI**: [10.1111/j.0022-2445.2004.00093.x](https://doi.org/10.1111/j.0022-2445.2004.00093.x)
@@ -3633,7 +3633,7 @@
 ### Welfare Reform and Teenage Pregnancy, Childbirth, and School Dropout
 **年份**: 2004 | **DOI**: [10.1111/j.0022-2445.2004.00013.x](https://doi.org/10.1111/j.0022-2445.2004.00013.x)
 **作者**: Hao, Lingxin; Cherlin, Andrew J.
-**摘要**: （暂无）
+**摘要**: This study estimates the effect of welfare reform on adolescent behaviors using a difference-in-differences approach. After defining the prereform and reform cohorts and considering the life course development of adolescent behavior by following each cohort from age 14 to age 16, we compare the welf…
 
 ### We’re Decent People: Constructing and Managing Family Identity in Rural Working‐Class Communities
 **年份**: 2004 | **DOI**: [10.1111/j.1741-3737.2004.00035.x](https://doi.org/10.1111/j.1741-3737.2004.00035.x)
@@ -4351,7 +4351,7 @@
 ### Occupational Self‐Direction, Values, and Egalitarian Relationships: A Study of Dual‐Earner Couples
 **年份**: 2002 | **DOI**: [10.1111/j.1741-3737.2002.00139.x](https://doi.org/10.1111/j.1741-3737.2002.00139.x)
 **作者**: Klute, Mary Maguire; Crouter, Ann C.; Sayer, Aline G. 等4人
-**摘要**: （暂无）
+**摘要**: This study examines the associations between husbands' and wives' experiences at work and their attitudes about and behaviors in marriage, using a framework informed by the ideas of Kohn (1969, 1977).…
 
 ### Book Reviews
 **年份**: 2002 | **DOI**: [10.1111/j.1741-3737.2002.00269.x](https://doi.org/10.1111/j.1741-3737.2002.00269.x)

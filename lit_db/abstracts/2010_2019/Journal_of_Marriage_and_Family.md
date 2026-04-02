@@ -2088,7 +2088,7 @@
 ### Maternal Attachment, Paternal Overnight Contact, and Very Young Children's Adjustment: Comment on Tornello et al. (2013)
 **年份**: 2014 | **DOI**: [10.1111/jomf.12071](https://doi.org/10.1111/jomf.12071)
 **作者**: Millar, Paul; Kruk, Edward
-**摘要**: （暂无）
+**摘要**: We are compelled to respond to Tornello et al. (2013) because of concerns about measures and theory and because some findings of their study were misleadingly presented. Their results, as described in the abstract and DISCUSSION section, were reported in news media aimed at the general public in the…
 
 ### Paths to Intimate Relationship Quality From Parent–Adolescent Relations and Mental Health
 **年份**: 2014 | **DOI**: [10.1111/jomf.12074](https://doi.org/10.1111/jomf.12074)
@@ -2860,7 +2860,7 @@
 ### Enhancing the Qualitative‐Research Culture in Family Studies
 **年份**: 2012 | **DOI**: [10.1111/j.1741-3737.2012.00982.x](https://doi.org/10.1111/j.1741-3737.2012.00982.x)
 **作者**: Matthews, Sarah H.
-**摘要**: （暂无）
+**摘要**: Studies marked with an asterisk used mixed methods.
 
 ### Writing and Reviewing Manuscripts in the Multidimensional World of Qualitative Research
 **年份**: 2012 | **DOI**: [10.1111/j.1741-3737.2012.00978.x](https://doi.org/10.1111/j.1741-3737.2012.00978.x)
@@ -3241,27 +3241,27 @@
 ### The Child Health Disadvantage of Parental Cohabitation
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00797.x](https://doi.org/10.1111/j.1741-3737.2010.00797.x)
 **作者**: Schmeer, Kammi K.
-**摘要**: （暂无）
+**摘要**: This study uses Fragile Families data (N = 2,160) to assess health differences at age 5 for children born to cohabiting versus married parents. Regression analyses indicate worse health for children born to cohabiting parents, including those whose parents stably cohabited, dissolved their cohabitat…
 
 ### Parenting From Abroad: Migration, Nonresident Father Involvement, and Children's Education in Mexico
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00842.x](https://doi.org/10.1111/j.1741-3737.2011.00842.x)
 **作者**: Nobles, Jenna
-**摘要**: （暂无）
+**摘要**: In Mexico, a country with high emigration rates, parental migration matches divorce as a contributor to child–father separation. Yet little has been written about children's relationships with migrating parents.…
 
 ### Intermarriage, Ethnic Identity, and Perceived Social Standing Among Asian Women in the United States
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00853.x](https://doi.org/10.1111/j.1741-3737.2011.00853.x)
 **作者**: Chen, Juan; Takeuchi, David T.
-**摘要**: （暂无）
+**摘要**: This study investigates the consequences of Asian women's intermarriage—whether it is associated with higher social standing and lower ethnic identity, using data on Asian women (N = 589) from the National Latino and Asian American Survey (NLAAS).…
 
 ### Transnational Families and the Well-Being of Children: Conceptual and Methodological Challenges
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00840.x](https://doi.org/10.1111/j.1741-3737.2011.00840.x)
 **作者**: Mazzucato, Valentina; Schans, Djamila
-**摘要**: （暂无）
+**摘要**: Family research and scholarship on immigrant families has evolved in the past decade to include factors such as community context, family environment, and individual attitudes to explain immigrant family formation and functioning (see Glick, 2010, for a review).…
 
 ### Household Structure and Children's Educational Attainment: A Perspective on Coresidence with Grandparents
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00858.x](https://doi.org/10.1111/j.1741-3737.2011.00858.x)
 **作者**: Monserud, Maria A.; Elder, Glen H.
-**摘要**: （暂无）
+**摘要**: Children from alternative households complete fewer years of schooling. Yet little is known about the implications of coresidence with grandparents for educational attainment. Using data from the National Longitudinal Study of Adolescent Health (N = 10,083), this study found that extended households…
 
 ### Author Index
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.auindex_1.x](https://doi.org/10.1111/j.1741-3737.2011.auindex_1.x)
@@ -3270,12 +3270,12 @@
 ### Multipartnered Fertility and Depression Among Fragile Families
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00828.x](https://doi.org/10.1111/j.1741-3737.2011.00828.x)
 **作者**: Turney, Kristin; Carlson, Marcia J.
-**摘要**: （暂无）
+**摘要**: We used data from the Fragile Families and Child Wellbeing Study to examine the association between multipartnered fertility (MPF)-when parents have children with more than one partner-and depression.…
 
 ### Back to Africa: Second Chances for the Children of West African Immigrants
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00843.x](https://doi.org/10.1111/j.1741-3737.2011.00843.x)
 **作者**: Bledsoe, Caroline H.; Sow, Papa
-**摘要**: （暂无）
+**摘要**: This paper examines the phenomenon of West African parents living in Europe and North America who send their older children back home: from places of high immigrant aspiration to those of hardship and privation.…
 
 ### From the Editor
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00838.x](https://doi.org/10.1111/j.1741-3737.2011.00838.x)
@@ -3285,32 +3285,32 @@
 ### Why Do Families Differ? Children's Care for an Unmarried Mother
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00813.x](https://doi.org/10.1111/j.1741-3737.2010.00813.x)
 **作者**: Henretta, John C.; Soldo, Beth J.; Van Voorhis, Matthew F.
-**摘要**: （暂无）
+**摘要**: An adult child's provision of care to an unmarried elderly mother varies both within and between families. Within-family differences address the variation in different children's behavior within in a family.…
 
 ### Risk Factors for Clinically Significant Intimate Partner Violence Among Active-Duty Members
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00820.x](https://doi.org/10.1111/j.1741-3737.2010.00820.x)
 **作者**: Smith Slep, Amy M.; Foran, Heather M.; Heyman, Richard E. 等4人
-**摘要**: （暂无）
+**摘要**: Hypothesized risk factors for men's and women's clinically significant intimate partner violence (CS-IPV) from four ecological levels (i.e., individual, family, workplace, community) were tested in a representative sample of active-duty U.S. Air Force members (N = 42,744).…
 
 ### Changes in At-Risk American Men's Crime and Substance Use Trajectories Following Fatherhood
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00864.x](https://doi.org/10.1111/j.1741-3737.2011.00864.x)
 **作者**: Kerr, David C. R.; Capaldi, Deborah M.; Owen, Lee D. 等5人
-**摘要**: （暂无）
+**摘要**: Fatherhood can be a turning point in development and in men's crime and substance use trajectories. At-risk boys (N = 206) were assessed annually from ages 12 to 31 years. Crime, arrest, and tobacco, alcohol, and marijuana use trajectories were examined.…
 
 ### Motherhood and Marriage: A Response
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00786.x](https://doi.org/10.1111/j.1741-3737.2010.00786.x)
 **作者**: Wilcox, W. Bradford; Dew, Jeffrey
-**摘要**: （暂无）
+**摘要**: We are grateful for the thought‐provoking commentary and critique of our study of marriage and the transition to motherhood (Dew & Wilcox, 2011) provided by Milkie (2011); Clements, Martin, Cassil, and Soliman (2011); and Perry‐Jenkins and Claxton (2011).…
 
 ### The Consequences of Parental Underestimation and Overestimation of Youth Exposure to Violence
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00798.x](https://doi.org/10.1111/j.1741-3737.2010.00798.x)
 **作者**: Zimmerman, Gregory M.; Pogarsky, Greg
-**摘要**: （暂无）
+**摘要**: This study investigated differences in parent and child estimates of the child's exposure to violence. Using data (N = 1,517) from the Project on Human Development in Chicago Neighborhoods, analyses related differences between parent and child reports of the child's exposure to violence to the child…
 
 ### Short-Term Reciprocity in Late Parent-Child Relationships
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00792.x](https://doi.org/10.1111/j.1741-3737.2010.00792.x)
 **作者**: Leopold, Thomas; Raab, Marcel
-**摘要**: （暂无）
+**摘要**: Long-term concepts of parent-child reciprocity assume that the amount of support given and received is only balanced in a generalized fashion over the life course. We argue that reciprocity in parent-child relationships also operates in the short term.…
 
 ### Strengthening Couple Relationships for Optimal Child Development: Lessons from Research and Intervention - edited by Marc S. Schulz, Marsha Kline Pruett, Patricia K. Kerig, &amp; Ross D. Parke
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00830.x](https://doi.org/10.1111/j.1741-3737.2011.00830.x)
@@ -3320,17 +3320,17 @@
 ### Breakup of New Orleans Households After Hurricane Katrina
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00837.x](https://doi.org/10.1111/j.1741-3737.2011.00837.x)
 **作者**: Rendall, Michael S.
-**摘要**: （暂无）
+**摘要**: Theory and evidence on disaster-induced population displacement have focused on individual and population-subgroup characteristics. Less is known about impacts on households. I estimate excess incidence of household break-up due to Hurricane Katrina by comparing a probability sample of pre-Katrina N…
 
 ### Fathers' Early Emotion Talk: Associations With Income, Ethnicity, and Family Factors
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00810.x](https://doi.org/10.1111/j.1741-3737.2010.00810.x)
 **作者**: Garrett-Peters, Patricia; Mills-Koonce, Roger; Zerwas, Stephanie 等5人
-**摘要**: （暂无）
+**摘要**: Contextual, mother-, child-, and father-level variables were examined in association with fathers' emotion talk to infants during a shared picture book activity, in an ethnically diverse, low-income sample (N = 549).…
 
 ### Migrant Parents and the Psychological Well-Being of Left-Behind Children in Southeast Asia
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00844.x](https://doi.org/10.1111/j.1741-3737.2011.00844.x)
 **作者**: Graham, Elspeth; Jordan, Lucy P.
-**摘要**: （暂无）
+**摘要**: Several million children currently live in transnational families, yet little is known about impacts on their health. We investigated the psychological well-being of left-behind children in four Southeast Asian countries. Data were drawn from the CHAMPSEA study.…
 
 ### Families and Genomes: The Next Generation
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00848.x](https://doi.org/10.1111/j.1741-3737.2011.00848.x)
@@ -3340,52 +3340,52 @@
 ### Couples as Partners and Parents Over Children's Early Years
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00809.x](https://doi.org/10.1111/j.1741-3737.2010.00809.x)
 **作者**: Carlson, Marcia J.; Pilkauskas, Natasha V.; McLanahan, Sara S. 等4人
-**摘要**: （暂无）
+**摘要**: We used data from the Fragile Families and Child Wellbeing Study to examine how couple relationship quality and parental engagement are linked over children's early years-when they are infants, toddlers, and preschoolers.…
 
 ### Social Support, Unfulfilled Expectations, and Affective Well-being on Return to Employment
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00817.x](https://doi.org/10.1111/j.1741-3737.2010.00817.x)
 **作者**: Seiger, Christine P.; Wiese, Bettina S.
-**摘要**: （暂无）
+**摘要**: We conducted a longitudinal study to investigate how social support from the partner is related to mothers' affective well-being during their return to employment after maternity leave and whether expectations of that support have an additional impact.…
 
 ### Does a House Divided Stand? Kinship and the Continuity of Shared Living Arrangements
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00869.x](https://doi.org/10.1111/j.1741-3737.2011.00869.x)
 **作者**: Glick, Jennifer E.; Van Hook, Jennifer
-**摘要**: （暂无）
+**摘要**: Shared living arrangements can provide housing, economies of scale, and other instrumental support and may become an important resource in times of economic constraint. But the extent to which such living arrangements experience continuity or rapid change in composition is unclear.…
 
 ### Individualized Marriage and the Integration of Resources
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00836.x](https://doi.org/10.1111/j.1741-3737.2011.00836.x)
 **作者**: Lauer, Sean R.; Yodanis, Carrie
-**摘要**: （暂无）
+**摘要**: In individualized marriages, spouses maintain independence in their relationship. In individualized marriages, do married couples manage their money in pooled accounts or do they keep separate accounts?…
 
 ### Adolescents' Gender Mistrust: Variations and Implications for the Quality of Romantic Relationships
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00855.x](https://doi.org/10.1111/j.1741-3737.2011.00855.x)
 **作者**: Nomaguchi, Kei M.; Giordano, Peggy C.; Manning, Wendy D. 等4人
-**摘要**: （暂无）
+**摘要**: Recent research demonstrates that perceptions of gender mistrust are implicated in lower marriage rates among low-income populations. Yet few quantitative studies have examined the factors predicting gender mistrust during adolescence and whether it influences the quality of subsequent nonmarital ro…
 
 ### Parental Work Schedules and Children's Cognitive Trajectories
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00862.x](https://doi.org/10.1111/j.1741-3737.2011.00862.x)
 **作者**: Han, Wen-Jui; Fox, Liana E.
-**摘要**: （暂无）
+**摘要**: Previous work has shown an association between mothers' nonstandard work schedules and children's well-being. We built on this research by examining the relationship between parental shift work and children's reading and math trajectories from age 5/6 to 13/14.…
 
 ### Does Conservative Protestantism Moderate the Association Between Corporal Punishment and Child Outcomes?
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00854.x](https://doi.org/10.1111/j.1741-3737.2011.00854.x)
 **作者**: Ellison, Christopher G.; Musick, Marc A.; Holden, George W.
-**摘要**: （暂无）
+**摘要**: Using longitudinal data from a sample of 456 focal children in the National Survey of Families and Households (NSFH), this study examined two research questions: (a) Does corporal punishment of young children (ages 2–4 at baseline) predict increases in levels of externalizing and internalizing probl…
 
 ### Associations Between Family Communication Patterns, Sibling Closeness, and Adoptive Status
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00865.x](https://doi.org/10.1111/j.1741-3737.2011.00865.x)
 **作者**: Samek, Diana R.; Rueter, Martha A.
-**摘要**: （暂无）
+**摘要**: Previous research has demonstrated the protective effect of family and sibling closeness on child adjustment, but fewer studies have investigated how closeness is promoted within families.…
 
 ### Mothers, Fathers, Peers, and Mexican-Origin Adolescents' Sexual Intentions
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00799.x](https://doi.org/10.1111/j.1741-3737.2010.00799.x)
 **作者**: Killoren, Sarah E.; Updegraff, Kimberly A.; Christopher, F. Scott 等4人
-**摘要**: （暂无）
+**摘要**: Drawing on a symbolic-interaction perspective and a compensation model, the processes linking mother-and father-adolescent relationship qualities, deviant peer affiliations, and adolescents' sexual intentions were investigated for 246 Mexican-origin youths born in the United States and in Mexico usi…
 
 ### Better Parents, More Stable Partners: Union Transitions Among Cohabiting Parents
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00859.x](https://doi.org/10.1111/j.1741-3737.2011.00859.x)
 **作者**: McClain, Lauren Rinelli
-**摘要**: （暂无）
+**摘要**: Data from the Fragile Families and Child Wellbeing Study (N = 1,702 couples) are employed to examine the association between mother- and father-reported parenting characteristics (father involvement and coparenting) and transitions out of cohabitation through marriage or separation in the 5 years af…
 
 ### Social and Cultural Resources for and Constraints on New Mothers' Marriages
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00784.x](https://doi.org/10.1111/j.1741-3737.2010.00784.x)
@@ -3395,27 +3395,27 @@
 ### Parental Strains and Rewards Among Mothers: The Role of Education
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00835.x](https://doi.org/10.1111/j.1741-3737.2011.00835.x)
 **作者**: Nomaguchi, Kei M.; Brown, Susan L.
-**摘要**: （暂无）
+**摘要**: Using data from the NICHD Study of Early Child Care and Youth Development (N = 1,198), this study examines the associations between education and parental strains and rewards among mothers of young children.…
 
 ### Effects of Family Structure Type and Stability on Children's Academic Performance Trajectories
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00825.x](https://doi.org/10.1111/j.1741-3737.2011.00825.x)
 **作者**: Sun, Yongmin; Li, Yuanzhang
-**摘要**: （暂无）
+**摘要**: Using five waves of panel data from 8,008 children in the ECLS-K, the current study compared children's academic performance growth curves from kindergarten through fifth grade among three types of nondisrupted and three types of disrupted families.…
 
 ### Long-Term Influences of Intergenerational Ambivalence on Midlife Parents' Psychological Well-being
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00812.x](https://doi.org/10.1111/j.1741-3737.2010.00812.x)
 **作者**: Kiecolt, K. Jill; Blieszner, Rosemary; Savla, Jyoti
-**摘要**: （暂无）
+**摘要**: We investigated changes in midlife parents' intergenerational ambivalence toward a focal child and its influence on their psychological well-being over 14 years, as the focal child moved from adolescence into young adulthood.…
 
 ### Patterns of Stepchild-Stepparent Relationship Development
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00814.x](https://doi.org/10.1111/j.1741-3737.2010.00814.x)
 **作者**: Ganong, Lawrence H.; Coleman, Marilyn; Jamison, Tyler
-**摘要**: （暂无）
+**摘要**: Thirty-two stepdaughters and 17 stepsons participated in this grounded theory study of emerging adult stepchildren's perceptions about how relationships with their stepparents developed.…
 
 ### Coparenting and Relationship Quality Effects on Father Engagement: Variations by Residence, Romance
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00834.x](https://doi.org/10.1111/j.1741-3737.2011.00834.x)
 **作者**: Fagan, Jay; Palkovitz, Rob
-**摘要**: （暂无）
+**摘要**: We focused on coparenting support, partner relationship quality, and father engagement in families with young children that did not change structurally over 4 years of participation in the Fragile Families and Child Wellbeing study (N = 1,756).…
 
 ### When Couples Become Parents: The Creation of Gender in the Transition to Parenthood - by Bonnie Fox
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00806.x](https://doi.org/10.1111/j.1741-3737.2010.00806.x)
@@ -3425,12 +3425,12 @@
 ### Unemployment in Families: The Case of Housework
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00867.x](https://doi.org/10.1111/j.1741-3737.2011.00867.x)
 **作者**: Gough, Margaret; Killewald, Alexandra
-**摘要**: （暂无）
+**摘要**: Unemployment has consequences for individuals, but its impacts also reverberate through families. This paper examines how families adapt to unemployment in one area of life-time in housework.…
 
 ### Help to Family and Friends: Are There Gender Differences at Older Ages?
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00790.x](https://doi.org/10.1111/j.1741-3737.2010.00790.x)
 **作者**: Kahn, Joan R.; McGill, Brittany S.; Bianchi, Suzanne M.
-**摘要**: （暂无）
+**摘要**: This paper uses recent data from the Wisconsin Longitudinal Study (N = 5,220) to explore gender differences in the extent to which adults in their 50s and 60s provide informal help to their adult children, elderly parents and friends We find that both men and women report very high levels of helping…
 
 ### Divided by Borders: Mexican Migrants and Their Children - by Joanna Dreby
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00824.x](https://doi.org/10.1111/j.1741-3737.2010.00824.x)
@@ -3440,37 +3440,37 @@
 ### Life Events, Sibling Warmth, and Youths' Adjustment
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00857.x](https://doi.org/10.1111/j.1741-3737.2011.00857.x)
 **作者**: Waite, Evelyn B.; Shanahan, Lilly; Calkins, Susan D. 等5人
-**摘要**: （暂无）
+**摘要**: Sibling warmth has been identified as a protective factor from life events, but stressor-support match-mismatch and social domains perspectives suggest that sibling warmth may not efficiently protect youths from all types of life events.…
 
 ### Parental Depression and Child Outcomes: The Mediating Effects of Abuse and Neglect
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00796.x](https://doi.org/10.1111/j.1741-3737.2010.00796.x)
 **作者**: Mustillo, Sarah A.; Dorsey, Shannon; Conover, Kate 等4人
-**摘要**: （暂无）
+**摘要**: Using longitudinal data on 1,813 children and parents from a nationally representative child-welfare sample, National Survey of Child and Adolescent Well-Being (NSCAW), this study investigated physically abusive and neglectful parenting as mediating the effects of parent depression on child mental h…
 
 ### Market Earnings and Household Work: New Tests of Gender Performance Theory
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00851.x](https://doi.org/10.1111/j.1741-3737.2011.00851.x)
 **作者**: Schneider, Daniel
-**摘要**: （暂无）
+**摘要**: I examine the contested finding that men and women engage in gender performance through housework. Prior scholarship has found a curvilinear association between earnings share and housework that has been interpreted as evidence of gender performance.…
 
 ### If Momma Ain't Happy: Explaining Declines in Marital Satisfaction Among New Mothers
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00782.x](https://doi.org/10.1111/j.1741-3737.2010.00782.x)
 **作者**: Dew, Jeffrey; Wilcox, W. Bradford
-**摘要**: （暂无）
+**摘要**: This study tests competing explanations for the link between the transition to motherhood and declines in wives' marital satisfaction. Using data from the first and second waves of the National Survey of Families and Households (N = 569), we found that new mothers' marital satisfaction declines coul…
 
 ### Headed Toward Equality? Housework Change in Comparative Perspective
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00850.x](https://doi.org/10.1111/j.1741-3737.2011.00850.x)
 **作者**: Geist, Claudia; Cohen, Philip N.
-**摘要**: （暂无）
+**摘要**: This paper examined gendered housework in the larger context of comparative social change, asking specifically whether cross-national differences in domestic labor patterns converge over time.…
 
 ### Reciprocal Associations Between Connectedness and Autonomy Among Korean Adolescents: Compatible or Antithetical?
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00839.x](https://doi.org/10.1111/j.1741-3737.2011.00839.x)
 **作者**: Yu, Jeong Jin
-**摘要**: （暂无）
+**摘要**: The primary goal of this study was to examine the longitudinal reciprocal relationships between connectedness to parents and autonomy among Korean adolescents using five annual waves of the Korea Youth Panel Survey.…
 
 ### Maternal Mental Health, Neighborhood Characteristics, and Time Investments in Children
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00833.x](https://doi.org/10.1111/j.1741-3737.2011.00833.x)
 **作者**: Frech, Adrianne; Kimbro, Rachel Tolbert
-**摘要**: （暂无）
+**摘要**: We use data from the Fragile Families and Child Wellbeing Study (N = 3,572) to examine relationships between maternal depression and mothers' time investments with their 5-year-old children in outings, trips to playgrounds or parks, time spent reading with the child, and time spent playing indoors w…
 
 ### Theory Construction and Model-Building Skills: A Practical Guide for Social Scientists - by James Jaccard and Jacob Jacoby
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00829.x](https://doi.org/10.1111/j.1741-3737.2011.00829.x)
@@ -3485,62 +3485,62 @@
 ### Opting Out and Buying Out: Wives' Earnings and Housework Time
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00818.x](https://doi.org/10.1111/j.1741-3737.2010.00818.x)
 **作者**: Killewald, Alexandra
-**摘要**: （暂无）
+**摘要**: It has been proposed that the negative association between wives' earnings and their time in housework is due to greater outsourcing of household labor by households with high-earning wives, but this hypothesis has not been tested directly.…
 
 ### Working-Class Jobs and New Parents' Mental Health
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00871.x](https://doi.org/10.1111/j.1741-3737.2011.00871.x)
 **作者**: Perry-Jenkins, Maureen; Smith, JuliAnna Z.; Goldberg, Abbie E. 等4人
-**摘要**: （暂无）
+**摘要**: Little research has explored linkages between work conditions and mental health in working-class employed parents. The current study aims to address this gap, employing hierarchical linear modeling techniques to examine how levels of and changes in job autonomy, job urgency, supervisor support, and …
 
 ### Gene-Environment Interplay, Family Relationships, and Child Adjustment
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00846.x](https://doi.org/10.1111/j.1741-3737.2011.00846.x)
 **作者**: Horwitz, Briana N.; Neiderhiser, Jenae M.
-**摘要**: （暂无）
+**摘要**: This paper reviews behavioral genetic research from the past decade that has moved beyond simply studying the independent influences of genes and environments. The studies considered in this review have instead focused on understanding gene - environment interplay, including genotype - environment c…
 
 ### Relationship Status and Activated Kin Support: The Role of Need and Norms
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00816.x](https://doi.org/10.1111/j.1741-3737.2010.00816.x)
 **作者**: Mazelis, Joan Maya; Mykyta, Laryssa
-**摘要**: （暂无）
+**摘要**: Using data from the Fragile Families and Child Wellbeing Study, we examined whether mothers' (N = 4,127) and fathers' (N = 3,405) relationship status influenced their activation of financial support from relatives over time.…
 
 ### Modeling Repeatable Events Using Discrete-Time Data: Predicting Marital Dissolution
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00827.x](https://doi.org/10.1111/j.1741-3737.2011.00827.x)
 **作者**: Teachman, Jay
-**摘要**: （暂无）
+**摘要**: I join two methodologies by illustrating the application of multilevel modeling principles to hazard-rate models with an emphasis on procedures for discrete-time data that contain repeatable events.…
 
 ### Paternal Work Stress and Latent Profiles of Father-Infant Parenting Quality
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00826.x](https://doi.org/10.1111/j.1741-3737.2011.00826.x)
 **作者**: Goodman, W. Benjamin; Crouter, Ann C.; Lanza, Stephanie T. 等5人
-**摘要**: （暂无）
+**摘要**: The current study used latent profile analysis (LPA) to examine the implications of fathers' experiences of work stress for paternal behaviors with infants across multiple dimensions of parenting in a sample of fathers living in nonmetropolitan communities (N = 492).…
 
 ### Doing the Scut Work of Infant Care: Does Religiousness Encourage Father Involvement?
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00811.x](https://doi.org/10.1111/j.1741-3737.2010.00811.x)
 **作者**: DeMaris, Alfred; Mahoney, Annette; Pargament, Kenneth I.
-**摘要**: （暂无）
+**摘要**: Considerable debate exists regarding whether religiousness promotes or impedes greater father involvement in parenting. Our study addresses this issue using a Midwestern longitudinal dataset that tracks the transition to first parenthood for 169 married couples.…
 
 ### Effect on Preschoolers' Literacy when Never-Married Mothers Get Married
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00860.x](https://doi.org/10.1111/j.1741-3737.2011.00860.x)
 **作者**: Fagan, Jay
-**摘要**: （暂无）
+**摘要**: Healthy Marriage programs in the United States aim to promote marriage primarily among low-income individuals. There is little research assessing whether children fare better when their never-married mothers get married.…
 
 ### Mothers but Not Wives: The Increasing Lag Between Nonmarital Births and Marriage
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00803.x](https://doi.org/10.1111/j.1741-3737.2010.00803.x)
 **作者**: Gibson-Davis, Christina
-**摘要**: （暂无）
+**摘要**: This study analyzed trends in marital behavior for unwed mothers who gave birth between 1960 and 2004. With nationally representative data on 15,353 White and Black unmarried mothers, results indicated that mothers who gave birth after 1989 were waiting much longer to marry than were mothers giving …
 
 ### The Familial Socialization of Culturally Related Values in Mexican American Families
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00856.x](https://doi.org/10.1111/j.1741-3737.2011.00856.x)
 **作者**: Knight, George P.; Berkel, Cady; Umaña-Taylor, Adriana J. 等7人
-**摘要**: （暂无）
+**摘要**: Research has documented a relation between parents' ethnic socialization and youth's ethnic identity, yet there has been little research examining the transmission of cultural values from parents to their children through ethnic socialization and ethnic identity.…
 
 ### Do Traditional Fathers Always Work More? Gender Ideology, Race, and Parenthood
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00870.x](https://doi.org/10.1111/j.1741-3737.2011.00870.x)
 **作者**: Glauber, Rebecca; Gozjolko, Kristi L.
-**摘要**: （暂无）
+**摘要**: Research has shown that men who express traditional gender ideologies spend more time in paid work when they become fathers, whereas men who express egalitarian ideologies spend less time in paid work. This study extends previous research by examining racial differences among men.…
 
 ### Coresidence With Elderly Parents: A Comparative Study of Southeast China and Taiwan
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00793.x](https://doi.org/10.1111/j.1741-3737.2010.00793.x)
 **作者**: Chu, C. Y. Cyrus; Xie, Yu; Yu, Ruoh Rong
-**摘要**: （暂无）
+**摘要**: Using recent survey data from the Panel Study of Family Dynamics (PSFD) on 1,655 married persons born in 1964-1976 in southeastern China and Taiwan, we studied coresidence with elderly parents using a multinomial probit model for coresidence type and an ordered probit model for residential distance.…
 
 ### The Forgotten Kin: Aunts and Uncles - by Robert M. Milardo
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00808.x](https://doi.org/10.1111/j.1741-3737.2010.00808.x)
@@ -3560,12 +3560,12 @@
 ### Coparenting and Father Involvement in Married and Unmarried Coresident Couples
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00805.x](https://doi.org/10.1111/j.1741-3737.2010.00805.x)
 **作者**: Hohmann-Marriott, Bryndl
-**摘要**: （暂无）
+**摘要**: Children can benefit from involved fathers and cooperative parents, a benefit which may be particularly important to the growing population of children born to unmarried parents. This study observes father involvement and coparenting in 5,407 married and unmarried cohabiting couples with a 2-year-ol…
 
 ### Associations of Low-Income Working Mothers' Daily Interactions With Supervisors and Mother-Child Interactions
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00789.x](https://doi.org/10.1111/j.1741-3737.2010.00789.x)
 **作者**: Gassman-Pines, Anna
-**摘要**: （暂无）
+**摘要**: This study investigated associations of low-income working mothers' daily interactions with supervisors and their interactions with children. Sixty-one mothers of preschool-aged children were asked to report on their interactions with their supervisors at work and their interactions with children fo…
 
 ### Special Reviewers
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00872.x](https://doi.org/10.1111/j.1741-3737.2011.00872.x)
@@ -3574,17 +3574,17 @@
 ### Cohabitation and Children's Externalizing Behavior in Low-Income Latino Families
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00788.x](https://doi.org/10.1111/j.1741-3737.2010.00788.x)
 **作者**: Fomby, Paula; Estacion, Angela
-**摘要**: （暂无）
+**摘要**: We consider the association of cohabitation experience with externalizing behavior among children of Latina mothers whose ethnic origin is in Mexico, Puerto Rico, or the Dominican Republic. Data were drawn from three waves of the Three-City Study (N=656 mother-child pairs).…
 
 ### A Mixed-Methods Social Networks Study Design for Research on Transnational Families
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00845.x](https://doi.org/10.1111/j.1741-3737.2011.00845.x)
 **作者**: Bernardi, Laura
-**摘要**: （暂无）
+**摘要**: This paper advocates the adoption of a mixed-methods research design to describe and analyze ego-centered social networks in transnational family research. Drawing on the experience of the “Social Networks Influences on Family Formation” project (2004–2005; see Bernardi, Keim, & von der Lippe, 2007a…
 
 ### Toward Best Practices in Analyzing Datasets with Missing Data: Comparisons and Recommendations
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00861.x](https://doi.org/10.1111/j.1741-3737.2011.00861.x)
 **作者**: Johnson, David R.; Young, Rebekah
-**摘要**: （暂无）
+**摘要**: Although several methods have been developed to allow for the analysis of data in the presence of missing values, no clear guide exists to help family researchers in choosing among the many options and procedures available.…
 
 ### Erratum
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00868.x](https://doi.org/10.1111/j.1741-3737.2011.00868.x)
@@ -3603,62 +3603,62 @@
 ### Chronic and Proximate Depression Among Mothers: Implications for Child Well-Being
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00795.x](https://doi.org/10.1111/j.1741-3737.2010.00795.x)
 **作者**: Turney, Kristin
-**摘要**: （暂无）
+**摘要**: This article uses data from the Fragile Families and Child Well-Being Survey (N = 2,427) to examine the association between the chronicity and timing of maternal depression and child well-being.…
 
 ### Adolescent Sexuality and the Risk of Marital Dissolution
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00819.x](https://doi.org/10.1111/j.1741-3737.2010.00819.x)
 **作者**: Paik, Anthony
-**摘要**: （暂无）
+**摘要**: This research investigates whether first sexual intercourse during adolescence is associated with increased risk of first marriage dissolution and tests whether the results are consistent with causal or selection explanations.…
 
 ### Social Exchange and Sexual Behavior in Young Women's Premarital Relationships in Kenya
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00863.x](https://doi.org/10.1111/j.1741-3737.2011.00863.x)
 **作者**: Luke, Nancy; Goldberg, Rachel E.; Mberu, Blessing U. 等4人
-**摘要**: （暂无）
+**摘要**: Transactional sex, or the exchange of money and gifts for sexual activities within nonmarital relationships, has been widely considered a contributing factor to the disproportionate prevalence of HIV/AIDS among young women in sub-Saharan Africa.…
 
 ### Do Children's Behavior Problems Limit Poor Women's Labor Market Success?
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00787.x](https://doi.org/10.1111/j.1741-3737.2010.00787.x)
 **作者**: Coley, Rebekah Levine; Ribar, David; Votruba-Drzal, Elizabeth
-**摘要**: （暂无）
+**摘要**: Economically disadvantaged mothers face numerous barriers to stable, quality employment opportunities. One barrier that has received limited attention in previous research is having a child with significant psychological or behavioral problems.…
 
 ### The Effects of Family Structure on African American Adolescents' Marijuana Use
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00832.x](https://doi.org/10.1111/j.1741-3737.2011.00832.x)
 **作者**: Mandara, Jelani; Rogers, Sheba Y.; Zinbarg, Richard E.
-**摘要**: （暂无）
+**摘要**: The relationship between family structure and marijuana use throughout adolescence was assessed among 1,069 African Americans from the NLSY. A model was also tested suggesting that the effects of family structure on marijuana use would be mediated by poverty, neighborhood quality, and adolescents' s…
 
 ### Wives' Relative Wages, Husbands' Paid Work Hours, and Wives' Labor-Force Exit
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00802.x](https://doi.org/10.1111/j.1741-3737.2010.00802.x)
 **作者**: Shafer, Emily Fitzgibbons
-**摘要**: （暂无）
+**摘要**: Economic theories predict that women are more likely to exit the labor force if their partners' earnings are higher and if their own wage rate is lower. In this article, I use the National Longitudinal Survey of Youth (N = 2,254) and discrete-time event-history analysis to show that wives' relative …
 
 ### Intergenerational Coresidence and Family Transitions in the United States, 1850-1880
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00794.x](https://doi.org/10.1111/j.1741-3737.2010.00794.x)
 **作者**: Ruggles, Steven
-**摘要**: （暂无）
+**摘要**: This study uses a new source of linked census data (N = 6,734) to test theories proposed to explain the high intergenerational coresidence in 19th-century America. Was it a system of support for dependent elderly, or did it reflect intergenerational interdependence?…
 
 ### Lesbian, Gay, and Heterosexual Couples in Open Adoption Arrangements: A Qualitative Study
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00821.x](https://doi.org/10.1111/j.1741-3737.2010.00821.x)
 **作者**: Goldberg, Abbie E.; Kinkler, Lori A.; Richardson, Hannah B. 等4人
-**摘要**: （暂无）
+**摘要**: Little research has attended to the role of gender and sexual orientation in shaping open adoption dynamics. This qualitative, longitudinal study of 45 adoptive couples (15 lesbian, 15 gay, and 15 heterosexual couples) examined adopters' motivations for open adoption, changes in attitudes about open…
 
 ### Migration, Social Networks, and Child Health in Mexican Families
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00841.x](https://doi.org/10.1111/j.1741-3737.2011.00841.x)
 **作者**: Donato, Katharine M.; Duncan, Ebony M.
-**摘要**: （暂无）
+**摘要**: This paper examines the consequences of parental migratory strategies for children in three types of Mexican families: those living with their migrant parents in the United States, those living with parents who migrated and returned to Mexico, and those living in Mexico with parents who have never m…
 
 ### Safety Nets and Scaffolds: Parental Support in the Transition to Adulthood
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00815.x](https://doi.org/10.1111/j.1741-3737.2010.00815.x)
 **作者**: Swartz, Teresa Toguchi; Kim, Minzee; Uno, Mayumi 等5人
-**摘要**: （暂无）
+**摘要**: Using longitudinal data from the Youth Development Study (analytic sample N = 712), we investigate how age, adult role acquisition and attainments, family resources, parent-child relationship quality, school attendance, and life events influence support received from parents in young adulthood.…
 
 ### Who Lacks Support and Why? An Examination of Mothers' Personal Safety Nets
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00852.x](https://doi.org/10.1111/j.1741-3737.2011.00852.x)
 **作者**: Harknett, Kristen S.; Hartnett, Caroline Sten
-**摘要**: （暂无）
+**摘要**: We use data from the Fragile Families and Child Wellbeing Study (N = 12,140 person-waves) to identify characteristics associated with mothers' having or lacking "personal safety net" support from family and friends.…
 
 ### Time Does Not Heal All Wounds: Mortality Following the Death of a Parent
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00801.x](https://doi.org/10.1111/j.1741-3737.2010.00801.x)
 **作者**: Rostila, Mikael; Saarela, Jan M.
-**摘要**: （暂无）
+**摘要**: People linked through social ties are known to have interdependent health. Our aim was to investigate such collateral health effects in the context of offspring mortality after a parent's death in children aged 10–59 years.…
 
 ### The Unfinished Revolution: How a New Generation Is Reshaping Family, Work, and Gender in America - by Kathleen Gerson
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00807.x](https://doi.org/10.1111/j.1741-3737.2010.00807.x)
@@ -3668,17 +3668,17 @@
 ### Observed Infant Reactions During Live Interparental Conflict
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00800.x](https://doi.org/10.1111/j.1741-3737.2010.00800.x)
 **作者**: Du Rocher Schudlich, Tina D.; White, Clare R.; Fleischhauer, Emily A. 等4人
-**摘要**: （暂无）
+**摘要**: Associations between interparental conflict and infant reactions were examined. Infants' history of exposure to interparental conflict and infant reactive temperament were examined as moderators. A community sample of 74 infants, aged 6–14 months, participated with their parents.…
 
 ### Intergenerational Exchange Between Parents and Migrant and Nonmigrant Sons in Rural China
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00791.x](https://doi.org/10.1111/j.1741-3737.2010.00791.x)
 **作者**: Cong, Zhen; Silverstein, Merril
-**摘要**: （暂无）
+**摘要**: This investigation examined whether intergenerational exchanges of time and money resources between older parents and their adult sons in rural China were conditioned on sons' migration status.…
 
 ### Changing Patterns of Interracial Marriage in a Multiracial Society
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00866.x](https://doi.org/10.1111/j.1741-3737.2011.00866.x)
 **作者**: Qian, Zhenchao; Lichter, Daniel T.
-**摘要**: （暂无）
+**摘要**: We use incidence data from the 1980 Census and 2008 American Community Survey to track recent trends in interracial marriage. Intermarriage with Whites increased rapidly among Blacks but stalled among Asians and American Indians.…
 
 ### Declines in Marital Satisfaction Among New Mothers: Broad Strokes Versus Fine Details
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00783.x](https://doi.org/10.1111/j.1741-3737.2010.00783.x)
@@ -3692,7 +3692,7 @@
 ### Life-Course Pathways and the Psychosocial Adjustment of Young Adult Women
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00804.x](https://doi.org/10.1111/j.1741-3737.2010.00804.x)
 **作者**: Amato, Paul R.; Kane, Jennifer B.
-**摘要**: （暂无）
+**摘要**: We examined seven life-course pathways from adolescence through the early adult years and their links with general health and psychosocial adjustment among 2,290 women from the National Longitudinal Study of Adolescent Health.…
 
 ### The Decade in Review
 **年份**: 2010 | **DOI**: [10.1111/j.1741-3737.2010.00709.x](https://doi.org/10.1111/j.1741-3737.2010.00709.x)
@@ -3876,7 +3876,7 @@
 ### The Everyday Lives of Young Children: Culture, Class, and Child Rearing in Diverse Societies ‐ by Jonathan Tudge
 **年份**: 2010 | **DOI**: [10.1111/j.1741-3737.2010.00707.x](https://doi.org/10.1111/j.1741-3737.2010.00707.x)
 **作者**: Doucet, Fabienne
-**摘要**: （暂无）
+**摘要**: The Everyday Lives of Young Children: Culture, Class, and Child Rearing in Diverse Societies. Jonathan Tudge. New York: Cambridge University Press. 2008. 328 pp. ISBN 9780521803847. $85.00 (cloth).…
 
 ### Buffers of Racial Discrimination: Links With Depression Among Rural African American Mothers
 **年份**: 2010 | **DOI**: [10.1111/j.1741-3737.2010.00704.x](https://doi.org/10.1111/j.1741-3737.2010.00704.x)
@@ -4016,7 +4016,7 @@
 ### Studying Complex Families in Context
 **年份**: 2010 | **DOI**: [10.1111/j.1741-3737.2009.00680.x](https://doi.org/10.1111/j.1741-3737.2009.00680.x)
 **作者**: Goldberg, Abbie E.
-**摘要**: （暂无）
+**摘要**: “How Does the Gender of Parents Matter?” is an intriguing follow-up to Stacey and Biblarz's (2001) meta-analysis of the research on lesbian and gay parenting, in which they asked the question “(How) does the sexual orientation of parents matter?” The authors concisely and thoughtfully summarize much…
 
 ### Sex Differences in Parenting Behaviors in Single‐Mother and Single‐Father Households
 **年份**: 2010 | **DOI**: [10.1111/j.1741-3737.2010.00752.x](https://doi.org/10.1111/j.1741-3737.2010.00752.x)

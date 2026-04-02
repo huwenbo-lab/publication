@@ -506,7 +506,7 @@
 ### Contemporary Ethnographies of Work and Employment: Close Encounters of the Labouring Kind
 **年份**: 2009 | **DOI**: [10.1177/0038038509341690](https://doi.org/10.1177/0038038509341690)
 **作者**: Fincham, Ben
-**摘要**: （暂无）
+**摘要**: Review article: Sanders, T. (2005) 'Sex Work: A Risky Business' Devon: Willan Publishing(ISBN: 1843920824) Bone, J. (2006) 'The Hard Sell: An Ethnographic Study of the Direct Selling Industry' Aldershot: Ashgate (ISBN: 0754646092) Moeran, B.…
 
 ### Book Review: Sheila Cohen Ramparts of Resistance: Why Workers Lost Their Power and How to Get it Back
 **年份**: 2009 | **DOI**: [10.1177/00380385090430031007](https://doi.org/10.1177/00380385090430031007)
@@ -1087,7 +1087,7 @@
 ### Joint Review: Yvonne Jewkes and Helen Johnston. Prison Readings: A Critical Introduction to Prisons and Imprisonment Cullompton: Willan Publishing, 2006, £24.00 pbk (ISBN 1 84392 148 0), xi + 305 pp. Mary Corcoran. Out of Order: The Political Imprisonment of Women in Northern Ireland 1972—1998 Cullompton: Willan Publishing, 2006, £24.00 pbk (ISBN 1 84392 162 6), xxi + 261 pp
 **年份**: 2008 | **DOI**: [10.1177/00380385080420021002](https://doi.org/10.1177/00380385080420021002)
 **作者**: Policek, Nicoletta
-**摘要**: （暂无）
+**摘要**: Book Review [Prison Readings: A Critical Introduction to Prisons and Imprisonment by Yvonne Jewkes and Helen Johnston (Cullampton: Willan Publishing, 2006) and. Out of Order: The Political Imprisonment of Women in Northern Ireland 1972—1998 by Mary Corcoran (Cullompton: Willan Publishing, 2006)]
 
 ### Social Networks, Social Support and Social Capital: The Experiences of Recent Polish Migrants in London
 **年份**: 2008 | **DOI**: [10.1177/0038038508091622](https://doi.org/10.1177/0038038508091622)
@@ -1256,7 +1256,7 @@
 ### Understanding Victims and Restorative Justice; Understanding Homicide
 **年份**: 2007 | **DOI**: [10.1177/0038038507072295](https://doi.org/10.1177/0038038507072295)
 **作者**: Policek, Nicoletta
-**摘要**: （暂无）
+**摘要**: Book Review [Dignan, J. (2005) Understanding Victims and Restorative Justice,(Maidenhead: Open University Press, 2005) and Brookman, F. Understanding Homicide, (London: Sage Publications,2005)]
 
 ### Book Review: Moya Lloyd Beyond Identity Politics: Feminism, Power and Politics London: Sage, 2005 (ISBN: 0—8039—7885—5), viii+200 pp
 **年份**: 2007 | **DOI**: [10.1177/00380385070410031202](https://doi.org/10.1177/00380385070410031202)
@@ -1380,7 +1380,7 @@
 ### Joint Review: M. Gillespie (ed.) Media Audiences Maidenhead: Open University Press, 2005, £18.99 pbk (ISBN: 0—335—21882—2), viii+250 pp. Marie Gillespie and Jason Toynbee (eds) Analysing Media Texts Berkshire: McGraw-Hill Education, 2006, £21.99 pbk (ISBN: 0—335—21886—5), viii+208 pp
 **年份**: 2007 | **DOI**: [10.1177/0038038507082322](https://doi.org/10.1177/0038038507082322)
 **作者**: Gibbons, Tom; McDonald, Philip
-**摘要**: （暂无）
+**摘要**: Both Media Audiences and Analysing Media Texts are part of a series entitled Understanding Media, which consists of four books that aim to introduce the study of the media to media studies students. Media Audiences is the second in the series and is, ‘about living with media.…
 
 ### Book Review: William Fox Managing Organisational Behaviour Cape Town: Juta and Co., 2006, £15.95 pbk (ISBN: 0—7021—7198—0), 224 pp
 **年份**: 2007 | **DOI**: [10.1177/00380385070410031203](https://doi.org/10.1177/00380385070410031203)
@@ -1920,7 +1920,7 @@
 ### Work and its Limitations
 **年份**: 2006 | **DOI**: [10.1177/003803850663676](https://doi.org/10.1177/003803850663676)
 **作者**: Woodfield, Ruth
-**摘要**: （暂无）
+**摘要**: Review article: Jacobs, J. A. and Gerson, K. (2004) 'The Time Divide:Work, Family, and Gender Inequality' Cambridge, MA: Harvard University Press (ISBN: 0674011538) Meiskins, P. and Whalley, P. (2002) 'Putting Work in its Place:A Quiet Revolution' Ithaca, NY: ILR press (ISBN: 0811438586) Blyton, P.…
 
 ### The Religious Content of Ethnic Identities
 **年份**: 2006 | **DOI**: [10.1177/0038038506069854](https://doi.org/10.1177/0038038506069854)
@@ -1964,7 +1964,7 @@
 ### The Sources of Social Power and the Sociology of Genocide
 **年份**: 2006 | **DOI**: [10.1177/0038038506058446](https://doi.org/10.1177/0038038506058446)
 **作者**: Shaw, Martin
-**摘要**: （暂无）
+**摘要**: Dans cet article, l'A analyse les trois recents livres de Michael Mann, The Dark Side Of Democracy: Explaining Ethnic Cleansing, Cambridge: Univerity Press, 2005; Fascists, Cambridge University Press, 2004; Incoherent Empire, London: Verso, 2003
 
 ### Displaced Masculinities: Chavs, Youth and Class in the Post-industrial City
 **年份**: 2006 | **DOI**: [10.1177/0038038506067508](https://doi.org/10.1177/0038038506067508)
@@ -2034,7 +2034,7 @@
 ### Sex, Money, and Power:The Transformation of Collective Life; Sex Work:A Risky Business
 **年份**: 2006 | **DOI**: [10.1177/0038038506065165](https://doi.org/10.1177/0038038506065165)
 **作者**: Smyth, Lisa
-**摘要**: （暂无）
+**摘要**: TEST 02 - Elsevier's Scopus, the largest abstract and citation database of peer-reviewed literature. Search and access research from the science, technology, medicine, social sciences and arts and humanities fields.
 
 ### Young People's Constructions of the Self
 **年份**: 2006 | **DOI**: [10.1177/0038038506058437](https://doi.org/10.1177/0038038506058437)
@@ -2265,7 +2265,7 @@
 ### Rethinking Social Movement Theories in the Twenty-first Century
 **年份**: 2006 | **DOI**: [10.1177/0038038506058442](https://doi.org/10.1177/0038038506058442)
 **作者**: Ryan, Louise
-**摘要**: （暂无）
+**摘要**: Dans cet article, l'A s'interesse a l'evolution des etudes sur les theories des mouvements sociaux. A travers l'analyse de trois ouvrages, l'Amet en lumiere les nouvelles formes de protestation: Rethinking Social Movements: Structure, Meaning and Emotion (Jeff Goodwin et James Jasper); Escaping the …
 
 ### Editorial Foreword
 **年份**: 2006 | **DOI**: [10.1177/0038038506067506](https://doi.org/10.1177/0038038506067506)
@@ -2329,7 +2329,7 @@
 ### Gender Studies
 **年份**: 2006 | **DOI**: [10.1177/0038038506058438](https://doi.org/10.1177/0038038506058438)
 **作者**: Richards, Judy
-**摘要**: （暂无）
+**摘要**: Dans cet article, l'A analyse trois ouvrages introductifs aux concepts, theories et recherches concernant la sexualite et les etudes sur le genre: Jane Pilcher et Imelda Whelehan, 50 Key Concepts in Gender Studies, London: SAGE Publications 2004; Jo Eadie, Sexuality: A Glossary, London: Arnold 2004;…
 
 ### A Sociology of Technology Governance for the Information Age: The Case of Pharmaceuticals, Consumer Advertising and the Internet
 **年份**: 2006 | **DOI**: [10.1177/0038038506062035](https://doi.org/10.1177/0038038506062035)
@@ -2478,7 +2478,7 @@
 ### Methodological Pluralism, British Sociology and the Evidence-based State
 **年份**: 2005 | **DOI**: [10.1177/0038038505053107](https://doi.org/10.1177/0038038505053107)
 **作者**: Payne, Geoff; Williams, Malcolm; Chamberlain, Suzanne
-**摘要**: （暂无）
+**摘要**: We very much welcome Professor Carl May’s courteous and cogently argued response to our original article. His observations elaborate issues which also concern us, and contain much with which we would agree.…
 
 ### Book Review: The Sociology of Education and Work
 **年份**: 2005 | **DOI**: [10.1177/003803850503900418](https://doi.org/10.1177/003803850503900418)
@@ -2733,7 +2733,7 @@
 ### The Future of Urban Sociology
 **年份**: 2005 | **DOI**: [10.1177/0038038505050544](https://doi.org/10.1177/0038038505050544)
 **作者**: May, Tim; Perry, Beth; Le Galès, Patrick 等5人
-**摘要**: （暂无）
+**摘要**: Over the course of the 20th century, sociologists have made rich and diverse contributions to urban studies, from the Chicago School with their focus on urban ecology, to the ‘radicalism’ of New Urban Sociology emphasizing neo- Weberian and neo-Marxist approaches (Bulmer, 1984; Faberman, 1979; Saund…
 
 ### Book Review: Being Chinese: Voices from the Diaspora
 **年份**: 2005 | **DOI**: [10.1177/003803850503900318](https://doi.org/10.1177/003803850503900318)
@@ -2773,7 +2773,7 @@
 ### Understanding the Cultural ‘Case’
 **年份**: 2005 | **DOI**: [10.1177/0038038505058385](https://doi.org/10.1177/0038038505058385)
 **作者**: Miles, Steven
-**摘要**: （暂无）
+**摘要**: Dans cet article, l'interese a la regeneration urbaine en Grande-Bretagne. l'A analyse ici les resultats d'un etude longitudinale de 10 ans dans le secteur de NewcastleGateshead Quayside et sa production culturelle et artistique.…
 
 ### Audience Participation in Political Discourse
 **年份**: 2005 | **DOI**: [10.1177/0038038505056028](https://doi.org/10.1177/0038038505056028)
@@ -2942,7 +2942,7 @@
 ### The Rise of the Body and the Development of Sociology
 **年份**: 2005 | **DOI**: [10.1177/0038038505056034](https://doi.org/10.1177/0038038505056034)
 **作者**: Shilling, Chris
-**摘要**: （暂无）
+**摘要**: Studies of embodiment have occupied an increasingly important role in sociology&#13;\nand across the social sciences and humanities since the 1980s. This ‘rise of the body’&#13;\nhas led not only to the establishment of a vibrant interdisciplinary area of ‘body&#13;\nstudies’, but has also prompted …
 
 ### Powerful Emotions
 **年份**: 2005 | **DOI**: [10.1177/0038038505056027](https://doi.org/10.1177/0038038505056027)
@@ -3197,7 +3197,7 @@
 ### No One Polity Saturates the Political Space in a Given Territory
 **年份**: 2004 | **DOI**: [10.1177/0038038504047185](https://doi.org/10.1177/0038038504047185)
 **作者**: Walby, Sylvia
-**摘要**: （暂无）
+**摘要**: Bruce and Voas (2004) and I are in agreement about the importance of debat-ing the usefulness of the concept of the nation-state for sociology. Our dis-agreement is over the theorization of polities, rather than the empirical evidencerelating to the significance of religion.…
 
 ### Environmental Sociology and Its Future(s)
 **年份**: 2004 | **DOI**: [10.1177/0038038504040871](https://doi.org/10.1177/0038038504040871)
@@ -3745,7 +3745,7 @@
 ### Introducing and Progressing Cultural Studies: Disciplinarity, Communication and Innovation
 **年份**: 2002 | **DOI**: [10.1177/0038038502036002011](https://doi.org/10.1177/0038038502036002011)
 **作者**: Longhurst, Brian
-**摘要**: （暂无）
+**摘要**: INTRODUCTION: Pregnancy is a crucial period which ultimately directly impacts two individuals health and wellbeing. Within the UK, a standardised pattern of care is established with collaborations across disciplines to the benefit of women and babies.…
 
 ### Globalization or Internationalization? Foreign Footballers in the English League, 1946-95
 **年份**: 2002 | **DOI**: [10.1177/0038038502036001002](https://doi.org/10.1177/0038038502036001002)
@@ -3956,7 +3956,7 @@
 ### Some Critical Observations on the Use of the Concept of `Ethnicity' in Modood et al., Ethnic Minorities in Britain
 **年份**: 2002 | **DOI**: [10.1177/0038038502036002009](https://doi.org/10.1177/0038038502036002009)
 **作者**: Smith, Kenneth
-**摘要**: （暂无）
+**摘要**: Dans cet article, l'A. entreprend une critique du concept d'ethnicite et de groupe ethnique tels que definis par Modood et al. dans l'ouvrage Ethnic Minorities in Britain. L'A. denonce ici une racialisation de ces termes du fait de l'amalgame realise entre apparence physique et caracteristique ethni…
 
 ### What is Segregation?
 **年份**: 2002 | **DOI**: [10.1177/003803850203600405](https://doi.org/10.1177/003803850203600405)
@@ -4023,7 +4023,7 @@
 ### The Brave New World of Work, Ulrich Beck, Cambridge: Polity Press, 2000, £45.00 (£13.99 paperback), v+202 pp. (ISBN 0-780745-623986)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501219919](https://doi.org/10.1017/s0038038501219919)
 **作者**: Parker, Martin
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Books Reviewed
 **年份**: 2001 | **DOI**: [10.1177/0038038501035001042](https://doi.org/10.1177/0038038501035001042)
@@ -4038,7 +4038,7 @@
 ### Ex Cathedra: The Representation of American Society in ASA Presidential Addresses, 1906–98
 **年份**: 2001 | **DOI**: [10.1017/s0038038501000232](https://doi.org/10.1017/s0038038501000232)
 **作者**: Yair, Gad
-**摘要**: （暂无）
+**摘要**: This study analyses three recurrent themes in the presidential addresses read at the American Sociological Association (ASA) annual meetings, 1906–98. First, most ASA presidential addresses reflected a pride in democracy and equality – a spirit that positions America as leader of the world both soci…
 
 ### Elites after State Socialism: Theories and Analysis, John Higley and György Lengyel (eds.), Lanham, Md: Rowman and Littlefield, 2000, £48.00 (£19.95 pbk), 250 pp. (ISBN 0-8476-9896-3 and 0-8476-9897-1 pbk) On the Verge of Convergence: Social Stratification in Eastern Europe, Henryk Domański, Budapest: Central European University Press, 2000, £28.95 (£14.95 pbk), 185 pp. (ISBN 963-9116-81-5 and 82-3)
 **年份**: 2001 | **DOI**: [10.1017/s003803850125041x](https://doi.org/10.1017/s003803850125041x)
@@ -4053,7 +4053,7 @@
 ### Books Reviewed
 **年份**: 2001 | **DOI**: [10.1177/0038038501035001036](https://doi.org/10.1177/0038038501035001036)
 **作者**: MILLER, ROBERT L.
-**摘要**: （暂无）
+**摘要**: HAYES, KATHERINE HOWLETT, Slavery Before Race: Europeans, Africans, and Indians at Long Island’s Sylvester Manor Plantation, 1651–1884 by Gregory D. Smithers KRAUTHAMER, BARBARA, Black Slaves, Indian Masters: Slavery, Emancipation, and Citizenship in the Native American South by Gregory D.…
 
 ### Pathology, Identity and the Social Construction of Alcohol Dependence
 **年份**: 2001 | **DOI**: [10.1177/s0038038501000189](https://doi.org/10.1177/s0038038501000189)
@@ -4063,7 +4063,7 @@
 ### In Search of Politics, Zygmunt Bauman, Cambridge: Polity Press, 1999, £45.00 (£13.99 pbk), viii+203 pp. (ISBN 0-745-62172-4 hdbk)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501230296](https://doi.org/10.1017/s0038038501230296)
 **作者**: WRIGHT, CHRIS
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Books Reviewed
 **年份**: 2001 | **DOI**: [10.1177/0038038501035001017](https://doi.org/10.1177/0038038501035001017)
@@ -4073,7 +4073,7 @@
 ### Towards a Sociology of (Public) Mourning?
 **年份**: 2001 | **DOI**: [10.1017/s003803850100013x](https://doi.org/10.1017/s003803850100013x)
 **作者**: Brennan, Michael
-**摘要**: （暂无）
+**摘要**: Within the last decade or so there has been a growing recognition among sociologists of the role played by emotions in various aspects of human behaviour (witness, for example, the range of articles appearing in Sociology alone, e.g.…
 
 ### Books Reviewed
 **年份**: 2001 | **DOI**: [10.1177/0038038501035004015](https://doi.org/10.1177/0038038501035004015)
@@ -4123,7 +4123,7 @@
 ### Renewing Class Analysis, Rosemary Crompton, Fiona Devine, Mike Savage and John Scott (eds.), Oxford: Blackwell, 2000, £14.99 paperback, (ISBN 0-631-22187-5)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501249918](https://doi.org/10.1017/s0038038501249918)
 **作者**: Surridge, Paula
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Books Reviewed
 **年份**: 2001 | **DOI**: [10.1177/0038038501035001031](https://doi.org/10.1177/0038038501035001031)
@@ -4153,17 +4153,17 @@
 ### Oversocialised Epistemology: A Critical Appraisal of Constructivism
 **年份**: 2001 | **DOI**: [10.1017/s0038038501000086](https://doi.org/10.1017/s0038038501000086)
 **作者**: Schmidt, Volker H.
-**摘要**: （暂无）
+**摘要**: The article looks at some strengths and weaknesses of attempts at socialising the concepts of knowledge and epistemology. Roughly speaking, such socialising is the result of considering these concepts from the sociological point of view. Four consequences of doing so are pointed out.…
 
 ### The Paradox of Northern Ireland
 **年份**: 2001 | **DOI**: [10.1017/s0038038501000402](https://doi.org/10.1017/s0038038501000402)
 **作者**: Brewer, John D.
-**摘要**: （暂无）
+**摘要**: Colin Coulter, Contemporary Northern Irish Society: An Introduction, London: Pluto Press, 1999, £45.00 (£14.99 pbk), 286 pp. (ISBN 0-7453-1244-6)Graham Ellison and Jim Smyth, The Crowned Harp: Policing Northern Ireland, London: Pluto Press, 2000, £45.00 (£14.99 pbk), xix+218 pp.…
 
 ### Civility in an English Village, William Stephens, Tallahassee: Severn Books, 2000, £14.95, 280 pp. (ISBN 0-9679738-0-5)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501309914](https://doi.org/10.1017/s0038038501309914)
 **作者**: Little, Jo
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Books Reviewed
 **年份**: 2001 | **DOI**: [10.1177/0038038501035002016](https://doi.org/10.1177/0038038501035002016)
@@ -4173,12 +4173,12 @@
 ### Crime and Social Change in Middle England: Questions of Order in an English Town, Evi Girling, Ian Loader and Richard Sparks, London: Routledge, 2000, £16.99 pbk, xiv+211 pp. (ISBN: 0-415-18336-7)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501310155](https://doi.org/10.1017/s0038038501310155)
 **作者**: MURDOCK, GRAHAM
-**摘要**: （暂无）
+**摘要**: Crime and Social Change in Middle England: Questions of Order in an English Town, Evi Girling, Ian Loader and Richard Sparks, London: Routledge, 2000, £16.99 pbk, xiv+211 pp. (ISBN: 0-415-18336-7) - Volume 35 Issue 1
 
 ### Reflexivity, Ethics and the Teaching of the Sociology of Religion
 **年份**: 2001 | **DOI**: [10.1017/s0038038501000013](https://doi.org/10.1017/s0038038501000013)
 **作者**: Flanagan, Kieran
-**摘要**: （暂无）
+**摘要**: This essay reflects on the ethical and reflexive considerations surrounding the use of student fieldwork reports on a course on the sociology of religion. Using reflexivity as a teaching strategy coincides with changes in sociological approaches to religion where experiential and substantive issues …
 
 ### Notes for Contributors
 **年份**: 2001 | **DOI**: [10.1177/0038038501035004001](https://doi.org/10.1177/0038038501035004001)
@@ -4197,12 +4197,12 @@
 ### News Corporation, Technology and the Workplace: Global Strategies, Local Change, Timothy Marjoribanks, Cambridge: Cambridge University Press, 2000, £35 (£12.95 pbk), x+221 pp. (ISBN: 0-521-77535-3)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501370153](https://doi.org/10.1017/s0038038501370153)
 **作者**: TEMPLE, MICHAEL
-**摘要**: （暂无）
+**摘要**: News Corporation, Technology and the Workplace: Global Strategies, Local Change, Timothy Marjoribanks, Cambridge: Cambridge University Press, 2000, £35 (£12.95 pbk), x+221 pp. (ISBN: 0-521-77535-3) - Volume 35 Issue 1
 
 ### Exploring Disability: A Sociological Introduction. Colin Barnes, Geof Mercer and Tom Shakespeare. Cambridge: Polity, 1999, £49.50 (£14.95 pbk), 280 pp. (ISBN: 0-7456-1478-7)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501210153](https://doi.org/10.1017/s0038038501210153)
 **作者**: HYDE, MARK
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Accuracy, Critique and the Anti-Tribes in Sociology of Education: A Reply to Sara Delamont's ‘Anomalous Beasts’
 **年份**: 2001 | **DOI**: [10.1017/s003803850100027x](https://doi.org/10.1017/s003803850100027x)
@@ -4227,27 +4227,27 @@
 ### Books Reviewed
 **年份**: 2001 | **DOI**: [10.1177/0038038501035001037](https://doi.org/10.1177/0038038501035001037)
 **作者**: ELLIOTT, ANTHONY
-**摘要**: （暂无）
+**摘要**: ABRAMS, JEANNE E., A View from Abroad: The Story of John and Abigail Adams in Europe by Constance B. Schulz BIGART, ROBERT J., Providing for the People: Economic Change among the Salish and Kootenai Indians, 1875-1910 by Gustave Lester BOONSHOFT, MARK, Aristocratic Education and the Making of the Am…
 
 ### Globalization and Culture, John Tomlinson, Cambridge: Polity Press, 1999, £49.50 (£13.99 pbk), viii+238 pp. (ISBN: 0-7456-13381 pbk)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501460159](https://doi.org/10.1017/s0038038501460159)
 **作者**: HETHERINGTON, KEVIN
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Cottons and Casuals: The Gendered Organisation of Labour in Time and Space, Miriam Glucksmann, Durham: sociologypress, 2000, £15.00, vi+188 pp. (ISBNÊ1-903457-00-9)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501240413](https://doi.org/10.1017/s0038038501240413)
 **作者**: CROMPTON, ROSEMARY
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Problematic Multiculturalism
 **年份**: 2001 | **DOI**: [10.1017/s0038038501009853](https://doi.org/10.1017/s0038038501009853)
 **作者**: McLennan, Gregor
-**摘要**: （暂无）
+**摘要**: Bhikhu Parekh, Rethinking Multiculturalism: Cultural Diversity and Political Theory. Basingstoke: Macmillan, 2000, £14.99 paperback, vii+379 pp. (ISBN 0-333-60081-8)Stephen May (ed.), Critical Multiculturalism: Rethinking Multicultural and Antiracist Education.…
 
 ### Eating Out: Social Differentiation, Consumption and Pleasure, Alan Warde and Lydia Martens, Cambridge: Cambridge University Press, 2000, £40.00 (£14.95 paperback), xi+246 pp. (ISBN 0-521-59969-5)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501319910](https://doi.org/10.1017/s0038038501319910)
 **作者**: Wood, Roy C.
-**摘要**: （暂无）
+**摘要**: Eating Out: Social Differentiation, Consumption and Pleasure, Alan Warde and Lydia Martens, Cambridge: Cambridge University Press, 2000, £40.00 (£14.95 paperback), xi+246 pp. (ISBN 0-521-59969-5) - Volume 35 Issue 4
 
 ### Look Good, Feel Better: Beauty Therapy as Emotional Labour
 **年份**: 2001 | **DOI**: [10.1177/0038038501035004007](https://doi.org/10.1177/0038038501035004007)
@@ -4257,7 +4257,7 @@
 ### ‘Remedial Work’: Men's Strategic Responses to Their Violence Against Intimate Female Partners
 **年份**: 2001 | **DOI**: [10.1017/s0038038501000359](https://doi.org/10.1017/s0038038501000359)
 **作者**: Cavanagh, Kate; Dobash, R. Emerson; Dobash, Russell P. 等4人
-**摘要**: （暂无）
+**摘要**: Based on interviews with 122 men who had used violence against their partner, and employing Goffman's (1971) concept of 'remedial work', this paper interrogates violent men's perceptions, constructions and understandings of domestic violence and their responses to its use.…
 
 ### Illuminating Meanings of ‘the Private’ in Sociological Thought: A response to Joe Bailey
 **年份**: 2001 | **DOI**: [10.1017/s0038038501000396](https://doi.org/10.1017/s0038038501000396)
@@ -4267,7 +4267,7 @@
 ### Dollars Are a Girl's Best Friend? Female Tourists' Sexual Behaviour in the Caribbean
 **年份**: 2001 | **DOI**: [10.1017/s0038038501000384](https://doi.org/10.1017/s0038038501000384)
 **作者**: Taylor, Jacqueline Sánchez
-**摘要**: （暂无）
+**摘要**: Though increasingly a focus of both political concern and academic research, ‘sex tourism’ is a difficult term to define. This article presents both quantitative and qualitative data on the sexual behaviour and attitudes of single and/or unaccompanied heterosexual female tourists in the Dominican Re…
 
 ### Good Companions: Decorative, Informative or Interrogative? The Role of Social Theory Textbooks
 **年份**: 2001 | **DOI**: [10.1017/s0038038501000141](https://doi.org/10.1017/s0038038501000141)
@@ -4277,12 +4277,12 @@
 ### Pathology, Identity and the Social Construction of Alcohol Dependence
 **年份**: 2001 | **DOI**: [10.1017/s0038038501000189](https://doi.org/10.1017/s0038038501000189)
 **作者**: May, Carl
-**摘要**: （暂无）
+**摘要**: The notion of `addiction' appears to present profound and intractable difficulties for contemporary medicine. Using the problem of alcohol addiction as a mediating example, this paper examines some of the sources of these difficulties, and relates these to critiques of the medicalisation of the addi…
 
 ### Message Received, Greg Philo (ed.), Harlow: Addison Wesley Longman, 1999, £16.99 (pbk), xvii+382 pp. (ISBN: 0-582-29800-8)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501410157](https://doi.org/10.1017/s0038038501410157)
 **作者**: PETLEY, JULIAN
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Correction
 **年份**: 2001 | **DOI**: [10.1177/0038038501035003025](https://doi.org/10.1177/0038038501035003025)
@@ -4291,37 +4291,37 @@
 ### Reflective Authenticity: Rethinking the Project of Modernity, Alessandro Ferrara, London: Routledge, 1998, £14.99, 187 pp. (ISBN: 0-715-13062-X)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501280158](https://doi.org/10.1017/s0038038501280158)
 **作者**: KUNNEMAN, HARRY; VANDENBERGHE, FRÉDÉRIC
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### ‘The Will to Act’ An Analysis of Max Weber's Conceptualisation of Social Action and Political Ethics in the Light of Goethe's Fiction
 **年份**: 2001 | **DOI**: [10.1017/s0038038501000207](https://doi.org/10.1017/s0038038501000207)
 **作者**: Sahni, Isher-Paul
-**摘要**: （暂无）
+**摘要**: Max Weber's Protestant Ethic and the Spirit of Capitalism and Politics as a Vocation are interpreted in light of Johann Wolfgang von Goethe's Wilhelm Meister and Faust. The significance of Goethe's faith in human striving, the renunciation of wholly contemplative aspirations, and the subsequent unde…
 
 ### Picture windows: How the Suburbs Happened, Rosalyn Baxandall and Elizabeth Ewen, New York: Basic Books, 2000, £18.95, xxii+298 pp. (ISBN 0-465-07045-0)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501240292](https://doi.org/10.1017/s0038038501240292)
 **作者**: VAN HARSKAMP, MARIKE
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Interpretation of the Two Germanies, 1945–1990, Mary Fulbrook, London: Macmillan, 2000, v+114 pp. (ISBN 0-333-66579-1)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501230417](https://doi.org/10.1017/s0038038501230417)
 **作者**: BAUMAN, ZYGMUNT
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Sociology Beyond Societies: Mobilities for the Twenty-first Century, John Urry, London: Routledge, 2000, £16.99, 255 pp. (ISBN: 0-415-19089-4)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501470155](https://doi.org/10.1017/s0038038501470155)
 **作者**: EADIE, JO
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Gender and Institutions: Welfare, Work and Citizenship, Moira Gatens and Alison Mackinnon (eds.), Cambridge: Cambridge University Press, 1999, £45.00 (£15.95 pbk), xix+214 pp. (ISBN: 0-521-63576-4)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501300159](https://doi.org/10.1017/s0038038501300159)
 **作者**: PUWAR, NIRMAL
-**摘要**: （暂无）
+**摘要**: Gender and Institutions: Welfare, Work and Citizenship, Moira Gatens and Alison Mackinnon (eds.), Cambridge: Cambridge University Press, 1999, £45.00 (£15.95 pbk), xix+214 pp. (ISBN: 0-521-63576-4) - Volume 35 Issue 1
 
 ### A Simulacrum of Workplace Community: Individualism and Engineered Culture
 **年份**: 2001 | **DOI**: [10.1017/s0038038501000323](https://doi.org/10.1017/s0038038501000323)
 **作者**: Ezzy, Douglas
-**摘要**: （暂无）
+**摘要**: This paper focuses on the cultural and social consequences of the new forms of work organisation variously described as engineered workplace culture, flexibilisation, teamwork, employee involvement, quality circles and post-Fordism.…
 
 ### Theorising Social Constraint: The Concept of Supervenience
 **年份**: 2001 | **DOI**: [10.1177/0038038501035001010](https://doi.org/10.1177/0038038501035001010)
@@ -4340,17 +4340,17 @@
 ### Clubbing: Dancing, Ecstasy and Vitality, Ben Malbon, London: Routledge, 1999, £17.99 pbk, xvi+236 pp. (ISBN: 0-415-20214-0)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501360157](https://doi.org/10.1017/s0038038501360157)
 **作者**: BELL, DAVID
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Reincarnation, Modernity and Identity
 **年份**: 2001 | **DOI**: [10.1017/s0038038501000025](https://doi.org/10.1017/s0038038501000025)
 **作者**: Walter, Tony
-**摘要**: （暂无）
+**摘要**: A significant minority of Westerners believe in reincarnation, even though they do not belong to religions that teach it. What is the relationship of their belief to personal identity?…
 
 ### Marketing Molly and Melville: Dating in a Postmodern, Consumer Society
 **年份**: 2001 | **DOI**: [10.1017/s0038038501000037](https://doi.org/10.1017/s0038038501000037)
 **作者**: Jagger, Elizabeth
-**摘要**: （暂无）
+**摘要**: Based on a content analysis of a hundred heterosexual dating advertisements, the paper, in part, seeks to build upon the findings of previous research emerging mainly from the disciplines of sociobiology and psychology, which shows that when selling the self, men market their financial and occupatio…
 
 ### Books Reviewed
 **年份**: 2001 | **DOI**: [10.1177/0038038501035001020](https://doi.org/10.1177/0038038501035001020)
@@ -4375,7 +4375,7 @@
 ### Science and Social Science: An Introduction, Malcolm Williams, London: Routledge, 1999, £14.99, ix+173 pp. (ISBN: 0-415-19485-7)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501490158](https://doi.org/10.1017/s0038038501490158)
 **作者**: PAWSON, RAY
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Books Reviewed
 **年份**: 2001 | **DOI**: [10.1177/0038038501035001019](https://doi.org/10.1177/0038038501035001019)
@@ -4405,7 +4405,7 @@
 ### Zygmunt Bauman: Dialectic of Modernity, Peter Beilarz, London: Sage, 2000, £45.00 (£14.99 paperback), xi+180 pp. (ISBN 0-76196734-X) The Bauman Reader, Peter Beilarz, London: Blackwell, 2000, £15.99 paperback, xi+192 pp. (ISBN 0-631-1492-5)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501229915](https://doi.org/10.1017/s0038038501229915)
 **作者**: Rappert, Brian
-**摘要**: （暂无）
+**摘要**: Zygmunt Bauman: Dialectic of Modernity, Peter Beilarz, London: Sage, 2000, £45.00 (£14.99 paperback), xi+180 pp. (ISBN 0-76196734-X) The Bauman Reader, Peter Beilarz, London: Blackwell, 2000, £15.99 paperback, xi+192 pp. (ISBN 0-631-1492-5) - Volume 35 Issue 4
 
 ### Books Reviewed
 **年份**: 2001 | **DOI**: [10.1177/0038038501035001040](https://doi.org/10.1177/0038038501035001040)
@@ -4415,17 +4415,17 @@
 ### The Paradox of Northern Ireland
 **年份**: 2001 | **DOI**: [10.1177/s0038038501000402](https://doi.org/10.1177/s0038038501000402)
 **作者**: Brewer, John D.
-**摘要**: （暂无）
+**摘要**: Colin Coulter, Contemporary Northern Irish Society: An Introduction , London: Pluto Press, 1999, £45.00 (£14.99 pbk), 286 pp. (ISBN 0-7453-1244-6) Graham Ellison and Jim Smyth, The Crowned Harp: Policing Northern Ireland , London: Pluto Press, 2000, £45.00 (£14.99 pbk),xix+2i8 pp.…
 
 ### Ordinary, Ambivalent and Defensive: Class Identities in the Northwest of England
 **年份**: 2001 | **DOI**: [10.1017/s0038038501008756](https://doi.org/10.1017/s0038038501008756)
 **作者**: Savage, Mike; Bagnall, Gaynor; Longhurst, Brian
-**摘要**: （暂无）
+**摘要**: This paper uses data gathered from an ESRC funded research project on social networks, social capital and lifestyle to provide an account of contemporary class identities derived from 178 in-depth interviews carried out in the Manchester area between 1997 and 1999.…
 
 ### Gender and Critical Realism: A Critique of Sayer
 **年份**: 2001 | **DOI**: [10.1017/s0038038501009476](https://doi.org/10.1017/s0038038501009476)
 **作者**: Holmwood, John
-**摘要**: （暂无）
+**摘要**: In a recent article in this journal, Andrew Sayer has argued that much feminist research on the gendered nature of organisations, such as bureaucracy and the market, confuses a contingent association of gender and organisational forms with a stronger claim that they are intrinsically gendered.…
 
 ### Books Received
 **年份**: 2001 | **DOI**: [10.1017/s0038038501010094](https://doi.org/10.1017/s0038038501010094)
@@ -4434,7 +4434,7 @@
 ### ‘No One Likes Us, We Don't Care’: The Myth and Reality of Millwall Fandom, Garry Robson, Oxford: Berg, 2000, £14.99 paperback, xi+203 pp. (ISBN 1-85973-372-7)
 **年份**: 2001 | **DOI**: [10.1017/s003803850129991x](https://doi.org/10.1017/s003803850129991x)
 **作者**: Redhead, Steve
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Boy Talk: Social Theory and its Discontents
 **年份**: 2001 | **DOI**: [10.1177/s0038038501000281](https://doi.org/10.1177/s0038038501000281)
@@ -4449,12 +4449,12 @@
 ### Taking Sides in Social Research: Essays on Partisanship and Bias, Martyn Hammersley, London: Routledge, 2000, £55 hbk (£16.99 pbk), x+196 pp. (ISBN: 0-415-20287-6)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501320151](https://doi.org/10.1017/s0038038501320151)
 **作者**: HILLYARD, S. H.
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Metaphors of Spatiality and Networks in the Plural City: A Critique of the Ethnic Enclave Economy Debate
 **年份**: 2001 | **DOI**: [10.1017/s0038038501000347](https://doi.org/10.1017/s0038038501000347)
 **作者**: Werbner, Pnina
-**摘要**: （暂无）
+**摘要**: This paper considers a particular debate in the scholarly literature on ethnicity in the United States regarding ethnic entrepreneurship which has come to be known as the 'ethnic enclave economy hypothesis'. According to this hypothesis, ethnic enterprises and their workers benefit from clustering.…
 
 ### The `Cultural Turn' in Social Theory: Towards a Theory of Cultural Politics
 **年份**: 2001 | **DOI**: [10.1177/0038038501035001006](https://doi.org/10.1177/0038038501035001006)
@@ -4464,7 +4464,7 @@
 ### Race, Media and the Crisis of Civil Society: From Watts to Rodney King, Ronald N. Jacobs, Cambridge University Press, 2000, £37.50 (£13.95 pbk), xi+189 pp. (ISBN 0-521-62360-X and 0-521-62578-5 pbk)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501260416](https://doi.org/10.1017/s0038038501260416)
 **作者**: HOLOHAN, SIOBHAN
-**摘要**: （暂无）
+**摘要**: Race, Media and the Crisis of Civil Society: From Watts to Rodney King, Ronald N. Jacobs, Cambridge University Press, 2000, £37.50 (£13.95 pbk), xi+189 pp. (ISBN 0-521-62360-X and 0-521-62578-5 pbk) - Volume 35 Issue 3
 
 ### Books Reviewed
 **年份**: 2001 | **DOI**: [10.1177/s003803850129991x](https://doi.org/10.1177/s003803850129991x)
@@ -4479,17 +4479,17 @@
 ### Theorising Social Constraint: The Concept of Supervenience
 **年份**: 2001 | **DOI**: [10.1017/s0038038501000098](https://doi.org/10.1017/s0038038501000098)
 **作者**: Le Boutillier, Shaun
-**摘要**: （暂无）
+**摘要**: This paper evaluates Kieran Healy's recent contribution to the structure-agency debate. Supervenience, I argue, has multiple uses, it entails different ontological perspectives depending on which entities it is applied to and which conditions are placed upon subvening and supervening entities.…
 
 ### Books Reviewed
 **年份**: 2001 | **DOI**: [10.1177/0038038501035001022](https://doi.org/10.1177/0038038501035001022)
 **作者**: KUNNEMAN, HARRY; VANDENBERGHE, FRÉDÉRIC
-**摘要**: （暂无）
+**摘要**: “Prof. A. von Graefe makes the following observations on the antagonistic action of opium and belladonna injected into the cellular tissue : When a solution of atro­ pine has been injected hypodermatically, three or four minutes afterwards the pupil becomes dilated, the pulse rises to 140-160, and o…
 
 ### Choices of Degree or Degrees of Choice? Class, ‘Race’ and the Higher Education Choice Process
 **年份**: 2001 | **DOI**: [10.1017/s0038038501008550](https://doi.org/10.1017/s0038038501008550)
 **作者**: Reay, Diane; Davies, Jacqueline; David, Miriam 等4人
-**摘要**: （暂无）
+**摘要**: This paper draws on data from an on-going ESRC project on choice of higher education. It focuses primarily on the experiences of non-traditional applicants to higher education. Although these students are not typical of the entire university entry cohort, their narratives raise important issues in r…
 
 ### Sustaining Oppositional Cultures in `Post-Socialist' Times: A Comparative Study of Three Social Movement Organisations
 **年份**: 2001 | **DOI**: [10.1177/s0038038501000311](https://doi.org/10.1177/s0038038501000311)
@@ -4504,7 +4504,7 @@
 ### Popular Music and Youth Culture: Music, Identity and Place, Andy Bennett, London: Macmillan, 2000, £15.99 pbk, viii+223 pp. (ISBN 0-333-73229-4)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501250299](https://doi.org/10.1017/s0038038501250299)
 **作者**: COATES, GRANT
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Books Reviewed
 **年份**: 2001 | **DOI**: [10.1177/0038038501035001034](https://doi.org/10.1177/0038038501035001034)
@@ -4519,12 +4519,12 @@
 ### Experiencing Identity, I. Craib, London: Sage Publications, 1998, £13.99 (ISBN: 0-8039-7692)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501450152](https://doi.org/10.1017/s0038038501450152)
 **作者**: ELLIOTT, ANTHONY
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Racism. Martin Bulmer and John Solomos (eds). Oxford: Oxford University Press, 1999, (£15.00 pbk), xi+463 pp. (ISBN: 0-19-289300-9)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501230156](https://doi.org/10.1017/s0038038501230156)
 **作者**: TODD, ROY
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Books Reviewed
 **年份**: 2001 | **DOI**: [10.1177/s0038038501210414](https://doi.org/10.1177/s0038038501210414)
@@ -4544,7 +4544,7 @@
 ### Look Good, Feel Better: Beauty Therapy as Emotional Labour
 **年份**: 2001 | **DOI**: [10.1017/s0038038501009130](https://doi.org/10.1017/s0038038501009130)
 **作者**: Sharma, Ursula; Black, Paula
-**摘要**: （暂无）
+**摘要**: This article is based on research among beauty therapists in two cities. Therapists saw their work less in terms of what it does to make women look better, more in terms of what it does to make women feel better.…
 
 ### `Remedial Work': Men's Strategic Responses to their Violence against Intimate Female Partners
 **年份**: 2001 | **DOI**: [10.1177/s0038038501000359](https://doi.org/10.1177/s0038038501000359)
@@ -4573,22 +4573,22 @@
 ### Introducing Narrative Psychology: Self, Trauma and the Construction of Meaning, Michele Crossley, Buckingham: Open University Press, 2000, £50.00 (£16.99 pbk), 200 pp. (ISBN: 0-335-20290-X)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501260155](https://doi.org/10.1017/s0038038501260155)
 **作者**: LEE, NICK
-**摘要**: （暂无）
+**摘要**: Introducing Narrative Psychology: Self, Trauma and the Construction of Meaning, Michele Crossley, Buckingham: Open University Press, 2000, £50.00 (£16.99 pbk), 200 pp. (ISBN: 0-335-20290-X) - Volume 35 Issue 1
 
 ### The Consumer Society Reader, Martyn J. Lee (ed.), Oxford: Blackwell, 2000, £55.00 (£15.99 pbk), xxvi+325 pp. (ISBN 0-631-20797-X and 0-631-20798-8 pbk)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501270291](https://doi.org/10.1017/s0038038501270291)
 **作者**: CRANG, PHILIP
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Tripping on the Color Line: Black-White Multiracial Families in a Racially Divided World, Heather M. Dalmage, New Brunswick, NJ: Rutgers University Press, 2000, $50.00 ($20.00 paperback), x+200 pp. (ISBN 0-8135-2843-7)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501259914](https://doi.org/10.1017/s0038038501259914)
 **作者**: Kornblau, Amy I.
-**摘要**: （暂无）
+**摘要**: Tripping on the Color Line: Black-White Multiracial Families in a Racially Divided World, Heather M. Dalmage, New Brunswick, NJ: Rutgers University Press, 2000, 20.00 paperback), x+200 pp. (ISBN 0-8135-2843-7) - Volume 35 Issue 4
 
 ### Organizational Culture and Identity: Unity and Division at Work, Martin Parker, London: Sage, 2000, £50.00 (£16.99 pbk), vi+266 pp. (ISBN: 0-7619-5242-X)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501390156](https://doi.org/10.1017/s0038038501390156)
 **作者**: CHILD, SUSAN
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Notes for Contributors
 **年份**: 2001 | **DOI**: [10.1177/0038038501035001001](https://doi.org/10.1177/0038038501035001001)
@@ -4602,7 +4602,7 @@
 ### The Politics of Disability and Feminism: Discord or Synthesis?
 **年份**: 2001 | **DOI**: [10.1017/s0038038501000360](https://doi.org/10.1017/s0038038501000360)
 **作者**: Lloyd, Margaret
-**摘要**: （暂无）
+**摘要**: Early formulations of the social model of disability have been subject to critical amendment by disabled women. Disabled women activists have, however, been equally critical of the failure of mainstream feminism to recognise the disability perspective.…
 
 ### We Really Do Know What You Do: A Comparison of Reports from 11 Year Olds and their Parents in Respect of Parental Economic Activity and Occupation
 **年份**: 2001 | **DOI**: [10.1177/s0038038501000268](https://doi.org/10.1177/s0038038501000268)
@@ -4612,22 +4612,22 @@
 ### Homelessness: The New Terrain, Patricia Kennett and Alex Marsh (eds.), University of Bristol: The Policy Press, 1999, £45.00 (£18.99 pbk), x+303 pp. (ISBN: 1-86134-150-4)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501340154](https://doi.org/10.1017/s0038038501340154)
 **作者**: HIGATE, PAUL
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Internet Communication and Qualitative Research: A Handbook for Research Online, Chris Mann and Fiona Stewart, London: Sage, 2000, £49.50 (£16.99 pbk), ix+249 pp. (ISBN 0-7619-6627-7 pbk) The Internet: An Ethnographic Approach, Daniel Miller and Don Slater, Oxford: Berg, 2000, £42.99 (£14.99 pbk), 121 pp. (ISBN 1-85973-304-0; 1-85973-389-1 pbk)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501280419](https://doi.org/10.1017/s0038038501280419)
 **作者**: WARD, KATIE J.
-**摘要**: （暂无）
+**摘要**: Internet Communication and Qualitative Research: A Handbook for Research Online, Chris Mann and Fiona Stewart, London: Sage, 2000, £49.50 (£16.99 pbk), ix+249 pp. (ISBN 0-7619-6627-7 pbk)The Internet: An Ethnographic Approach, Daniel Miller and Don Slater, Oxford: Berg, 2000, £42.99 (£14.99 pbk), 12…
 
 ### Body Modification, Mike Featherstone (ed.), London, Thousand Oaks and New Delhi: Sage, 2000, £18.99 paperback, 347 pp. (ISBN 0-7619-6796-6)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501269910](https://doi.org/10.1017/s0038038501269910)
 **作者**: Vitellone, Nicole
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Comment on Frank Bechhofer, David McCrone, Richard Kiely and Robert Stewart, `Constructing National Identity: Arts and Landed Elites in Scotland'
 **年份**: 2001 | **DOI**: [10.1177/0038038501035001012](https://doi.org/10.1177/0038038501035001012)
 **作者**: Pryke, Sam
-**摘要**: （暂无）
+**摘要**: As Bechhofer, McCrone, Kiely and Stewart point out, there has been a tendency in the study of nationalism in particular, and in the social sciences in general, to assume that national identity is simply conferred upon individuals by the nation-state.…
 
 ### Books Reviewed
 **年份**: 2001 | **DOI**: [10.1177/0038038501035001028](https://doi.org/10.1177/0038038501035001028)
@@ -4667,7 +4667,7 @@
 ### We Really Do Know What You Do: A Comparison of Reports from 11 Year Olds and Their Parents in Respect of Parental Economic Activity and Occupation
 **年份**: 2001 | **DOI**: [10.1017/s0038038501000268](https://doi.org/10.1017/s0038038501000268)
 **作者**: West, Patrick; Sweeting, Helen; Speed, Ewen
-**摘要**: （暂无）
+**摘要**: It is widely assumed that children, especially younger children and those in poorer circumstances, are unreliable informants of parental occupation and related characteristics, thereby precluding the measurement of social class in much research involving children.…
 
 ### Illuminating Meanings of `the Private' in Sociological Thought: A Response to Joe Bailey
 **年份**: 2001 | **DOI**: [10.1177/s0038038501000396](https://doi.org/10.1177/s0038038501000396)
@@ -4677,7 +4677,7 @@
 ### The Racialised Somatic Norm and the Senior Civil Service
 **年份**: 2001 | **DOI**: [10.1017/s0038038501000335](https://doi.org/10.1017/s0038038501000335)
 **作者**: Puwar, Nirmal
-**摘要**: （暂无）
+**摘要**: One of the central ways in which institutional racism is perpetuated is through the designation of the somatic norm. However, although the classed and gendered nature of the somatic norm underlying somataphobic representations of the universal ‘individual’ have been both theoretically and substantia…
 
 ### Books Reviewed
 **年份**: 2001 | **DOI**: [10.1177/0038038501035001033](https://doi.org/10.1177/0038038501035001033)
@@ -4687,12 +4687,12 @@
 ### Metaphysics: Concept and Problems, Theodor W. Adorno, Cambridge: Polity Press, 2000, £45.00, ix+214 pp. (ISBN 0-7456-2275-5)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501210293](https://doi.org/10.1017/s0038038501210293)
 **作者**: BULL, MICHAEL
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Changing Britain: Families and Households in the 1990s, Susan McRae (ed.), Oxford: Oxford University Press, 1999, £40.00 (£19.99 pbk), xxi+487 pp. (ISBN 0-19-829636-3; 0-19-829637-1)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501290415](https://doi.org/10.1017/s0038038501290415)
 **作者**: RYAN, LOUISE
-**摘要**: （暂无）
+**摘要**: Changing Britain: Families and Households in the 1990s, Susan McRae (ed.), Oxford: Oxford University Press, 1999, £40.00 (£19.99 pbk), xxi+487 pp. (ISBN 0-19-829636-3; 0-19-829637-1) - Volume 35 Issue 3
 
 ### Gender, Power and the Household, L. McKie, S. Bowlby and S. Gregory (eds.), London: Macmillan Press, 1999, £17.99, xv+230 pp. (ISBN: 0-333-69574-7)
 **年份**: 2001 | **DOI**: [10.1017/s003803850138015x](https://doi.org/10.1017/s003803850138015x)
@@ -4707,7 +4707,7 @@
 ### Whose Europe? The Turn Towards Democracy, Dennis Smith and Sue Wright (eds.), Oxford: Blackwell, 1999, £12.99 pbk, ix+321 pp. (ISBN 0-631-21918-8) Theories of European Integration, Ben Rosamond, London: Macmillan, 2000, £13.99 pbk, xiii+232 pp. (ISBN 0-333-64717-8)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501290294](https://doi.org/10.1017/s0038038501290294)
 **作者**: BAILEY, JOE
-**摘要**: （暂无）
+**摘要**: Whose Europe? The Turn Towards Democracy, Dennis Smith and Sue Wright (eds.), Oxford: Blackwell, 1999, £12.99 pbk, ix+321 pp. (ISBN 0-631-21918-8) Theories of European Integration, Ben Rosamond, London: Macmillan, 2000, £13.99 pbk, xiii+232 pp. (ISBN 0-333-64717-8) - Volume 35 Issue 2
 
 ### Books Reviewed
 **年份**: 2001 | **DOI**: [10.1177/0038038501035001024](https://doi.org/10.1177/0038038501035001024)
@@ -4717,12 +4717,12 @@
 ### Good Companions: Decorative, Informative or Interrogative? The Role of Social Theory Textbooks
 **年份**: 2001 | **DOI**: [10.1177/0038038501035001015](https://doi.org/10.1177/0038038501035001015)
 **作者**: Parker, David
-**摘要**: （暂无）
+**摘要**: The editor of the newly revised Companion to Social Theory describes his volume as an 'attempt to offer the student a prescriptive and critical, rather than bland and neutral, pathway through the literature' (Turner 2000:xiv). The rest of the introduction certainly lives up to this promise.…
 
 ### Comment on Frank Bechhofer, David McCrone, Richard Kiely and Robert Stewart, ‘Constructing National Identity: Arts and Landed Elites in Scotland’
 **年份**: 2001 | **DOI**: [10.1017/s0038038501000116](https://doi.org/10.1017/s0038038501000116)
 **作者**: Pryke, Sam
-**摘要**: （暂无）
+**摘要**: As Bechhofer, McCrone, Kiely and Stewart point out, there has been a tendency in the study of nationalism in particular, and in the social sciences in general, to assume that national identity is simply conferred upon individuals by the nation-state.…
 
 ### Gender and Critical Realism: A Critique of Sayer
 **年份**: 2001 | **DOI**: [10.1177/0038038501035004009](https://doi.org/10.1177/0038038501035004009)
@@ -4737,22 +4737,22 @@
 ### Citizenship and Migration: Globalisation and the politics of belonging, Stephen Castles and Alastair Davidson, London: Macmillan, 2000, £14.99 pbk, xiii+258 pp. (ISBN 0-333-64310-0)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501260295](https://doi.org/10.1017/s0038038501260295)
 **作者**: GRIFFITHS, DAVID
-**摘要**: （暂无）
+**摘要**: Citizenship and Migration: Globalisation and the politics of belonging, Stephen Castles and Alastair Davidson, London: Macmillan, 2000, £14.99 pbk, xiii+258 pp. (ISBN 0-333-64310-0) - Volume 35 Issue 2
 
 ### Religion in the Contemporary World: A Sociological Introduction, Alan Aldridge, Cambridge: Polity Press, 2000, £50.00 (£14.99 pbk), viii+232 pp. (ISBN 0-7456-2083-3 hdbk)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501210414](https://doi.org/10.1017/s0038038501210414)
 **作者**: CROCKETT, ALASDAIR
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Reflexive Ethnography: A Guide to Researching Selves and Others, Charlotte Aull Davies, London: Routledge, 1999, £15.99 paperback, viii+257 pp. (ISBN: 0-415-15191-0)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501270151](https://doi.org/10.1017/s0038038501270151)
 **作者**: HORTON, DAVID
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### The Cambridge Companion to Weber, Stephen Turner (ed.), Cambridge: Cambridge University Press, 2000, £37.50 (£13.95 pbk), xx+288 pp. (ISBN 0-521-56149-3; 0-521-56753-X pbk)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501330419](https://doi.org/10.1017/s0038038501330419)
 **作者**: KEATING, PAUL
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Reply to Holmwood
 **年份**: 2001 | **DOI**: [10.1017/s0038038501009671](https://doi.org/10.1017/s0038038501009671)
@@ -4767,12 +4767,12 @@
 ### Reclaiming Genders: Transsexual Grammars at the Fin de Siècle, Kate More and Stephen Whittle (eds.), London and New York: Cassell, 1999, £16.99 (pbk), x+309 pp. (ISBN 0-304-33777-3; 0-304-33776-5 pbk)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501280298](https://doi.org/10.1017/s0038038501280298)
 **作者**: HIRD, MYRA J.
-**摘要**: （暂无）
+**摘要**: Reclaiming Genders: Transsexual Grammars at the Fin de Siècle, Kate More and Stephen Whittle (eds.), London and New York: Cassell, 1999, £16.99 (pbk), x+309 pp. (ISBN 0-304-33777-3; 0-304-33776-5 pbk) - Volume 35 Issue 2
 
 ### Games, Sports and Cultures, Noel Dyck (ed.) Oxford: Berg, 2000, £14.99 pbk, viii+246 pp. (ISBN 1-85973-317-4)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501220410](https://doi.org/10.1017/s0038038501220410)
 **作者**: BALE, JOHN
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Books Reviewed
 **年份**: 2001 | **DOI**: [10.1177/0038038501035003021](https://doi.org/10.1177/0038038501035003021)
@@ -4782,12 +4782,12 @@
 ### Meetings, Manners and Civilization: The Development of Modern Meeting Behaviour, Wilbert Van Vree, London and New York: Leicester University Press, 1999, £55.00, xiii+370 pp. (ISBN 0-7285-0123-3)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501300299](https://doi.org/10.1017/s0038038501300299)
 **作者**: THOMPSON, GRAHAM
-**摘要**: （暂无）
+**摘要**: Meetings, Manners and Civilization: The Development of Modern Meeting Behaviour, Wilbert Van Vree, London and New York: Leicester University Press, 1999, £55.00, xiii+370 pp. (ISBN 0-7285-0123-3) - Volume 35 Issue 2
 
 ### Social Mobility in Nineteenth- and Early Twentieth-Century England, Andrew Miles, Basingstoke: Macmillan, 1999, £50.00, 280 pp. (ISBN 0-333-62059-3)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501279917](https://doi.org/10.1017/s0038038501279917)
 **作者**: Gatley, David Alan
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Books Reviewed
 **年份**: 2001 | **DOI**: [10.1177/0038038501035004016](https://doi.org/10.1177/0038038501035004016)
@@ -4802,7 +4802,7 @@
 ### The Concept of ‘Social Division’ and Theorising Social Stratification: Looking at Ethnicity and Class
 **年份**: 2001 | **DOI**: [10.1017/s0038038501008355](https://doi.org/10.1017/s0038038501008355)
 **作者**: Anthias, Floya
-**摘要**: （暂无）
+**摘要**: One of the most characteristic features of contemporary debates in the social sciences is the growth of interest in non-class forms of social division and identity, accompanied by an increasing focus on ethnic and gender inequalities.…
 
 ### Ecologising Sociology: Actor-Network Theory, Co-Construction and the Problem of Human Exemptionalism
 **年份**: 2001 | **DOI**: [10.1177/0038038501035001008](https://doi.org/10.1177/0038038501035001008)
@@ -4817,7 +4817,7 @@
 ### Gay Masculinities, Peter Nardi (ed.), Thousand Oaks, Calif.: Sage, 2000, £43.00 (£21.00 paperback), vii+296 pp. (ISBN 0-7619-1524-9) Lesbian and Gay Studies: An Introductory, Interdisciplinary Approach, Theo Sandfort, Judith Schuyf, Jan Willem Duyvendak and Jeffrey Weeks (eds.), London: Sage, 2000, £47.50 (£15.99 paperback), xi+256 pp. (ISBN 0-7619-5417-1)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501289913](https://doi.org/10.1017/s0038038501289913)
 **作者**: Galilee, John
-**摘要**: （暂无）
+**摘要**: Gay Masculinities, Peter Nardi (ed.), Thousand Oaks, Calif.: Sage, 2000, £43.00 (£21.00 paperback), vii+296 pp. (ISBN 0-7619-1524-9) Lesbian and Gay Studies: An Introductory, Interdisciplinary Approach, Theo Sandfort, Judith Schuyf, Jan Willem Duyvendak and Jeffrey Weeks (eds.), London: Sage, 2000, …
 
 ### Books Reviewed
 **年份**: 2001 | **DOI**: [10.1177/s0038038501210293](https://doi.org/10.1177/s0038038501210293)
@@ -4861,17 +4861,17 @@
 ### Heirlooms, Nikes and Bribes: Towards a Sociology of Things
 **年份**: 2001 | **DOI**: [10.1017/s0038038501000049](https://doi.org/10.1017/s0038038501000049)
 **作者**: Komter, Aafke
-**摘要**: （暂无）
+**摘要**: How do things come to embody meaning? In much anthropological and sociological writings, things have mainly been considered in two ways: either as commodities or as gifts. Correspondingly, people's relationships to things and to other people seem to fall in two broad categories, often regarded as mu…
 
 ### The ‘Being-Risky’ Child: Governing Childhood and Sexual Risk
 **年份**: 2001 | **DOI**: [10.1017/s0038038501000256](https://doi.org/10.1017/s0038038501000256)
 **作者**: Brownlie, Julie
-**摘要**: （暂无）
+**摘要**: Recent sociological work suggests that anxieties for, and about, children has helped create the impression that being a child is in itself problematic; or to put it another way, that risk and its management are now central to how we in the West construct childhood.…
 
 ### Understanding Modern Japan: A Political Economy of Development, Culture and Global Power, P. W. Preston, London: Sage, 2000, £49.50 (£15.99 pbk), xi+239 pp. (ISBN 0-7619-6195-X; 0-7619-6196-8 pbk)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501320412](https://doi.org/10.1017/s0038038501320412)
 **作者**: HORNE, JOHN
-**摘要**: （暂无）
+**摘要**: Understanding Modern Japan: A Political Economy of Development, Culture and Global Power, P. W. Preston, London: Sage, 2000, £49.50 (£15.99 pbk), xi+239 pp. (ISBN 0-7619-6195-X; 0-7619-6196-8 pbk) - Volume 35 Issue 3
 
 ### Books Reviewed
 **年份**: 2001 | **DOI**: [10.1177/0038038501035001032](https://doi.org/10.1177/0038038501035001032)
@@ -4896,17 +4896,17 @@
 ### Oppressed and Oppressors? The Systematic Mistreatment of Men
 **年份**: 2001 | **DOI**: [10.1017/s0038038501000372](https://doi.org/10.1017/s0038038501000372)
 **作者**: New, Caroline
-**摘要**: （暂无）
+**摘要**: This paper argues for a structural definition of oppression as systematic mistreatment. Using the work of Connell and other theorists, I discuss the implications of the proposed definition for the oppression of women and suggest that men, too, are systematically mistreated and therefore oppressed in…
 
 ### Male Bodies: Health Education and Identity, Jonathan Watson, Buckingham: Open University Press, 2000, £50.00 (£15.99 pbk), iv+170 pp. (ISBN: 0335-19785-X)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501480151](https://doi.org/10.1017/s0038038501480151)
 **作者**: RICHMAN, JOEL
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Risk Revisited, Pat Caplan (ed.), London: Pluto Press, 2000, £45.00 (£14.99 pbk), vi+258 pp. (ISBN: 0-7453-1463-5)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501240152](https://doi.org/10.1017/s0038038501240152)
 **作者**: LUPTON, DEBORAH
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Books Reviewed
 **年份**: 2001 | **DOI**: [10.1177/0038038501035003012](https://doi.org/10.1177/0038038501035003012)
@@ -4930,7 +4930,7 @@
 ### Sounding Out the City: Personal Stereos and the Management of Everyday Life, Michael Bull, Oxford: Berg, 2000, £42.00 (£14.99 paperback), vii+192 pp. (ISBN 1-85973-337-9, 1-85973-342-5) Music in Everyday Life: Soundtrack, Self and Embodiment in Everyday Life, Tia DeNora, Cambridge: Cambridge University Press, 2000, £12.95 , xiii+163 pp. (ISBN 0-521-62732-X)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501239911](https://doi.org/10.1017/s0038038501239911)
 **作者**: Padley, Matt
-**摘要**: （暂无）
+**摘要**: Sounding Out the City: Personal Stereos and the Management of Everyday Life, Michael Bull, Oxford: Berg, 2000, £42.00 (£14.99 paperback), vii+192 pp. (ISBN 1-85973-337-9, 1-85973-342-5) Music in Everyday Life: Soundtrack, Self and Embodiment in Everyday Life, Tia DeNora, Cambridge: Cambridge Univers…
 
 ### The Cybercultures Reader, David Bell and Barbara Kennedy (eds.), London: Routledge, 2000, £17.99, xxv+768 pp. (ISBN: 0-415-18379-0)
 **年份**: 2001 | **DOI**: [10.1017/s003803850122015x](https://doi.org/10.1017/s003803850122015x)
@@ -4954,7 +4954,7 @@
 ### Debating Labour Process Theory: The Issue of Subjectivity and the Relevance of Poststructuralism
 **年份**: 2001 | **DOI**: [10.1017/s0038038501000220](https://doi.org/10.1017/s0038038501000220)
 **作者**: O'Doherty, Damian; Willmott, Hugh
-**摘要**: （暂无）
+**摘要**: This paper locates labour process theory in broader sociological debates concerned with the action-structure dualism before examining three broad programmes for research that have emerged in response to the question of subjectivity and agency.…
 
 ### Marketing Molly and Melville: Dating in a Postmodern, Consumer Society
 **年份**: 2001 | **DOI**: [10.1177/0038038501035001004](https://doi.org/10.1177/0038038501035001004)
@@ -4964,7 +4964,7 @@
 ### Social Exclusion in Europe: Problems and Paradigms, Paul Littlewood (ed.), Aldershot: Ashgate, 1999, no price given, xi+232 pp. (ISBN: 1-84014-717-2)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501350150](https://doi.org/10.1017/s0038038501350150)
 **作者**: BYRNE, DAVID
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Books Reviewed
 **年份**: 2001 | **DOI**: [10.1177/0038038501035003018](https://doi.org/10.1177/0038038501035003018)
@@ -4979,7 +4979,7 @@
 ### At Face Value? Image Consultancy, Emotional Labour and Professional Work
 **年份**: 2001 | **DOI**: [10.1017/s0038038501009336](https://doi.org/10.1017/s0038038501009336)
 **作者**: Wellington, Christine A.; Bryson, John R.
-**摘要**: （暂无）
+**摘要**: This paper draws upon empirical research into the image consultancy industry in the United Kingdom. This industry is becoming increasingly important as a provider of knowledge and expertise to employers and individuals.…
 
 ### Choices of Degree or Degrees of Choice? Class, `Race' and the Higher Education Choice Process
 **年份**: 2001 | **DOI**: [10.1177/0038038501035004004](https://doi.org/10.1177/0038038501035004004)
@@ -4994,22 +4994,22 @@
 ### Policing Britain: Risk, Security and Governance, Les Johnston, Harlow: Pearson Education (Longman Criminology Series), 2000, £16.99 pbk, ix+214 pp. (ISBN 0-582-29886-5)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501270412](https://doi.org/10.1017/s0038038501270412)
 **作者**: MAWBY, ROB C.
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Social Divisions, Geoff Payne (ed.), London: Macmillan, 2000, £14.99 (pbk), xviii+286 pp. (ISBN 0-333-76336-X)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501310416](https://doi.org/10.1017/s0038038501310416)
 **作者**: BAILEY, JOE
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Researching Health Needs: A Community-Based Approach, Judy Payne, London: Sage Publications, 1999, £45 (£15.99 pbk), vii+193 pp. (ISBN: 0-7619-6084-8)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501400150](https://doi.org/10.1017/s0038038501400150)
 **作者**: MCINTOSH, JEAN
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Adorno: A Critical Introduction, Simon Jarvis, Cambridge: Polity Press, 1998, £45.00 (£13.95 pbk), x+283 pp. (ISBN: 0-7456-1178-8 hbk; ISBN 0-7456-1179-6 pbk)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501330158](https://doi.org/10.1017/s0038038501330158)
 **作者**: RAWLINSON, MARK
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Habermas, History and Social Evolution: Moral Learning and the Trial of Louis XVI
 **年份**: 2001 | **DOI**: [10.1177/0038038501035001011](https://doi.org/10.1177/0038038501035001011)
@@ -5039,17 +5039,17 @@
 ### The Nature of Trust: From Georg Simmel to a Theory of Expectation, Interpretation and Suspension
 **年份**: 2001 | **DOI**: [10.1017/s0038038501000190](https://doi.org/10.1017/s0038038501000190)
 **作者**: Möllering, Guido
-**摘要**: （暂无）
+**摘要**: This article undertakes a substantial theoretical reorientation of research into the concept of trust. Analysing key passages in the work of Georg Simmel, it is argued that the link between trust bases and a trustful state of expectation is much weaker than is commonly assumed.…
 
 ### Sustaining Oppositional Cultures in ‘Post-Socialist’ Times: A Comparative Study of Three Social Movement Organisations
 **年份**: 2001 | **DOI**: [10.1017/s0038038501000311](https://doi.org/10.1017/s0038038501000311)
 **作者**: Carroll, William K.; Ratner, R. S.
-**摘要**: （暂无）
+**摘要**: This paper explores the efforts of three social-movement organisations in Vancouver, Canada, to advance oppositional cultures in what Nancy Fraser has termed a ‘post-socialist’ age, marked both by neo-liberal hegemony and by the primacy of cultural recognition over material redistribution in the fra…
 
 ### Books Reviewed
 **年份**: 2001 | **DOI**: [10.1177/0038038501035001023](https://doi.org/10.1177/0038038501035001023)
 **作者**: PUWAR, NIRMAL
-**摘要**: （暂无）
+**摘要**: Medical Jurisprudence. By Alfred Swain Taylor, with Notes and References to American Decisions, by Clement Penrose. Philadelphia: Henry C. Lea, 1866. The appearance of a new American edition of this work is not an occasion to speak at all of its merits or defects, since the intelligent portion of th…
 
 ### Books Reviewed
 **年份**: 2001 | **DOI**: [10.1177/0038038501035004017](https://doi.org/10.1177/0038038501035004017)
@@ -5059,17 +5059,17 @@
 ### The ‘Cultural Turn’ in Social Theory: Towards a Theory of Cultural Politics
 **年份**: 2001 | **DOI**: [10.1017/s0038038501000050](https://doi.org/10.1017/s0038038501000050)
 **作者**: Nash, Kate
-**摘要**: （暂无）
+**摘要**: There has been a well-documented ‘cultural turn’ in social theory. This takes two forms: the ‘epistemological’ case in which culture is seen as universally constitutive of social relations and identities; and the ‘historical’ case in which culture is seen as playing an unprecedented role in constitu…
 
 ### New Religious Movements: Challenge and Response, Bryan Wilson and Jamie Cresswell (eds.), London: Routledge, 1999, (£14.99 pbk), xviii+284 pp. (ISBN: 0-415-20050-4)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501500152](https://doi.org/10.1017/s0038038501500152)
 **作者**: O'LEARY, RICHARD
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Leisure in Contemporary Society, Ken Roberts, Wallingford: CAB International Publishing, 1999, £30.00, vi+250 pp. (ISBN: 0-85199-338-9)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501420153](https://doi.org/10.1017/s0038038501420153)
 **作者**: WILLIAMS, STEPHEN
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Ex Cathedra: The Representation of American Society in ASA Presidential Addresses, 1906-98
 **年份**: 2001 | **DOI**: [10.1177/s0038038501000232](https://doi.org/10.1177/s0038038501000232)
@@ -5084,12 +5084,12 @@
 ### The Buoyant Class: Bourgeois Family Lineage in the Life Stories of Czech Business Elite Persons
 **年份**: 2001 | **DOI**: [10.1017/s003803850100815x](https://doi.org/10.1017/s003803850100815x)
 **作者**: Andrle, Vladimir
-**摘要**: （暂无）
+**摘要**: Life-story interviews carried out in the Czech Republic confirm that the new business elite is dominated by men who had already achieved high managerial positions in the Communist era.…
 
 ### Habermas, History and Social Evolution: Moral Learning and the Trial of Louis XVI
 **年份**: 2001 | **DOI**: [10.1017/s0038038501000104](https://doi.org/10.1017/s0038038501000104)
 **作者**: How, Alan R.
-**摘要**: （暂无）
+**摘要**: In recent times, under the influence of postmodernist thought sociology has largely rejected the idea of social evolution. An exception to this trend is to be found in the work of Jürgen Habermas.…
 
 ### Mental Adjustment to the Post-Communist System in Poland, Kazimierz M. Slomczynski with Krystyna Janicka, Bogdan W. Mach and Wojciech Zaborowski, Warsaw: IFiS, 1999, 219 pp. (ISBN: 83-87632-26-0)
 **年份**: 2001 | **DOI**: [10.1017/s003803850143015x](https://doi.org/10.1017/s003803850143015x)
@@ -5104,7 +5104,7 @@
 ### Max Weber Revisited
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000493](https://doi.org/10.1017/s0038038500000493)
 **作者**: Gane, Nicholas
-**摘要**: （暂无）
+**摘要**: Ralph Schroeder (ed.), Max Weber, Democracy and Modernization. Basingstoke: Macmillan, 1998, £16.99 paperback, xii+206 pp. (ISBN 0-333-71254-4)Richard Swedberg, Max Weber and the Idea of Economic Sociology. Princeton, NJ: Princeton University Press, 1998, £19.95, x+315 pp.…
 
 ### Books Reviewed
 **年份**: 2000 | **DOI**: [10.1177/0038038500034003026](https://doi.org/10.1177/0038038500034003026)
@@ -5124,7 +5124,7 @@
 ### Teresa Rees, Mainstreaming Equality in the European Union: Education, Training and Labour Market Policies, London: Routledge, 1998, £15.99 paperback, 260 pp. (ISBN 0-415-11534-5)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500340238](https://doi.org/10.1017/s0038038500340238)
 **作者**: Walters, Sally
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Cultural Symbols and Landowners' Power: The Practice of Managing Scotland's Natural Resource
 **年份**: 2000 | **DOI**: [10.1177/s0038038500000420](https://doi.org/10.1177/s0038038500000420)
@@ -5134,17 +5134,17 @@
 ### The Ethical Antinomies of Postmodernity
 **年份**: 2000 | **DOI**: [10.1177/s0038038500000213](https://doi.org/10.1177/s0038038500000213)
 **作者**: Elliott, Anthony
-**摘要**: （暂无）
+**摘要**: Alberto Melucci, The Playing Self: Person and Meaning in the Planetary Society , Cambridge: Cambridge University Press, 1996, £13.95 paperback, vii+177 pp. (ISBN 0-521-56482-4) Charles Lemert, Postmodernism Is Not What You Think , Oxford: Blackwell Publishers, 1997, £15.99 paperback, xiv+185 pp.…
 
 ### Christie Davies, Jokes and Their Relation to Society, Berlin and New York: Walter de Gruyter, 1998,DM178, x+234 pp. (ISBN 3-11-016104-4)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500260239](https://doi.org/10.1017/s0038038500260239)
 **作者**: Paton, George
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Sokal, Chaos and the Way Forward?
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000225](https://doi.org/10.1017/s0038038500000225)
 **作者**: Williams, Malcolm
-**摘要**: （暂无）
+**摘要**: David Byrne, Complexity Theory and the Social Sciences: An Introduction. London: Routledge, 1999, £45.00 (£:15.99 paperback), viii+206 pp. (ISBN 0-415-16296-3)Raymond A. Eve, Sara Horsfall and Mary E. Lee (eds.), Chaos, Complexity and Sociology: Myths, Models and Theories).…
 
 ### BOOKS RECEIVED
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000249](https://doi.org/10.1017/s0038038500000249)
@@ -5153,27 +5153,27 @@
 ### Moral Tales of the Child and the Adult: Narratives of Contemporary Family Lives under Changing Circumstances
 **年份**: 2000 | **DOI**: [10.1017/s003803850000047x](https://doi.org/10.1017/s003803850000047x)
 **作者**: Ribbens McCarthy, Jane; Edwards, Rosalind; Gillies, Val
-**摘要**: （暂无）
+**摘要**: Family lives are an area where people's moral identities are crucially at stake. Yet the significance of dependent children to the work needed to sustain morally adequate adult identities is largely overlooked.…
 
 ### On the Pragmatics of Communication, Jürgen Habermas, Cambridge: Polity Press, 1998, £45.00, viii+454 pp. (ISBN 0-7456-2219-4)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500250505](https://doi.org/10.1017/s0038038500250505)
 **作者**: THOMASSEN, LASSE
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Crime in Context: A Critical Criminology of Market Societies, Ian Taylor, Cambridge: Polity Press, 1999, £49.50 (£14.99 paperback), i+304 pp. (ISBN 0-7456-0667-9)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500350362](https://doi.org/10.1017/s0038038500350362)
 **作者**: COLEMAN, ROY
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Books Reviewed
 **年份**: 2000 | **DOI**: [10.1177/0038038500034002013](https://doi.org/10.1177/0038038500034002013)
 **作者**: WILLIAMS, KEVIN
-**摘要**: （暂无）
+**摘要**: A Treatise upon the Diseases of Infancy and Childhood. By J. Lewis Smith, M. D. Philadelphia: Henry C. Lea, 1869. The intention of the author has been to present a description of the diseases of infancy and childhood in a sufficiently succinct manner to meet the requirements of practitioners and med…
 
 ### A Welcome Back to the Working Class
 **年份**: 2000 | **DOI**: [10.1177/s0038038500000481](https://doi.org/10.1177/s0038038500000481)
 **作者**: Edensor, Tim
-**摘要**: （暂无）
+**摘要**: Cet article propose une analyse critique des ouvrages suivants : A Phenomenology of Working Class Experience par S. Charlesworth, Cultural Studies and the Working Class, S. Munt (ed.), et Core Cultural Concept : Class par A. Milner.…
 
 ### Books Reviewed
 **年份**: 2000 | **DOI**: [10.1177/0038038500034004017](https://doi.org/10.1177/0038038500034004017)
@@ -5188,17 +5188,17 @@
 ### On Ambivalence and Risk: Reflexive Modernity and the New Human Genetics
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000183](https://doi.org/10.1017/s0038038500000183)
 **作者**: Kerr, Anne; Cunningham-Burley, Sarah
-**摘要**: （暂无）
+**摘要**: This critical examination of theories of reflexive modernity with respect to the new human genetics draws on a range of empirical studies and conceptual critiques. In it we explore the ways in which genetic knowledge and testing technologies offer new choices, construct new risks and generate public…
 
 ### Ruth Levitas, The Inclusive Society? Social Exclusion and New Labour, London: Macmillan Press, 1998, £16.99 paperback, xii+224 pp. (ISBN 0-333-73087-9)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500300232](https://doi.org/10.1017/s0038038500300232)
 **作者**: Higate, Paul
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Political Languages of Race and the Politics of Exclusion, Andy R. Brown, Aldershot: Ashgate, 1999, £42.50, xx+341 pp. (ISBN 1-84014-516-1)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500220506](https://doi.org/10.1017/s0038038500220506)
 **作者**: RAY, KATHRYN
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Re-Branding Britain: Sociology, Futures and Futurology
 **年份**: 2000 | **DOI**: [10.1177/s0038038500000122](https://doi.org/10.1177/s0038038500000122)
@@ -5218,7 +5218,7 @@
 ### A Welcome Back to the Working Class
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000481](https://doi.org/10.1017/s0038038500000481)
 **作者**: Edensor, Tim
-**摘要**: （暂无）
+**摘要**: S. Charlesworth, A Phenomenology of Working Class Experience. Cambridge: Cambridge University Press, 2000, £40.00 (£14.95 paperback), xi+312 pp. (ISBN 0-521-65066-6, ISBN 0-521-65915-9)S. Munt (ed.), Cultural Studies and the Working Class. London: Cassell, 2000, £45 (£19.99 paperback), ix+241 pp.…
 
 ### Books Reviewed
 **年份**: 2000 | **DOI**: [10.1177/0038038500034002024](https://doi.org/10.1177/0038038500034002024)
@@ -5233,7 +5233,7 @@
 ### Alfred Schutz and the ‘Objectifying Attitude’
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000444](https://doi.org/10.1017/s0038038500000444)
 **作者**: Harrington, Austin
-**摘要**: （暂无）
+**摘要**: Alfred Schutz argues that social scientists should interpret social life from the standpoint of the subjective meanings of ordinary actors, while themselves maintaining a detached, ‘objectifying’ attitude.…
 
 ### Books Reviewed
 **年份**: 2000 | **DOI**: [10.1177/0038038500034003018](https://doi.org/10.1177/0038038500034003018)
@@ -5248,7 +5248,7 @@
 ### Sociology in Practice for Health Care Professionals, Ron Iphofen and Fiona Poland, Basingstoke:Macmillan, 1998, £13.99 paperback, x+262 pp. (ISBN 0-333-64576-6) Sociological Perspectives on Health, Illness and Health Care, David Field and Steve Taylor (eds.), Oxford: Blackwell Science, 1998, £13.99 paperback, xvi+238 pp. (ISBN 0-632-04147-1)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500270363](https://doi.org/10.1017/s0038038500270363)
 **作者**: CHISHOLM, ELIZABETH
-**摘要**: （暂无）
+**摘要**: Sociology in Practice for Health Care Professionals, Ron Iphofen and Fiona Poland, Basingstoke:Macmillan, 1998, £13.99 paperback, x+262 pp. (ISBN 0-333-64576-6)Sociological Perspectives on Health, Illness and Health Care, David Field and Steve Taylor (eds.), Oxford: Blackwell Science, 1998, £13.99 p…
 
 ### Books Reviewed
 **年份**: 2000 | **DOI**: [10.1177/0038038500034003013](https://doi.org/10.1177/0038038500034003013)
@@ -5258,7 +5258,7 @@
 ### Mel Bartley, David Blane and George Davey Smith (eds.), The Sociology of Health Inequalities, Oxford: Blackwell Publishers, 1998, £25.95 (£14.99 paperback), viii+226 pp. (ISBN 0-631-20929-8)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500240236](https://doi.org/10.1017/s0038038500240236)
 **作者**: van Teijlingen, Edwin
-**摘要**: （暂无）
+**摘要**: Mel Bartley, David Blane and George Davey Smith (eds.), The Sociology of Health Inequalities, Oxford: Blackwell Publishers, 1998, £25.95 (£14.99 paperback), viii+226 pp. (ISBN 0-631-20929-8) - Volume 34 Issue 2
 
 ### Notes for Contributors
 **年份**: 2000 | **DOI**: [10.1177/0038038500034001001](https://doi.org/10.1177/0038038500034001001)
@@ -5272,12 +5272,12 @@
 ### Medical Autonomy and the UK State 1975 to 2025
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000092](https://doi.org/10.1017/s0038038500000092)
 **作者**: Harrison, Stephen; Ahmad, Waqar I. U.
-**摘要**: （暂无）
+**摘要**: Medical autonomy in the United Kingdom has declined over the last twenty-five years, whether considered at the micro level (such as control over treatment and work patterns), the meso level (in terms of corporatist relations with the state) or the macro level (in terms of the 'biomedical model').…
 
 ### The Subjectivist–Objectivist Divide: Against Transcendence
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000456](https://doi.org/10.1017/s0038038500000456)
 **作者**: Mouzelis, Nicos
-**摘要**: （暂无）
+**摘要**: On the basis of a fourfold typology referring to different definitions of the social-structure concept, and of a critique of Giddens's and Bourdieu's strategies for transcending the divide between objectivist and subjectivist sociologies, this paper argues that rapprochement rather than transcendenc…
 
 ### A Marxist Critique of Black Radical Theories of Trade-Union Racism
 **年份**: 2000 | **DOI**: [10.1177/s003803850000033x](https://doi.org/10.1177/s003803850000033x)
@@ -5287,7 +5287,7 @@
 ### Social Integration, System Integration and Collective Subjectivity
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000158](https://doi.org/10.1017/s0038038500000158)
 **作者**: Domingues, José Maurício
-**摘要**: （暂无）
+**摘要**: This article argues that Lockwood's piece on social and system integration was quite insightful at the time, but that it failed in correctly solving the issues it raised. More recent versions of the distinction, such as Giddens's and Archer's, are deemed not satisfactory either.…
 
 ### Nationalism and Citizenship
 **年份**: 2000 | **DOI**: [10.1177/s0038038500000031](https://doi.org/10.1177/s0038038500000031)
@@ -5297,12 +5297,12 @@
 ### The Ethnographic Self – Fieldwork and the Representation of Identity, Amanda Coffey, London: Sage, 1999, £45.00 (£15.99 paperback), ix+180 pp. (ISBN 0-7619-5267-5)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500250360](https://doi.org/10.1017/s0038038500250360)
 **作者**: BARNES, SALLY-ANNE
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Transforming Managers: Gendering Change in the Public Sector, Stephen Whitehead and Roy Moodley (eds.), London: UCL Press, 1999, £16.99 paperback, vii+239 pp. (ISBN 1-85728-876-9)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500360369](https://doi.org/10.1017/s0038038500360369)
 **作者**: BELT, VICKI
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Notes for Contributors
 **年份**: 2000 | **DOI**: [10.1177/0038038500034003001](https://doi.org/10.1177/0038038500034003001)
@@ -5311,7 +5311,7 @@
 ### Plurality in Dialogue: A Comment on Bakhtin
 **年份**: 2000 | **DOI**: [10.1017/s003803850000016x](https://doi.org/10.1017/s003803850000016x)
 **作者**: Gurevitch, Zali
-**摘要**: （暂无）
+**摘要**: In the following analysis I will focus on Bakhtin's concept of dialogical plurality, arguing that in spite of his position against the Þnalization of speech and his attack on monologistic, authoritarian unity, his dialogism is itself based on a supposition of wholeness.…
 
 ### Spatiality and the New Social Studies of Childhood
 **年份**: 2000 | **DOI**: [10.1177/s0038038500000468](https://doi.org/10.1177/s0038038500000468)
@@ -5321,12 +5321,12 @@
 ### Michael Banton, Racial Theories (2nd edn), Cambridge: Cambridge University Press, 1998, £40.00, (£14.95 paperback), ix+253 pp. (ISBN 0-521-62945-4)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500220233](https://doi.org/10.1017/s0038038500220233)
 **作者**: Billingham, Stuart
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Social Movements: An Introduction, Donatella della Porta and Mario Diani, Oxford: Blackwell, 1999, £15.99 paperback, x+326 pp. (ISBN 0-631-19213-1)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500320363](https://doi.org/10.1017/s0038038500320363)
 **作者**: GIBB, ROBERT; RYAN, LOUISE
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Books Reviewed
 **年份**: 2000 | **DOI**: [10.1177/0038038500034002021](https://doi.org/10.1177/0038038500034002021)
@@ -5336,17 +5336,17 @@
 ### Nationalism and Citizenship
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000031](https://doi.org/10.1017/s0038038500000031)
 **作者**: McCrone, David; Kiely, Richard
-**摘要**: （暂无）
+**摘要**: Nationality and citizenship are frequently confused but analytically distinct concepts. In the context of the United Kingdom they are especially problematic, for state identity (British) and national identities (English, Scottish, Welsh, etc.) have evolved in a highly implicit manner since the state…
 
 ### The Globalisation of Positional Competition?
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000390](https://doi.org/10.1017/s0038038500000390)
 **作者**: Brown, Phillip
-**摘要**: （暂无）
+**摘要**: Positional competition for credentials and jobs has been a major focus of sociological inquiry. However, there has been little attempt to examine the impact of economic globalisation on competition for a livelihood.…
 
 ### Introduction to Therapeutic Communities (second edition), David Kennard, London: Jessica Kingsley Publishers, 1998, £14.95 paperback, 192 pp. (ISBN 1-85302-603-4) Therapeutic Communities: Past, Present and Future, Penelope Campling and Rex Haigh (eds.), London: Jessica Kingsley Publishers, 1999, £42.50 (£15.95 paperback), 272 pp. (ISBN 1-85302-626-3)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500300360](https://doi.org/10.1017/s0038038500300360)
 **作者**: RAWLINGS, BARBARA
-**摘要**: （暂无）
+**摘要**: Introduction to Therapeutic Communities (second edition), David Kennard, London: Jessica Kingsley Publishers, 1998, £14.95 paperback, 192 pp. (ISBN 1-85302-603-4)Therapeutic Communities: Past, Present and Future, Penelope Campling and Rex Haigh (eds.), London: Jessica Kingsley Publishers, 1999, £42.…
 
 ### Books Reviewed
 **年份**: 2000 | **DOI**: [10.1177/0038038500034003021](https://doi.org/10.1177/0038038500034003021)
@@ -5366,12 +5366,12 @@
 ### News Culture, Stuart Allan, Buckingham: Open University Press, 1999, £45.00 (£13.99 paperback), ix+229 pp. (ISBN 0-335-19956-9)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500210365](https://doi.org/10.1017/s0038038500210365)
 **作者**: ALDRIDGE, MERYL
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Society, Space and the Biotic Level: An Urban and Rural Sociology for the New Millennium
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000109](https://doi.org/10.1017/s0038038500000109)
 **作者**: Dickens, Peter
-**摘要**: （暂无）
+**摘要**: Urban and rural sociology is currently dominated by two relatively separate approaches. One perspective emphasises political economy and increasing globalisation. Another focuses on the meaning of urban and rural areas in people's lives. This paper argues for a fusion between these two views.…
 
 ### Resistance and Adaptation to Criminal Identity: Using Secondary Analysis to Evaluate Classic Studies of Crime and Deviance
 **年份**: 2000 | **DOI**: [10.1177/s0038038500000419](https://doi.org/10.1177/s0038038500000419)
@@ -5381,7 +5381,7 @@
 ### The Political Economy of New Labour: Labouring under False Pretences?, Colin Hay, Manchester: Manchester University Press, 1999, £45.00, (£14.99 paperback), xiii+242 pp. (ISBN 0-7190-5482-6)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500270508](https://doi.org/10.1017/s0038038500270508)
 **作者**: MARTELL, LUKE
-**摘要**: （暂无）
+**摘要**: The Political Economy of New Labour: Labouring under False Pretences?, Colin Hay, Manchester: Manchester University Press, 1999, £45.00, (£14.99 paperback), xiii+242 pp. (ISBN 0-7190-5482-6) - Volume 34 Issue 4
 
 ### Books Reviewed
 **年份**: 2000 | **DOI**: [10.1177/0038038500034002019](https://doi.org/10.1177/0038038500034002019)
@@ -5391,7 +5391,7 @@
 ### The Anomalous Beasts: Hooligans and the Sociology of Education
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000079](https://doi.org/10.1017/s0038038500000079)
 **作者**: Delamont, Sara
-**摘要**: （暂无）
+**摘要**: This paper argues that the subspecialism of sociology of education has, for a century, been ambivalent about the ‘hooligan’. It has both celebrated and excoriated the anti-school working-class boy.…
 
 ### Some Meanings of `the Private' in Sociological Thought
 **年份**: 2000 | **DOI**: [10.1177/s0038038500000250](https://doi.org/10.1177/s0038038500000250)
@@ -5401,17 +5401,17 @@
 ### Forthcoming Features: Information and Communications Technologies and the Sociology of the Future
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000110](https://doi.org/10.1017/s0038038500000110)
 **作者**: Golding, Peter
-**摘要**: （暂无）
+**摘要**: This article explores the social impact of new information and communication technologies (ICTs). It argues that they are best understood, not as heralding a substantially new 'information society', but as significant technologies emerging in but inherently part of late modernity.…
 
 ### Dis/Agreeing Ireland: Contexts, Obstacles, Hopes, James Anderson and James Goodman (eds.), London: Pluto Press, 1997, £45.00 (£14.99 paperback), xx+284 pp. (ISBN 0-7453-1275-6)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500220361](https://doi.org/10.1017/s0038038500220361)
 **作者**: MILLER, DAVID
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Deidre Wicks, Nurses and Doctors at Work, Buckingham: Open University Press, 1998, £16.99 paperback, xviii+202 pp. (ISBN 0-335-20273-X)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500370237](https://doi.org/10.1017/s0038038500370237)
 **作者**: Clegg, Katherine
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Books Reviewed
 **年份**: 2000 | **DOI**: [10.1177/0038038500034002016](https://doi.org/10.1177/0038038500034002016)
@@ -5421,37 +5421,37 @@
 ### Spaces and Places of Black Educational Desire: Rethinking Black Supplementary Schools as a New Social Movement
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000328](https://doi.org/10.1017/s0038038500000328)
 **作者**: Mirza, Heidi Safia; Reay, Diane
-**摘要**: （暂无）
+**摘要**: Black supplementary schools, as organic grassroots organisations, are not simply a response to mainstream educational exclusion and poor provision, as they are so often described. They are far more radical and subversive than their quiet conformist exterior, indicating the presence of a covert socia…
 
 ### Society and Sociology: Britain in 2025
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000018](https://doi.org/10.1017/s0038038500000018)
 **作者**: Mason, David
-**摘要**: （暂无）
+**摘要**: The papers in this issue were all specially commissioned to mark the turn of the century. Contributors, well-known for their work in particular specialisms, were asked to engage in informed speculation about developments in those aspects of British society which fell within their areas of expertise.…
 
 ### Between Cultures: Continuity and Change in the Lives of Young Asians, Muhammad Anwar, London: Routledge, 1998, £58.00 (£16.99 paperback), xiii+212 pp. (ISBN 0-415-04648-3)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500230368](https://doi.org/10.1017/s0038038500230368)
 **作者**: LYON, WENONAH
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Solution Centered Sociology: Addressing Problems Through Applied Sociology, Stephen F. Steele, AnneMarie Scarisbrick-Hauser and William J. Hauser, London: Sage, 1998, £41.00 (£18.99 paperback), xiii+224 pp. (ISBN 0-7619-1352-1)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500340366](https://doi.org/10.1017/s0038038500340366)
 **作者**: ALBROW, MARTIN
-**摘要**: （暂无）
+**摘要**: Solution Centered Sociology: Addressing Problems Through Applied Sociology, Stephen F. Steele, AnneMarie Scarisbrick-Hauser and William J. Hauser, London: Sage, 1998, £41.00 (£18.99 paperback), xiii+224 pp. (ISBN 0-7619-1352-1) - Volume 34 Issue 3
 
 ### The Ethical Antinomies of Postmodernity
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000213](https://doi.org/10.1017/s0038038500000213)
 **作者**: Elliott, Anthony
-**摘要**: （暂无）
+**摘要**: Alberto Melucci, The Playing Self: Person and Meaning in the Planetary Society, Cambridge: Cambridge University Press, 1996, £13.95 paperback, vii+177 pp. (ISBN 0-521-56482-4)Charles Lemert, Postmodernism Is Not What You Think, Oxford: Blackwell Publishers, 1997, £15.99 paperback, xiv+185 pp.…
 
 ### The Division of Domestic Labour: Twenty Years of Change?
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000286](https://doi.org/10.1017/s0038038500000286)
 **作者**: Sullivan, Oriel
-**摘要**: （暂无）
+**摘要**: This paper addresses two important questions in the area of the division of domestic labour. Firstly, what change is observable in the patterns of men and women's time spent in domestic labour over the past twenty years, when taking into account structural factors such as employment patterns and soc…
 
 ### Jeff Hearn, The Violences of Men: How Men Talk About and How Agencies Respond to Men's Violence to Known Women, London: Sage, 1998, £45.00 (£14.99 paperback), x+258 pp. (ISBN 0-8039-7940-1)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500280231](https://doi.org/10.1017/s0038038500280231)
 **作者**: Brookman, Fiona
-**摘要**: （暂无）
+**摘要**: Jeff Hearn, The Violences of Men: How Men Talk About and How Agencies Respond to Men's Violence to Known Women, London: Sage, 1998, £45.00 (£14.99 paperback), x+258 pp. (ISBN 0-8039-7940-1) - Volume 34 Issue 2
 
 ### Books Reviewed
 **年份**: 2000 | **DOI**: [10.1177/0038038500034002026](https://doi.org/10.1177/0038038500034002026)
@@ -5461,7 +5461,7 @@
 ### Some Properties of the Interactional Organisation of Displays of Paranormal Cognition in Psychic–Sitter Interaction
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000298](https://doi.org/10.1017/s0038038500000298)
 **作者**: Wooffitt, Robin
-**摘要**: （暂无）
+**摘要**: This paper presents a sociological investigation of instances of a class of claimed paranormal phenomena: the apparent demonstration of paranormal means of cognition by psychic practitioners, such as mediums, psychics, clairvoyants and tarot-card readers.…
 
 ### Books Reviewed
 **年份**: 2000 | **DOI**: [10.1177/0038038500034002027](https://doi.org/10.1177/0038038500034002027)
@@ -5471,22 +5471,22 @@
 ### British Population and Society in 2025: Some Conjectures
 **年份**: 2000 | **DOI**: [10.1017/s003803850000002x](https://doi.org/10.1017/s003803850000002x)
 **作者**: Penn, Roger
-**摘要**: （暂无）
+**摘要**: The paper examines three aspects of demographic change and conjectures about their wider impact on British society. Two features of fertility behaviour are highlighted. The first deals with ethnic variations and the likely continuation of high fertility rates amongst women of South Asian origin.…
 
 ### The Sociology of Consumption, Peter Corrigan, London: Sage, 1997, £45.00 (£15.99 paperback), vii+198 pp. (ISBN 0-7619-5011-7) Consumerism – As a Way of Life, Steven Miles, London: Sage, 1998, £40.00 (£15.99 paperback) viii+174 pp. (ISBN 0-7619-5215-2)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500260367](https://doi.org/10.1017/s0038038500260367)
 **作者**: STEVENSON, NICK
-**摘要**: （暂无）
+**摘要**: The Sociology of Consumption, Peter Corrigan, London: Sage, 1997, £45.00 (£15.99 paperback), vii+198 pp. (ISBN 0-7619-5011-7)Consumerism – As a Way of Life, Steven Miles, London: Sage, 1998, £40.00 (£15.99 paperback) viii+174 pp. (ISBN 0-7619-5215-2) - Volume 34 Issue 3
 
 ### Cultural Symbols and Landowners' Power: The Practice of Managing Scotland's Natural Resource
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000420](https://doi.org/10.1017/s0038038500000420)
 **作者**: Samuel, Andy M. M.
-**摘要**: （暂无）
+**摘要**: This article deals with the claim that Scottish landowners' power is directly related to their status in law, by arguing that it is, in fact, much more to do with their (inter)relationship with particular cultural symbols that can be associated with the land.…
 
 ### Social Epistemology: A Philosophy for Sociology or a Sociology of Philosophy?
 **年份**: 2000 | **DOI**: [10.1177/s0038038500000353](https://doi.org/10.1177/s0038038500000353)
 **作者**: Fuller, Steve
-**摘要**: （暂无）
+**摘要**: Social epistemology versus social ontologyAbout a dozen years ago I started a journal and wrote a book, both with the name social epistemology (Fuller 1988;Fuller 1996).In the intervening years a few intrepid philosophers and sociologists have tried to map this area, and the two books under review r…
 
 ### Books Reviewed
 **年份**: 2000 | **DOI**: [10.1177/0038038500034003016](https://doi.org/10.1177/0038038500034003016)
@@ -5511,17 +5511,17 @@
 ### Re-Branding Britain: Sociology, Futures and Futurology
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000122](https://doi.org/10.1017/s0038038500000122)
 **作者**: Westwood, Sally
-**摘要**: （暂无）
+**摘要**: This paper argues that notions of the future and social change have been central to the sociological enterprise since its inception. However, sociology developed with the modern project and the rise of nation-states.…
 
 ### A Marxist Critique of Black Radical Theories of Trade-union Racism
 **年份**: 2000 | **DOI**: [10.1017/s003803850000033x](https://doi.org/10.1017/s003803850000033x)
 **作者**: Virdee, Satnam
-**摘要**: （暂无）
+**摘要**: When it comes to understanding the relationship between organised labour and the racialised worker in England, the conclusions reached by black radical theorists like Sivanandan and Gilroy have gone unchallenged for many years.…
 
 ### Rosaline Barbour and Guro Huby (eds.), Meddling with Mythology: AIDS and the Social Construction of Knowledge, London: Routledge, 1998, £15.99 paperback, xviii+276 pp. (ISBN 0-415-1389-7)
 **年份**: 2000 | **DOI**: [10.1017/s003803850023023x](https://doi.org/10.1017/s003803850023023x)
 **作者**: Williams, Kevin
-**摘要**: （暂无）
+**摘要**: Rosaline Barbour and Guro Huby (eds.), Meddling with Mythology: AIDS and the Social Construction of Knowledge, London: Routledge, 1998, £15.99 paperback, xviii+276 pp. (ISBN 0-415-1389-7) - Volume 34 Issue 2
 
 ### Books Reviewed
 **年份**: 2000 | **DOI**: [10.1177/0038038500034004019](https://doi.org/10.1177/0038038500034004019)
@@ -5536,7 +5536,7 @@
 ### The Joys and Justice of Housework
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000389](https://doi.org/10.1017/s0038038500000389)
 **作者**: Baxter, Janeen
-**摘要**: （暂无）
+**摘要**: This paper investigates husbands' and wives' perceptions of fairness of the domestic division of labour. Using data from a recent national Australian survey, the paper shows that 59 per cent of women report that the division of labour in the home is fair even though they also report responsibility f…
 
 ### Books Received
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000134](https://doi.org/10.1017/s0038038500000134)
@@ -5545,22 +5545,22 @@
 ### Pat O'Connor, Emerging Voices: Women in Contemporary Irish Society, Dublin: Institute of Public Administration, 1998, £IR18.95 paperback, x+308 pp. (ISBN 1-872002-74-9)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500320235](https://doi.org/10.1017/s0038038500320235)
 **作者**: Smyth, Lisa
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Waqar Ahmad, Aliya Darr, Lesley Jones and Gohar Hisar, Deafness and Ethnicity: Services, Policy and Politics, Bristol: The Policy Press, 1998, £12.99 paperback, vi+142 pp. (ISBN 1-86134-088-5)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500210237](https://doi.org/10.1017/s0038038500210237)
 **作者**: Mehta, Nishi
-**摘要**: （暂无）
+**摘要**: Waqar Ahmad, Aliya Darr, Lesley Jones and Gohar Hisar, Deafness and Ethnicity: Services, Policy and Politics, Bristol: The Policy Press, 1998, £12.99 paperback, vi+142 pp. (ISBN 1-86134-088-5) - Volume 34 Issue 2
 
 ### Richard Kilminster, The Sociological Revolution: From the Enlightenment to the Global Age, London: Routledge, 1998, £50.00, xiv+221 pp. (ISBN 0-415-02920-1)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500290238](https://doi.org/10.1017/s0038038500290238)
 **作者**: Craib, Ian
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Spatiality and the New Social Studies of Childhood
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000468](https://doi.org/10.1017/s0038038500000468)
 **作者**: Holloway, Sarah L.; Valentine, Gill
-**摘要**: （暂无）
+**摘要**: The past two decades have seen rapid changes in the ways in which sociologists think about children, and a growing cross-fertilisation of ideas between researchers in a variety of social science disciplines.…
 
 ### Books Reviewed
 **年份**: 2000 | **DOI**: [10.1177/0038038500034003027](https://doi.org/10.1177/0038038500034003027)
@@ -5570,7 +5570,7 @@
 ### Religion in Modern Britain: Changing Sociological Assumptions
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000080](https://doi.org/10.1017/s0038038500000080)
 **作者**: Davie, Grace
-**摘要**: （暂无）
+**摘要**: This article starts with a discussion of two books published in the mid-1990s; these are publications that provide a benchmark for later comparisons. Some subsequent ‘episodes’ in the life of modern Britain are then considered, all of which throw light on the religious situation in this country and …
 
 ### Some Properties of the Interactional Organisation of Displays of Paranormal Cognition in Psychic-Sitter Interaction
 **年份**: 2000 | **DOI**: [10.1177/s0038038500000298](https://doi.org/10.1177/s0038038500000298)
@@ -5599,22 +5599,22 @@
 ### Crime and Social Exclusion, Catherine Jones Finer and Mike Nellis (eds.), London: Blackwell, 1998, £34.95 (£13.99 paperback), vi+175 pp. (ISBN 0-631-20912-3) Understanding Crime Prevention: Social Control, Risk and Late Modernity, Gordon Hughes, Buckingham: Open University Press, 1998, £50.00 (£15.99 paperback), xi+179 pp. (ISBN 0-335-19940-2)
 **年份**: 2000 | **DOI**: [10.1017/s003803850028036x](https://doi.org/10.1017/s003803850028036x)
 **作者**: KAUR, KIRAN
-**摘要**: （暂无）
+**摘要**: Crime and Social Exclusion, Catherine Jones Finer and Mike Nellis (eds.), London: Blackwell, 1998, £34.95 (£13.99 paperback), vi+175 pp. (ISBN 0-631-20912-3)Understanding Crime Prevention: Social Control, Risk and Late Modernity, Gordon Hughes, Buckingham: Open University Press, 1998, £50.00 (£15.99…
 
 ### When Is the Personal Political? The President’s Penis and Other Stories
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000195](https://doi.org/10.1017/s0038038500000195)
 **作者**: Holmes, Mary
-**摘要**: （暂无）
+**摘要**: The boundary between the personal and the political is contested. Feminist interventions in this contest since 1970 have been particularly significant. A brief discussion of how feminists have theorised the personal/political division serves as an introduction to my analysis of current struggles ove…
 
 ### Wherewith Feminism?
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000341](https://doi.org/10.1017/s0038038500000341)
 **作者**: Anthias, Floya
-**摘要**: （暂无）
+**摘要**: Jean Curthoys, Feminist Amnesia: The Wake of Women's Liberation, London: Routledge, 1997, £40.00 (£12.99 paperback), xiv+200 pp. (ISBN 0-415-148073)Mary Evans, Introducing Contemporary Feminist Thought, Cambridge: Polity Press, 1997, £39.50 (£11.95 paperback), 170 pp.…
 
 ### Racism and Young Girls' Peer-group Relations: The Experiences of South Asian Girls
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000316](https://doi.org/10.1017/s0038038500000316)
 **作者**: Connolly, Paul
-**摘要**: （暂无）
+**摘要**: This article draws upon data from an in-depth ethnographic study of 5 and 6 year old children in an English multi-ethnic, inner-city primary school. It focuses on the significance of ‘race’ within young girls' peer-group relations and the ways in which the social dynamics that underlie those relatio…
 
 ### Books Reviewed
 **年份**: 2000 | **DOI**: [10.1177/s0038038500210237](https://doi.org/10.1177/s0038038500210237)
@@ -5634,22 +5634,22 @@
 ### Drugs, Cultures, Controls and Everyday Life, Nigel South (ed.), London: Sage, 1999, £45.00, (£15.99 paperback), xi+176 pp. (ISBN 0-7619-5235-7)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500300505](https://doi.org/10.1017/s0038038500300505)
 **作者**: SHILDRICK, TRACY
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### The Mobility Transition: Social Mobility Trends in the First Half of the Twenty-First Century
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000043](https://doi.org/10.1017/s0038038500000043)
 **作者**: Noble, Trevor
-**摘要**: （暂无）
+**摘要**: Trends in absolute rates of both career and intergenerational mobility in Britain since the 1950s are outlined and some of the cultural consequences of the resulting heterogeneity in class composition are briefly considered.…
 
 ### Taking Care of Men: Sexual Politics in the Public Mind, Anthony McMahon, Cambridge: Cambridge University Press, 1999, £35.00, (£12.95 paperback), vi+232 pp. (ISBN 0-521-58820-0)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500280504](https://doi.org/10.1017/s0038038500280504)
 **作者**: WOODFIELD, RUTH
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Social Reproduction and Mobility in Britain and Ireland in the Nineteenth and Early Twentieth Centuries
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000171](https://doi.org/10.1017/s0038038500000171)
 **作者**: Prandy, Kenneth; Bottero, Wendy
-**摘要**: （暂无）
+**摘要**: This article presents some preliminary results from a historical study of social mobility in Britain and Ireland, from the late eighteenth to the early twentieth century. The study is marked by a unique combination of features: (1) it follows families for up to Þve generations, through both maternal…
 
 ### Society and Sociology: Britain in 2025
 **年份**: 2000 | **DOI**: [10.1177/s0038038500000018](https://doi.org/10.1177/s0038038500000018)
@@ -5664,12 +5664,12 @@
 ### Some Meanings of ‘the Private’ in Sociological Thought
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000250](https://doi.org/10.1017/s0038038500000250)
 **作者**: Bailey, Joe
-**摘要**: （暂无）
+**摘要**: The public/private distinction has been an important, generative but relatively unexplicated and unstable background assumption in sociological thinking. This paper describes some of the significances of this dualism in the context of a contemporary anxiety about the public sphere and a turn to the …
 
 ### Interpretivism and Generalisation
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000146](https://doi.org/10.1017/s0038038500000146)
 **作者**: Williams, Malcolm
-**摘要**: （暂无）
+**摘要**: This article is concerned with the status of generalisation in interpretive sociology. The case made is that generalisation is inevitable, desirable and possible. It is held that interpretivism must employ a special kind of generalisation, characterised here as moderatum.…
 
 ### Tradition and Change in Domestic Roles and Food Preparation
 **年份**: 2000 | **DOI**: [10.1177/s0038038500000201](https://doi.org/10.1177/s0038038500000201)
@@ -5694,7 +5694,7 @@
 ### Consumption Caught in the ‘Cash Nexus’
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000407](https://doi.org/10.1017/s0038038500000407)
 **作者**: Dant, Tim
-**摘要**: （暂无）
+**摘要**: During the last thirty years ‘consumption’ has become a major topic in the study of contemporary culture within anthropology, psychology and sociology. For many authors it has become central to understanding the nature of material culture in the modern world, but this paper argues that the concept i…
 
 ### Books Reviewed
 **年份**: 2000 | **DOI**: [10.1177/0038038500034002015](https://doi.org/10.1177/0038038500034002015)
@@ -5704,32 +5704,32 @@
 ### Prospects for Poverty in Britain in the First Twenty-Five Years of the Next Century
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000055](https://doi.org/10.1017/s0038038500000055)
 **作者**: Bradshaw, Jonathan
-**摘要**: （暂无）
+**摘要**: Considering the prospects for poverty in the next twenty-five years, this article argues that trends in poverty over the last two decades or so are not a good guide for the future because the increase in poverty occurring during that time was exceptional in the context of this century.…
 
 ### Reproductive Genetics, Gender and the Body: ‘Please Doctor, may I have a Normal Baby?’
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000262](https://doi.org/10.1017/s0038038500000262)
 **作者**: Ettorre, Elizabeth
-**摘要**: （暂无）
+**摘要**: This paper's purpose is to highlight key sociological issues, that come to light when ‘the body’ becomes a theoretical site in reproductive genetics. By positioning the body as a central feature in this analysis, the paper: (1) describes how a mechanistic view of the body continues to be privileged …
 
 ### Children in New Religions, Susan J. Palmer and Charlotte E. Hardman (eds.), New Jersey: Rutgers University Press, 1999, $52.00, ($22.00 paperback), ix+254 pp. (ISBN 0-8135-2620-5)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500290500](https://doi.org/10.1017/s0038038500290500)
 **作者**: COLLINS, SYLVIA
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Max Travers, The Reality of Law: Work and Talk in a Firm of Criminal Lawyers, Aldershot: Dartmouth, 1997, £40.00, xv+175 pp. (ISBN 1-84014-028-X). Max Travers and John F. Manzo (eds.), Law in Action: Ethnomethodological and Conversation Analytic Approaches to Law, Aldershot: Dartmouth, 1998, £40.00, x+296 pp. (ISBN 1-84014-078-X)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500350234](https://doi.org/10.1017/s0038038500350234)
 **作者**: Jenkings, K. Neil
-**摘要**: （暂无）
+**摘要**: Max Travers, The Reality of Law: Work and Talk in a Firm of Criminal Lawyers, Aldershot: Dartmouth, 1997, £40.00, xv+175 pp. (ISBN 1-84014-028-X). Max Travers and John F. Manzo (eds.), Law in Action: Ethnomethodological and Conversation Analytic Approaches to Law, Aldershot: Dartmouth, 1998, £40.00,…
 
 ### Max Weber Revisited
 **年份**: 2000 | **DOI**: [10.1177/s0038038500000493](https://doi.org/10.1177/s0038038500000493)
 **作者**: Gane, Nicholas
-**摘要**: （暂无）
+**摘要**: Cet article se penche sur trois parutions recentes consacrees a l'oeuvre de Max Weber : Max Weber and the idea of economic sociology par Richard Swedberg, aborde les aspects saillants de la sociologie economique de Max Weber ; Max Weber, democracy and modernization, Ralph Schroeder (ed.) aborde nota…
 
 ### System, Lifeworld and Gender: Associational Versus Counterfactual Thinking
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000432](https://doi.org/10.1017/s0038038500000432)
 **作者**: Sayer, Andrew
-**摘要**: （暂无）
+**摘要**: The paper raises some problems caused by ‘associational thinking’ in social science by reference to examples from the literature on economic organisation and gender. Associational thinking focuses on common associations between social phenomena, such as the gendering of organisations, without asking…
 
 ### On Ambivalence and Risk: Reflexive Modernity and the New Human Genetics
 **年份**: 2000 | **DOI**: [10.1177/s0038038500000183](https://doi.org/10.1177/s0038038500000183)
@@ -5744,12 +5744,12 @@
 ### Alan Warde, Consumption, Food and Taste: Culinary Antimonies and Commodity Culture, London: Sage, 1997, £42.50 (£14.99 paperback), v+231 pp. (ISBN 0-8039-7973-8). David Bell and Gill Valentine, Consuming Geographies: We Are Where We Eat, London: Routledge, 1997, £55.00 (£17.99 paperback), ix+ 236 pp. (ISBN 0-415-13768-3)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500360230](https://doi.org/10.1017/s0038038500360230)
 **作者**: Kemmer, Debbie
-**摘要**: （暂无）
+**摘要**: Alan Warde, Consumption, Food and Taste: Culinary Antimonies and Commodity Culture, London: Sage, 1997, £42.50 (£14.99 paperback), v+231 pp. (ISBN 0-8039-7973-8). David Bell and Gill Valentine, Consuming Geographies: We Are Where We Eat, London: Routledge, 1997, £55.00 (£17.99 paperback), ix+236 pp.…
 
 ### Denis O'Hearn, Inside the Celtic Tiger: The Irish Economy and the Asian Model, London: Pluto Press, 1998, £12.99 paperback, xiv+200 pp. (ISBN 0-7453-1283-7)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500330231](https://doi.org/10.1017/s0038038500330231)
 **作者**: McGovern, Patrick
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Books Reviewed
 **年份**: 2000 | **DOI**: [10.1177/0038038500034003020](https://doi.org/10.1177/0038038500034003020)
@@ -5759,7 +5759,7 @@
 ### Crime and Control in Britain
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000067](https://doi.org/10.1017/s0038038500000067)
 **作者**: Reiner, Robert
-**摘要**: （暂无）
+**摘要**: This paper explores the possible patterns of crime and control in the twenty-first century, drawing on an analysis of current and recent developments. These suggest a dystopian prospect of permanently high crime rates, and control strategies that reinforce social division and exclusion.…
 
 ### Alfred Schutz and the `Objectifying Attitude'
 **年份**: 2000 | **DOI**: [10.1177/s0038038500000444](https://doi.org/10.1177/s0038038500000444)
@@ -5779,22 +5779,22 @@
 ### ‘Ain't Misbehavin’? Opportunities for Resistance under New Forms of ‘Quality’ Management
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000274](https://doi.org/10.1017/s0038038500000274)
 **作者**: Knights, David; McCabe, Darren
-**摘要**: （暂无）
+**摘要**: In this paper we explore the development of a new regime in a major bank where total quality management (TQM) has recently been introduced. A number of recent critics have suggested that TQM all but eliminates resistance either through a management regime that removes waste or through the totalising…
 
 ### Martin Malone, Worlds of Talk: The Presentation of Self in Everyday Life, Oxford: Polity Press, 1997, £39.50 (£12.95 paperback), xiii+182 pp. (ISBN 0-745-61433-7)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500310239](https://doi.org/10.1017/s0038038500310239)
 **作者**: Drew, Paul
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Ageing and Popular Culture, Andrew Blaikie, Cambridge: Cambridge University Press, 1999, £40.00, (£14.95 paperback), xi+247 pp. (ISBN 0-521-64547-6)
 **年份**: 2000 | **DOI**: [10.1017/s003803850021050x](https://doi.org/10.1017/s003803850021050x)
 **作者**: PILCHER, JANE
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Biography and Education: A Reader, Michael Erben (ed.), London: Falmer Press, 1998, £14.95, vi+168 pp. (ISBN 0-7507-0751-8)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500230502](https://doi.org/10.1017/s0038038500230502)
 **作者**: DAWSON, COLIN
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Books Reviewed
 **年份**: 2000 | **DOI**: [10.1177/0038038500034003028](https://doi.org/10.1177/0038038500034003028)
@@ -5809,12 +5809,12 @@
 ### Resistance and Adaptation to Criminal Identity: Using Secondary Analysis to Evaluate Classic Studies of Crime and Deviance
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000419](https://doi.org/10.1017/s0038038500000419)
 **作者**: Fielding, Nigel G.; Fielding, Jane L.
-**摘要**: （暂无）
+**摘要**: Qualitative data offer rich insights into the social world, whether alone or in tandem with statistical analysis. However, qualitative data are costly to collect and analyse. Moreover, it is a commonplace that only a portion of the data so labouriously collected is the subject of final analysis and …
 
 ### The Play of Reason: From the Modern to the Postmodern, Linda Nicholson, Buckingham: Open University Press, 1999, £14.99 paperback, vii+179 pp. (ISBN 0-335-20328-0)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500310367](https://doi.org/10.1017/s0038038500310367)
 **作者**: THOMASSEN, LASSE
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Plurality in Dialogue: A Comment on Bakhtin
 **年份**: 2000 | **DOI**: [10.1177/s003803850000016x](https://doi.org/10.1177/s003803850000016x)
@@ -5829,7 +5829,7 @@
 ### Robin Williams, Wendy Faulkner and James Fleck (eds.), Exploring Expertise: Issues and Perspectives, Basingstoke: Macmillan, 1998, £45.00, xvii+340 pp. (ISBN 0-333-63227-3)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500380233](https://doi.org/10.1017/s0038038500380233)
 **作者**: David, Matthew; Christie, Richard J.
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Books Reviewed
 **年份**: 2000 | **DOI**: [10.1177/0038038500034002028](https://doi.org/10.1177/0038038500034002028)
@@ -5849,7 +5849,7 @@
 ### Tradition and Change in Domestic Roles and Food Preparation
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000201](https://doi.org/10.1017/s0038038500000201)
 **作者**: Kemmer, Debbie
-**摘要**: （暂无）
+**摘要**: Recognising the importance of food preparation in divisions of domestic labour, this paper discusses influential literature on the gendering of domestic food preparation. It argues that Þndings from research on food preparation and food choice carried out in the late 1970s and early 1980s must be se…
 
 ### Social Integration, System Integration and Collective Subjectivity
 **年份**: 2000 | **DOI**: [10.1177/s0038038500000158](https://doi.org/10.1177/s0038038500000158)
@@ -5874,7 +5874,7 @@
 ### Developing Focus Group Research: Politics, Theory and Practice, Rosalind S. Barbour and Jenny Kitzinger (eds.), London: Sage, 1998, £40.00 (£15.99 paperback), xiii+225 pp. (ISBN 0-7619-5568-2)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500240364](https://doi.org/10.1017/s0038038500240364)
 **作者**: BYRNE, BRIDGET
-**摘要**: （暂无）
+**摘要**: Developing Focus Group Research: Politics, Theory and Practice, Rosalind S. Barbour and Jenny Kitzinger (eds.), London: Sage, 1998, £40.00 (£15.99 paperback), xiii+225 pp. (ISBN 0-7619-5568-2) - Volume 34 Issue 3
 
 ### `Ain't Misbehavin'? Opportunities for Resistance under New Forms of `Quality' Management
 **年份**: 2000 | **DOI**: [10.1177/s0038038500000274](https://doi.org/10.1177/s0038038500000274)
@@ -5884,12 +5884,12 @@
 ### Gender and Catastrophe, Ronit Lentin (ed.), London: Zed Books, 1997, £39.95 (£14.95 paperback), vi+282 pp. (ISBN 1-85649-446-2)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500290366](https://doi.org/10.1017/s0038038500290366)
 **作者**: YUVAL-DAVIS, NIRA
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Caste, Ursula Sharma, Buckingham: Open University Press, 1999, £42.50 (£11.99 paperback), vi+105 pp. (ISBN 0-335-19717-5)
 **年份**: 2000 | **DOI**: [10.1017/s003803850033036x](https://doi.org/10.1017/s003803850033036x)
 **作者**: CHANDRA, VINOD
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### BOOKS RECEIVED
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000511](https://doi.org/10.1017/s0038038500000511)
@@ -5903,7 +5903,7 @@
 ### Zygmunt Bauman, Work, Consumerism and the New Poor, Buckingham: Open University Press, 1998, £50.00 (£14.99), xii+106 pp. (ISBN 0-335-20155-5)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500250232](https://doi.org/10.1017/s0038038500250232)
 **作者**: Harrison, Eric
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Books Reviewed
 **年份**: 2000 | **DOI**: [10.1177/0038038500034003015](https://doi.org/10.1177/0038038500034003015)
@@ -5948,7 +5948,7 @@
 ### Paul Hainsworth (ed.), Divided Society: Ethnic Minorities and Racism in Northern Ireland, London: Pluto Press, 1998, £14.99 paperback, xiv+270 pp. (ISBN 0-7453-1195-4)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500270235](https://doi.org/10.1017/s0038038500270235)
 **作者**: Bancroft, Angus
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Books Reviewed
 **年份**: 2000 | **DOI**: [10.1177/0038038500034003025](https://doi.org/10.1177/0038038500034003025)
@@ -5967,17 +5967,17 @@
 ### Ethnic Conflict
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000304](https://doi.org/10.1017/s0038038500000304)
 **作者**: Banton, Michael
-**摘要**: （暂无）
+**摘要**: The ethnic dimension to social relations can be distinguished from dimensions based on neighbourliness, national origin, race and religion etc., but ethnic conflicts are not a special class of conflicts.…
 
 ### Social Epistemology: A Philosophy for Sociology or a Sociology of Philosophy?
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000353](https://doi.org/10.1017/s0038038500000353)
 **作者**: Fuller, Steve
-**摘要**: （暂无）
+**摘要**: Randall Collins, The Sociology of Philosophies: A Global Theory of Intellectual Change, Cambridge, Massachusetts: Harvard University Press, 1998, £30.95, xxi+1098 pp. (ISBN 0-674-81647-1)Alvin I.…
 
 ### Books Reviewed
 **年份**: 2000 | **DOI**: [10.1177/0038038500034002018](https://doi.org/10.1177/0038038500034002018)
 **作者**: BROOKMAN, FIONA
-**摘要**: （暂无）
+**摘要**: Properties of the Atmosphere — Temperature — Light — Electricity — Water — Soil — Locality — Climate — Acclimation — Habitations — Hospitals — Prin ­ ciples of Hospital Construction — Field Hospitals — Lighting of Hospitals — Heating of Hospitals — Ventilation of Hospitals — r Barracks — Camps — Foo…
 
 ### Books Reviewed
 **年份**: 2000 | **DOI**: [10.1177/0038038500034003017](https://doi.org/10.1177/0038038500034003017)

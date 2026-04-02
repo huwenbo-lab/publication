@@ -2329,7 +2329,7 @@
 ### Parenting
 **年份**: 2014 | **DOI**: [10.1177/0192513x14533546](https://doi.org/10.1177/0192513x14533546)
 **作者**: Faircloth, Charlotte; Murray, Marjorie
-**摘要**: （暂无）
+**摘要**: Americanae nace como un proyecto conjunto que surge dentro de la Red Europea de Información y Documentación sobre América Latina (REDIAL), y que ha afrontado la Biblioteca de la Agencia Española de Cooperación Internacional para el Desarrollo (AECID).…
 
 ### Fathers at Work
 **年份**: 2014 | **DOI**: [10.1177/0192513x14553054](https://doi.org/10.1177/0192513x14553054)
@@ -4532,7 +4532,7 @@
 ### What Do We Know About the Link Between Marriage and Health?
 **年份**: 2010 | **DOI**: [10.1177/0192513x10365834](https://doi.org/10.1177/0192513x10365834)
 **作者**: Koball, Heather L.; Moiduddin, Emily; Henderson, Jamila 等5人
-**摘要**: （暂无）
+**摘要**: This special journal issue presents nine new studies on the relationship between marriage and health among African Americans. It discusses health disparities between African Americans and other racial and ethnic groups, offers an overview of African American marriage rates, and presents evidence for…
 
 ### Transitions to Engagement Among Low-Income Cohabiting African American Couples: A Family Perspective for Policy
 **年份**: 2010 | **DOI**: [10.1177/0192513x10390860](https://doi.org/10.1177/0192513x10390860)

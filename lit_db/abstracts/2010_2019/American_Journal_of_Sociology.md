@@ -488,7 +488,7 @@
 ### The Institutional and Cultural Logics of Legal Commensuration: Blood Money and Negotiated Justice in China
 **年份**: 2017 | **DOI**: [10.1086/689268](https://doi.org/10.1086/689268)
 **作者**: Kwai Hang Ng; He, Xin
-**摘要**: （暂无）
+**摘要**: Â© 2017 by The University of Chicago. All rights reserved. Legal commensuration is a complex mechanism of valuation. It entails social exchanges among parties in the litigational context.…
 
 ### The Dynamics of Collapse in an Authoritarian Regime: China in 1967
 **年份**: 2017 | **DOI**: [10.1086/690053](https://doi.org/10.1086/690053)

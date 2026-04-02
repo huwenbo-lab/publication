@@ -1668,7 +1668,7 @@
 ### Fitting Age-Period-Cohort Models Using the Intrinsic Estimator: Assumptions and Misapplications
 **年份**: 2016 | **DOI**: [10.1007/s13524-016-0481-y](https://doi.org/10.1007/s13524-016-0481-y)
 **作者**: Masters, Ryan K.; Powers, Daniel A.; Hummer, Robert A. 等6人
-**摘要**: （暂无）
+**摘要**: We thank Demography’s editorial office for the opportunity to respond to te Grotenhuis et al.’s commentary regarding the methods used and the results presented in our earlier paper (Masters et al. 2014).…
 
 ### Diverging Patterns of Union Transition Among Cohabitors by Race/Ethnicity and Education: Trends and Marital Intentions in the United States
 **年份**: 2016 | **DOI**: [10.1007/s13524-016-0483-9](https://doi.org/10.1007/s13524-016-0483-9)
@@ -2602,7 +2602,7 @@
 ### Recognizing a Small Amount of Superficial Genetic Differences Across African, European and Asian Americans Helps Understand Social Construction of Race
 **年份**: 2014 | **DOI**: [10.1007/s13524-014-0349-y](https://doi.org/10.1007/s13524-014-0349-y)
 **作者**: Guo, Guang; Fu, Yilan; Lee, Hedwig 等6人
-**摘要**: （暂无）
+**摘要**: Demography (Guo et al. 2014), we also address the literature she cites to support her comments.We reiterate a central point already made in our original article.We do not try to explain racial identity.Our objective is to examine racial classification in U.S.…
 
 ### Saving Babies: The Impact of Public Education Programs on Infant Mortality
 **年份**: 2014 | **DOI**: [10.1007/s13524-013-0274-5](https://doi.org/10.1007/s13524-013-0274-5)
@@ -2821,7 +2821,7 @@
 ### Comment: Building a Better Underclass
 **年份**: 2013 | **DOI**: [10.1007/s13524-013-0204-6](https://doi.org/10.1007/s13524-013-0204-6)
 **作者**: Massey, Douglas S.
-**摘要**: （暂无）
+**摘要**: When it comes to studying unauthorized migration, there is no perfect data set. The fact that undocumented migrants are clandestine means they necessarily fall outside the reach of the usual statistical systems, and the irregularity and marginality of their position in society makes it difficult to …
 
 ### The Effect of Same-Sex Marriage Laws on Different-Sex Marriage: Evidence From the Netherlands
 **年份**: 2013 | **DOI**: [10.1007/s13524-013-0248-7](https://doi.org/10.1007/s13524-013-0248-7)
@@ -2841,7 +2841,7 @@
 ### Comment of Liying Luo’s Article, “Assessing Validity and Application Scope of the Intrinsic Estimator Approach to the Age-Period-Cohort Problem”
 **年份**: 2013 | **DOI**: [10.1007/s13524-013-0250-0](https://doi.org/10.1007/s13524-013-0250-0)
 **作者**: O’Brien, Robert M.
-**摘要**: （暂无）
+**摘要**: Liying Luo's article (this issue) addresses three important properties of the intrinsic estimator (IE).First, the constraint used to produce the IE (b ie ⋅ b 0 = 0) constrains the linear trends of the age coefficients, period coefficients, and cohort coefficients.Second, the IE is a biased estimate …
 
 ### Does Culture Affect Divorce? Evidence From European Immigrants in the United States
 **年份**: 2013 | **DOI**: [10.1007/s13524-012-0180-2](https://doi.org/10.1007/s13524-012-0180-2)
@@ -2856,7 +2856,7 @@
 ### Marriage (Still) Matters: The Contribution of Demographic Change to Trends in Childlessness in the United States
 **年份**: 2013 | **DOI**: [10.1007/s13524-013-0215-3](https://doi.org/10.1007/s13524-013-0215-3)
 **作者**: Hayford, Sarah R.
-**摘要**: （暂无）
+**摘要**: Childlessness in the United States nearly doubled between 1980 and 2000. Other dramatic changes in the U.S. population also took place over this period-notably, women's average educational attainment increased, and the proportion marrying declined-but the impact of these changes on childlessness has…
 
 ### Erratum to: Why Is Infant Mortality Higher in Boys Than in Girls? A New Hypothesis Based on Preconception Environment and Evidence From a Large Sample of Twins
 **年份**: 2013 | **DOI**: [10.1007/s13524-012-0183-z](https://doi.org/10.1007/s13524-012-0183-z)
@@ -2881,17 +2881,17 @@
 ### When Immigration Policies Affect Immigrants’ Lives: Commentary
 **年份**: 2013 | **DOI**: [10.1007/s13524-013-0205-5](https://doi.org/10.1007/s13524-013-0205-5)
 **作者**: Menjívar, Cecilia
-**摘要**: （暂无）
+**摘要**: I write this commentary on the day that a federal judge decided to green-light Section 2B, the "show me your papers" provision, of Arizona's SB 1070, thus clearing the way for the most controversial portion of this law to take effect.State and local police in Arizona will now be required to verify t…
 
 ### Editor’s Note
 **年份**: 2013 | **DOI**: [10.1007/s13524-013-0266-5](https://doi.org/10.1007/s13524-013-0266-5)
 **作者**: Tolnay, Stewart
-**摘要**: （暂无）
+**摘要**: Many years ago, during one of my bird identification and behavior classes, the instructor described how baby owls sometimes push a sibling out of the nest to gain a larger share of the food provided by the parents.Obviously disturbed by this practice of siblicide by the otherwise adorable owlets, a …
 
 ### How Do Tougher Immigration Measures Affect Unauthorized Immigrants?: Comment
 **年份**: 2013 | **DOI**: [10.1007/s13524-013-0207-3](https://doi.org/10.1007/s13524-013-0207-3)
 **作者**: Orrenius, Pia M.
-**摘要**: （暂无）
+**摘要**: In "How Do Tougher Immigration Measures Affect Unauthorized Immigrants?" Amuedo-Dorantes et al. make an important contribution to the growing literature on the effects of state-level policies targeting unauthorized immigrants.Using a new data set on unauthorized migrants who have returned to Mexico,…
 
 ### Exporting Poor Health: The Irish in England
 **年份**: 2013 | **DOI**: [10.1007/s13524-013-0235-z](https://doi.org/10.1007/s13524-013-0235-z)
@@ -2951,12 +2951,12 @@
 ### Misunderstandings, Mischaracterizations, and the Problematic Choice of a Specific Instance in Which the IE Should Never Be Applied
 **年份**: 2013 | **DOI**: [10.1007/s13524-013-0254-9](https://doi.org/10.1007/s13524-013-0254-9)
 **作者**: Yang, Yang Claire; Land, Kenneth C.
-**摘要**: （暂无）
+**摘要**: It is our pleasure to respond to the Editor's request for a commentary on Luo's article (this issue), which critically evaluates the utility of the intrinsic estimator (IE) that we first introduced to demography and sociology in
 
 ### A “Mulatto Escape Hatch” in the United States? Examining Evidence of Racial and Social Mobility During the Jim Crow Era
 **年份**: 2013 | **DOI**: [10.1007/s13524-013-0210-8](https://doi.org/10.1007/s13524-013-0210-8)
 **作者**: Saperstein, Aliya; Gullickson, Aaron
-**摘要**: （暂无）
+**摘要**: Racial distinctions in the United States have long been characterized as uniquely rigid and governed by strict rules of descent, particularly along the black-white boundary. This is often contrasted with countries, such as Brazil, that recognize "mixed" or intermediate racial categories and allow fo…
 
 ### Return to Being Black, Living in the Red: A Race Gap in Wealth That Goes Beyond Social Origins
 **年份**: 2013 | **DOI**: [10.1007/s13524-012-0190-0](https://doi.org/10.1007/s13524-012-0190-0)
@@ -2996,7 +2996,7 @@
 ### Comment on “Assessing Validity and Application Scope of the Intrinsic Estimator Approach to the Age-Period-Cohort (APC) Problem”
 **年份**: 2013 | **DOI**: [10.1007/s13524-013-0255-8](https://doi.org/10.1007/s13524-013-0255-8)
 **作者**: Held, Leonhard; Riebler, Andrea
-**摘要**: （暂无）
+**摘要**: This article looks at a problem that has been studied over decades: the unidentifiability issue in the age-period-cohort (APC) model.The impossibility to identify the full set of age, period, and cohort effects in the analysis of mortality or other vital rates has created much confusion in the epide…
 
 ### Growing Up Together: Cohort Composition and Child Investment
 **年份**: 2013 | **DOI**: [10.1007/s13524-013-0237-x](https://doi.org/10.1007/s13524-013-0237-x)
@@ -3120,7 +3120,7 @@
 ### Cohort Analysis’ Unholy Quest: A Discussion
 **年份**: 2013 | **DOI**: [10.1007/s13524-013-0251-z](https://doi.org/10.1007/s13524-013-0251-z)
 **作者**: Fienberg, Stephen E.
-**摘要**: （暂无）
+**摘要**: I am pleased to be able to join in the discussion of the article by Luo (in this issue) on age, period, and cohort (APC) modeling in demographic research.Demographers have had a long fascination with various forms of accounting frameworks, and thus APC modeling was a natural topic for the demographi…
 
 ### Paradigm Shift in Age-Period-Cohort Analysis: A Response to Yang and Land, O’Brien, Held and Riebler, and Fienberg
 **年份**: 2013 | **DOI**: [10.1007/s13524-013-0263-8](https://doi.org/10.1007/s13524-013-0263-8)
@@ -3752,7 +3752,7 @@
 ### Tempo and the TFR
 **年份**: 2011 | **DOI**: [10.1007/s13524-011-0033-4](https://doi.org/10.1007/s13524-011-0033-4)
 **作者**: Ní Bhrolcháin, Máire
-**摘要**: （暂无）
+**摘要**: Tempo effects in period fertility indicators are widely regarded as a source of bias or distortion. But is this always the case? Whether tempo change results in bias depends, in the view advanced here, on the measure used, the meaning of bias/distortion, and the objective of analysis.…
 
 ### The Effects of Childhood, Adult, and Community Socioeconomic Conditions on Health and Mortality among Older Adults in China
 **年份**: 2011 | **DOI**: [10.1007/s13524-010-0003-2](https://doi.org/10.1007/s13524-010-0003-2)
@@ -4195,7 +4195,7 @@
 ### Prologue: Research on the demography and economics of aging
 **年份**: 2010 | **DOI**: [10.1353/dem.2010.0013](https://doi.org/10.1353/dem.2010.0013)
 **作者**: Suzman, Richard
-**摘要**: （暂无）
+**摘要**: of centers and training programs for the demography of aging. At that time, each center and training program was so small and specialized that students and faculty at the various institutions were exposed to only fragments of the research field; there was clearly a need for greater integration of th…
 
 ### Do siblings’ fertility decisions influence each other?
 **年份**: 2010 | **DOI**: [10.1007/bf03213733](https://doi.org/10.1007/bf03213733)

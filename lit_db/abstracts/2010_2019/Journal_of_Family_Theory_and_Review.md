@@ -544,7 +544,7 @@
 ### War and Family Life
 **年份**: 2018 | **DOI**: [10.1111/jftr.12276](https://doi.org/10.1111/jftr.12276)
 **作者**: Cramm, Heidi; Norris, Deborah
-**摘要**: （暂无）
+**摘要**: Book review for War and Family Life; the latest in Springer's Risk and Resilience in Military and Veteran Families series.
 
 ### The Leavers
 **年份**: 2018 | **DOI**: [10.1111/jftr.12265](https://doi.org/10.1111/jftr.12265)
@@ -655,7 +655,7 @@
 ### Looking to the Future of Work and Family Theory and Research: Some Reflections
 **年份**: 2017 | **DOI**: [10.1111/jftr.12198](https://doi.org/10.1111/jftr.12198)
 **作者**: Sullivan, Oriel
-**摘要**: （暂无）
+**摘要**: Maureen Perry-Jenkins and Shelley MacDermid Wadsworth (2017) have provided a thought-provoking review of some of the topics and theoretical themes that have inspired researchers in the area of work and family research from the start of the 21st century.…
 
 ### Legalizing LGBT Families: How the Law Shapes Parenthood
 **年份**: 2017 | **DOI**: [10.1111/jftr.12208](https://doi.org/10.1111/jftr.12208)
@@ -1037,7 +1037,7 @@
 ### Queerying Families of Origin
 **年份**: 2016 | **DOI**: [10.1111/jftr.12129](https://doi.org/10.1111/jftr.12129)
 **作者**: Brainer, Amy
-**摘要**: （暂无）
+**摘要**: Fifteen years ago, Robert-Jay Green published a critique of the prevailing wisdom surrounding lesbians and gay men in families of origin. In this work, Green (2000) called attention to the overgeneralization of findings from studies of White, North American, upperand middle-class lesbians and gays; …
 
 ### A Behavioral Process Model of Familism
 **年份**: 2016 | **DOI**: [10.1111/jftr.12166](https://doi.org/10.1111/jftr.12166)
@@ -1214,7 +1214,7 @@
 ### Women Voicing Resistance: Discursive and Narrative Explorations
 **年份**: 2015 | **DOI**: [10.1111/jftr.12088](https://doi.org/10.1111/jftr.12088)
 **作者**: Levin, Irene
-**摘要**: （暂无）
+**摘要**: This is the accepted version of the following article: Levin, I. (2015), Women Voicing Resistance: Discursive and Narrative Explorations. Journal of Family Theory & Review, 7(3), 340–343., which has been published in final form at http://dx.doi.org/10.1111/jftr.12088.
 
 ### The March to Relational Developmental Systems‐Based Theories: An Outsider's View of the Journey
 **年份**: 2015 | **DOI**: [10.1111/jftr.12073](https://doi.org/10.1111/jftr.12073)
@@ -1941,12 +1941,12 @@
 ### Mothers' Part-Time Employment: Child, Parent, and Family Outcomes
 **年份**: 2011 | **DOI**: [10.1111/j.1756-2589.2011.00110.x](https://doi.org/10.1111/j.1756-2589.2011.00110.x)
 **作者**: Buehler, Cheryl; O'Brien, Marion; Walls, Jill K.
-**摘要**: （暂无）
+**摘要**: This article examines mothers' part-time employment, comparing working part-time with full-time employment and not working at all. Our analysis is organized around 2 paradigmatic views of maternal employment, 1 centered on the adaptive nature of mothers' part-time employment and the other on the det…
 
 ### Assortative Mating and Partner Influence on Antisocial Behavior Across the Life Course
 **年份**: 2011 | **DOI**: [10.1111/j.1756-2589.2011.00095.x](https://doi.org/10.1111/j.1756-2589.2011.00095.x)
 **作者**: Knight, Kelly E.
-**摘要**: （暂无）
+**摘要**: Why do individuals select romantic partners who use drugs, are criminals, or have mental health problems, a choice that eventually puts them and their children at increased risk for negative developmental outcomes?…
 
 ### Review Essay: Directions in the Anthropology of Childhood
 **年份**: 2011 | **DOI**: [10.1111/j.1756-2589.2011.00088.x](https://doi.org/10.1111/j.1756-2589.2011.00088.x)
@@ -1976,7 +1976,7 @@
 ### Theoretical Perspectives on Sibling Relationships
 **年份**: 2011 | **DOI**: [10.1111/j.1756-2589.2011.00087.x](https://doi.org/10.1111/j.1756-2589.2011.00087.x)
 **作者**: Whiteman, Shawn D.; McHale, Susan M.; Soli, Anna
-**摘要**: （暂无）
+**摘要**: Although siblings are a fixture of family life, research on sibling relationships lags behind that on other family relationships. To stimulate interest in sibling research and to serve as a guide for future investigations by family scholars, we review four theoretical psychologically oriented perspe…
 
 ### Keyword Index
 **年份**: 2011 | **DOI**: [10.1111/j.1756-2589.2011.kwdindex_1.x](https://doi.org/10.1111/j.1756-2589.2011.kwdindex_1.x)
@@ -1985,7 +1985,7 @@
 ### Latino Adolescent Substance Use in the United States: Using the Bioecodevelopmental Model as an Organizing Framework for Research and Practice
 **年份**: 2011 | **DOI**: [10.1111/j.1756-2589.2011.00086.x](https://doi.org/10.1111/j.1756-2589.2011.00086.x)
 **作者**: Cox, Ronald B.; Burr, Brandon; Blow, Adrian J. 等4人
-**摘要**: （暂无）
+**摘要**: Research has indentified numerous risk and protective factors related to adolescent alcohol and other drug (AOD) use. However, most theoretical models do not account for nuances attributable to variations in culture or how these may influence prevention and treatment models.…
 
 ### Idealization and Disillusionment in Intimate Relationships: A Review of Theory, Method, and Research
 **年份**: 2011 | **DOI**: [10.1111/j.1756-2589.2011.00100.x](https://doi.org/10.1111/j.1756-2589.2011.00100.x)
@@ -2005,7 +2005,7 @@
 ### The Gender-Equality Paradox: Class and Incongruity Between Work-Family Attitudes and Behaviors
 **年份**: 2011 | **DOI**: [10.1111/j.1756-2589.2011.00094.x](https://doi.org/10.1111/j.1756-2589.2011.00094.x)
 **作者**: Usdansky, Margaret L.
-**摘要**: （暂无）
+**摘要**: Most women and men at the upper end of the social-class continuum express greater desire to share paid and unpaid labor equally, whereas less educated couples with less skilled occupations and less money tend to voice more enthusiasm for specialized gender roles.…
 
 ### Gender Deviance Neutralization Through Housework: Where Does It Fit in the Bigger Picture? Response to England, Kluwer, and Risman
 **年份**: 2011 | **DOI**: [10.1111/j.1756-2589.2010.00078.x](https://doi.org/10.1111/j.1756-2589.2010.00078.x)
@@ -2024,27 +2024,27 @@
 ### Homogamy Unmodified
 **年份**: 2011 | **DOI**: [10.1111/j.1756-2589.2010.00080.x](https://doi.org/10.1111/j.1756-2589.2010.00080.x)
 **作者**: Cohen, Philip N.
-**摘要**: （暂无）
+**摘要**: I propose that homogamy and heterogamy be used to signify same-sex and opposite-sex unions, respectively, including marriage and cohabitation. This is intended to address a terminology impasse that has given us marriage versus same-sex marriage in popular and academic usage.…
 
 ### Between Family and Friendship: The Right to Care for Anna
 **年份**: 2011 | **DOI**: [10.1111/j.1756-2589.2011.00101.x](https://doi.org/10.1111/j.1756-2589.2011.00101.x)
 **作者**: Nelson, Margaret K.
-**摘要**: （暂无）
+**摘要**: This article opens with a personal story of caring for a friend during the last months of her life, a story that highlights significant moments when as the caregiver I had to make significant decisions.…
 
 ### An End to Gender Display Through the Performance of Housework? A Review and Reassessment of the Quantitative Literature Using Insights From the Qualitative Literature
 **年份**: 2011 | **DOI**: [10.1111/j.1756-2589.2010.00074.x](https://doi.org/10.1111/j.1756-2589.2010.00074.x)
 **作者**: Sullivan, Oriel
-**摘要**: （暂无）
+**摘要**: According to the gender-deviance neutralization hypothesis, men and women in household circumstances that contradict the normal expectations of gender display their gender accordingly, by either increasing or decreasing their contribution to household tasks.…
 
 ### Attachment, Identity, and Intimacy: Parallels Between Bowlby's and Erikson's Paradigms
 **年份**: 2011 | **DOI**: [10.1111/j.1756-2589.2010.00079.x](https://doi.org/10.1111/j.1756-2589.2010.00079.x)
 **作者**: Pittman, Joe F.; Keiley, Margaret K.; Kerpelman, Jennifer L. 等4人
-**摘要**: （暂无）
+**摘要**: The theories of John Bowlby and Erik Erikson reveal parallels that, together, offer opportunities to examine attachment-linked working models (secure base representations) as contexts of identity formation.…
 
 ### Mexican-Origin Couples in the Early Years of Parenthood: Marital Well-Being in Ecological Context
 **年份**: 2011 | **DOI**: [10.1111/j.1756-2589.2011.00085.x](https://doi.org/10.1111/j.1756-2589.2011.00085.x)
 **作者**: Helms, Heather M.; Supple, Andrew J.; Proulx, Christine M.
-**摘要**: （暂无）
+**摘要**: In this article, we draw from Huston's (2000) 3-level model of marriage to provide an informed and integrative template for organizing current knowledge and guiding future inquiry into the study of marital well-being among a rapidly growing segment of the United States' population: low-income, Mexic…
 
 ### INDEX TO VOLUME 3, 2011 Cumulative Table of Contents
 **年份**: 2011 | **DOI**: [10.1111/j.1756-2589.2011.volcontents_1.x](https://doi.org/10.1111/j.1756-2589.2011.volcontents_1.x)
@@ -2088,7 +2088,7 @@
 ### Doing Family, Doing Gender, Doing Religion: Structured Ambivalence and the Religion-Family Connection
 **年份**: 2011 | **DOI**: [10.1111/j.1756-2589.2011.00093.x](https://doi.org/10.1111/j.1756-2589.2011.00093.x)
 **作者**: Bulanda, Jennifer Roebuck
-**摘要**: （暂无）
+**摘要**: The relationships among family, gender ideology, and religion appear more heterogeneous and tenuous than family scholars have expected, with conservative religious belief not necessarily translating into conservative familial behavior.…
 
 ### Shared Obliviousness in Family Systems
 **年份**: 2010 | **DOI**: [10.1111/j.1756-2589.2010.00043.x](https://doi.org/10.1111/j.1756-2589.2010.00043.x)
@@ -2128,7 +2128,7 @@
 ### Using Identity Theory to Develop a Midrange Model of Parental Gatekeeping and Parenting Behavior
 **年份**: 2010 | **DOI**: [10.1111/j.1756-2589.2010.00047.x](https://doi.org/10.1111/j.1756-2589.2010.00047.x)
 **作者**: Adamsons, Kari
-**摘要**: （暂无）
+**摘要**: Given the socially constructed nature of parenthood, frameworks such as identity theory can help explain mothering and fathering behaviors and, particularly, parents' influence on one another's behaviors (referred to here as parental gatekeeping).…
 
 ### Marriage, Love, and Time in Tolstoy's Anna Karenina
 **年份**: 2010 | **DOI**: [10.1111/j.1756-2589.2010.00066.x](https://doi.org/10.1111/j.1756-2589.2010.00066.x)
@@ -2177,7 +2177,7 @@
 ### Introducing a Special Issue: On the Need to Theorize Marital Quality
 **年份**: 2010 | **DOI**: [10.1111/j.1756-2589.2010.00058.x](https://doi.org/10.1111/j.1756-2589.2010.00058.x)
 **作者**: Knapp, Stan J.; Holman, Thomas B.
-**摘要**: （暂无）
+**摘要**: We suspect no concept has been the subject of more research—generally as the dependent variable of interest—than marital quality, including marital satisfaction, adjustment, success, and their various permutations. Some may wonder reasonably why there is a need to “theorize” marital quality.…
 
 ### Conflict Can Be Constructive: Reflections on the Dialectics of Relationship Science
 **年份**: 2010 | **DOI**: [10.1111/j.1756-2589.2010.00038.x](https://doi.org/10.1111/j.1756-2589.2010.00038.x)

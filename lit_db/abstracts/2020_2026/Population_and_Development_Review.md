@@ -413,7 +413,7 @@
 ### Progress toward the Sustainable Development Goals, Halfway to 2030
 **年份**: 2024 | **DOI**: [10.1111/padr.12667](https://doi.org/10.1111/padr.12667)
 **作者**: [Anonymous]
-**摘要**: （暂无）
+**摘要**: The Sustainable Development Goals (SDGs) were set in 2015 as the measures of
 
 ### Henry Pratt Fairchild on the Restriction of Immigration
 **年份**: 2024 | **DOI**: [10.1111/padr.12635](https://doi.org/10.1111/padr.12635)
@@ -713,7 +713,7 @@
 ### Samuel Butler on Mechanical Life and the Human Future
 **年份**: 2023 | **DOI**: [10.1111/padr.12581](https://doi.org/10.1111/padr.12581)
 **作者**: Cellarius
-**摘要**: （暂无）
+**摘要**: Developments in artificial intelligence (AI) have the potential to boost labor productivity in the knowledge industries and, for some occupations, seem poised to displace human workers.There may be greater disruption of the workforce to come: a still distant prospect, but one seen as feasible by man…
 
 ### Do Conditional Cash Transfers Reduce Fertility? Nationwide Evidence from Mexico
 **年份**: 2023 | **DOI**: [10.1111/padr.12576](https://doi.org/10.1111/padr.12576)
@@ -1218,7 +1218,7 @@
 ### The US National Academy of Sciences on the Changing Biothreat Landscape
 **年份**: 2020 | **DOI**: [10.1111/padr.12346](https://doi.org/10.1111/padr.12346)
 **作者**: [Anonymous]
-**摘要**: （暂无）
+**摘要**: A contagious disease pandemic has long been ranked high among potential threats to human life and livelihood For example, here is philanthropist Bill Gates at the Munich Security Conference in 2017: “Whether it occurs by a quirk of nature or at the hand of a terrorist, epidemiologists say a fast‐mov…
 
 ### Aging, Proximity to Death, and Religiosity
 **年份**: 2020 | **DOI**: [10.1111/padr.12358](https://doi.org/10.1111/padr.12358)

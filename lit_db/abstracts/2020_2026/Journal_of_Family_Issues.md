@@ -2418,7 +2418,7 @@
 ### Young Carers and Parentification-Between Support and Responsibility: Involving the Child in the Functioning of the Family
 **年份**: 2022 | **DOI**: [10.1177/0192513X211038072](https://doi.org/10.1177/0192513X211038072)
 **作者**: Chojnacka, Barbara; Iwanski, Rafal
-**摘要**: （暂无）
+**摘要**: Keywords family processes, parent/child relations, young carers, parentification, child welfare, family support
 
 ### Family Contributions to School Performance of Adolescents: The Role of Fathers' Perceived Involvement
 **年份**: 2022 | **DOI**: [10.1177/0192513X21994143](https://doi.org/10.1177/0192513X21994143)

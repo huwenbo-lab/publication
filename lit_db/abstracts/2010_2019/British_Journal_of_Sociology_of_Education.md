@@ -1682,7 +1682,7 @@
 ### Education reform makes no sense without social class
 **年份**: 2014 | **DOI**: [10.1080/01425692.2014.952074](https://doi.org/10.1080/01425692.2014.952074)
 **作者**: Smyth, John
-**摘要**: （暂无）
+**摘要**: In enlightened and civilised societies we like to think that the blatantly racist eugenics movement that involved social selection based upon genetic traits is a disgraceful notion relegated to the past; but it seems not, it has just re-emerged in another form through the back door.…
 
 ### Doctoral Theses
 **年份**: 2014 | **DOI**: [10.1080/01425692.2014.904144](https://doi.org/10.1080/01425692.2014.904144)
@@ -1691,17 +1691,17 @@
 ### Race: towards critical sociologies of subversion
 **年份**: 2014 | **DOI**: [10.1080/01425692.2014.893074](https://doi.org/10.1080/01425692.2014.893074)
 **作者**: Nayak, Anoop
-**摘要**: （暂无）
+**摘要**: Darker than blue: on the moral economies of black Atlantic culture, by P. Gilroy, Cambridge, MA, Belknap Press of Harvard University, 2010, 224 pp., £16.95 (hardback), ISBN 978-0-67-403570-6Multicu...
 
 ### Beyond the education silo? Tackling adolescent secondary education in rural India
 **年份**: 2014 | **DOI**: [10.1080/01425692.2014.919843](https://doi.org/10.1080/01425692.2014.919843)
 **作者**: Kelly, Orla; Bhabha, Jacqueline
-**摘要**: （暂无）
+**摘要**: In this paper we examine the factors contributing to gender inequality in secondary schooling in India by critically reviewing the government’s secondary education policy. Drawing on the findings of a study in rural Gujarat, we couple this analysis with an examination of the gendered dynamics that r…
 
 ### Education and neoliberal globalization
 **年份**: 2014 | **DOI**: [10.1080/01425692.2014.893072](https://doi.org/10.1080/01425692.2014.893072)
 **作者**: Morley, Louise; Marginson, Simon; Blackmore, Jill
-**摘要**: （暂无）
+**摘要**: This collection of essays is about the struggle between the evils of neoliberalism and the unquestioned goodness of Freirean theory. The essays ‘of opposition’ were written and delivered by Carlos Alberto Torres to diverse audiences and in different locations and languages.…
 
 ### Doctoral Theses
 **年份**: 2014 | **DOI**: [10.1080/01425692.2015.993827](https://doi.org/10.1080/01425692.2015.993827)
@@ -1710,7 +1710,7 @@
 ### Disability and inclusive education in times of austerity
 **年份**: 2014 | **DOI**: [10.1080/01425692.2014.919845](https://doi.org/10.1080/01425692.2014.919845)
 **作者**: Veck, Wayne
-**摘要**: （暂无）
+**摘要**: When communities fall into decline, disabled people can find themselves alone and invisible in a society of indifferent individuals. Arendt offers an account of such a time in her discussion of the rise of a society of mass labouring and consuming.…
 
 ### Tributes to Jean Anyon
 **年份**: 2014 | **DOI**: [10.1080/01425692.2014.888148](https://doi.org/10.1080/01425692.2014.888148)
@@ -1720,22 +1720,22 @@
 ### Re-articulating social justice as equity in schooling policy: the effects of testing and data infrastructures
 **年份**: 2014 | **DOI**: [10.1080/01425692.2014.919846](https://doi.org/10.1080/01425692.2014.919846)
 **作者**: Lingard, Bob; Sellar, Sam; Savage, Glenn C.
-**摘要**: （暂无）
+**摘要**: AbstractThis paper examines the re-articulation of social justice as equity in schooling policy through national and global testing and data infrastructures. It focuses on the Australian National Assessment Program – Literacy and Numeracy (NAPLAN) and the OECD's Programme for International Student A…
 
 ### Pakistani and Bangladeshi young men: re-racialization, class and masculinity within the neo-liberal school
 **年份**: 2014 | **DOI**: [10.1080/01425692.2014.919848](https://doi.org/10.1080/01425692.2014.919848)
 **作者**: Mac an Ghaill, Mairtin; Haywood, Chris
-**摘要**: （暂无）
+**摘要**: This article explores Pakistani and Bangladeshi young men’s experiences of schooling to examine what inclusion/exclusion means to them. Qualitative research was undertaken with 48 Pakistani and Bangladeshi young men living in areas of the West Midlands, England.…
 
 ### Just imaginary: delimiting social inclusion in higher education
 **年份**: 2014 | **DOI**: [10.1080/01425692.2014.919841](https://doi.org/10.1080/01425692.2014.919841)
 **作者**: Gale, Trevor; Hodge, Steven
-**摘要**: （暂无）
+**摘要**: This paper explores the notion of a ‘just imaginary’ for social inclusion in higher education. It responds to the current strategy of OECD nations to expand higher education and increase graduate numbers, as a way of securing a competitive advantage in the global knowledge economy.…
 
 ### Home education, school, Travellers and educational inclusion
 **年份**: 2014 | **DOI**: [10.1080/01425692.2014.919840](https://doi.org/10.1080/01425692.2014.919840)
 **作者**: D’Arcy, Kate
-**摘要**: （暂无）
+**摘要**: The difficulties Traveller pupils experience in school are well documented. Yet those in home educating go unreported. Monk suggests this is because some groups are overlooked; that gypsies and Travellers are often not perceived as home educators.…
 
 ### Doctoral theses
 **年份**: 2014 | **DOI**: [10.1080/01425692.2014.931021](https://doi.org/10.1080/01425692.2014.931021)
@@ -1761,17 +1761,17 @@
 ### Vygotsky and sociology
 **年份**: 2014 | **DOI**: [10.1080/01425692.2014.881050](https://doi.org/10.1080/01425692.2014.881050)
 **作者**: Moss, Gemma; Normand, Romuald; Dowling, Paul
-**摘要**: （暂无）
+**摘要**: This edited collection is the latest in a series of volumes on Vygotsky that Harry Daniels has produced, exploring the scope of his work and its continuing relevance for education. Vygotsky is wort...
 
 ### Educational inclusion: towards a social justice agenda?
 **年份**: 2014 | **DOI**: [10.1080/01425692.2014.938937](https://doi.org/10.1080/01425692.2014.938937)
 **作者**: Bhopal, Kalwant; Shain, Farzana
-**摘要**: （暂无）
+**摘要**: Social justice and inclusion are complex and contested terms that feature prominently in current global and national education policy rhetoric. The latest Global Monitoring Report (UNESCO 2014), fo...
 
 ### The heavy shadow? Bernstein and his legacy
 **年份**: 2014 | **DOI**: [10.1080/01425692.2014.893073](https://doi.org/10.1080/01425692.2014.893073)
 **作者**: Delamont, Sara
-**摘要**: （暂无）
+**摘要**: Yorgo was a fair-haired, friendly but rather silent man. ‘You shouldn’t go to sleep under a fig tree’ he said … ‘Why not?’ ‘The shadow is heavy’. (Fermor 1958, 15)Bernstein’s shadow was very heavy....
 
 ### Doctoral Theses
 **年份**: 2014 | **DOI**: [10.1080/01425692.2014.951161](https://doi.org/10.1080/01425692.2014.951161)
@@ -1780,52 +1780,52 @@
 ### New managerialism in education: commercialization, carelessness and gender
 **年份**: 2014 | **DOI**: [10.1080/01425692.2014.918704](https://doi.org/10.1080/01425692.2014.918704)
 **作者**: Ladwig, James G.; Rees, Gareth; Shields, Robin
-**摘要**: （暂无）
+**摘要**: Kathleen Lynch and her colleagues Bernie Grummell and Dympna Devine have produced a frustratingly compelling volume that documents the arrival of ‘new managerialism’ in the Irish education system. ...
 
 ### Foucault, power, and education
 **年份**: 2014 | **DOI**: [10.1080/01425692.2014.953805](https://doi.org/10.1080/01425692.2014.953805)
 **作者**: Harwood, Valerie; Muller, Johan; Olssen, Mark
-**摘要**: （暂无）
+**摘要**: Click to increase image sizeClick to decrease image size Notes1. Foucault’s phrase was ‘knowing empiricity’, cited by Ball on 58. I have slightly altered it simply to fit my sentence context. See Foucault (Citation1970, 250).
 
 ### Education, ‘consumerism’ and ‘personalisation’
 **年份**: 2014 | **DOI**: [10.1080/01425692.2014.881054](https://doi.org/10.1080/01425692.2014.881054)
 **作者**: Bragg, Sara
-**摘要**: （暂无）
+**摘要**: Extended review of John Hartley's book Education and the culture of consumption: personalisation and the social order 2012
 
 ### Responding to the problems of higher education: a case of liquidity or liquidation?
 **年份**: 2014 | **DOI**: [10.1080/01425692.2014.918705](https://doi.org/10.1080/01425692.2014.918705)
 **作者**: Lum, Gerard
-**摘要**: （暂无）
+**摘要**: It is possible to discern two very different responses to the changes that have accompanied the expansion of higher education over the past half-century. On the one hand, there are those who would ...
 
 ### Making sense of debates in the education and masculinities field
 **年份**: 2014 | **DOI**: [10.1080/01425692.2014.953804](https://doi.org/10.1080/01425692.2014.953804)
 **作者**: Mills, Martin
-**摘要**: （暂无）
+**摘要**: Much has been made of a supposed crisis in masculinity that, it has been said, contributes towards boys’ failures at school, both academically and socially. Those suggesting that this crisis has ha...
 
 ### Interrupting the interruption: neoliberalism and the challenges of an antiracist school
 **年份**: 2014 | **DOI**: [10.1080/01425692.2014.919847](https://doi.org/10.1080/01425692.2014.919847)
 **作者**: Meshulam, Assaf; Apple, Michael W.
-**摘要**: （暂无）
+**摘要**: The article examines a US public elementary bilingual, multicultural school that attempts to interrupt the reproduction of existing relations of dominance and subordination across a variety of differences.…
 
 ### Fighting for the ‘right to the city’: examining spatial injustice in Chicago public school closings
 **年份**: 2014 | **DOI**: [10.1080/01425692.2014.919844](https://doi.org/10.1080/01425692.2014.919844)
 **作者**: Grant, Carl A.; Floch Arcello, Anna; Konrad, Annika M. 等4人
-**摘要**: （暂无）
+**摘要**: This article uses Chicago public school closings as a case study for the rise of mayoral control and the decline of democratic participation – two common responses to stiff competition from global markets – in urban public schools in the United States.…
 
 ### Sociological silhouettes of elite schooling
 **年份**: 2014 | **DOI**: [10.1080/01425692.2015.977557](https://doi.org/10.1080/01425692.2015.977557)
 **作者**: Kenway, Jane; Koh, Aaron
-**摘要**: （暂无）
+**摘要**: The elite school. What is it? Clearly this is not an un-subjective, universal or timeless category. Elite schools rise and fall, new types emerge and make status claims, older types stand firm or f...
 
 ### Transforming marginalised adult learners’ views of themselves: Access to Higher Education courses in England
 **年份**: 2014 | **DOI**: [10.1080/01425692.2014.919842](https://doi.org/10.1080/01425692.2014.919842)
 **作者**: Busher, Hugh; James, Nalita; Piela, Anna 等4人
-**摘要**: （暂无）
+**摘要**: Adult learners on Access to Higher Education courses struggled with institutional and social structures to attend their courses, but transformed their identities as learners through them.…
 
 ### Identities of, in, and through higher education
 **年份**: 2014 | **DOI**: [10.1080/01425692.2014.881056](https://doi.org/10.1080/01425692.2014.881056)
 **作者**: James, David
-**摘要**: （暂无）
+**摘要**: Access to inequality: reconsidering class, knowledge, and capital in higher education, by A. Stich, Plymouth, Lexington Books, 2012, 135 pp., ISBN 978-0-73-916932-2, $75.00 (£44.95) (cloth), ISBN 9...
 
 ### Doctoral Theses
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.839186](https://doi.org/10.1080/01425692.2013.839186)
@@ -1834,57 +1834,57 @@
 ### Non-disabled children’s ideas about disability and disabled people
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.800444](https://doi.org/10.1080/01425692.2013.800444)
 **作者**: Beckett, Angharad E.
-**摘要**: （暂无）
+**摘要**: This article discusses findings from an Economic and Social Research Council-funded study exploring non-disabled children’s ideas about disability. This represents the first in-depth sociological investigation of children’s ideas about disabled people as members of wider society.…
 
 ### Adolescents’ emerging habitus: the role of early parental expectations and practices
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.776932](https://doi.org/10.1080/01425692.2013.776932)
 **作者**: Bodovski, Katerina
-**摘要**: （暂无）
+**摘要**: AbstractThis study makes two contributions to the literature. First, it bridges the sociological discussion of social class habitus with psychological notions of adolescents' educational expectations, locus of control, and self-concepts.…
 
 ### Linguistic capital and the linguistic field for teachers unaccustomed to linguistic difference
 **年份**: 2013 | **DOI**: [10.1080/01425692.2012.710004](https://doi.org/10.1080/01425692.2012.710004)
 **作者**: Flynn, Naomi
-**摘要**: （暂无）
+**摘要**: Teachers in classrooms throughout England are facing a shifting demographic in their pupil intake. Where the teaching of children whose first language was not English was once considered an inner-city teachers' role, more recent migration patterns have challenged this preconception.…
 
 ### ‘When you see a normal person …’: social class and friendship networks among teenage students
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.782811](https://doi.org/10.1080/01425692.2013.782811)
 **作者**: Papapolydorou, Maria
-**摘要**: （暂无）
+**摘要**: This paper draws on social capital theory to discuss the way social class plays out in the friendships of teenage students. Based on data from individual interviews and focus groups with 75 students in four London secondary schools, it is suggested that students tend to form friendships with people …
 
 ### ‘Virginity is a Virtue: Prevent Early Sex’ – Teacher perceptions of sex education in a Ugandan secondary school
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.777206](https://doi.org/10.1080/01425692.2013.777206)
 **作者**: Iyer, Padmini; Aggleton, Peter
-**摘要**: （暂无）
+**摘要**: Sex education is a politically contentious issue in many countries, and there are numerous, competing ideologies relating to the most appropriate methods to teach young people about sexual and reproductive health.…
 
 ### Aspirations, education and social justice: applying Sen and Bourdieu
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.856669](https://doi.org/10.1080/01425692.2013.856669)
 **作者**: Unterhalter, Elaine; G Ladwig, James; Jeffrey, Craig
-**摘要**: （暂无）
+**摘要**: The language in which we delineate aspiration is notoriously difficult to decode. The problem is compounded by the different positions of who is talking, who is listening and what each assumes thei...
 
 ### Cosmo girls: configurations of class and femininity in elite educational settings
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.764148](https://doi.org/10.1080/01425692.2013.764148)
 **作者**: Allan, Alexandra; Charles, Claire
-**摘要**: （暂无）
+**摘要**: In this paper we offer a unique contribution to understandings of schooling as a site for the production of social class difference. We bring together the rich body of work that has been conducted on middle-class educational identities, with explorations of the centrality of the feminine in represen…
 
 ### The changing relationship between origins, education and destinations in the 1990s and 2000s
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.816039](https://doi.org/10.1080/01425692.2013.816039)
 **作者**: Devine, Fiona; Li, Yaojun
-**摘要**: （暂无）
+**摘要**: This paper examines the changing relationship between origins, education and destinations in mobility processes. The meritocracy thesis suggests the relationships between origins and education and between origins and destination will weaken while the relationship between education and destinations w…
 
 ### Immigration and schooling in the Republic of Ireland: making a difference?
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.856667](https://doi.org/10.1080/01425692.2013.856667)
 **作者**: Pinson, Halleli
-**摘要**: （暂无）
+**摘要**: Globalisation can be best characterised as the age of mobility – mobility of goods, finances, knowledge, culture, and, perhaps most significantly for state education systems, the mobility of people...
 
 ### Counter-narratives of educational excellence: free schools, success, and community-based schooling
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.782810](https://doi.org/10.1080/01425692.2013.782810)
 **作者**: Gerrard, Jessica
-**摘要**: （暂无）
+**摘要**: The notion of ‘competitive excellence’ is an enduring cornerstone of UK educational policy. Most recently, expanding and adapting New Labour’s Academy project with the introduction of free schools, the Coalition’s approach advances and embeds competitive market-based forms of community engagement in…
 
 ### Girls in science and technology in secondary and post-secondary education: the case of France
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.791229](https://doi.org/10.1080/01425692.2013.791229)
 **作者**: Stevanovic, Biljana
-**摘要**: （暂无）
+**摘要**: Based on surveys undertaken by the Institut national de la statistique et des études économiques (France’s National Institute of Statistics and Economic Studies) and by the Direction de l'évaluation de la prospective et de la performance (Directorate of Evaluation, Forecasting and Performance), this…
 
 ### Some further (orthodox?) Bourdieusian reflections on the notions of ‘institutional habitus’ and ‘family habitus’: a reply to Burke, Emmerich, and Ingram
 **年份**: 2013 | **DOI**: [10.1080/01425692.2012.746266](https://doi.org/10.1080/01425692.2012.746266)
@@ -1894,27 +1894,27 @@
 ### Three generations of racism: Black middle-class children and schooling
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.816032](https://doi.org/10.1080/01425692.2013.816032)
 **作者**: Vincent, Carol; Ball, Stephen; Rollock, Nicola 等4人
-**摘要**: （暂无）
+**摘要**: This paper draws on qualitative data exploring the experiences of first-generation middle-class Black Caribbean-heritage parents, their own parents, and their children. We focus on the different ways in which race and class intersect in shaping attitudes towards education and subsequent educational …
 
 ### Leaving Northern Ireland: youth mobility field, habitus and recession among undergraduates in Belfast
 **年份**: 2013 | **DOI**: [10.1080/01425692.2012.723869](https://doi.org/10.1080/01425692.2012.723869)
 **作者**: Cairns, David; Growiec, Katarzyna; Smyth, Jim
-**摘要**: （暂无）
+**摘要**: This article explores the dichotomy between the high prevalence and low incidence of youth mobility intentions, utilising the results of quantitative and qualitative research conducted with 400 students during 2010 in Belfast, Northern Ireland.…
 
 ### Profitable portfolios: capital that counts in higher education
 **年份**: 2013 | **DOI**: [10.1080/01425692.2012.710005](https://doi.org/10.1080/01425692.2012.710005)
 **作者**: Watson, Jo
-**摘要**: （暂无）
+**摘要**: Under-representation in UK higher education of students from less privileged social backgrounds is an enduring problem. While there are examples of productive participation, the pattern of collective trajectories of this group differs sharply from that of traditional entrants.…
 
 ### The role of the school curriculum in social mobility
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.816031](https://doi.org/10.1080/01425692.2013.816031)
 **作者**: Iannelli, Cristina
-**摘要**: （暂无）
+**摘要**: This paper focuses on the role of curricular content on social mobility, an issue largely neglected by social mobility studies. Using data from the National Child Development Study we investigate the extent to which secondary school curricula account for social class differences in the chances of en…
 
 ### ‘Class work’: producing privilege and social mobility in elite US secondary schools
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.816037](https://doi.org/10.1080/01425692.2013.816037)
 **作者**: Weis, Lois; Cipollone, Kristin
-**摘要**: （暂无）
+**摘要**: Drawing upon two ethnographic studies of affluent and elite co-educational secondary schools in the United States, Weis and Cipollone spotlight the explicit ‘class work’ of a now highly insecure middle/upper middle class, as they attempt to maintain advantage via entrance to particularly located pos…
 
 ### Erratum
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.876195](https://doi.org/10.1080/01425692.2013.876195)
@@ -1923,22 +1923,22 @@
 ### Lesbian and gay teachers’ experiences of ‘coming out’ in Irish schools
 **年份**: 2013 | **DOI**: [10.1080/01425692.2012.722281](https://doi.org/10.1080/01425692.2012.722281)
 **作者**: Neary, Aoife
-**摘要**: （暂无）
+**摘要**: Lesbian, gay and bisexual teachers have struggled with managing their sexual identities in contexts where heteronormative policing has resulted in deep silences and misrepresentation. However, many teachers have tried to counter this by ‘coming out’ or engaging with a process of disclosure.…
 
 ### No Ivies, Oxbridge, or grandes écoles: constructing distinctions in university choice
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.814530](https://doi.org/10.1080/01425692.2013.814530)
 **作者**: Baker, Jayne
-**摘要**: （暂无）
+**摘要**: Although we know a great deal about college choice in nations such as the United States, we know considerably less about how college choice operates in settings lacking well-defined hierarchies between higher education institutions.…
 
 ### Interrupted trajectories: the impact of academic failure on the social mobility of working-class students
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.816042](https://doi.org/10.1080/01425692.2013.816042)
 **作者**: Byrom, Tina; Lightfoot, Nic
-**摘要**: （暂无）
+**摘要**: Higher education (HE) is often viewed as a conduit for social mobility through which working-class students can secure improved life-chances. However, the link between HE and social mobility is largely viewed as unproblematic.…
 
 ### The healthy child citizen: biopedagogies and web-based health promotion
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.800446](https://doi.org/10.1080/01425692.2013.800446)
 **作者**: Wright, Jan; Halse, Christine
-**摘要**: （暂无）
+**摘要**: The health of children in affluent economies has become closely tied to the ideal of a normative body weight achieved by monitoring and balancing diet and physical activity. As a result, the education of young people on how to avoid becoming fat begins at an early age through the language and practi…
 
 ### Reflections on women and success in the academy
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.797667](https://doi.org/10.1080/01425692.2013.797667)
@@ -1948,32 +1948,32 @@
 ### Leadership and the reform of education
 **年份**: 2013 | **DOI**: [10.1080/01425692.2012.761385](https://doi.org/10.1080/01425692.2012.761385)
 **作者**: Cuthbert, Rob; Møller, Jorunn; Ozga, Jenny
-**摘要**: （暂无）
+**摘要**: Ideas change the world, as Keynes (1936) said in The General Theory of Employment, Interest and Money. A set of ideas about leadership, taken up enthusiastically by the (New) Labour Government in 1...
 
 ### Towards a Bernsteinian language of description for mathematics classroom discourse
 **年份**: 2013 | **DOI**: [10.1080/01425692.2012.714250](https://doi.org/10.1080/01425692.2012.714250)
 **作者**: Straehler-Pohl, Hauke; Gellert, Uwe
-**摘要**: （暂无）
+**摘要**: This article aims at developing an external language of description to investigate the problem of why particular groups of students are systematically not provided access to school mathematical knowledge.…
 
 ### Meritocracy and theGaokao: a survey study of higher education selection and socio-economic participation in East China
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.816237](https://doi.org/10.1080/01425692.2013.816237)
 **作者**: Liu, Ye
-**摘要**: （暂无）
+**摘要**: Meritocracy is a powerful ideology that was used by the Chinese Communist Party during China’s transition to a market economy. With the Gaokao in particular, higher education selection became an ideal vehicle for the Party to associate itself with the ideology of meritocracy.…
 
 ### Student mobilities, migration and the internationalisation of higher
 **年份**: 2013 | **DOI**: [10.1080/01425692.2012.761390](https://doi.org/10.1080/01425692.2012.761390)
 **作者**: Brennan, John
-**摘要**: （暂无）
+**摘要**: Student mobilities, migration and the internationalisation of higher education, Rachel Brooks and Johanna Waters, Basingstoke, Palgrave MacMillan, 2011, 196 pp., £61.00 (hardback), ISBN - 978-0-230...
 
 ### Family learning and the socio-spatial practice of ‘supportive’ power
 **年份**: 2013 | **DOI**: [10.1080/01425692.2012.723870](https://doi.org/10.1080/01425692.2012.723870)
 **作者**: Wainwright, Emma; Marandet, Elodie
-**摘要**: （暂无）
+**摘要**: Family learning has been an important mode of education deployed by governments in the United Kingdom over the past 20 years, and is positioned at the nexus of various social policy areas whose focus stretch beyond education.…
 
 ### Educational expansion and field of study: trends in the intergenerational transmission of educational inequality in the Netherlands
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.816622](https://doi.org/10.1080/01425692.2013.816622)
 **作者**: Kraaykamp, Gerbert; Tolsma, Jochem; Wolbers, Maarten H.J.
-**摘要**: （暂无）
+**摘要**: In this paper we study to what extent parental field of study affects a person’s educational level and field of study. We employ information on 8800 respondents from the Family Survey Dutch Population (1992–2009).…
 
 ### Doctoral Theses
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.813658](https://doi.org/10.1080/01425692.2013.813658)
@@ -1982,72 +1982,72 @@
 ### New modes of governance in Europe: mapping the multiple actors, institutions, and instruments in a shifting political space
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.773738](https://doi.org/10.1080/01425692.2013.773738)
 **作者**: Keating, Avril
-**摘要**: （暂无）
+**摘要**: Click to increase image sizeClick to decrease image size Notes 1. In 2011, the Commission proposed that the EU budget for education and training should increase by 73% for the budgetary period 2014–2020 (i.e. to €15.2 billion, up from €8.8 billion for the period 2007–2013).…
 
 ### Literacy inequalities, mediation and the public good: a case study of physical proximity and social distance in Nepal
 **年份**: 2013 | **DOI**: [10.1080/01425692.2012.704722](https://doi.org/10.1080/01425692.2012.704722)
 **作者**: Maddox, Bryan; Esposito, Lucio
-**摘要**: （暂无）
+**摘要**: Literacy is considered to be a public good – one that benefits not only literate people, but also others in society through mechanisms of sharing and mediation. But to what extent do the benefits of literacy extend to socially distant groups?…
 
 ### Putting working-class mothers in their place: social stratification, the field of education, and Pierre Bourdieu's theory of practice
 **年份**: 2013 | **DOI**: [10.1080/01425692.2012.710006](https://doi.org/10.1080/01425692.2012.710006)
 **作者**: O’Donoghue, Mary
-**摘要**: （暂无）
+**摘要**: This article explores how a small sample of working-class mothers encounters the field of education. In the management of family and their children's schooling, mothers bring to bear and replicate ways of knowing that are embodied, are historical and that offer many-sided insights into profoundly st…
 
 ### Social mobility, a panacea for austere times: tales of emperors, frogs, and tadpoles
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.816035](https://doi.org/10.1080/01425692.2013.816035)
 **作者**: Reay, Diane
-**摘要**: （暂无）
+**摘要**: This paper problematizes dominant discourses of social mobility. It begins by discussing social mobility from a philosophical perspective before examining current policies on social mobility in the United Kingdom, drawing on data from both recent mobility studies and the contemporary labour market.…
 
 ### Cultural capital and distinction: aspirations of the ‘other’ foreign student
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.816030](https://doi.org/10.1080/01425692.2013.816030)
 **作者**: Sin, I Lin
-**摘要**: （暂无）
+**摘要**: This article explores the perceived role of UK international education as foreign cultural capital, obtained outside the UK, in facilitating middle-class social mobility. Drawing on interviews with students in Malaysia, it extends Bourdieu’s concept of cultural capital to explain understandings of t…
 
 ### Education, opportunity and the prospects for social mobility
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.816036](https://doi.org/10.1080/01425692.2013.816036)
 **作者**: Brown, Phillip
-**摘要**: （暂无）
+**摘要**: There has been renewed policy interest in intergenerational social mobility as a route to a fairer society, but in ignoring the sociological evidence this article will argue that the current policy agenda will fail to achieve its goal.…
 
 ### Contemporary feminism: avant-garde or antiquated?
 **年份**: 2013 | **DOI**: [10.1080/01425692.2012.761392](https://doi.org/10.1080/01425692.2012.761392)
 **作者**: Mannay, Dawn
-**摘要**: （暂无）
+**摘要**: by Jessica Ringrose, London, Routledge, 2013, 190 pp., £24.99, ISBN 978-0-41-555749-8 by Sylvia Walby, Cambridge, Polity Press, 2011, 210 pp., £50.00, ISBN 978-0-74-564756-2 Having explored the way...
 
 ### Experiencing the same but differently: indigenous minority and immigrant children’s experiences in Cyprus
 **年份**: 2013 | **DOI**: [10.1080/01425692.2012.722274](https://doi.org/10.1080/01425692.2012.722274)
 **作者**: Theodorou, Eleni; Symeou, Loizos
-**摘要**: （暂无）
+**摘要**: This paper examines the experiences of minority students from two different cultural groups, immigrant children of Pontian background and indigenous minority children of Roma descent, in the Greek-Cypriot educational system.…
 
 ### Desirable organisational masculinities: competition and entrepreneurialism in schools of construction in further education colleges
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.800445](https://doi.org/10.1080/01425692.2013.800445)
 **作者**: Page, Damien
-**摘要**: （暂无）
+**摘要**: This article presents findings from a study of heads of construction schools within 14 further education colleges. Moving from a culture of hyper-masculinity, of tough, dirty work, construction lecturers and managers have to renegotiate their identity and work practices to become congruent with the …
 
 ### Framing higher education: questions and responses in the British Social Attitudes survey, 1983–2010
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.816040](https://doi.org/10.1080/01425692.2013.816040)
 **作者**: Mountford-Zimdars, Anna; Jones, Steven; Sullivan, Alice 等4人
-**摘要**: （暂无）
+**摘要**: This article focuses on questions and attitudes towards higher education in the British Social Attitudes (BSA) survey series. First, we analyse the changing BSA questions (1983–2010) in the context of key policy reports.…
 
 ### Reflections on education and social mobility
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.816034](https://doi.org/10.1080/01425692.2013.816034)
 **作者**: Halsey, A.H.
-**摘要**: （暂无）
+**摘要**: This article is a brief personal reflection on the state of research into the relation between education and social mobility. Quantitative methods are both essential and advancing in this field.…
 
 ### Higher education, social class and the mobilisation of capitals: recognising and playing the game
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.816041](https://doi.org/10.1080/01425692.2013.816041)
 **作者**: Bathmaker, Ann-Marie; Ingram, Nicola; Waller, Richard
-**摘要**: （暂无）
+**摘要**: Strategies employed by middle-class families to ensure successful educational outcomes for their children have long been the focus of theoretical and empirical analysis in the United Kingdom and beyond.…
 
 ### Policy-making and education reform in the development of Latin American social democracy: the role of the left in Brazil and Chile
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.797666](https://doi.org/10.1080/01425692.2013.797666)
 **作者**: Santori, Diego; Stromquist, Nelly P.; Torres, Carlos Alberto
-**摘要**: （暂无）
+**摘要**: Click to increase image sizeClick to decrease image size Notes 1. According to Esping-Andersen: ‘de-commodification occurs when a service is rendered as a matter of right, and when a person can maintain a livelihood without reliance on the market’ (1990, 163).
 
 ### Non-performativity of university and subjectification of students: the question of equality and diversity in UK universities
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.777207](https://doi.org/10.1080/01425692.2013.777207)
 **作者**: Kimura, Maki
-**摘要**: （暂无）
+**摘要**: AbstractUniversities in the United Kingdom have experienced a transformation in the context of the government's initiatives to widen participation and rapid socio-economic changes locally and globally.…
 
 ### Doctoral Theses
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.768045](https://doi.org/10.1080/01425692.2013.768045)
@@ -2056,42 +2056,42 @@
 ### Medicus interruptusin the behaviour of children in disadvantaged contexts in Scotland
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.776933](https://doi.org/10.1080/01425692.2013.776933)
 **作者**: Allan, Julie; Harwood, Valerie
-**摘要**: （暂无）
+**摘要**: The medicalisation of the behaviour of children is a phenomenon that is attracting growing attention, with particular concern about the increased likelihood of children living in disadvantaged contexts receiving a medical diagnosis, such as attention-deficit hyperactivity disorder, and treatment.…
 
 ### Well-founded social fictions: a defence of the concepts of institutional and familial habitus
 **年份**: 2013 | **DOI**: [10.1080/01425692.2012.746263](https://doi.org/10.1080/01425692.2012.746263)
 **作者**: Burke, Ciaran Thomas; Emmerich, Nathan; Ingram, Nicola
-**摘要**: （暂无）
+**摘要**: This article engages with Atkinson’s recent criticisms of concepts of collective habitus, such as ‘institutional’ and ‘familial’ habitus, in order to defend their conceptual utility and theoretical coherence.…
 
 ### Social Realism and the problem of the problem of knowledge in the sociology of education
 **年份**: 2013 | **DOI**: [10.1080/01425692.2012.714251](https://doi.org/10.1080/01425692.2012.714251)
 **作者**: Moore, Rob
-**摘要**: （暂无）
+**摘要**: Abstract This paper examines from a Social Realist perspective a set of issues in the sociology of education regarding the problem of knowledge. It focuses upon the issue of relativism associated with the constructionist approach that since the time of the New Sociology of Education in the 1970s has…
 
 ### Expertise, authority and embodied pedagogy: operatic masterclasses
 **年份**: 2013 | **DOI**: [10.1080/01425692.2012.723868](https://doi.org/10.1080/01425692.2012.723868)
 **作者**: Atkinson, Paul; Watermeyer, Richard; Delamont, Sara
-**摘要**: （暂无）
+**摘要**: The paper reports a study of masterclasses for young opera-singers, taught by experienced, world-class singers. These and similar forms of learning in the creative and performing arts represent fertile opportunities for the investigation of pedagogy.…
 
 ### Resettling notions of social mobility: locating refugees as ‘educable’ and ‘employable’
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.816033](https://doi.org/10.1080/01425692.2013.816033)
 **作者**: Koyama, Jill
-**摘要**: （暂无）
+**摘要**: The global movement of people alters our understandings of social mobility. Here, I draw on ethnographic data collected since January 2011 and utilize the notion of assemblage to document and analyze how disparate people, their material objects, and discursive practices are brought together to rende…
 
 ### Morality in parents’ stories of preschool choice: narrating identity positions of good parenting
 **年份**: 2013 | **DOI**: [10.1080/01425692.2012.714248](https://doi.org/10.1080/01425692.2012.714248)
 **作者**: Karlsson, Marie; Löfdahl, Annica; Prieto, Héctor Pérez
-**摘要**: （暂无）
+**摘要**: This article aims to contribute to our understanding of how moral aspects of parents’ choices of preschool play a part in the processes of marketisation and privatisation of childcare in Sweden. The paper explores parents’ narratives of preschool choice as moral claims of parental identities.…
 
 ### Identity politics, justice and the schooling of Muslim girls: navigating the tensions between multiculturalism, group rights and feminism
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.776930](https://doi.org/10.1080/01425692.2013.776930)
 **作者**: Keddie, Amanda
-**摘要**: （暂无）
+**摘要**: This article focuses on the concerns expressed by three female Muslim educators who are support staff at an English comprehensive school. Consistent with the debates associated with multiculturalism, group rights and feminism, the article illuminates spaces of gender constraint and possibility withi…
 
 ### Understanding critical race theory as a framework in higher educational research
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.777211](https://doi.org/10.1080/01425692.2013.777211)
 **作者**: Savas, Gokhan
-**摘要**: （暂无）
+**摘要**: AbstractThis paper reviews the existing literature to discuss how critical race theory has been applied as a theoretical framework to higher educational research in the United States and what its contributions are.…
 
 ### Globalising knowledges
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.797670](https://doi.org/10.1080/01425692.2013.797670)
@@ -2101,22 +2101,22 @@
 ### The use and value of Bernstein’s work in studying (in)equalities in undergraduate social science education
 **年份**: 2013 | **DOI**: [10.1080/01425692.2012.710007](https://doi.org/10.1080/01425692.2012.710007)
 **作者**: McLean, Monica; Abbas, Andrea; Ashwin, Paul
-**摘要**: （暂无）
+**摘要**: This paper illustrates how critical use of Basil Bernstein's theory illuminates the mechanisms by which university knowledge, curriculum and pedagogy both reproduce and interrupt social inequalities.…
 
 ### A class act? Lecturers’ views on undergraduates’ employability
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.802420](https://doi.org/10.1080/01425692.2013.802420)
 **作者**: Morrison, Andrew
-**摘要**: （暂无）
+**摘要**: AbstractThis article details the findings of a study into lecturers' perceptions of undergraduate employability. The investigation employed interviews with the staff on a BA (Hons) in Education Studies course at a post-1992 university.…
 
 ### ‘We’re not trying to turn them into middle-classGuardianreaders’: constructing the offender in the probation ‘classroom’
 **年份**: 2013 | **DOI**: [10.1080/01425692.2012.723871](https://doi.org/10.1080/01425692.2012.723871)
 **作者**: Perry, Emma
-**摘要**: （暂无）
+**摘要**: Over the past 10 years, cognitive-behavioural programmes have come to be seen as a standard form of rehabilitation for offenders in the United Kingdom. However, the majority of research has tended to evaluate the programmes purely within the evidence-based context of the ‘What Works’ criminal justic…
 
 ### Theoretical notes on the sociological analysis of school reform networks
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.776931](https://doi.org/10.1080/01425692.2013.776931)
 **作者**: Ladwig, James G.
-**摘要**: （暂无）
+**摘要**: AbstractNearly two decades ago, Ladwig outlined the theoretical and methodological implications of Bourdieu's concept of the social field for sociological analyses of educational policy and school reform.…
 
 ### Doctoral Theses
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.791072](https://doi.org/10.1080/01425692.2013.791072)
@@ -2125,32 +2125,32 @@
 ### Education and social mobility
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.826414](https://doi.org/10.1080/01425692.2013.826414)
 **作者**: Brown, Phillip; Reay, Diane; Vincent, Carol
-**摘要**: （暂无）
+**摘要**: The study of education and social mobility has been a key area of sociological research since the 1950s. The importance of this research derives from the systematic analysis of functionalist theori...
 
 ### Participatory capital: Bourdieu and citizenship education in diverse school communities
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.777209](https://doi.org/10.1080/01425692.2013.777209)
 **作者**: Wood, Bronwyn E.
-**摘要**: （暂无）
+**摘要**: A priority toward creating ‘active’ citizens has been a feature of curricula reforms in many income-rich nations in recent years. However, the normative, one-size-fits-all conceptions of citizenship often presented within such curricula obscure the significant differences in how some young people ex…
 
 ### Ironising with intelligence
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.791228](https://doi.org/10.1080/01425692.2013.791228)
 **作者**: Erlandson, Peter; Beach, Dennis
-**摘要**: （暂无）
+**摘要**: This article is part of a project that seeks in part to explore how students understand and use the concept of intelligence. It is based on an ethnographically contextualized study of linguistic events and was conducted in an inner-city upper secondary school in Sweden.…
 
 ### Global Education Inc: new policy networks and the neo-liberal imaginary
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.773734](https://doi.org/10.1080/01425692.2013.773734)
 **作者**: Soudien, Crain; Apple, Michael W.; Slaughter, Sheila
-**摘要**: （暂无）
+**摘要**: Click to increase image sizeClick to decrease image size Notes 1. By mandating audit cultures and infusing as many institutions as possible with neo-liberal policies surrounding the production of entrepreneurial identities, the norms of love, care, and solidarity that are constitutive structures of …
 
 ### The preschool bathroom: making ‘problem bodies’ and the limit of the disciplinary regime over children
 **年份**: 2013 | **DOI**: [10.1080/01425692.2012.761394](https://doi.org/10.1080/01425692.2012.761394)
 **作者**: Millei, Zsuzsa; Cliff, Ken
-**摘要**: （暂无）
+**摘要**: AbstractIn this paper we study the effects of power in a bathroom, which is a rarely analysed space in preschools, using empirical examples from a semi-ethnographic study conducted in New South Wales, Australia.…
 
 ### Researching children’s rights in education: sociology of childhood encountering educational theory
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.783962](https://doi.org/10.1080/01425692.2013.783962)
 **作者**: Quennerstedt, Ann; Quennerstedt, Mikael
-**摘要**: （暂无）
+**摘要**: This paper aims to explore and develop a theoretical approach for children’s rights research in education formed through an encounter between the sociology of childhood and John Dewey’s educational theory.…
 
 ### Doctoral Theses
 **年份**: 2013 | **DOI**: [10.1080/01425692.2014.857132](https://doi.org/10.1080/01425692.2014.857132)
@@ -2159,57 +2159,57 @@
 ### Extended Review
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.773736](https://doi.org/10.1080/01425692.2013.773736)
 **作者**: Connolly, Mark
-**摘要**: （暂无）
+**摘要**: Since the 1990s it has become virtually axiomatic that Britain’s economic&#13;\ncompetitiveness depends on its development of a knowledge-based economy&#13;\n(KBE). This turn to knowledge as the country’s primary resource was,&#13;\nessentially, a reaction to the vicissitudes of globalization, where…
 
 ### Social mobility and post-compulsory education: revisiting Boudon’s model of social opportunity
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.816038](https://doi.org/10.1080/01425692.2013.816038)
 **作者**: Thompson, Ron; Simmons, Robin
-**摘要**: （暂无）
+**摘要**: This paper uses Raymond Boudon’s model of educational expansion to examine the relationship between education and social mobility, paying particular attention to post-compulsory education – an important site of social differentiation in England.…
 
 ### Becoming employable students and ‘ideal’ creative workers: exclusion and inequality in higher education work placements
 **年份**: 2013 | **DOI**: [10.1080/01425692.2012.714249](https://doi.org/10.1080/01425692.2012.714249)
 **作者**: Allen, K.; Quinn, J.; Hollingworth, S. 等4人
-**摘要**: （暂无）
+**摘要**: In this paper we explore how the ‘employable’ student and ‘ideal’ future creative worker is prefigured, constructed and experienced through higher education work placements in the creative sector, based on a recent small-scale qualitative study.…
 
 ### Practising leadership in newly multi-ethnic schools: tensions in the field?
 **年份**: 2013 | **DOI**: [10.1080/01425692.2012.722273](https://doi.org/10.1080/01425692.2012.722273)
 **作者**: Devine, Dympna
-**摘要**: （暂无）
+**摘要**: This paper explores the leadership practices of three principals following a period of intensive immigration in Ireland. Drawing on the work of Bourdieu, it conceptualises schools as structured social spaces and of their leadership work as a form of practising.…
 
 ### Education and ‘the digital’
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.856668](https://doi.org/10.1080/01425692.2013.856668)
 **作者**: Selwyn, Neil
-**摘要**: （暂无）
+**摘要**: The great American education–industrial complex: ideology, technology and profit, by A. Picciano and J. Spring, New York, Routledge, 2013, £26.99 (paperback), ISBN 978–0-41-552414-8, £90.00 (hardba...
 
 ### Languages, cultural capital and school choice: distinction and second-language immersion programmes
 **年份**: 2013 | **DOI**: [10.1080/01425692.2012.722278](https://doi.org/10.1080/01425692.2012.722278)
 **作者**: Smala, Simone; Paz, Jesus Bergas; Lingard, Bob
-**摘要**: （暂无）
+**摘要**: This paper argues that languages, increasingly marginalised in schools in English-speaking countries, are gaining ‘elitist’ ground as part of the ‘value-added’ marketisation of schools and parents’ desire for their children to gain ‘positional goods’ through schooling.…
 
 ### Rural students’ experiences in a Chinese elite university: capital, habitus and practices
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.821940](https://doi.org/10.1080/01425692.2013.821940)
 **作者**: Li, He
-**摘要**: （暂无）
+**摘要**: Drawing on a qualitative case study and deploying Bourdieu’s thinking tools, this article attempts to understand rural students’ subjectivities and practices in a Chinese elite university, relating the types and volumes of capital they possessed to the process of position-takings.…
 
 ### The past is all before us: the history of education in hard times
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.717823](https://doi.org/10.1080/01425692.2012.717823)
 **作者**: Jones, Ken
-**摘要**: （暂无）
+**摘要**: Click to increase image sizeClick to decrease image size Notes 1. I have taken this quotation from an unpublished paper by Giovanna Barzanò and Emiliano Grimaldi.
 
 ### Inequality in social capital: social capital, social risk and drop-out in the Turkish education system
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.740807](https://doi.org/10.1080/01425692.2012.740807)
 **作者**: Cemalcilar, Zeynep; Gökşen, Fatoş
-**摘要**: （暂无）
+**摘要**: This article examines the effects of social capital on the likelihood of dropping out from the compulsory education system (Grades One through Eight) in Turkey. It focuses on the question of whether school-related social capital can provide the means to stay in school in the presence of risk factors…
 
 ### When language becomes power: Russian-speaking teachers in the bilingual general education system in Estonia
 **年份**: 2012 | **DOI**: [10.1080/01425692.2011.649834](https://doi.org/10.1080/01425692.2011.649834)
 **作者**: Kiilo, Tatjana; Kutsar, Dagmar
-**摘要**: （暂无）
+**摘要**: After the re-establishment of independent Estonian statehood in 1991, Russian lost its privileges as the dominant and official language in Estonia, and Estonian continued as the only official language.…
 
 ### Cultivating self-worth among dislocated Tibetan undergraduate students in a Chinese Han-dominated national key university
 **年份**: 2012 | **DOI**: [10.1080/01425692.2011.614750](https://doi.org/10.1080/01425692.2011.614750)
 **作者**: Yi, Lin; Wang, Lili
-**摘要**: （暂无）
+**摘要**: Abstract Drawing upon fieldwork conducted with a group of dislocated Tibetan undergraduate students of the neidi ban program in a Han-predominated university, this paper examines the ways in which these students make sense of their worlds.…
 
 ### Rethinking culture and education
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.649846](https://doi.org/10.1080/01425692.2012.649846)
@@ -2219,27 +2219,27 @@
 ### Colonised by quality? Teacher identities in a research-led institution
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.692047](https://doi.org/10.1080/01425692.2012.692047)
 **作者**: Skelton, Alan
-**摘要**: （暂无）
+**摘要**: This article explores the impact of quality assurance and enhancement initiatives on teacher identities in higher education. Data from an interview-based study of a research-led institution in the United Kingdom are drawn upon to consider the implications of quality – for example, whether it has cap…
 
 ### ‘The best school for my child?’ Positions, dispositions and inequalities in school choice in the city of Barcelona
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.686896](https://doi.org/10.1080/01425692.2012.686896)
 **作者**: Alegre, Miquel Àngel; Benito, Ricard
-**摘要**: （暂无）
+**摘要**: This article deals with the discourses and practices employed by families involved in school choice processes in the city of Barcelona (Spain). It draws upon a study conducted by the authors in 2008/09, and it is based on surveys completed by a representative sample made up of 3245 families, as well…
 
 ### The body and pedagogy: beyond absent, moving bodies in pedagogic practice
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.662822](https://doi.org/10.1080/01425692.2012.662822)
 **作者**: Ivinson, Gabrielle
-**摘要**: （暂无）
+**摘要**: Following the corporeal turn in social theory, this paper explores how the body is implicated in pedagogic practice and leaning. Focusing on the body has usually been recognised as part of the regulative rather than instructional discourse in schools.…
 
 ### One foot out the school door? Interpreting the risk for dropout upon the transition to post-secondary vocational education
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.632866](https://doi.org/10.1080/01425692.2012.632866)
 **作者**: Elffers, Louise
-**摘要**: （暂无）
+**摘要**: Many students drop out in the first year after a school transition. Most commonly used indicators of an increased risk for dropout reveal little of the mechanisms that push or pull students out of school.…
 
 ### The material child: growing up in consumer culture
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.717819](https://doi.org/10.1080/01425692.2012.717819)
 **作者**: Renold, Emma; Luttrell, Wendy; Bulut, Ergin 等5人
-**摘要**: （暂无）
+**摘要**: Click to increase image sizeClick to decrease image size Notes 1. Retrieved May 2012 from http://www.whitehouse.gov/the-press-office/president-obama-launches-educate-innovate-campaign-excellence-science-technology-en.
 
 ### Deconstructing and reconstructing lives. Auto/biography in educational settings, by Lucy Townsend and Gaby Weiner, London, Ontario, The Althouse Press, 2011, 384 pp., $42.95, ISBN 978-0-92-035469-8
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.704706](https://doi.org/10.1080/01425692.2012.704706)
@@ -2249,17 +2249,17 @@
 ### Tenure troubles and equity matters in Canadian academe
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.674784](https://doi.org/10.1080/01425692.2012.674784)
 **作者**: Acker, Sandra; Webber, Michelle; Smyth, Elizabeth
-**摘要**: （暂无）
+**摘要**: The focus of this article is the tenure review process in Canadian universities, a rigorous and high-stakes evaluation of junior academics that serves as a prime exemplar of ‘disciplining academics', our project's title.…
 
 ### ‘It’ll look good on your personal statement’: self-marketing amongst university applicants in the United Kingdom
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.740804](https://doi.org/10.1080/01425692.2012.740804)
 **作者**: Shuker, Lucie
-**摘要**: （暂无）
+**摘要**: ‘Selling yourself’ through personal statements and interviews is now a standard practice for university applicants. This article draws on a multi-case-study research project to report on the self-marketing orientations of students within three 16–19 institutions in England.…
 
 ### Considering ‘teacher resilience’ from critical discourse and labour process theory perspectives
 **年份**: 2012 | **DOI**: [10.1080/01425692.2011.614748](https://doi.org/10.1080/01425692.2011.614748)
 **作者**: Price, Anne; Mansfield, Caroline; McConney, Andrew
-**摘要**: （暂无）
+**摘要**: This article considers the construct of ‘teacher resilience’ from critical discourse and labour process perspectives in order to cast new light on what has been traditionally viewed from a psychological perspective.…
 
 ### Doctoral Theses
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.741804](https://doi.org/10.1080/01425692.2012.741804)
@@ -2268,32 +2268,32 @@
 ### Critical race theory in education, Marxism and abstract racial domination
 **年份**: 2012 | **DOI**: [10.1080/01425692.2011.649830](https://doi.org/10.1080/01425692.2011.649830)
 **作者**: Cole, Mike
-**摘要**: （暂无）
+**摘要**: In the context of the ongoing debate between critical race theory (CRT) and Marxism, I begin in this paper by examining the origins of CRT in Critical Legal Studies (CLS) in the United States. I go on to describe CRT's entry into education, first in that country, and then in the United Kingdom.…
 
 ### ‘I just got on with it’: the educational experiences of ordinary, yet overlooked, boys
 **年份**: 2012 | **DOI**: [10.1080/01425692.2011.649832](https://doi.org/10.1080/01425692.2011.649832)
 **作者**: Roberts, Steven
-**摘要**: （暂无）
+**摘要**: In the 1980s, researchers established the need to document and analyse the educational attitudes, behaviours and outcomes of ‘ordinary kids' as a means of developing a holistic account of school experience.…
 
 ### Lost youth in the global city: class, culture and the urban imaginary
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.632870](https://doi.org/10.1080/01425692.2012.632870)
 **作者**: Nayak, Anoop; Williamson, Howard; Bjork, Mikela 等5人
-**摘要**: （暂无）
+**摘要**: Click to increase image sizeClick to decrease image size Notes 1. See http://www.guardian.co.uk/business/2011/aug/22/uk-riots-economy-consumerism-values. 2. See http://www.theworld.org/2011/08/residents-blame-police-as-uk-riots-rage-on/.
 
 ### ‘Racialised facilitative capital’ and the paving of differential paths to achievement of Afro-Trinidadian boys
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.740814](https://doi.org/10.1080/01425692.2012.740814)
 **作者**: Rampersad, Ravi
-**摘要**: （暂无）
+**摘要**: Bourdieu describes capital as the political building blocks of social order that give meaning to social accumulation and consumption. Through a combination of Bourdieu’s sociology and critical race theory, this sojourn into Afro-Trinidadian boys’ achievement seeks to elucidate an approach to underst…
 
 ### On the mismatch between multicultural education and its subjects in the field
 **年份**: 2012 | **DOI**: [10.1080/01425692.2011.649831](https://doi.org/10.1080/01425692.2011.649831)
 **作者**: Mizrachi, Nissim
-**摘要**: （暂无）
+**摘要**: This article draws attention to the growing evidence of a mismatch between sociological categorization and actors' worlds of meaning as expressed in the classroom. The mismatch is especially blatant in cases where students from disadvantaged groups are introduced to what educators and theorists pres…
 
 ### Discourses of widening participation in the prospectus documents and websites of six English higher education institutions
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.692048](https://doi.org/10.1080/01425692.2012.692048)
 **作者**: Graham, Claire
-**摘要**: （暂无）
+**摘要**: Abstract This article provides a comparative analysis of the discourses of widening participation used in the prospectus documents and websites of six English higher education institutions (HEIs).…
 
 ### Doctoral Theses
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.730804](https://doi.org/10.1080/01425692.2012.730804)
@@ -2306,32 +2306,32 @@
 ### Analysing religion and education in Christian academies
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.659456](https://doi.org/10.1080/01425692.2012.659456)
 **作者**: Green, Elizabeth
-**摘要**: （暂无）
+**摘要**: This paper asserts that the religious assumptions of Christian academies need to be fully examined in relation to any analysis of their cultural practices, impact or policy implications.…
 
 ### Behind the bike sheds: sexual geographies of schooling
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.704719](https://doi.org/10.1080/01425692.2012.704719)
 **作者**: Allen, Louisa
-**摘要**: （暂无）
+**摘要**: This paper is concerned with extending existing understandings about the role of schools as sexualising agencies. It seeks to uncover previously undisturbed spatial and material dimensions of schooling with regards to sexualities and their implication for how young people learn about sexualities at …
 
 ### The unintended hegemonic effects of a limited concession: institutional incorporation of Chinese schools in post-war Hong Kong
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.674789](https://doi.org/10.1080/01425692.2012.674789)
 **作者**: Wong, Ting-Hong
-**摘要**: （暂无）
+**摘要**: Using the case of Chinese schools in post-Second World War Hong Kong, this paper explores the unintended consequences of an incomplete hegemonic project. After World War II, anti-imperialist pressures and rising educational demands in the local setting propelled the colonial authorities to be more a…
 
 ### Conceptualizing curriculum differentiation in higher education: a sociology of knowledge point of view
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.722285](https://doi.org/10.1080/01425692.2012.722285)
 **作者**: Shay, Suellen
-**摘要**: （暂无）
+**摘要**: Sociologists of education rooted in social realism have for more than a decade argued that knowledge matters in education, there are different kinds of knowledge, not all forms of knowledge are equal and that these differentiations have significant implications for curriculum.…
 
 ### Standpoint theory, realism and the search for objectivity in the sociology of education
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.747588](https://doi.org/10.1080/01425692.2012.747588)
 **作者**: Edwards, Gail
-**摘要**: （暂无）
+**摘要**: This paper evaluates the contribution of ‘social realism’ in resolving questions of knowledge and curriculum in the sociology of education. Social realists argue that, in the interests of educational equality, all pupils should have access to ‘powerful’ knowledge produced by specialist intellectual …
 
 ### Mothering and the work of educational care – an integrative approach
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.747589](https://doi.org/10.1080/01425692.2012.747589)
 **作者**: Golden, Deborah; Erdreich, Lauren
-**摘要**: （暂无）
+**摘要**: AbstractThis article, through looking at mothers' modes of engagement with their children's education, proposes an integrative analytical approach to the study of the making of mothers, mothering, and motherhood.…
 
 ### Doctoral Theses
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.715832](https://doi.org/10.1080/01425692.2012.715832)
@@ -2345,27 +2345,27 @@
 ### Pedagogising poverty alleviation: a discourse analysis of educational and social policies in Argentina and Chile
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.718548](https://doi.org/10.1080/01425692.2012.718548)
 **作者**: Rambla, Xavier; Verger, Antoni
-**摘要**: （暂无）
+**摘要**: For the last decades international organisations and governments have promoted and implemented analogous education policies on the grounds that education is the key factor to foster development and fight poverty.…
 
 ### Boys do not benefit from male teachers in their reading and mathematics skills: empirical evidence from 21 European Union and OECD countries
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.674782](https://doi.org/10.1080/01425692.2012.674782)
 **作者**: Helbig, Marcel
-**摘要**: （暂无）
+**摘要**: The prevalence of women in the teaching profession has been claimed by various scholars to be responsible for the low school performance among boys. Based on this claim there have been widespread calls for increasing the share of male teachers as a means of improving boys' school performance.…
 
 ### Young, free and single? Theorising partner relationships during the first year of university
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.699275](https://doi.org/10.1080/01425692.2012.699275)
 **作者**: Finn, Kirsty
-**摘要**: （暂无）
+**摘要**: Recent research into young people’s private social worlds has highlighted the significance of family and friend relationships for students’ experiences of the transition to university.…
 
 ### Transitional experiences of post-16 sports education: Jack’s story
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.741805](https://doi.org/10.1080/01425692.2012.741805)
 **作者**: Aldous, David C.R.; Sparkes, Andrew C.; Brown, David H.K.
-**摘要**: （暂无）
+**摘要**: This paper explores the layered transitional experiences of a semi-professional athlete named Jack (a pseudonym) between the fields of professional sport and further and higher education.…
 
 ### Teaching in the ‘margins’: rekindling a passion for teaching
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.740813](https://doi.org/10.1080/01425692.2012.740813)
 **作者**: McGregor, Glenda; Mills, Martin
-**摘要**: （暂无）
+**摘要**: The data for this paper are drawn from a qualitative research project involving a number of alternative education sites in Australia and the United Kingdom. In this paper, we focus only on the motives and teaching philosophies of a sample of teachers who have chosen to work in alternative education …
 
 ### Boys and their schooling: the experience of becoming someone else, by John Whelen, London, Routledge, 2011, 296 pp., £70.00 (hardback), ISBN 978-1-41-587917-0
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.746259](https://doi.org/10.1080/01425692.2012.746259)
@@ -2375,12 +2375,12 @@
 ### Attitudes and expectations: do attitudes towards education mediate the relationship between social networks and parental expectations?
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.668835](https://doi.org/10.1080/01425692.2012.668835)
 **作者**: Roth, Tobias; Salikutluk, Zerrin
-**摘要**: （暂无）
+**摘要**: Previous international research has shown that educational goals are fundamental for explaining differences in the educational attainment between individuals. For a better understanding of educational inequality, it is therefore crucial to know more about the mechanisms leading to different expectat…
 
 ### Approaches to reflexivity: navigating educational and career pathways
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.686895](https://doi.org/10.1080/01425692.2012.686895)
 **作者**: Dyke, Martin; Johnston, Brenda; Fuller, Alison
-**摘要**: （暂无）
+**摘要**: This paper provides a critical appraisal of approaches to reflexivity in sociology. It uses data from social network research to argue that Archer’s approach to reflexivity provides a valuable lens with which to understand how people navigate their education and career pathways.…
 
 ### Editorial Board
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.730809](https://doi.org/10.1080/01425692.2012.730809)
@@ -2394,22 +2394,22 @@
 ### Critical dispositions: evidence and expertise in education, by Greg Dimitriadis, New York, Routledge, 2012, 144 pp., $44.95 (paperback), ISBN 978-0-41-588565-2
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.746258](https://doi.org/10.1080/01425692.2012.746258)
 **作者**: Reynolds, David; Delamont, Sara; Thrupp, Martin 等4人
-**摘要**: （暂无）
+**摘要**: This article reviews the book “Critical dispositions: Evidence and expertise in education” edited by Greg Dimitriadis.
 
 ### Educational achievement in selective and comprehensive local education authorities: a configurational analysis
 **年份**: 2012 | **DOI**: [10.1080/01425692.2011.649833](https://doi.org/10.1080/01425692.2011.649833)
 **作者**: Glaesser, Judith; Cooper, Barry
-**摘要**: （暂无）
+**摘要**: Selective and comprehensive school systems vary in both the degree and timing of selection. To study the consequences of such variation, cross-national comparisons are usually undertaken.…
 
 ### Using Bourdieu’s concept of doxa to illuminate classed practices in an English fee-paying school
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.662823](https://doi.org/10.1080/01425692.2012.662823)
 **作者**: Davey, Gayna
-**摘要**: （暂无）
+**摘要**: Especially in research on the ‘classed practice’ of educational decision-making, it is striking how the Bourdieuian concepts of habitus and capital have dominated. With a tendency to focus on the middle-classes’ ability to accumulate and deploy cultural capital, less attention has been given to the …
 
 ### ‘Trying to find the extra choices’: migrant parents and secondary school choice in Greater Manchester
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.632865](https://doi.org/10.1080/01425692.2012.632865)
 **作者**: Byrne, Bridget; De Tona, Carla
-**摘要**: （暂无）
+**摘要**: This article, based on qualitative research in Greater Manchester, examines the experience of migrants in navigating the education system, and in particular in choosing secondary schools for their children.…
 
 ### Assessing the public university
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.746260](https://doi.org/10.1080/01425692.2012.746260)
@@ -2419,122 +2419,122 @@
 ### Teachers and students' divergent perceptions of student engagement: recognition of school or workplace goals
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.674811](https://doi.org/10.1080/01425692.2012.674811)
 **作者**: Jonasson, Charlotte
-**摘要**: （暂无）
+**摘要**: In extant research, the concept of student engagement refers to individual behavioural patterns and traits. Recent research indicates that engagement not only should be related to the individual but also should be anchored in the social context.…
 
 ### Higher education and feminism in the Arab Gulf
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.699274](https://doi.org/10.1080/01425692.2012.699274)
 **作者**: Findlow, Sally
-**摘要**: （暂无）
+**摘要**: This article explores how higher education is being conceptualized as part of a neo-liberal ‘feminist’ social change project in the post-imperial context of the Arab Gulf. Challenging the tendency to essentialised treatments of gender and women in Muslim countries, it makes visible the diverse exper…
 
 ### ‘Getting on’ rather than ‘getting by’: ethnicity, class and ‘success against the odds’
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.632873](https://doi.org/10.1080/01425692.2012.632873)
 **作者**: Shain, Farzana
-**摘要**: （暂无）
+**摘要**: by T. Sewell, Stoke-on-Trent, Trentham, 2009, 152 pp., £18.99 (paperback) ISBN 978-1-85-856368-8 by C. Wright, P. Standen and T. Patel, London, Routledge, 2010, 163 pp., £23.99 (paperback) ISBN 978...
 
 ### Comparing special education
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.664912](https://doi.org/10.1080/01425692.2012.664912)
 **作者**: Tomlinson, Sally
-**摘要**: （暂无）
+**摘要**: Comparing special education: origins to contemporary paradoxes, by John G. Richardson and Justin J.W. Powell, Stanford, CA, Stanford University Press, 2011, 360 pp., £52.00 (hardback), ISBN 978-0-8...
 
 ### Globalizing education, educating the local: how method made us mad
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.664909](https://doi.org/10.1080/01425692.2012.664909)
 **作者**: Edwards, Richard; Carney, Stephen; Ambrosius, Ulla 等4人
-**摘要**: （暂无）
+**摘要**: Book review of 'Globalizing education, educating the local: how method made us mad', by Ian Stronach, London, Routledge, 2010, 240 pp.,
 
 ### Inclusive education, exclusion and difficult difference: a call for humanity?
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.664915](https://doi.org/10.1080/01425692.2012.664915)
 **作者**: Rogers, Chrissie
-**摘要**: （暂无）
+**摘要**: The irregular school: exclusion, schooling and inclusive education, by Roger Slee, Abingdon, Routledge, 2011, 219 pp., £25.99 (paperback), £80.00 (hardback), ISBN 978-0-415-47989-9 (paperback), ISB...
 
 ### Mapping the educational work of governesses on Australia’s remote stations
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.736188](https://doi.org/10.1080/01425692.2012.736188)
 **作者**: Newman, Sally
-**摘要**: （暂无）
+**摘要**: This article is about the educational work of governesses on Australia's remote cattle and sheep stations. These stations occupy vast tracts of land in the outback, and form part of global food supply chains exporting meat to countries around the world.…
 
 ### Pupil mortification: digital photography and identity construction in classroom assessment
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.686894](https://doi.org/10.1080/01425692.2012.686894)
 **作者**: Crossouard, Barbara
-**摘要**: （暂无）
+**摘要**: Cultural theorists have illuminated how photographic images contribute to autobiographical remembering and identity formation. This has new significance given that digital photography now allows personal images to circulate rapidly amongst peer groups.…
 
 ### University ranking as social exclusion
 **年份**: 2012 | **DOI**: [10.1080/01425692.2011.649835](https://doi.org/10.1080/01425692.2011.649835)
 **作者**: Amsler, Sarah S.; Bolsmann, Chris
-**摘要**: （暂无）
+**摘要**: In this article we explore the dual role of global university rankings in the creation of a new, knowledge-identified, transnational capitalist class and in facilitating new forms of social exclusion.…
 
 ### Islam, education and inclusion: towards a social justice agenda?
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.704716](https://doi.org/10.1080/01425692.2012.704716)
 **作者**: Bhopal, Kalwant
-**摘要**: （暂无）
+**摘要**: Click to increase image sizeClick to decrease image size Notes 1. See the Muslim Council of Britain website: http://www.mcb.org.uk.
 
 ### Gender, race, and the politics of role modelling: the influence of male teachers
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.717821](https://doi.org/10.1080/01425692.2012.717821)
 **作者**: Wright, Cecile; Callender, Christine
-**摘要**: （暂无）
+**摘要**: by Wayne Martino and Goli Rezsai-Rashti, New York, Routledge, 2011, 274 pp., £80.00 (hardback), ISBN 978-0-41-587866-1, e-book ISBN 978-0-20-313873-1 The call for more male teachers in order to sol...
 
 ### ‘Hot’, ‘cold’ and ‘warm’ information and higher education decision-making
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.741803](https://doi.org/10.1080/01425692.2012.741803)
 **作者**: Slack, K.; Mangan, J.; Hughes, A. 等4人
-**摘要**: （暂无）
+**摘要**: This paper draws on the notions of ‘hot’ and ‘cold’ knowledge in analysing the responses of students to the relevance of different information and sources of such information in university choice.…
 
 ### Education, professionalism and the quest for accountability: hitting the target but missing the point
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.682786](https://doi.org/10.1080/01425692.2012.682786)
 **作者**: Power, Michael
-**摘要**: （暂无）
+**摘要**: , by Jane Green, London, Routledge, 2011, 268 pp., £85.00, ISBN 978-0-41-587925-5. Critics of the control of public services via performance targets and audits are not hard to find, both at the lev...
 
 ### Making ‘space’: young people put at a disadvantage re-engaging with learning
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.744735](https://doi.org/10.1080/01425692.2012.744735)
 **作者**: Smyth, John; McInerney, Peter
-**摘要**: （暂无）
+**摘要**: Young people who disengage or disconnect from school are often demonised within the media and the wider public imagination, from a largely individualized and pathological positioning.…
 
 ### Work and leisure in higher education
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.632869](https://doi.org/10.1080/01425692.2012.632869)
 **作者**: Harris, David
-**摘要**: （暂无）
+**摘要**: Higher education is commonly described as offering combinations of work and leisure, but the implied relationship is often limited. Different conceptions of leisure, especially leisure as pleasurable experience, raise new possibilities for seeing academic activity itself as leisure in several import…
 
 ### ‘There was never really any question of anything else': young people's agency, institutional habitus and the transition to higher education
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.632867](https://doi.org/10.1080/01425692.2012.632867)
 **作者**: Smyth, Emer; Banks, Joanne
-**摘要**: （暂无）
+**摘要**: International research into educational decision-making has been extensive, focusing on the way in which young people and their families assess the different options open to them. However, to what extent can we assume that different groups of young people have equal access to the information needed …
 
 ### Confirming the legitimacy of female participation in science, technology, engineering and mathematics (STEM): evaluation of a UK STEM initiative for girls
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.678751](https://doi.org/10.1080/01425692.2012.678751)
 **作者**: Watermeyer, Richard
-**摘要**: （暂无）
+**摘要**: This paper offers a study of a Saturday science-activity club for young secondary school aged girls, in Cardiff, UK. It provides a critical analysis of interactions between group participants and their mentors in building an equitable and experiential learning zone for the promotion of science, tech…
 
 ### Organizational rhetoric in the prospectuses of elite private schools: unpacking strategies of persuasion
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.632864](https://doi.org/10.1080/01425692.2012.632864)
 **作者**: McDonald, Paula; Pini, Barbara; Mayes, Robyn
-**摘要**: （暂无）
+**摘要**: The way in which private schools use rhetoric in their communications offers important insights into how these organizational sites persuade audiences and leverage marketplace advantage in the context of contemporary educational platforms.…
 
 ### Unfinished business: re-positioning gender on the education equity agenda
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.746261](https://doi.org/10.1080/01425692.2012.746261)
 **作者**: Gill, Judith; Tranter, Deborah
-**摘要**: （暂无）
+**摘要**: The long-standing relationship between social disadvantage and poor educational outcomes continues to preoccupy educational policy-makers, with teachers at the front line of the ongoing struggle.…
 
 ### Exploring the heterogeneity of class in higher education: social and cultural differentiation in Danish university programmes
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.659458](https://doi.org/10.1080/01425692.2012.659458)
 **作者**: Thomsen, Jens Peter
-**摘要**: （暂无）
+**摘要**: This paper examines the relationship between social background, choice of university programme and academic culture among Danish university students. Statistically and sociologically, university students are often treated as a homogeneous group, but the ever-increasing number of students in higher e…
 
 ### Is there any chance to get ahead? Education aspirations and expectations of migrant families in China
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.678755](https://doi.org/10.1080/01425692.2012.678755)
 **作者**: Koo, Anita
-**摘要**: （暂无）
+**摘要**: In China, there is a growing group of 'migrant children', who reside in the city but do not have full rights to access education. Many have been granted a chance to study in public schools after the policy change, but they continue to have lower educational outcomes than the local students.…
 
 ### Education policy and the ‘ideal learner’: producing recognisable learner-subjects through early years assessment
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.692049](https://doi.org/10.1080/01425692.2012.692049)
 **作者**: Bradbury, Alice
-**摘要**: （暂无）
+**摘要**: This article examines how education policy, in the form of a statutory assessment system used in the first year of primary schools, defines the ‘ideal learner’. This ideal model is important because it prescribes the characteristics and skills a child needs to display in order to be recognisable as …
 
 ### The new political economy of urban education: neoliberalism, race and the right to the city, by P. Lipman, New York, Routledge, 2011, 208 pp., £21.99, ISBN 9-780-0-415-80223-6
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.704714](https://doi.org/10.1080/01425692.2012.704714)
 **作者**: Gulson, Kalervo N.
-**摘要**: （暂无）
+**摘要**: Click to increase image sizeClick to decrease image size Notes 1. Thank you to Tom Pedroni for this phrasing.
 
 ### Playing under surveillance: gender, performance and the conduct of the self in a primary school playground
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.659457](https://doi.org/10.1080/01425692.2012.659457)
 **作者**: Richards, Chris
-**摘要**: （暂无）
+**摘要**: This article offers interpretations of play, in a school playground, where adult regulation and surveillance framed its enactment. Children, well aware of being watched, negotiated this through various forms of play, circumscribed by, but also playing with, adult supervision.…
 
 ### White middle class identities and urban schooling
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.649843](https://doi.org/10.1080/01425692.2012.649843)
@@ -2544,17 +2544,17 @@
 ### Discourses of plagiarism: moralist, proceduralist, developmental and inter-textual approaches
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.686897](https://doi.org/10.1080/01425692.2012.686897)
 **作者**: Kaposi, David; Dell, Pippa
-**摘要**: （暂无）
+**摘要**: This paper reconstructs prevalent academic discourses of student plagiarism: moralism, proceduralism, development, and writing/inter-textuality. It approaches the discourses from three aspects: intention, interpretation and the nature of the academic community.…
 
 ### Is interdisciplinarity old news? A disciplined consideration of interdisciplinarity
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.632868](https://doi.org/10.1080/01425692.2012.632868)
 **作者**: Barrett, Brian D.
-**摘要**: （暂无）
+**摘要**: Abstract This paper draws on the theory of Basil Bernstein and on more recent applications of it by Rob Moore, John Beck and Michael Young to respond to recent calls for the replacement of discipline-based university faculties and departments with ‘problem-based’ curricula and programmes of study.…
 
 ### Cultivating the myopic learner: the shared project of high-stakes and low-stakes assessment
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.668832](https://doi.org/10.1080/01425692.2012.668832)
 **作者**: Allen, Ansgar
-**摘要**: （暂无）
+**摘要**: This paper argues that, despite the obvious and important differences between high-stakes and low-stakes assessment, there remain important points in common. These manifest themselves at a sociological level, where each tradition of assessment shares a similar disposition towards power.…
 
 ### Doctoral Theses
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.662350](https://doi.org/10.1080/01425692.2012.662350)
@@ -2563,7 +2563,7 @@
 ### Promoting positive attitudes towards disabled people: definition of, rationale and prospects foranti-disablisteducation
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.692046](https://doi.org/10.1080/01425692.2012.692046)
 **作者**: Beckett, Angharad E.; Buckner, Lisa
-**摘要**: （暂无）
+**摘要**: This article outlines the findings of an Economic and Social Research Council-funded study exploring the role of English state primary schools in promoting positive attitudes towards disabled people. Data emerging from a survey of schools and interviews with teachers are presented.…
 
 ### Doctoral Theses
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.698476](https://doi.org/10.1080/01425692.2012.698476)
@@ -2576,92 +2576,92 @@
 ### Working-class students, habitus, and the development of student roles: a Canadian case study
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.668834](https://doi.org/10.1080/01425692.2012.668834)
 **作者**: Lehmann, Wolfgang
-**摘要**: （暂无）
+**摘要**: Abstract As their numbers at university grow, we need to gain a better understanding of the different ways in which working-class students negotiate their potential outsider status in what is often considered an essential middle-class institution.…
 
 ### A critique of the role of culture in Maori education
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.736184](https://doi.org/10.1080/01425692.2012.736184)
 **作者**: Lourie, Megan; Rata, Elizabeth
-**摘要**: （暂无）
+**摘要**: Educational under-achievement by a section of the Maori population is a persistent problem for New Zealand. This article is a theoretical examination of the practice and consequences of a culture-based curriculum that is promoted as the solution.…
 
 ### ‘Approaching the sacred’: directionality in the relation between curriculum and knowledge structure
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.740802](https://doi.org/10.1080/01425692.2012.740802)
 **作者**: Gamble, Jeanne
-**摘要**: （暂无）
+**摘要**: AbstractIncreasing pressure on all levels of educational provision, whether academic or overtly vocational, to be to 'relevant' and 'useful' prompts consideration of the relation between curriculum and pedagogy in terms of the internal structure of knowledge forms.…
 
 ### Where next for vocational education?
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.649845](https://doi.org/10.1080/01425692.2012.649845)
 **作者**: Keep, Ewart
-**摘要**: （暂无）
+**摘要**: by Alison Wolf, London, Department for Education, 2011, 196 pp. £38.50 (paperback), ISBN 9780108510380 The author of this review begins with a declaration of interest – more than a decade and a hal...
 
 ### Medical students and patient-centred clinical practice: the case for more critical work in medical schools
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.662821](https://doi.org/10.1080/01425692.2012.662821)
 **作者**: Donetto, Sara
-**摘要**: （暂无）
+**摘要**: In the last two decades, undergraduate medical education in the United Kingdom has undergone several important changes. Many of these have revolved around a paradigmatic shift from ‘paternalistic’ to ‘patient-centred’ approaches to healthcare.…
 
 ### Being strategic, being watchful, being determined: Black middle-class parents and schooling
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.668833](https://doi.org/10.1080/01425692.2012.668833)
 **作者**: Vincent, Carol; Rollock, Nicola; Ball, Stephen 等4人
-**摘要**: （暂无）
+**摘要**: This paper reports on qualitative data that focus on the educational strategies of middle-class parents of Black Caribbean heritage. Drawing on Bourdieu's key concepts of habitus, capital and field, our focus is an investigation of the differences that are apparent between respondent parents in thei…
 
 ### Why are teacher recommendations at the transition from primary to secondary education socially biased? A mixed-methods research
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.704720](https://doi.org/10.1080/01425692.2012.704720)
 **作者**: Boone, Simon; Van Houtte, Mieke
-**摘要**: （暂无）
+**摘要**: The consequences of educational differentiation have been at the centre of research in sociology of education during the past decades. Processes of educational allocation have, however, received much less attention.…
 
 ### Bullying and social exclusion anxiety in schools
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.662824](https://doi.org/10.1080/01425692.2012.662824)
 **作者**: Søndergaard, Dorte Marie
-**摘要**: （暂无）
+**摘要**: In this article, I develop a new conceptual framework, a new thinking technology, for understanding the bullying that takes place between children in schools. In addition, I propose a new definition of bullying.…
 
 ### Social exclusion and education inequality: towards an integrated analytical framework for the urban–rural divide in China
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.659455](https://doi.org/10.1080/01425692.2012.659455)
 **作者**: Wang, Li
-**摘要**: （暂无）
+**摘要**: The aim of this paper is to build a capability-based framework, drawing upon the strengths of other approaches, which is applicable to the complexity of the urban–rural divide in education in China. It starts with a brief introduction to the capability approach.…
 
 ### Amartya Sen’s capability approach and social justice in education, edited by M. Walker and E. Unterhalter, Basingstoke, Palgrave Macmillan, 2010, 292 pp., £19.99, ISBN 978-0-23-010459-4
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.682785](https://doi.org/10.1080/01425692.2012.682785)
 **作者**: Hart, Caroline Sarojini; Sarangapani, Padma M.; Lowe, John
-**摘要**: （暂无）
+**摘要**: Click to increase image sizeClick to decrease image size Notes 1. See Lessman, Otto, and Zielger (Citation2011) and Hart (Citation2012) for further reading on education, social justice and the CA. 2. HDCA website: www.capabilityapproach.com.…
 
 ### Virtualization and new geographies of knowledge in higher education: possibilities for the transformation of knowledge, pedagogic relations and learner identities
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.578441](https://doi.org/10.1080/01425692.2011.578441)
 **作者**: Taylor, Carol A.; Dunne, Máiréad
-**摘要**: （暂无）
+**摘要**: his article considers some of the ways in which the transformative power of Web 2.0 digital technology is reconfiguring learning, knowl- edge and academic identities in the contemporary university.…
 
 ### Do women publish fewer journal articles than men? Sex differences in publication productivity in the social sciences
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.596387](https://doi.org/10.1080/01425692.2011.596387)
 **作者**: Schucan Bird, Karen
-**摘要**: （暂无）
+**摘要**: This paper examines whether women and men publish journal articles at a level comparable with their representation within the social sciences. The paper also explores sex differences in patterns of single authorship and co-authorship.…
 
 ### The contributions of Bernstein’s sociology to education development research
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.578436](https://doi.org/10.1080/01425692.2011.578436)
 **作者**: Sriprakash, Arathi
-**摘要**: （暂无）
+**摘要**: Global and national agendas to improve the ‘quality’ of Education For All have brought focus to pedagogic processes in developing country contexts. How can development research pay attention to the social and political significance of pedagogical projects and understand the micro-processes of classr…
 
 ### Teachers' memories of disciplinary control strategies from their own school days
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.532585](https://doi.org/10.1080/01425692.2011.532585)
 **作者**: DePalma, Renée; Membiela, Pedro; Pazos, Mercedes Suárez
-**摘要**: （暂无）
+**摘要**: This article provides a vision of school disciplinary strategies as provided by childhood school memories of practicing or unemployed teachers. This narrative approach allows us to understand the school and its daily routines and rituals from an insiders' point of view, drawing upon the double persp…
 
 ### ‘Education makes you have more say in the way your life goes’: Indian women and arranged marriages in the United Kingdom
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.559342](https://doi.org/10.1080/01425692.2011.559342)
 **作者**: Bhopal, Kalwant
-**摘要**: （暂无）
+**摘要**: This paper explores Indian women’s views on arranged marriages in the United Kingdom. It is based on research carried out with 32 Indian women studying at a university in the South East of England, UK.…
 
 ### The global auction: the broken promises of education, jobs and incomes
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.547312](https://doi.org/10.1080/01425692.2011.547312)
 **作者**: Robertson, Susan L.; Weis, Lois; Rizvi, Fazal
-**摘要**: （暂无）
+**摘要**: Click to increase image sizeClick to decrease image size Notes 1. This section draws from Adam Gamoran (2008 Gamoran, A. 2008. “Persisting social class inequality in U.S. education”. In The way class works: Readings on school, family and the economy, Edited by: Weis, L. New York: Routledge.…
 
 ### A sociology of truth?
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.559346](https://doi.org/10.1080/01425692.2011.559346)
 **作者**: Hammersley, Martyn
-**摘要**: （暂无）
+**摘要**: Click to increase image sizeClick to decrease image size Notes 1. Though there needs to be some care regarding exactly what is being accepted and rejected here, as is made clear by Bloor's most recent defence of relativism (see Bloor 2007 Bloor, D. 2007.…
 
 ### Ideal knowing: logics of knowledge in primary school curricula
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.596368](https://doi.org/10.1080/01425692.2011.596368)
 **作者**: Macknight, Vicki
-**摘要**: （暂无）
+**摘要**: This paper is written to draw attention to the ideal knower and the logic of knowledge embedded in curricula. New logics and new knowers, I argue, are conjured with the hope they will be capable of succeeding in curriculum designers’ imagined future.…
 
 ### Corrigendum
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.582679](https://doi.org/10.1080/01425692.2011.582679)
@@ -2670,7 +2670,7 @@
 ### Enriching intimacy: the role of the emotional in the ‘resourcing’ of middle‐class children
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.559340](https://doi.org/10.1080/01425692.2011.559340)
 **作者**: Stefansen, Kari; Aarseth, Helene
-**摘要**: （暂无）
+**摘要**: This paper analyses qualitative interviews conducted with Norwegian middle‐class parents. It explores how a particular type of intimacy – an enriching intimacy – is produced as part of everyday parent–child interactions and considers the notion of the social self that spurs middle‐class parents to s…
 
 ### Doctoral theses
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.527717](https://doi.org/10.1080/01425692.2011.527717)
@@ -2683,7 +2683,7 @@
 ### Re‐asserting the place of context in explaining student (under‐)achievement
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.547309](https://doi.org/10.1080/01425692.2011.547309)
 **作者**: Mills, Carmen; Gale, Trevor
-**摘要**: （暂无）
+**摘要**: One popular view of student achievement is that the quality of teaching students receive plays an important part in whether or not they do well at school. In this article we draw attention to 'context' as a complementary explanation, particularly regarding achievement differences between students fr…
 
 ### Faith in schools: religion, education and American evangelicals in East Africa
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.596391](https://doi.org/10.1080/01425692.2011.596391)
@@ -2693,7 +2693,7 @@
 ### Spaces of possibility in pre-service teacher education
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.614745](https://doi.org/10.1080/01425692.2011.614745)
 **作者**: Ryan, Mary
-**摘要**: （暂无）
+**摘要**: Pre-service teacher education is a spatialised enterprise. It operates across a number of spaces that may or may not be linked ideologically and/or physically. These spaces can include daily practices, locations, infrastructure, relationships and representations of power and ideology.…
 
 ### Social class, families and the politics of educational advantage: the work of Dennis Marsden
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.614755](https://doi.org/10.1080/01425692.2011.614755)
@@ -2707,27 +2707,27 @@
 ### Educational commodification and the (economic) sign value of learning outcomes
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.578435](https://doi.org/10.1080/01425692.2011.578435)
 **作者**: Brancaleone, David; O’Brien, Stephen
-**摘要**: （暂无）
+**摘要**: Abstract If managerialism points to the ideological foundations and bureaucratisation of contemporary education, marketisation signals its commodification, image and exchange. This paper brings to bear the prevailing influence of marketisation on education.…
 
 ### The business of childhood
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.578444](https://doi.org/10.1080/01425692.2011.578444)
 **作者**: Kehily, Mary Jane
-**摘要**: （暂无）
+**摘要**: by S. Welch and P. Jones, London, Continuum, 2010, 194 pp., £19.99 (paperback), ISBN 978-1-84706-324-3. by P. Croll, G. Attwood, and C. Fuller, London, Continuum, 2010, 191 pp., £70.00 (hardback), ...
 
 ### Education policy, space and the city: markets and the (in)visibility of race
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.596388](https://doi.org/10.1080/01425692.2011.596388)
 **作者**: Taylor, Chris; McLeod, Julie; Butler, Tim 等4人
-**摘要**: （暂无）
+**摘要**: Click to increase image sizeClick to decrease image size Notes 1. This is my emphasis. Gulson appears to prefer to avoid the notion of determinism in his discussion. 2. Incidentally, Gulson highlights the political use of measurement or demography as an illustration of the technologies of government…
 
 ### Primary and secondary effects in the explanation of disadvantage in education: the children of immigrant families in France
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.559341](https://doi.org/10.1080/01425692.2011.559341)
 **作者**: Boado, Hector Cebolla
-**摘要**: （暂无）
+**摘要**: This paper explores the prospective transition of immigrant and native students in France from lower to upper secondary school. Because they are more likely to be tracked to less prestigious (vocational) tracks, immigrant and immigrant‐origin students are significantly disadvantaged at this key acad…
 
 ### From learning to labour to learning for marginality: school segregation and marginalization in Swedish suburbs
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.547310](https://doi.org/10.1080/01425692.2011.547310)
 **作者**: Beach, Dennis; Sernhede, Ove
-**摘要**: （暂无）
+**摘要**: In this article, using data from ethnographic research, we try to present some glimpses of the way education is described as an experience and possibility ‘from below’, by pupils who grow up and study in schools in the most segregated and territorially stigmatized suburbs on the outskirts of our maj…
 
 ### Doctoral Theses
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.596394](https://doi.org/10.1080/01425692.2011.596394)
@@ -2736,92 +2736,92 @@
 ### The ordinary school – what is it?
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.527718](https://doi.org/10.1080/01425692.2011.527718)
 **作者**: Maguire, Meg; Perryman, Jane; Ball, Stephen 等4人
-**摘要**: （暂无）
+**摘要**: In this paper we describe some of the complexities involved in the construction of a sample of ‘ordinary’ schools. We outline the policy context in England that produces pressures to resist ‘ordinariness’.…
 
 ### Distancing to self‐protect: the perpetuation of inequality in higher education through socio‐relational dis/engagement
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.559343](https://doi.org/10.1080/01425692.2011.559343)
 **作者**: Keane, Elaine
-**摘要**: （暂无）
+**摘要**: This paper explores the social class‐differentiated behaviours of access and traditional‐entry students, based on a three‐year constructivist grounded theory study with 45 undergraduates at an Irish university.…
 
 ### Mothering and intellectual disability: partnership rhetoric?
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.578438](https://doi.org/10.1080/01425692.2011.578438)
 **作者**: Rogers, Chrissie
-**摘要**: （暂无）
+**摘要**: This paper is about mothering an intellectually disabled child identified with special educational needs. It specifically looks at the parent partnership rhetoric that has dominated UK government policy and directives for nearly three decades and yet research suggests parents and more often mothers …
 
 ### The moral dimension of class and gender identity-making: poverty and aggression in a secondary school in the city of Buenos Aires
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.614737](https://doi.org/10.1080/01425692.2011.614737)
 **作者**: Meo, Analía Inés
-**摘要**: （暂无）
+**摘要**: This paper presents some results of a qualitative study carried out in a secondary school in the city of Buenos Aires (Argentina). It examines how two students from poor families responded to, and viewed, aggression by peers at their school.…
 
 ### An organic view of students’ want formation: pragmatic rationality, habitus and reflexivity
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.578440](https://doi.org/10.1080/01425692.2011.578440)
 **作者**: Daoud, Adel; Puaca, Goran
-**摘要**: （暂无）
+**摘要**: Based on interviews with and questionnaires completed by upper secondary school pupils (n = 27) from academic and vocational programmes, respectively, the present paper focuses on some of the social and individual conditions that precede the individual decision-making process in education transition…
 
 ### ‘Capitalizing on sport’: sport, physical education and multiple capitals in Scottish independent schools
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.614739](https://doi.org/10.1080/01425692.2011.614739)
 **作者**: Horne, John; Lingard, Bob; Weiner, Gaby 等4人
-**摘要**: （暂无）
+**摘要**: This paper draws on a research study into the existence and use of different forms of capital – including social, cultural and physical capital – in three independent schools in Scotland.…
 
 ### Pakistani diaspora in Britain: intersections of multi-locationality and girls’ education
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.596376](https://doi.org/10.1080/01425692.2011.596376)
 **作者**: Shah, Saeeda; Iqbal, Muhammad
-**摘要**: （暂无）
+**摘要**: The South Asian diaspora and its impact on the lives of dispersed communities is a complex phenomenon finding expression in a range of issues and debates. However, the nature and scale of the challenges and issues vary in each case and context, and even over generations.…
 
 ### Education, migration and the ‘failure’ of multiculturalism
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.547314](https://doi.org/10.1080/01425692.2011.547314)
 **作者**: Watters, Charles
-**摘要**: （暂无）
+**摘要**: by N. Finney and L. Simpson, Bristol, The Policy Press, 2009, 218 pp., £15.99 (paperback), ISBN 978‐1847420077 by H. Pinson, M. Arnot and M. Candappa, Basingstoke, Palgrave Macmillan, 2010, 280 pp....
 
 ### Reimagining Critical Theory
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.596363](https://doi.org/10.1080/01425692.2011.596363)
 **作者**: Rexhepi, Jevdet; Torres, Carlos Alberto
-**摘要**: （暂无）
+**摘要**: This paper discusses Critical Theory, a model of theorizing in the field of the political sociology of education. We argue for a reimagined Critical Theory to herald an empowering, liberatory education that fosters curiosity and critical thinking, and a means for successful bottom-up, top-down polit…
 
 ### Gender, popularity and notions of in/authenticity amongst 12‐year‐old to 13‐year‐old school girls
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.547304](https://doi.org/10.1080/01425692.2011.547304)
 **作者**: Read, Barbara; Francis, Becky; Skelton, Christine
-**摘要**: （暂无）
+**摘要**: This paper draws on data from a research project investigating gendered identities and interactions of high‐achieving students in Year Eight in England (12–13 years old), particularly in relation to students’ ‘popularity’ amongst their peers.…
 
 ### The work of mourning in the bilingual schools of Israel: ambivalent emotions and the risks of seeking mutual respect and understanding
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.578439](https://doi.org/10.1080/01425692.2011.578439)
 **作者**: Zembylas, Michalinos; Bekerman, Zvi
-**摘要**: （暂无）
+**摘要**: Abstract This article presents an in-depth analysis of two commemoration events in a first-grade classroom of a bilingual school in Israel. The two events presented – the commemorations of the Holocaust Day and the Memorial Day – derive from a longitudinal ethnographic study of integrated bilingual …
 
 ### Aspiration for global cultural capital in the stratified realm of global higher education: why do Korean students go to US graduate schools?
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.527725](https://doi.org/10.1080/01425692.2011.527725)
 **作者**: Kim, Jongyoung
-**摘要**: （暂无）
+**摘要**: This study aims to understand Korean students’ motivations for studying in US graduate schools. For this purpose, I conducted in‐depth interviews with 50 Korean graduate students who were enrolled in a research‐centered US university at the time of the interview.…
 
 ### Urban youth: emergent directions in the field
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.559347](https://doi.org/10.1080/01425692.2011.559347)
 **作者**: Dimitriadis, Greg
-**摘要**: （暂无）
+**摘要**: by L. Archer, S. Hollingworth, and H. Mendick, Maidenhead, Open University Press, 2010, 194 pp., £21.99 (paperback), ISBN 978‐0‐33‐522382‐4 by R. Deuchar, Stoke‐on‐Trent, Trentham Books, 2009, 192 ...
 
 ### Changes in school mathematics knowledge in Greece: a Bernsteinian analysis
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.559339](https://doi.org/10.1080/01425692.2011.559339)
 **作者**: Koustourakis, Gerasimos; Zacharos, Konstantinos
-**摘要**: （暂无）
+**摘要**: The purpose of this paper is to critically examine the changes that took place in school mathematics knowledge for pupils aged six and seven (first grade of Greek elementary school) and its pedagogical approach, which took shape following the reforms of the mathematics curricula in 1982 and 2003.…
 
 ### Schooling, masculinity and class analysis: towards an aesthetic of subjectivities
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.596370](https://doi.org/10.1080/01425692.2011.596370)
 **作者**: Mac an Ghaill, Mairtin; Haywood, Chris
-**摘要**: （暂无）
+**摘要**: The retreat from social class within the sociology of education has been accompanied by the intensification of socio-economic and cultural inequalities. This paper seeks to draw upon cultural analyses of social class by addressing a classificatory shift of white English working-class males, who have…
 
 ### Radical education and the common school: a democratic alternative
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.614751](https://doi.org/10.1080/01425692.2011.614751)
 **作者**: Tannock, Stuart; James, David; Torres, Carlos Alberto
-**摘要**: （暂无）
+**摘要**: Click to increase image sizeClick to decrease image size Notes 1. National Center for Educational Statistics, US Department of Education, Digest of Education Statistics: 2009, NCES 2010-013, April 2010, Table 26. Washington, DC: US Government Printing Office. 2.…
 
 ### Zafar , so good: middle‐class students, school habitus and secondary schooling in the city of Buenos Aires (Argentina)
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.559338](https://doi.org/10.1080/01425692.2011.559338)
 **作者**: Meo, Analía Inés
-**摘要**: （暂无）
+**摘要**: This article examines how students from the loser sections of the middle class dealt with the game of secondary schooling in a good state school in the city of Buenos Aires (Argentina).…
 
 ### Political socialization in the family and young people's educational achievement and ambition
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.527722](https://doi.org/10.1080/01425692.2011.527722)
 **作者**: Lauglo, Jon
-**摘要**: （暂无）
+**摘要**: Using data from a large‐scale survey of Norwegian youth, the study examines the relationships that the performance in key academic subjects and aiming for higher education have with political socialization at home.…
 
 ### Editorial Board
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.618673](https://doi.org/10.1080/01425692.2011.618673)
@@ -2830,57 +2830,57 @@
 ### ‘Walking yourself around as a teacher’: gender and embodiment in student teachers’ working lives
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.547311](https://doi.org/10.1080/01425692.2011.547311)
 **作者**: Braun, Annette
-**摘要**: （暂无）
+**摘要**: This paper considers the psychic and social dynamics reported by student teachers when learning to embody their teacher persona in the secondary school environment. Focusing on gender dimensions of embodiment and drawing on qualitative interview data from a UK study of postgraduate teacher‐training …
 
 ### Cultural capital and agency: connecting critique and curriculum in higher education
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.527723](https://doi.org/10.1080/01425692.2011.527723)
 **作者**: Clegg, Sue
-**摘要**: （暂无）
+**摘要**: This paper explores some of the unresolved tensions in higher education systems and the contradiction between widening participation and the consolidation of social position. It shows how concepts of capital derived from Bourdieu, Coleman and Putnam provide a powerful basis for critique, but risk a …
 
 ### Education and social integration: comprehensive schooling in Europe
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.547313](https://doi.org/10.1080/01425692.2011.547313)
 **作者**: Brine, Jacky
-**摘要**: （暂无）
+**摘要**: by Susanne Wiborg, New York, Palgrave Macmillan, 2009, 256 pp., £57.00 (hardback), ISBN 978‐1‐4039‐8371‐8 Education and Social Integration, part of the Secondary Education in a Changing World serie...
 
 ### The sociology of intellectual life: the career of the mind in and around the academy
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.527727](https://doi.org/10.1080/01425692.2011.527727)
 **作者**: Muller, Johan
-**摘要**: （暂无）
+**摘要**: Click to increase image sizeClick to decrease image size Notes 1. This rather uncannily echoes Julien Benda (2006 Benda, J. 2006. The treason of the intellectuals. New intro. R. Kimball, New Brunswick, NJ: Transaction Publishers. (Orig. pub.…
 
 ### School trouble: identity, power and politics in education
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.614753](https://doi.org/10.1080/01425692.2011.614753)
 **作者**: Allan, Alexandra
-**摘要**: （暂无）
+**摘要**: by Deborah Youdell, London, Routledge, 2010, 163 pp., £24.99 (paperback), £75.00 (hardback), ISBN 978-0-415-47988-2 (paperback), ISBN 978-0-415-47987-5 (hardback) Deborah Youdell’s recent book Scho...
 
 ### Breaking away to find a way: poverty and school failure in a Spanish adolescent life-history
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.596372](https://doi.org/10.1080/01425692.2011.596372)
 **作者**: Calderón-Almendros, I.
-**摘要**: （暂无）
+**摘要**: This article is part of a biographical research study, and explores the social path that an adolescent from a marginal background in Malaga (Spain) has travelled throughout his life.…
 
 ### Reform, inequalities of process and the transformative potential of communities of practice in the pre-school sector of England
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.596366](https://doi.org/10.1080/01425692.2011.596366)
 **作者**: Simpson, Donald
-**摘要**: （暂无）
+**摘要**: The integration of care and education across pre-school sectors of several European countries is currently a key policy priority. In England this necessitates reform aimed at re-modelling a traditionally hierarchical and divided workforce.…
 
 ### From sociological fictions to social fictions: some Bourdieusian reflections on the concepts of ‘institutional habitus’ and ‘family habitus’
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.559337](https://doi.org/10.1080/01425692.2011.559337)
 **作者**: Atkinson, Will
-**摘要**: （暂无）
+**摘要**: This paper expresses serious reservations regarding the increasingly popular Bourdieu‐inspired notions of ‘institutional habitus’ and ‘family habitus’ in education research. Although sympathetic to the overall theoretical approach and persuaded of the veracity and importance of the empirical finding…
 
 ### Understanding education: a sociological perspective
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.527726](https://doi.org/10.1080/01425692.2011.527726)
 **作者**: Balarin, Maria; Moore, Rob; Sultana, Ronald G.
-**摘要**: （暂无）
+**摘要**: by S. Gewirtz and A. Cribb, Cambridge, Polity Press, 2009, 240 pp., £15.99 (paperback), ISBN 978‐0‐74‐563345‐9 In a field like sociology of education, which has tended towards the proliferation rat...
 
 ### Flaunting one's academic pedigree? Self‐presentation of students from elite French schools
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.527719](https://doi.org/10.1080/01425692.2011.527719)
 **作者**: Draelants, Hugues; Darchy‐Koechlin, Brigitte
-**摘要**: （暂无）
+**摘要**: This article starts from the puzzle that although French elite institutions enjoy extremely positive and attractive images, students from these schools generally choose to conceal their academic pedigree in their daily interactions.…
 
 ### Marking-out normalcy and disability in higher education
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.596380](https://doi.org/10.1080/01425692.2011.596380)
 **作者**: Madriaga, Manuel; Hanson, Katie; Kay, Helen 等4人
-**摘要**: （暂无）
+**摘要**: This article advocates for socially just pedagogies in higher education to challenge senses of normalcy that perpetuate elitist academic attitudes towards the inclusion of disabled students.…
 
 ### Doctoral Theses
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.578445](https://doi.org/10.1080/01425692.2011.578445)
@@ -2893,17 +2893,17 @@
 ### Supporting minority students through a reflexive approach to empowerment
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.547307](https://doi.org/10.1080/01425692.2011.547307)
 **作者**: Keddie, Amanda
-**摘要**: （暂无）
+**摘要**: Referring to the experiences of three Muslim refugee girls recently settled in Australia, this paper examines issues of schooling and empowerment. The paper draws on teacher and student interview data from a study that investigated inclusive approaches to addressing issues of cultural diversity in a…
 
 ### Where words collide: social class, schools and linguistic discontinuity
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.578437](https://doi.org/10.1080/01425692.2011.578437)
 **作者**: Mac Ruairc, Gerry
-**摘要**: （暂无）
+**摘要**: The prestige accorded to standard language varieties, particularly within the field of education, together with language management role of schools with respect to the variety and the extent to which linguistic differences construct discontinuous relationships between the school and specific social …
 
 ### Social and emotional pedagogies: critiquing the new orthodoxy of emotion in classroom behaviour management
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.547305](https://doi.org/10.1080/01425692.2011.547305)
 **作者**: Gillies, Val
-**摘要**: （暂无）
+**摘要**: This paper examines new structured attempts to address and manage emotions in the classroom. Critical analysis focuses on the broad emotional literacy agenda operating within schools, and more specifically the Social and Emotional Aspects of Learning (SEAL) programme.…
 
 ### Producing knowledge and (de)constructing identities: a critical commentary on environmental education and its research
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.527729](https://doi.org/10.1080/01425692.2011.527729)
@@ -2913,12 +2913,12 @@
 ### Dress rehearsal: a Bourdieusian analysis of body work in career portfolio programs
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.596378](https://doi.org/10.1080/01425692.2011.596378)
 **作者**: Collin, Ross
-**摘要**: （暂无）
+**摘要**: This article examines how career portfolio programs at two secondary schools establish corporeal regimes. Both programs require students to compose portfolios that plot their trajectories through school and into paid work.…
 
 ### Schools and disadvantage
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.596393](https://doi.org/10.1080/01425692.2011.596393)
 **作者**: Smith, Emma
-**摘要**: （暂无）
+**摘要**: by Elizabeth Leo, David Galloway and Phi Hearne, Bristol, Multilingual Matters, 2010, 240 pp., £55.96, ISBN 978-1847693150 by Trevor Gale, Robert Hattam, Barbara Comber, Deborah Tranter, Dianne Bil...
 
 ### &gt;Islam in the school curriculum: symbolic pedagogy and cultural claims
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.578443](https://doi.org/10.1080/01425692.2011.578443)
@@ -2928,22 +2928,22 @@
 ### The fourth way: the inspiring future for educational change
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.578442](https://doi.org/10.1080/01425692.2011.578442)
 **作者**: Cuthbert, Rob; Jary, David; Lebeau, Yann 等4人
-**摘要**: （暂无）
+**摘要**: Click to increase image sizeClick to decrease image size Notes 1. See the Department for Education White Paper (2010, 46) for comments on the value of the OECD’s PISA to ‘understand the standard of our children’s attainment’ and (2010, 67) for more references to OECD in support of formal external as…
 
 ### Imaginary subjects: school science, indigenous students, and knowledge–power relations
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.547306](https://doi.org/10.1080/01425692.2011.547306)
 **作者**: Kidman, Joanna; Abrams, Eleanor; McRae, Hiria
-**摘要**: （暂无）
+**摘要**: The perspectives of indigenous science learners in developed nations offer an important but frequently overlooked dimension to debates about the nature of science, the science curriculum, and calls from educators to make school science more culturally responsive or ‘relevant’ to students from indige…
 
 ### Engaging science policy: from the side of the messy
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.559345](https://doi.org/10.1080/01425692.2011.559345)
 **作者**: Yates, Lyn; Connolly, Paul; Torrance, Harry
-**摘要**: （暂无）
+**摘要**: by Patti Lather, New York, Peter Lang Publishers, 2010, 128 pp., US$ 89.95 (hardback), US$ 22.95 (paperback), ISBN 978‐1‐43‐310328‐5 (hardback), 978‐1‐43‐310329‐2 (paperback) Patti Lather has been ...
 
 ### The potential determinants of young people's sense of justice: an international study
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.527721](https://doi.org/10.1080/01425692.2011.527721)
 **作者**: Gorard, Stephen
-**摘要**: （暂无）
+**摘要**: This paper uses reports from 13,000 Grade Nine pupils in five countries to examine issues such as whether they were treated fairly at school, trust their teachers and adults in wider society, are willing to sacrifice teacher attention to help others, and support the cultural integration of recent im…
 
 ### Doctoral theses
 **年份**: 2010 | **DOI**: [10.1080/01425690903538927](https://doi.org/10.1080/01425690903538927)
@@ -2952,37 +2952,37 @@
 ### Seeing epistemic order: construction and transmission of evaluative criteria
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.515106](https://doi.org/10.1080/01425692.2010.515106)
 **作者**: Shalem, Yael; Slonimsky, Lynne
-**摘要**: （暂无）
+**摘要**: This paper focuses on formative assessment in the field of higher education. It examines Bernstein’s work on vertical discourses and knowledge structures with the view to deepening understanding of the concept of assessment for learning.…
 
 ### The sociology of disability and the struggle for inclusive education
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.500093](https://doi.org/10.1080/01425692.2010.500093)
 **作者**: Allan, Julie
-**摘要**: （暂无）
+**摘要**: This article charts the emergence of the sociology of disability and examines the areas of contestation. These have involved a series of erasures and absences – the removal of the body from debates on the social model of disability; the disappearance of the Other from educational policies and practi…
 
 ### Accidental achievers? International higher education, class reproduction and privilege in the experiences of UK students overseas
 **年份**: 2010 | **DOI**: [10.1080/01425690903539164](https://doi.org/10.1080/01425690903539164)
 **作者**: Waters, Johanna; Brooks, Rachel
-**摘要**: （暂无）
+**摘要**: Abstract To date, scholarship on international students has generally focused on flows from non‐western economies to the main English‐speaking destination countries (such as the United States, the United Kingdom and Australia).…
 
 ### Children, their world, their education: final report and recommendations of the Cambridge Primary Review
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.515116](https://doi.org/10.1080/01425692.2010.515116)
 **作者**: Devine, Dympna; David, Miriam E.; Menter, Ian
-**摘要**: （暂无）
+**摘要**: edited by Robin Alexander, London, Routledge, 2009, 592 pp., £95.00 (hardback), £35.00 (paperback), ISBN 978‐0‐415‐54870‐0 (hardback), ISBN 978‐0‐41‐554871‐7 (paperback) This publication provides n...
 
 ### The heterodoxy of student voice: challenges to identity in the sociology of disability and education
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.500092](https://doi.org/10.1080/01425692.2010.500092)
 **作者**: Peters, Susan J.
-**摘要**: （暂无）
+**摘要**: This article explores the contributions of students’ voices in order to highlight some issues that have been central to disability studies – issues of identities, and their correlations to power, temporality, inclusivity, and place among the most salient to contemporary theories in the sociology of …
 
 ### A time for the universal right to education: back to basics
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.500094](https://doi.org/10.1080/01425692.2010.500094)
 **作者**: Rioux, Marcia H.; Pinto, Paula C.
-**摘要**: （暂无）
+**摘要**: The participation of children with disabilities in regular schools is too often the prerogative of education boards, who decide whether a child can learn within existing educational environments, rather than pressuring for systemic change and organization in school curricula that would grant the rig…
 
 ### Disability studies, disabled people and the struggle for inclusion
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.500088](https://doi.org/10.1080/01425692.2010.500088)
 **作者**: Oliver, Mike; Barnes, Colin
-**摘要**: （暂无）
+**摘要**: This paper traces the relationship between the emergence of disability studies and the struggle for meaningful inclusion for disabled people with particular reference to the work of a pivotal figure in these developments: Len Barton.…
 
 ### Doctoral Theses
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.515101](https://doi.org/10.1080/01425692.2010.515101)
@@ -2995,37 +2995,37 @@
 ### Yaffa: a school of their choice?
 **年份**: 2010 | **DOI**: [10.1080/01425690903539099](https://doi.org/10.1080/01425690903539099)
 **作者**: Levy, Gal; Massalha, Mohammad
-**摘要**: （暂无）
+**摘要**: This article is a product of in‐depth research in Yaffa, The Arab Democratic School that was carried out in 2004/05, as part of a study on alternative Arab education in Israel. Its aim, beyond telling the story of Yaffa, is to explicate the motivations that underlay this initiative, and to examine p…
 
 ### The sociology of disability and education
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.500086](https://doi.org/10.1080/01425692.2010.500086)
 **作者**: Arnot, Madeleine; Brown, Philip; Coffey, Amanda 等10人
-**摘要**: （暂无）
+**摘要**: Click to increase image sizeClick to decrease image size Notes 1. Ivan Reid, in his paper ‘Past and Present Trends in the Sociology of Education’ presented at the 1977 Westhill conference, noted ‘there was not even a British journal for the subject’. 2. M. Archer, G. Bernbaum, B. Bernstein, M.…
 
 ### ‘Go, go on and go higher an’ higher’. Second‐generation Turks’ understanding of the role of education and their struggle through the Dutch school system
 **年份**: 2010 | **DOI**: [10.1080/01425690903385451](https://doi.org/10.1080/01425690903385451)
 **作者**: Pásztor, Adél
-**摘要**: （暂无）
+**摘要**: With reference to capital theories and rational choice theory, this paper aims to understand how abilities and schooling ambitions are intertwined with social class, gender and ethnicity.…
 
 ### ‘We raised it with the Head’: the educational practices of minority ethnic, middle‐class families
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.484921](https://doi.org/10.1080/01425692.2010.484921)
 **作者**: Archer, Louise
-**摘要**: （暂无）
+**摘要**: This paper discusses findings from a small‐scale empirical exploration of the views, experiences and educational practices of middle‐class minority ethnic families in the United Kingdom. It draws on semi‐structured interviews conducted with 36 parents, pupils and ‘young professionals’.…
 
 ### ‘Weare the professionals’: a study of teachers’ views on parental involvement in school
 **年份**: 2010 | **DOI**: [10.1080/01425691003700565](https://doi.org/10.1080/01425691003700565)
 **作者**: Bæck, Unn‐Doris Karlsen
-**摘要**: （暂无）
+**摘要**: Abstract The study examines teachers' attitudes and experiences regarding home–school cooperation. Teachers constitute a powerful group in school compared with parents, and this relationship is interpreted through Bourdieu's concept of social field, as a power relation.…
 
 ### Beyond a battery hen model?: a computer laboratory, micropolitics and educational change
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.484920](https://doi.org/10.1080/01425692.2010.484920)
 **作者**: Grieshaber, Susan
-**摘要**: （暂无）
+**摘要**: This paper investigates what happened in one Australian primary school as part of the establishment, use and development of a computer laboratory over a period of two years. As part of a school renewal project, the computer laboratory was introduced as an ‘innovative’ way to improve the skills of te…
 
 ### Young people, social capital and network‐based educational decision‐making
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.484918](https://doi.org/10.1080/01425692.2010.484918)
 **作者**: Heath, Sue; Fuller, Alison; Johnston, Brenda
-**摘要**: （暂无）
+**摘要**: This paper explores whether and in what ways young people's perceptions and experiences of higher education (HE) can facilitate the transmission within their social networks of social capital both upwardly (from child to parent) and horizontally (from sibling to sibling), and thus can potentially pr…
 
 ### Transitions from education to work: new perspectives from Europe and beyond
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.484926](https://doi.org/10.1080/01425692.2010.484926)
@@ -3035,42 +3035,42 @@
 ### The socio‐political significance of changes to the vocational education system in Germany
 **年份**: 2010 | **DOI**: [10.1080/01425690903385519](https://doi.org/10.1080/01425690903385519)
 **作者**: Kupfer, Antonia
-**摘要**: （暂无）
+**摘要**: This paper explores the effects on social inequality in Germany of ongoing changes to the employment system and, thus, vocational education. Results based on an examination of the literature indicate that students from increasingly middle‐class backgrounds with higher levels of general, rather than …
 
 ### Theory and educational research: toward critical social explanation
 **年份**: 2010 | **DOI**: [10.1080/01425690903541236](https://doi.org/10.1080/01425690903541236)
 **作者**: James, David
-**摘要**: （暂无）
+**摘要**: by Jean Anyon with Michael Dumas, Darla Linville, Kathleen Nolan, Madeline Perez, Eve Tuck and Jen Weiss, London, Routledge, 2009, 206 pp., £21.99 (paperback), ISBN 9‐78‐041599‐042‐4 Recently, an e...
 
 ### Kindness in pedagogical practice and academic life
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.515102](https://doi.org/10.1080/01425692.2010.515102)
 **作者**: Clegg, Sue; Rowland, Stephen
-**摘要**: （暂无）
+**摘要**: The paper presents the argument that kindness in teaching is both commonplace yet unremarked and that, moreover, it is subversive of neo‐liberal values. In arguing for the value of attending to kindness, we reject the dichotomy between emotion and reason and the associated gendered binaries.…
 
 ### The effects of type of institution attended on graduate earnings in New Zealand: a cross‐field comparison
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.484924](https://doi.org/10.1080/01425692.2010.484924)
 **作者**: Smyth, Roger; Strathdee, Rob
-**摘要**: （暂无）
+**摘要**: This paper presents research on the returns to tertiary education for individuals who graduated between 1997 and 2008 with bachelor degrees from universities and polytechnics in New Zealand based on their experiences post study.…
 
 ### Parental practices and educational achievement: social class, race, andhabitus
 **年份**: 2010 | **DOI**: [10.1080/01425690903539024](https://doi.org/10.1080/01425690903539024)
 **作者**: Bodovski, Katerina
-**摘要**: （暂无）
+**摘要**: Abstract A large, nationally representative database of American elementary school students was used to quantitatively assess the complex ways in which race intersects with social class, affecting parenting strategies that in turn produce various educational outcomes among children.…
 
 ### Between the estate and the state: struggling to be a ‘good’ mother
 **年份**: 2010 | **DOI**: [10.1080/01425690903538976](https://doi.org/10.1080/01425690903538976)
 **作者**: Vincent, Carol; Ball, Stephen J.; Braun, Annette
-**摘要**: （暂无）
+**摘要**: The paper draws on an ESRC‐funded study of 70 families in two London locations. It focuses on a set of contemporary and contradictory political discourses that work on and through the lives of working‐class mothers and thereby create tensions and impossibilities within their lives.…
 
 ### A sociological approach to educational leadership
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.484927](https://doi.org/10.1080/01425692.2010.484927)
 **作者**: Gunter, Helen
-**摘要**: （暂无）
+**摘要**: Advocacy leadership, by Gary L. Anderson, New York, Routledge, 2009, 213 pp., £24.99 (paperback), ISBN 978‐0‐41‐599428‐6 Radicalizing educational leadership, by Ira Bogotch, Floyd Beachum, Jackie B...
 
 ### Changing pedagogic codes in a class of landscape architects learning ‘ecologically sustainable development’
 **年份**: 2010 | **DOI**: [10.1080/01425690903539149](https://doi.org/10.1080/01425690903539149)
 **作者**: Lawson, G.M.
-**摘要**: （暂无）
+**摘要**: Professional discourse in education has been the focus of research conducted mostly with teachers and professional practitioners but the work of students in the built environment has largely been ignored.…
 
 ### Doctoral theses
 **年份**: 2010 | **DOI**: [10.1080/01425690903385311](https://doi.org/10.1080/01425690903385311)
@@ -3079,7 +3079,7 @@
 ### Liberalism, neoliberalism, social democracy: thin communitarian perspectives on political philosophy and education
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.484925](https://doi.org/10.1080/01425692.2010.484925)
 **作者**: Demaine, Jack; Smith, Penny
-**摘要**: （暂无）
+**摘要**: by Mark Olssen, London, Routledge, 2010, 280 pp., £65.00 (hardback), ISBN 0‐41‐595704‐4 ‘Philosophers have hitherto only interpreted the world in various ways; the point is to change it’. Karl Marx...
 
 ### We blame the parents! A response to ‘Cultural capital as an explanation of variation in participation in higher education’ by John Noble and Peter Davies (British Journal of Sociology of Education30, no. 5)
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.484922](https://doi.org/10.1080/01425692.2010.484922)
@@ -3089,52 +3089,52 @@
 ### Response
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.500095](https://doi.org/10.1080/01425692.2010.500095)
 **作者**: Barton, Len
-**摘要**: （暂无）
+**摘要**: Click to increase image sizeClick to decrease image size Notes 1. Private correspondence from Professor David Gillborn, Institute of Education, University of London. 2. To counter‐balance an overly‐romantic idealised conception of issues relating to disability studies, the disability movement and ot…
 
 ### Success and failure in secondary education: socio‐economic background effects on secondary school outcome in the Netherlands, 1927–1998
 **年份**: 2010 | **DOI**: [10.1080/01425691003700516](https://doi.org/10.1080/01425691003700516)
 **作者**: Tieben, Nicole; Wolbers, Maarten
-**摘要**: （暂无）
+**摘要**: In the Netherlands, educational attainment is the result of a sequence of separate educational transitions. Because of the tracked nature of the Dutch educational system, students do not make binary stay-or-leave-decisions at each transition.…
 
 ### The social experience of early childhood for children with learning disabilities: inclusion, competence and agency
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.515113](https://doi.org/10.1080/01425692.2010.515113)
 **作者**: Nind, Melanie; Flewitt, Rosie; Payler, Jane
-**摘要**: （暂无）
+**摘要**: This paper tells of the social experiences of three four‐year‐old children with learning disabilities as they negotiate their daily lives in their homes and early education settings in England.…
 
 ### Methodological development and enhancing research capacity
 **年份**: 2010 | **DOI**: [10.1080/01425691003700953](https://doi.org/10.1080/01425691003700953)
 **作者**: Coffey, Amanda
-**摘要**: （暂无）
+**摘要**: by Keith Punch, London, Sage, 2009, 380 pp., £22.99 (paperback), £65.00 (hardback), ISBN 9‐78‐184787‐018‐6 (paperback), ISBN 9‐78‐184787‐017‐9 (hardback) by David Silverman, London, Sage, 3rd ed., ...
 
 ### Revisiting the politics of special educational needs and disability studies in education with Len Barton
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.500089](https://doi.org/10.1080/01425692.2010.500089)
 **作者**: Slee, Roger
-**摘要**: （暂无）
+**摘要**: This brief essay celebrates the work of Len Barton. Drawing from a range of his texts, interviews and presentations, the essay attempts to demonstrate the importance of Barton’s work in establishing foundations for the related fields of disability studies in education and inclusive education by reve…
 
 ### School choice in thestratilingualcity of Vancouver
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.528871](https://doi.org/10.1080/01425692.2010.528871)
 **作者**: Yoon, Ee‐Seul; Gulson, Kalervo N.
-**摘要**: （暂无）
+**摘要**: This paper examines the links between language, social difference and political domination in the practices of parental school choice at the heart of a global city, Vancouver. Vancouver is a highly diverse city, especially in terms of language.…
 
 ### Re‐contextualising the re‐contextualisers or pedagogy of the impressed?
 **年份**: 2010 | **DOI**: [10.1080/01425690903385626](https://doi.org/10.1080/01425690903385626)
 **作者**: Green, Anthony
-**摘要**: （暂无）
+**摘要**: Sociology and education: issues in sociology of education, by Natalie Bulle, Bern, Peter Lang, 2008, 310 pp., ISBN 3‐03‐911587‐1 Sociology for educators in the post‐9/11 world, by Edith King with J...
 
 ### Inclusive physical education? A study of the management of national curriculum physical education and unplanned outcomes in England
 **年份**: 2010 | **DOI**: [10.1080/01425691003700532](https://doi.org/10.1080/01425691003700532)
 **作者**: Haycock, David; Smith, Andy
-**摘要**: （暂无）
+**摘要**: One key aspect of the growing policy emphasis on educational inclusion in England has been the tendency for physical education (PE) to be used as an important vehicle of social policy targeted at promoting the inclusion of young disabled people and those with special educational needs in mainstream …
 
 ### Hidden markets: the new education privatization
 **年份**: 2010 | **DOI**: [10.1080/01425690903541228](https://doi.org/10.1080/01425690903541228)
 **作者**: Ball, Stephen J.; Thrupp, Martin; Forsey, Martin
-**摘要**: （暂无）
+**摘要**: by Patricia Burch, New York, Routledge, 2009, 181 pp., £24.99 (paperback), ISBN 9‐78‐041595‐567‐6 Reviewed by Stephen J. Ball, Martin Thrupp and Martin Forsey Privatization is a key feature of glob...
 
 ### Recognising and revealing knowers: an enhanced Bernsteinian analysis of masonic recruitment and apprenticeship
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.515112](https://doi.org/10.1080/01425692.2010.515112)
 **作者**: Poulet, Célia
-**摘要**: （暂无）
+**摘要**: The increasing opening of French freemasonry to lower social classes raises the question of how individuals from different social backgrounds can be assimilated into the practice of context‐independent ways of speaking and writing.…
 
 ### Doctoral theses
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.484915](https://doi.org/10.1080/01425692.2010.484915)
@@ -3147,17 +3147,17 @@
 ### Peer review, Bourdieu and honour: connecting Chinese and Australian intellectual projects
 **年份**: 2010 | **DOI**: [10.1080/01425690903539107](https://doi.org/10.1080/01425690903539107)
 **作者**: Singh, Michael; Han, Jinghe
-**摘要**: （暂无）
+**摘要**: The reviews of papers for refereed journals are rarely a source of exhilaration, only occasionally a pleasure and frequently dispiriting. Using peer reviews of research containing Chinese concepts, this paper explores different ways of thinking about knowledge, its evaluation and transfer.…
 
 ### The bubble of privilege. Young, privately educated women talk about social class
 **年份**: 2010 | **DOI**: [10.1080/01425690903385329](https://doi.org/10.1080/01425690903385329)
 **作者**: Maxwell, Claire; Aggleton, Peter
-**摘要**: （暂无）
+**摘要**: Conceptualisations of the self in relation to others are examined among a group of young women attending a fee‐paying school in England. As part of a larger study exploring intimacy and agency among young women from relatively privileged class backgrounds, 54 young women participated in focus group …
 
 ### The ‘collateral impact’ of pupil behaviour and geographically concentrated socio‐economic disadvantage
 **年份**: 2010 | **DOI**: [10.1080/01425691003700508](https://doi.org/10.1080/01425691003700508)
 **作者**: David, Alex Hugh
-**摘要**: （暂无）
+**摘要**: Schools in areas of concentrated disadvantage tend to have below‐average attainment, but there is no consensus on why. Mental and behavioural disorders in children are correlated with socio‐economic disadvantage.…
 
 ### Youth in a suspect society
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.515118](https://doi.org/10.1080/01425692.2010.515118)
@@ -3167,77 +3167,77 @@
 ### A tribute to Len Barton
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.500087](https://doi.org/10.1080/01425692.2010.500087)
 **作者**: Tomlinson, Sally
-**摘要**: （暂无）
+**摘要**: This article constitutes a short personal tribute to Len Barton in honour of his work and our collegial relationship going back over 30 years. It covers how Len saw his intellectual project of providing critical sociological and political perspectives on special education, disability and inclusion, …
 
 ### Exploring bilingualism in a monolingual school system: insights from Turkish and native students from Belgian schools
 **年份**: 2010 | **DOI**: [10.1080/01425691003700540](https://doi.org/10.1080/01425691003700540)
 **作者**: Agirdag, Orhan
-**摘要**: （暂无）
+**摘要**: A growing body of empirical studies indicates the educational benefits of bilingualism. Despite this tendency, bilingual minority students are being pressured by school authorities to shed their mother tongues.…
 
 ### Analysing teaching–learning interactions in higher education: accounting for structure and agency
 **年份**: 2010 | **DOI**: [10.1080/01425691003700938](https://doi.org/10.1080/01425691003700938)
 **作者**: Thornton, Mary
-**摘要**: （暂无）
+**摘要**: by Paul Ashwin, London, Continuum, 2009, vii + 167 pp., £70.00 (hardback), ISBN 9‐78‐082649‐418‐4 This is a timely and important book. For far too long, research into learning and teaching in highe...
 
 ### Risky choices: the dilemmas of introducing contemporary art practices into schools
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.515110](https://doi.org/10.1080/01425692.2010.515110)
 **作者**: Adams, Jeff
-**摘要**: （暂无）
+**摘要**: Contemporary art is a popular feature of the cultural landscape in the United Kingdom, and recent research has recommended introducing its practices into state education. Yet these practices are still rare in schools, and this paper argues that the many difficulties that arise from attempts to intro…
 
 ### Childhood social status in society and school: implications for the transition to higher levels of education
 **年份**: 2010 | **DOI**: [10.1080/01425690903385352](https://doi.org/10.1080/01425690903385352)
 **作者**: Almquist, Ylva; Modin, Bitte; Östberg, Viveca
-**摘要**: （暂无）
+**摘要**: While research into educational inequalities emphasises childhood socio‐economic status, this study adds another dimension of status into the analysis; namely, the child’s own social position among its peers.…
 
 ### Teachers and the emotional dimensions of class in resource‐affected rural Australia
 **年份**: 2010 | **DOI**: [10.1080/01425690903385345](https://doi.org/10.1080/01425690903385345)
 **作者**: Pini, Barbara; Price, Robin; McDonald, Paula
-**摘要**: （暂无）
+**摘要**: In recent years, a ‘cultural turn’ in the study of class has resulted in a rich body of work detailing the ways in which class advantage and disadvantage are emotionally inscribed and embodied in educational settings. To date, however, much of this literature has focused on the urban sphere.…
 
 ### The use of structuration theory to conceptualize alternative practice in education: the case of private school outreach in India
 **年份**: 2010 | **DOI**: [10.1080/01425691003700599](https://doi.org/10.1080/01425691003700599)
 **作者**: Day Ashley, Laura
-**摘要**: （暂无）
+**摘要**: This paper contributes to arguments for the potential of Giddens’ structuration theory in educational research. It illustrates how ‘conceptual schemes’ from structuration theory were applied to the author’s empirical research on a type of alternative educational practice in India, ‘private school ou…
 
 ### Lessons for higher education: the university as a site of activism
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.500091](https://doi.org/10.1080/01425692.2010.500091)
 **作者**: Lynch, Kathleen
-**摘要**: （暂无）
+**摘要**: Len Barton is acutely aware of the power of the academy to either enhance critical thinking or to depress it. He is a true academic, never accepting the received wisdom or perspective of any given sociological standpoint, no matter how powerful or fashionable it was at the time.…
 
 ### Gatekeepers or facilitators: the influence of teacher habitus on students’ applications to elite universities
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.515105](https://doi.org/10.1080/01425692.2010.515105)
 **作者**: Oliver, Caroline; Kettley, Nigel
-**摘要**: （暂无）
+**摘要**: Low application rates of state school students to elite universities have been identified as a factor in their limited participation in elite universities. This article explores the role of teachers in state schools and colleges in guiding higher education (HE) choice.…
 
 ### The mutual shaping of human action and institutional settings: a study of the transformation of children's services and professional work
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.484916](https://doi.org/10.1080/01425692.2010.484916)
 **作者**: Daniels, Harry
-**摘要**: （暂无）
+**摘要**: This paper is concerned with the way we understand and investigate the relationship between human functioning and social setting. The central argument draws on the work of Bernstein and Vygotsky.…
 
 ### Acting, accidents and performativity: challenging the hegemonic good student in secondary schools
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.484919](https://doi.org/10.1080/01425692.2010.484919)
 **作者**: Thompson, Greg
-**摘要**: （暂无）
+**摘要**: Current educational practice tends to ascribe a limiting vision of the good student as one who is well behaved, performs well in assessments and demonstrates values in keeping with dominant expectations.…
 
 ### Cultural capital: strengths, weaknesses and two advancements
 **年份**: 2010 | **DOI**: [10.1080/01425690903539065](https://doi.org/10.1080/01425690903539065)
 **作者**: van de Werfhorst, Herman G.
-**摘要**: （暂无）
+**摘要**: In this paper I discuss two weaknesses in Bourdieu’s work on cultural capital, both of which are related to his integration of the multidimensional nature of social space in different domains of life: social mobility, lifestyle differentiation, and political orientation.…
 
 ### Animmanentsocial class effect on participation in higher education? A rejoinder to Harrison and Waller
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.484923](https://doi.org/10.1080/01425692.2010.484923)
 **作者**: Noble, John; Davies, Peter
-**摘要**: （暂无）
+**摘要**: This article responds to criticisms, put forward by Harrison and Waller in this issue, of an earlier paper by Noble and Davies. In particular, we argue that our interpretation of earlier quantitative research is correct, that Harrison and Waller have misconstrued the purpose of our previous paper an…
 
 ### Globalizing education policy
 **年份**: 2010 | **DOI**: [10.1080/01425691003700904](https://doi.org/10.1080/01425691003700904)
 **作者**: Slee, Roger; Stambach, Amy
-**摘要**: （暂无）
+**摘要**: Globalizing education policy, by Fazal Rizvi and Bob Lingard, Abingdon, Routledge, 2010, 240 pp., £23.99 (paperback), ISBN: 978-0-415-41627-6
 
 ### Literacy‐lite inBarbieGirls™
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.515109](https://doi.org/10.1080/01425692.2010.515109)
 **作者**: Carrington, Victoria; Hodgetts, Katherine
-**摘要**: （暂无）
+**摘要**: While the attention of researchers has focused on video games, texting and, more recently, the growth of social networking sites such as Bebo.com and Facebook, virtual worlds have emerged as a site of significant cultural and textual relevance for young people.…
 
 ### Corrigendum
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.533476](https://doi.org/10.1080/01425692.2010.533476)
@@ -3246,14 +3246,14 @@
 ### Cultural capital and intellectual ability as predictors of scholastic achievement: a study of Slovenian secondary school students
 **年份**: 2010 | **DOI**: [10.1080/01425690903385428](https://doi.org/10.1080/01425690903385428)
 **作者**: Flere, Sergej; Krajnc, Marina Tavčar; Klanjšek, Rudi 等5人
-**摘要**: （暂无）
+**摘要**: Cultural capital, originally a general sociological concept, has been transformed into a construct that is often applied in predicting scholastic attainment. Intellectual ability (IQ) has also been proven to be a strong, although basically psychological, predictor of educational attainment.…
 
 ### Researching social capital in education: some conceptual considerations relating to the contribution of network analysis
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.515111](https://doi.org/10.1080/01425692.2010.515111)
 **作者**: Lee, Moosung
-**摘要**: （暂无）
+**摘要**: This article discusses conceptual considerations for social capital research in education from a social network perspective. Specifically, the article raises three key conceptual issues that call for further elaboration of concepts of social capital: redefining potential resources as accessible but …
 
 ### Canonical moments and disruptive moves in youth studies research
 **年份**: 2010 | **DOI**: [10.1080/01425690903573551](https://doi.org/10.1080/01425690903573551)
 **作者**: McLeod, Julie
-**摘要**: （暂无）
+**摘要**: Youth, by Gill Jones, London, Sage, 2009, 224 pp., £ 15.99 (paperback), ISBN 9‐78‐074564‐095‐2 Understanding youth: perspectives, identities and practices, edited by Mary Jane Kehily, London, Sage ...

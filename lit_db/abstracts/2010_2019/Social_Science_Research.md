@@ -283,7 +283,7 @@
 ### Exploring activation: A cross-country analysis of active labour market policies in Europe
 **年份**: 2019 | **DOI**: [10.1016/j.ssresearch.2019.03.001](https://doi.org/10.1016/j.ssresearch.2019.03.001)
 **作者**: Pinto, Mauro
-**摘要**: （暂无）
+**摘要**: Abstract Over recent decades, a wide literature has been devoted to the analysis of the evolution of Labour Markets Policies in the so-called “Activation paradigm” (Bonoli, 2010). Existing contributions are mainly based on qualitative case-studies or cross-country empirical analyses aimed at investi…
 
 ### The long shadow: Social mobility and political participation in urban China, 2006-2012
 **年份**: 2019 | **DOI**: [10.1016/j.ssresearch.2019.03.006](https://doi.org/10.1016/j.ssresearch.2019.03.006)
@@ -2585,7 +2585,7 @@
 ### Sibling genes as environment: Sibling dopamine genotypes and adolescent health support frequency dependent selection
 **年份**: 2015 | **DOI**: [10.1016/j.ssresearch.2015.08.002](https://doi.org/10.1016/j.ssresearch.2015.08.002)
 **作者**: Rauscher, Emily; Conley, Dalton; Siegal, Mark L.
-**摘要**: （暂无）
+**摘要**: While research consistently suggests siblings matter for individual outcomes, it remains unclear why. At the same time, studies of genetic effects on health typically correlate variants of a gene with the average level of behavioral or health measures, ignoring more complicated genetic dynamics.…
 
 ### Immigrant use of public assistance and mode of entry: Demographics versus dependence
 **年份**: 2015 | **DOI**: [10.1016/j.ssresearch.2015.04.007](https://doi.org/10.1016/j.ssresearch.2015.04.007)
@@ -2655,7 +2655,7 @@
 ### Getting support in polarized societies: Income, social networks, and socioeconomic context
 **年份**: 2015 | **DOI**: [10.1016/j.ssresearch.2014.08.002](https://doi.org/10.1016/j.ssresearch.2014.08.002)
 **作者**: Letki, Natalia; Mieriņa, Inta
-**摘要**: （暂无）
+**摘要**: This paper explores how unequal resources and social and economic polarization affects the size of social networks and their use to access resources. We argue that individual resource position generates divergent expectations with regard to the impact of polarization on the size of networks on one h…
 
 ### School ethnic diversity and White students’ civic attitudes in England
 **年份**: 2015 | **DOI**: [10.1016/j.ssresearch.2014.07.006](https://doi.org/10.1016/j.ssresearch.2014.07.006)
@@ -2967,7 +2967,7 @@
 ### Cultural capital in context: Heterogeneous returns to cultural capital across schooling environments
 **年份**: 2015 | **DOI**: [10.1016/j.ssresearch.2014.11.015](https://doi.org/10.1016/j.ssresearch.2014.11.015)
 **作者**: Andersen, Ida Gran; Jæger, Mads Meier
-**摘要**: （暂无）
+**摘要**: This paper tests two competing explanations of differences in returns to cultural capital across schooling environments: Cultural reproduction (cultural capital yields a higher returns in high-achieving environments than in low-achieving ones) and cultural mobility (cultural capital yields higher re…
 
 ### The skill-divide in job quality: A cross-national analysis of 28 countries
 **年份**: 2015 | **DOI**: [10.1016/j.ssresearch.2014.07.008](https://doi.org/10.1016/j.ssresearch.2014.07.008)
@@ -3042,7 +3042,7 @@
 ### No place like home? Familism and Latino/a–white differences in college pathways
 **年份**: 2015 | **DOI**: [10.1016/j.ssresearch.2014.12.018](https://doi.org/10.1016/j.ssresearch.2014.12.018)
 **作者**: Ovink, Sarah M.; Kalogrides, Demetra
-**摘要**: （暂无）
+**摘要**: Recent research has argued that familism, defined as a cultural preference for privileging family goals over individual goals, may discourage some Latino/a youth from applying to and attending college, particularly if they must leave home (Desmond and López Turley, 2009).…
 
 ### Universalism under siege? Exploring the association between targeting, child benefits and child poverty across 26 countries
 **年份**: 2015 | **DOI**: [10.1016/j.ssresearch.2014.11.012](https://doi.org/10.1016/j.ssresearch.2014.11.012)
@@ -3201,7 +3201,7 @@
 ### Does residential mobility improve educational outcomes? Evidence from the Netherlands
 **年份**: 2015 | **DOI**: [10.1016/j.ssresearch.2015.02.008](https://doi.org/10.1016/j.ssresearch.2015.02.008)
 **作者**: Haelermans, Carla; De Witte, Kristof
-**摘要**: （暂无）
+**摘要**: This paper explores the impact of residential mobility on educational outcomes. By considering a large Dutch city with substantial internal residential mobility, we examine how residential mobility influences the decision of students to drop out of school.…
 
 ### Do grandparents matter? A multigenerational perspective on educational attainment in Taiwan
 **年份**: 2015 | **DOI**: [10.1016/j.ssresearch.2014.09.013](https://doi.org/10.1016/j.ssresearch.2014.09.013)
@@ -3216,7 +3216,7 @@
 ### The often overlooked issue of statistical power: This and other issues regarding assessing importance weighting in quality of life measures
 **年份**: 2015 | **DOI**: [10.1016/j.ssresearch.2014.12.009](https://doi.org/10.1016/j.ssresearch.2014.12.009)
 **作者**: Hsieh, Chang-ming
-**摘要**: （暂无）
+**摘要**: In the area of quality of life research, researchers may ask respondents to rate importance as well as satisfaction of various life domains (such as job and health) and use importance ratings as weights to calculate overall, or global, life satisfaction.…
 
 ### Thinkers and feelers: Emotion and giving
 **年份**: 2015 | **DOI**: [10.1016/j.ssresearch.2014.10.008](https://doi.org/10.1016/j.ssresearch.2014.10.008)
@@ -3291,7 +3291,7 @@
 ### The spatial extent of the effect of foreclosures on crime
 **年份**: 2015 | **DOI**: [10.1016/j.ssresearch.2014.08.012](https://doi.org/10.1016/j.ssresearch.2014.08.012)
 **作者**: Payton, Seth B.; Stucky, Thomas D.; Ottensmann, John R.
-**摘要**: （暂无）
+**摘要**: Although neighborhood stability has long been considered a substantial determinant of crime, foreclosures have not been the subject of concerted research among criminologists until recently. A number of recent studies have examined the linkage between home foreclosures and crime.…
 
 ### Paternal incarceration and child-reported behavioral functioning at age 9
 **年份**: 2015 | **DOI**: [10.1016/j.ssresearch.2015.01.001](https://doi.org/10.1016/j.ssresearch.2015.01.001)
@@ -3301,7 +3301,7 @@
 ### Morality and politics: Comparing alternate theories
 **年份**: 2015 | **DOI**: [10.1016/j.ssresearch.2015.06.002](https://doi.org/10.1016/j.ssresearch.2015.06.002)
 **作者**: Miles, Andrew; Vaisey, Stephen
-**摘要**: （暂无）
+**摘要**: Debates about the American "culture wars" have led scholars to develop several theories relating morality to political attitudes and behaviors. However, researchers have not adequately compared these theories, nor have they examined the overall contribution of morality to explaining political variat…
 
 ### Alcohol outlets, social disorganization, and robberies: Accounting for neighborhood characteristics and alcohol outlet types
 **年份**: 2015 | **DOI**: [10.1016/j.ssresearch.2015.01.011](https://doi.org/10.1016/j.ssresearch.2015.01.011)
@@ -3351,7 +3351,7 @@
 ### Online questionnaire development: Using film to engage participants and then gather attitudes towards the sharing of genomic data
 **年份**: 2014 | **DOI**: [10.1016/j.ssresearch.2013.12.004](https://doi.org/10.1016/j.ssresearch.2013.12.004)
 **作者**: Middleton, A.; Bragin, E.; Morley, K.I. 等4人
-**摘要**: （暂无）
+**摘要**: How can a researcher engage a participant in a survey, when the subject matter may be perceived as 'challenging' or even be totally unfamiliar to the participant? The Genomethics study addressed this via the creation and delivery of a novel online questionnaire containing 10 integrated films.…
 
 ### The dimensions of mobilities: The spatial relationships between corporeal and digital mobilities
 **年份**: 2014 | **DOI**: [10.1016/j.ssresearch.2013.10.003](https://doi.org/10.1016/j.ssresearch.2013.10.003)
@@ -3454,7 +3454,7 @@
 ### The temporal variation of ethnic segregation in a city: Evidence from a mobile phone use dataset
 **年份**: 2014 | **DOI**: [10.1016/j.ssresearch.2014.03.011](https://doi.org/10.1016/j.ssresearch.2014.03.011)
 **作者**: Silm, Siiri; Ahas, Rein
-**摘要**: （暂无）
+**摘要**: The aim of this study is to determine the temporal variation of ethnic segregation in the city of Tallinn, the capital of Estonia. We employ data on mobile-phone use to compare variations in segregation indices during the day, the week, and the year.…
 
 ### The misunderstood consequences of Shelley v. Kraemer
 **年份**: 2014 | **DOI**: [10.1016/j.ssresearch.2014.06.007](https://doi.org/10.1016/j.ssresearch.2014.06.007)
@@ -3642,7 +3642,7 @@
 ### The impact of international service on the development of volunteers’ intercultural relations
 **年份**: 2014 | **DOI**: [10.1016/j.ssresearch.2014.02.002](https://doi.org/10.1016/j.ssresearch.2014.02.002)
 **作者**: Lough, Benjamin J.; Sherraden, Margaret Sherrard; McBride, Amanda Moore 等4人
-**摘要**: （暂无）
+**摘要**: Approximately one million people from the United States perform international volunteer service each year, representing a significant flow of ideas, people, resources, and aid across international borders.…
 
 ### Citizen-making: The role of national goals for socializing children
 **年份**: 2014 | **DOI**: [10.1016/j.ssresearch.2013.11.002](https://doi.org/10.1016/j.ssresearch.2013.11.002)
@@ -3810,7 +3810,7 @@
 ### Feeding the pipeline: Gender, occupational plans, and college major selection
 **年份**: 2013 | **DOI**: [10.1016/j.ssresearch.2013.03.008](https://doi.org/10.1016/j.ssresearch.2013.03.008)
 **作者**: Morgan, Stephen L.; Gelbgiser, Dafna; Weeden, Kim A.
-**摘要**: （暂无）
+**摘要**: In this article, we analyze gender differences in college major selection for respondents to the Education Longitudinal Study (2002-2006), focusing on educational pathways through college that lead to science, engineering, or doctoral-track medicine occupations and to non-doctoral track clinical and…
 
 ### Convenient yet not a convenience sample: Jury pools as experimental subject pools
 **年份**: 2013 | **DOI**: [10.1016/j.ssresearch.2012.06.002](https://doi.org/10.1016/j.ssresearch.2012.06.002)
@@ -3978,7 +3978,7 @@
 ### Intra-individual variation of extreme response style in mixed-mode panel studies
 **年份**: 2013 | **DOI**: [10.1016/j.ssresearch.2013.01.002](https://doi.org/10.1016/j.ssresearch.2013.01.002)
 **作者**: Aichholzer, Julian
-**摘要**: （暂无）
+**摘要**: It is well known that the self-report survey method suffers from many idiosyncratic biases, such as varying response styles due to different survey modes used. Using latent state-trait theory it is argued that response styles will also vary intra-individually, depending on the particular survey situ…
 
 ### Across the continuum of satisfaction with work–family balance: Work hours, flexibility-fit, and work–family culture
 **年份**: 2013 | **DOI**: [10.1016/j.ssresearch.2012.10.002](https://doi.org/10.1016/j.ssresearch.2012.10.002)
@@ -4418,7 +4418,7 @@
 ### Job-related resources and the pressures of working life
 **年份**: 2013 | **DOI**: [10.1016/j.ssresearch.2012.10.003](https://doi.org/10.1016/j.ssresearch.2012.10.003)
 **作者**: Schieman, Scott
-**摘要**: （暂无）
+**摘要**: Data from a 2011 representative sample of Canadian workers are used to test the resource versus the stress of higher status hypotheses. Drawing on the Job Demands-Resources model (JD-R), the resource hypothesis predicts that job-related resources reduce job pressure.…
 
 ### Housing and neighborhood quality among undocumented Mexican and Central American immigrants
 **年份**: 2013 | **DOI**: [10.1016/j.ssresearch.2013.07.011](https://doi.org/10.1016/j.ssresearch.2013.07.011)
@@ -5030,7 +5030,7 @@
 ### Modeling the impact of supra-structural network nodes: The case of anonymous syringe sharing and HIV among people who inject drugs
 **年份**: 2012 | **DOI**: [10.1016/j.ssresearch.2011.12.004](https://doi.org/10.1016/j.ssresearch.2011.12.004)
 **作者**: Richardson, Lindsey; Grund, Thomas
-**摘要**: （暂无）
+**摘要**: Networks are well understood as crucial to the diffusion of HIV among injection drug users (IDUs), but quasi-anonymous risk nodes - such as shooting galleries - resist measurement and incorporation into empirical analyses of disease diffusion.…
 
 ### Why is the sex gap in feelings of depression wider in high gender equity countries? The effect of children on the psychological well-being of men and women
 **年份**: 2012 | **DOI**: [10.1016/j.ssresearch.2011.12.006](https://doi.org/10.1016/j.ssresearch.2011.12.006)
@@ -5604,7 +5604,7 @@
 ### Migration and stratification
 **年份**: 2011 | **DOI**: [10.1016/j.ssresearch.2011.03.007](https://doi.org/10.1016/j.ssresearch.2011.03.007)
 **作者**: Jasso, Guillermina
-**摘要**: （暂无）
+**摘要**: Migration and stratification are increasingly intertwined. One day soon it will be impossible to understand one without the other. Both focus on life chances. Stratification is about differential life chances - who gets what and why - and migration is about improving life chances - getting more of t…
 
 ### Re-thinking the decline in trust: A comparison of black and white Americans
 **年份**: 2011 | **DOI**: [10.1016/j.ssresearch.2011.06.007](https://doi.org/10.1016/j.ssresearch.2011.06.007)
@@ -5663,7 +5663,7 @@
 ### Producing adulthood: Adolescent employment, fertility, and the life course
 **年份**: 2011 | **DOI**: [10.1016/j.ssresearch.2010.09.002](https://doi.org/10.1016/j.ssresearch.2010.09.002)
 **作者**: Rauscher, Emily
-**摘要**: （暂无）
+**摘要**: Abstract Adolescent employment is typically framed as having either positive or negative effects. Yet cutting edge research yields apparently contradictory results; work lowers delinquency but also increases school dropout.…
 
 ### Mobile phones and core network growth in Kenya: Strengthening weak ties
 **年份**: 2011 | **DOI**: [10.1016/j.ssresearch.2010.09.015](https://doi.org/10.1016/j.ssresearch.2010.09.015)
@@ -5678,7 +5678,7 @@
 ### Minding the gap: Meaning, affect, and the potential shortcomings of vignettes
 **年份**: 2011 | **DOI**: [10.1016/j.ssresearch.2010.08.008](https://doi.org/10.1016/j.ssresearch.2010.08.008)
 **作者**: Collett, Jessica L.; Childs, Ellen
-**摘要**: （暂无）
+**摘要**: Despite an ongoing debate over the validity of vignettes, little research has explored either why, or in what research areas, the vignette method may be particularly problematic. In this paper, we draw on Affect Control Theory (ACT) to directly investigate the difference between vignettes and a more…
 
 ### Invisible norms? Statistics of racial polarization and consensus
 **年份**: 2011 | **DOI**: [10.1016/j.ssresearch.2011.02.006](https://doi.org/10.1016/j.ssresearch.2011.02.006)

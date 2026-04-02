@@ -8,17 +8,17 @@
 ### Private Intergenerational Transfers, Family Structure, and Health in a sub-Saharan African Context
 **年份**: 2019 | **DOI**: [10.1111/padr.12225](https://doi.org/10.1111/padr.12225)
 **作者**: Payne, Collin F.; Pesando, Luca Maria; Kohler, Hans-Peter
-**摘要**: （暂无）
+**摘要**: During the last two decades, the increase in surveys aimed at quantifying monetary and non-monetary exchanges has fostered remarkable advances in measuring, modeling, and assessing the implications of intergenerational transfers at both the micro- and the macro level.…
 
 ### The Effects of In Utero Exposure to Influenza on Birth and Infant Outcomes in the US
 **年份**: 2019 | **DOI**: [10.1111/padr.12232](https://doi.org/10.1111/padr.12232)
 **作者**: Dorelien, Audrey
-**摘要**: （暂无）
+**摘要**: THIS IS THE first study to use US-wide data to explore how influenza exposure affects fetal development, showing how differing exposure to influenza epidemics drives variations in birth weight, gestational age, and neonatal and infant mortality.…
 
 ### Religion and child health in West and Central Africa
 **年份**: 2019 | **DOI**: [10.1111/padr.12296](https://doi.org/10.1111/padr.12296)
 **作者**: Karlsson, Omar
-**摘要**: （暂无）
+**摘要**: Studies have suggested a causal link between behaviors and attitudes prescribed by religious doctrine and child health. However, religious affiliation can also be a marker of differential access to resources and living standards.…
 
 ### Climatic Statelessness: Risk Assessment and Policy Options
 **年份**: 2019 | **DOI**: [10.1111/padr.12295](https://doi.org/10.1111/padr.12295)
@@ -33,17 +33,17 @@
 ### Fiscal and Welfare Effects of Raised Fertility in Poland: Overlapping Generations Model Estimates
 **年份**: 2019 | **DOI**: [10.1111/padr.12297](https://doi.org/10.1111/padr.12297)
 **作者**: Makarski, Krzysztof; Tyrowicz, Joanna; Malec, Magda
-**摘要**: （暂无）
+**摘要**: Please note: The publisher is not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing content) should be directed to the corresponding author for the article.
 
 ### Aging and the Compression of Disability in Portugal
 **年份**: 2019 | **DOI**: [10.1111/padr.12231](https://doi.org/10.1111/padr.12231)
 **作者**: Gouveia, Miguel; Raposo, Pedro
-**摘要**: （暂无）
+**摘要**: Please note: The publisher is not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing content) should be directed to the corresponding author for the article.
 
 ### Integrating Environmental Context into DHS Analysis While Protecting Participant Confidentiality: A New Remote Sensing Method
 **年份**: 2019 | **DOI**: [10.1111/padr.12222](https://doi.org/10.1111/padr.12222)
 **作者**: Grace, Kathryn; Nagle, Nicholas N.; Burgert-Brucker, Clara R. 等7人
-**摘要**: （暂无）
+**摘要**: Understanding the ways that people live given certain environmental conditions is of central concern to researchers in health, development, population, climate change, and other related fields (see Grace et al. 2014; Balk et al. 2005; de Sherbinin 2011).…
 
 ### Modernization and Household Composition in India, 1983-2009
 **年份**: 2019 | **DOI**: [10.1111/padr.12293](https://doi.org/10.1111/padr.12293)
@@ -53,17 +53,17 @@
 ### The Long(er)-Term Impacts of Chile Solidario on Human Capital and Labor Income
 **年份**: 2019 | **DOI**: [10.1111/padr.12274](https://doi.org/10.1111/padr.12274)
 **作者**: Neidhoefer, Guido; Nino-Zarazua, Miguel
-**摘要**: （暂无）
+**摘要**: This paper examines Chile Solidario, a social protection programme that provides poor households in Chile with preferential access to a conditional cash transfer programme designed to facilitate investments in children’s health and education.…
 
 ### Financing the Consumption of the Young and Old in France
 **年份**: 2019 | **DOI**: [10.1111/padr.12204](https://doi.org/10.1111/padr.12204)
 **作者**: d'Albis, Hippolyte; Bonnet, Carole; Chojnicki, Xavier 等7人
-**摘要**: （暂无）
+**摘要**: A better understanding of the resource allocation across ages is fundamentalto put in place welfare reforms in the context of population ageing.In times of major demographic change, the redistribution of resourcesbetween age groups and the funding of the economically inactive aged remainsa recurring…
 
 ### The National Care System in Uruguay: Who Benefits and Who Pays?
 **年份**: 2019 | **DOI**: [10.1111/padr.12271](https://doi.org/10.1111/padr.12271)
 **作者**: Amarante, Veronica; Colacce, Maira; Tenenbaum, Victoria
-**摘要**: （暂无）
+**摘要**: We analyze two specific policies that make up the National Care System, a social policy being implemented in Uruguay. Through the calibration of a static tax benefit model, we estimate the distributive impact of the expansion of child care services and home-based care for the dependent elderly, both…
 
 ### Fertility Decline in Urban and Rural Areas of Developing Countries
 **年份**: 2019 | **DOI**: [10.1111/padr.12220](https://doi.org/10.1111/padr.12220)
@@ -73,22 +73,22 @@
 ### Immigration Italian Style, 1977-2018
 **年份**: 2019 | **DOI**: [10.1111/padr.12275](https://doi.org/10.1111/padr.12275)
 **作者**: Colombo, Asher D.; Dalla-Zuanna, Gianpiero
-**摘要**: （暂无）
+**摘要**: Today, in Spain, Portugal, Italy, Malta and Greece, the incidence of the foreign population is entirely comparable to that of the more traditional European reception countries. Only forty years ago, however, the foreign population in these five southern European countries was decidedly modest.…
 
 ### Basic Old-Age Protection in Latin America: Noncontributory Pensions, Coverage Expansion Strategies, and Aging Patterns across Countries
 **年份**: 2019 | **DOI**: [10.1111/padr.12267](https://doi.org/10.1111/padr.12267)
 **作者**: Arza, Camila
-**摘要**: （暂无）
+**摘要**: HISTORICALLY, LATIN AMERICAN pension systems were designed following a social insurance model geared toward offering pension benefits to formal-sector workers. From 1981, and especially over the 1990s, several countries implemented structural pension reforms to introduce privately administered indiv…
 
 ### A Simple Measure of Human Development: The Human Life Indicator
 **年份**: 2019 | **DOI**: [10.1111/padr.12205](https://doi.org/10.1111/padr.12205)
 **作者**: Ghislandi, Simone; Sanderson, Warren C.; Scherbov, Sergei
-**摘要**: （暂无）
+**摘要**: For much of the twentieth century, statistical measurements of human development emphasized economic magnitudes. In 1990, the United Nations offered an alternative and more comprehensive way of measuring human development, the Human Development Index (HDI) (UNDP 1990).…
 
 ### Global Family Change: Persistent Diversity with Development
 **年份**: 2019 | **DOI**: [10.1111/padr.12209](https://doi.org/10.1111/padr.12209)
 **作者**: Pesando, Luca Maria; Castro, Andres F.; Andriano, Liliana 等8人
-**摘要**: （暂无）
+**摘要**: This article provides a broad empirical overview of the relationship between family change and socioeconomic development drawing on 30-plus years of Demographic and Health Surveys data from 3.5 million respondents across 84 low- and middle-income countries (LMICs). We conduct two sets of analyses.…
 
 ### Migrant Mortality Advantage Versus Origin and the Selection Hypothesis
 **年份**: 2019 | **DOI**: [10.1111/padr.12298](https://doi.org/10.1111/padr.12298)
@@ -98,32 +98,32 @@
 ### The Contemporary American Drug Overdose Epidemic in International Perspective
 **年份**: 2019 | **DOI**: [10.1111/padr.12228](https://doi.org/10.1111/padr.12228)
 **作者**: Ho, Jessica Y.
-**摘要**: （暂无）
+**摘要**: Drug overdose mortality has reached unprecedented levels in the United States. Over the past two decades, drug overdose has more than tripled to become the leading cause of injury deaths in the US, outnumbering deaths from motor vehicle accidents and homicides according to data from the Centers for …
 
 ### The Impact of Hurricane Maria on Out-migration from Puerto Rico: Evidence from Facebook Data
 **年份**: 2019 | **DOI**: [10.1111/padr.12289](https://doi.org/10.1111/padr.12289)
 **作者**: Alexander, Monica; Polimis, Kivan; Zagheni, Emilio
-**摘要**: （暂无）
+**摘要**: Please note: The publisher is not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing content) should be directed to the corresponding author for the article.
 
 ### Cash Transfers and Gender Differentials in Child Schooling and Labor: Evidence from the Lesotho Child Grants Programme
 **年份**: 2019 | **DOI**: [10.1111/padr.12269](https://doi.org/10.1111/padr.12269)
 **作者**: Sebastian, Ashwini; Campos, Ana Paula de la O.; Daidone, Silvio 等7人
-**摘要**: （暂无）
+**摘要**: We examine the impacts of an unconditional cash transfer in Lesotho using an experimental impact evaluation design. We find that the cash transfer led to different outcomes for girls and boys, overall favouring secondary school-aged girls.…
 
 ### The Intergenerational Impact of China's New Rural Pension Scheme
 **年份**: 2019 | **DOI**: [10.1111/padr.12272](https://doi.org/10.1111/padr.12272)
 **作者**: Sari, Virgi A.
-**摘要**: （暂无）
+**摘要**: The evolution of educational assistance in Indonesia and its effect on education quality was examined following two decades of government decentralization. Using Indonesia Family Life Survey data, the variation in the implementation of government decentralization was exploited to compute differencei…
 
 ### Internal Migration and Vulnerability to Poverty in Tanzania
 **年份**: 2019 | **DOI**: [10.1111/padr.12247](https://doi.org/10.1111/padr.12247)
 **作者**: Pietrelli, Rebecca; Scaramozzino, Pasquale
-**摘要**: （暂无）
+**摘要**: This paper investigates internal migration and vulnerability to poverty in Tanzania. It examines whether migration reduced household vulnerability to poverty for a panel of households from the Kagera region over the period 2004-2010.…
 
 ### The Intergenerational Impact of China's New Rural Pension Scheme
 **年份**: 2019 | **DOI**: [10.1111/padr.12248](https://doi.org/10.1111/padr.12248)
 **作者**: You, Jing; Nino-Zarazua, Miguel
-**摘要**: （暂无）
+**摘要**: We examine the heterogeneous and dynamic impact of China's New Rural Pension Scheme on intergenerational wealth dependence using a nationally representative longitudinal household survey covering the period 2011-13.We adopt an instrumental quantile regressiondiscontinuity design to address the endog…
 
 ### The Quantity-Quality Tradeoff: A Cross-Country Comparison of Market and Nonmarket Investments per Child in Relation to Fertility
 **年份**: 2019 | **DOI**: [10.1111/padr.12245](https://doi.org/10.1111/padr.12245)
@@ -138,7 +138,7 @@
 ### Institutionalizing Segregation: Women, Conditional Cash Transfers, and Paid Employment in Southern Ecuador
 **年份**: 2019 | **DOI**: [10.1111/padr.12268](https://doi.org/10.1111/padr.12268)
 **作者**: Ludena, Maria Gabriela Palacio
-**摘要**: （暂无）
+**摘要**: Conditional cash transfers have become the tool of choice in poverty reduction throughout the global South, granting women significant access to social protection. Yet, their inclusion has not necessarily resulted in more equal gender outcomes in employment.…
 
 ### Explaining Disability Trends in the United States, 1963-2015
 **年份**: 2019 | **DOI**: [10.1111/padr.12292](https://doi.org/10.1111/padr.12292)
@@ -148,22 +148,22 @@
 ### Health Differences at Birth between Roma and non-Roma Children in Hungary: Long-run Trends and Decomposition
 **年份**: 2019 | **DOI**: [10.1111/padr.12276](https://doi.org/10.1111/padr.12276)
 **作者**: Hajdu, Tamas; Kertesi, Gabor; Kezdi, Gabor
-**摘要**: （暂无）
+**摘要**: This paper uses birth records linked to census data to document health differences at birth between Roma and non-Roma children in Hungary between 1981 and 2010. It focuses on differences in average birth weight and average gestational age, as well as the likelihood of low birth weight and the likeli…
 
 ### Male Fertility Around the World and Over Time: How Different is it from Female Fertility?
 **年份**: 2019 | **DOI**: [10.1111/padr.12273](https://doi.org/10.1111/padr.12273)
 **作者**: Schoumaker, Bruno
-**摘要**: （暂无）
+**摘要**: The objective of this article is to describe levels, patterns, and trends in male fertility around the world, using data that have been underused. By combining different data sources—vital statistics, surveys, and censuses. We draw a general picture of male fertility in about 160 countries.…
 
 ### Learning to Fight: Afghan Child Health and In-utero Exposure to Conflict
 **年份**: 2019 | **DOI**: [10.1111/padr.12229](https://doi.org/10.1111/padr.12229)
 **作者**: Oskorouchi, Hamid Reza
-**摘要**: （暂无）
+**摘要**: No extant study addresses the persistent detrimental effect of in-utero exposure to conflict on early child health in countries experiencing protracted conflict. I therefore estimate the impact of in-utero conflict exposure on weight-for-age and height-for-age z-scores (WAZ and HAZ) by applying inst…
 
 ### Schooling and Labor Market Impacts of Bolivia's Bono Juancito Pinto Program
 **年份**: 2019 | **DOI**: [10.1111/padr.12270](https://doi.org/10.1111/padr.12270)
 **作者**: Canelas, Carla; Nino-Zarazua, Miguel
-**摘要**: （暂无）
+**摘要**: OVER THE PAST 15 YEARS, cash transfer programs have become a core component of antipoverty policy strategies in the developing world. In Latin America in particular, cash transfer programs have adopted a multidimensional approach to poverty, whereby income support is provided together with simultane…
 
 ### Living Arrangements and Household Complexity among Undocumented Immigrants
 **年份**: 2019 | **DOI**: [10.1111/padr.12227](https://doi.org/10.1111/padr.12227)
@@ -173,7 +173,7 @@
 ### Trends in Non-Hispanic White Mortality in the United States by Metropolitan-Nonmetropolitan Status and Region, 1990-2016
 **年份**: 2019 | **DOI**: [10.1111/padr.12249](https://doi.org/10.1111/padr.12249)
 **作者**: Elo, Irma T.; Hendi, Arun S.; Ho, Jessica Y. 等5人
-**摘要**: （暂无）
+**摘要**: The first decades of the twenty-first century have been a challenging period for American mortality. Life expectancy in the United States ranked 30th in the world in 2010 and is much lower than in other high-income countries (World Health Organization 2017).…
 
 ### Apportionment of the US House of Representatives in 2020 under Alternative Immigration-Based Scenarios
 **年份**: 2019 | **DOI**: [10.1111/padr.12230](https://doi.org/10.1111/padr.12230)
@@ -188,7 +188,7 @@
 ### The Family Safety Net of Black and White Multigenerational Families
 **年份**: 2019 | **DOI**: [10.1111/padr.12233](https://doi.org/10.1111/padr.12233)
 **作者**: Park, Sung S.; Wiemers, Emily E.; Seltzer, Judith A.
-**摘要**: （暂无）
+**摘要**: One of the most striking and persistent features of the American socioeconomic landscape is the disadvantaged position of African Americans relative to Whites. This study explores some of the present reasons for that disadvantage, focusing on the multigenerational family safety net.…
 
 ### Rural/Urban Population Age and Sex Composition in sub-Saharan Africa 1980-2015
 **年份**: 2018 | **DOI**: [10.1111/padr.12122](https://doi.org/10.1111/padr.12122)
@@ -208,7 +208,7 @@
 ### Formal Education and Migration Aspirations in Ethiopia
 **年份**: 2018 | **DOI**: [10.1111/padr.12159](https://doi.org/10.1111/padr.12159)
 **作者**: Schewel, Kerilyn; Fransen, Sonja
-**摘要**: （暂无）
+**摘要**: Expanding access to formal education is a universal aim of development policy worldwide, and young people today are gaining access to schooling on unprecedented levels. Taking Ethiopia as a case study, this paper explores the mobility impacts of increasing educational attainment.…
 
 ### Measuring Gender Equality in Education: Lessons from Trends in 43 Countries
 **年份**: 2018 | **DOI**: [10.1111/padr.12121](https://doi.org/10.1111/padr.12121)
@@ -233,7 +233,7 @@
 ### Living Alone in Later Life: A Global Perspective
 **年份**: 2018 | **DOI**: [10.1111/padr.12149](https://doi.org/10.1111/padr.12149)
 **作者**: Reher, David; Requena, Miguel
-**摘要**: （暂无）
+**摘要**: THE PREVALENCE OF living alone during later life varies widely throughout the world, though everywhere its social relevance has grown substantially in recent decades. This living arrangement, more widespread among women than men aged over 65, is one of the most visible characteristics of societal ag…
 
 ### How Temporary Were Canada's Temporary Foreign Workers?
 **年份**: 2018 | **DOI**: [10.1111/padr.12138](https://doi.org/10.1111/padr.12138)
@@ -248,7 +248,7 @@
 ### Perception has its Own Reality: Subjective versus Objective Measures of Economic Distress
 **年份**: 2018 | **DOI**: [10.1111/padr.12183](https://doi.org/10.1111/padr.12183)
 **作者**: Glei, Dana A.; Goldman, Noreen; Weinstein, Maxine
-**摘要**: （暂无）
+**摘要**: THERE IS no doubt that economic inequality in the US has increased over the last several decades (Piketty, Saez, and Zucm 2016; Congressional Budget Office 2013). Diminished labor market opportunities and the ensuing decline in (inflation-adjusted) economic fortunes for the least educated Americans …
 
 ### Marx on Population: A Bicentenary Celebration
 **年份**: 2018 | **DOI**: [10.1111/padr.12208](https://doi.org/10.1111/padr.12208)
@@ -263,7 +263,7 @@
 ### The Global Evolution of Travel Visa Regimes
 **年份**: 2018 | **DOI**: [10.1111/padr.12166](https://doi.org/10.1111/padr.12166)
 **作者**: Czaika, Mathias; de Haas, Hein; Villares-Varela, Maria
-**摘要**: （暂无）
+**摘要**: Drawing on the new DEMIG VISA database which covers global bilateral travel regulations from 1973 to 2013, this paper explores patterns and trends in international travel visa regimes.…
 
 ### Education and Health: Redrawing the Preston Curve
 **年份**: 2018 | **DOI**: [10.1111/padr.12141](https://doi.org/10.1111/padr.12141)
@@ -278,7 +278,7 @@
 ### The Emergence of Bimodal Fertility Profiles in Latin America
 **年份**: 2018 | **DOI**: [10.1111/padr.12157](https://doi.org/10.1111/padr.12157)
 **作者**: Lima, Everton E. C.; Zeman, Krystof; Sobotka, Tomas 等5人
-**摘要**: （暂无）
+**摘要**: In contrast to most other low-fertility regions, the fall in period fertility to subreplacement level in Latin America was not accompanied by a sharp decline in fertility rates at young reproductive ages.…
 
 ### Decomposing and Predicting China's GDP Growth: Past, Present, and Future
 **年份**: 2018 | **DOI**: [10.1111/padr.12129](https://doi.org/10.1111/padr.12129)
@@ -288,12 +288,12 @@
 ### Deterring Emigration with Foreign Aid: An Overview of Evidence from Low-Income Countries
 **年份**: 2018 | **DOI**: [10.1111/padr.12184](https://doi.org/10.1111/padr.12184)
 **作者**: Clemens, Michael A.; Postel, Hannah M.
-**摘要**: （暂无）
+**摘要**: In response to the recent migrant and refugee crisis, rich countries have redoubled policy efforts to deter future immigration from poor countries by addressing the "root causes" of migration. We review existing evidence on the effectiveness of such efforts.…
 
 ### Fiscal Implications of Population Aging and Social Sector Expenditure in China
 **年份**: 2018 | **DOI**: [10.1111/padr.12206](https://doi.org/10.1111/padr.12206)
 **作者**: Cai, Yong; Feng, Wang; Shen, Ke
-**摘要**: （暂无）
+**摘要**: BUILDING ON ITS ECONOMIC BOOM and wealth accumulation over the past few decades, China has taken ambitious steps to revamp and rebuild the social programs, especially since the start of the newmillennium.…
 
 ### Economic Conditions in Early Life and Circulatory Disease Mortality
 **年份**: 2018 | **DOI**: [10.1111/padr.12174](https://doi.org/10.1111/padr.12174)
@@ -308,7 +308,7 @@
 ### Climate Migration at the Height and End of the Great Mexican Emigration Era
 **年份**: 2018 | **DOI**: [10.1111/padr.12158](https://doi.org/10.1111/padr.12158)
 **作者**: Riosmena, Fernando; Nawrotzki, Raphael; Hunter, Lori
-**摘要**: （暂无）
+**摘要**: Previous research has linked increasing climate-change-related variability to Mexico-US migration, but only under particular climatic/social conditions and periods of high irregular migration.…
 
 ### The Flexibility of Fertility Preferences in a Context of Uncertainty
 **年份**: 2018 | **DOI**: [10.1111/padr.12114](https://doi.org/10.1111/padr.12114)
@@ -328,12 +328,12 @@
 ### Trends in Age at Marriage and the Onset of Fertility Transition in sub-Saharan Africa
 **年份**: 2017 | **DOI**: [10.1111/padr.12043](https://doi.org/10.1111/padr.12043)
 **作者**: Hertrich, Veronique
-**摘要**: （暂无）
+**摘要**: Over the last 40 years, the question of the “African exception” has regularly come to the forefront in the discussion of fertility trends. In the 1980s, there was uncertainty about when fertility decline would commence throughout the region: while fertility was declining at a steady pace in Latin Am…
 
 ### Contemporary Use of Traditional Contraception in sub-Saharan Africa
 **年份**: 2017 | **DOI**: [10.1111/padr.12008](https://doi.org/10.1111/padr.12008)
 **作者**: Rossier, Clementine; Corker, Jamaica
-**摘要**: （暂无）
+**摘要**: The historic fertility declines in Western countries that occurred prior to diffusion of modern contraceptives were achieved primarily through induced abortion, abstinence, and use of traditional methods of contraception, in particular withdrawal.…
 
 ### Large and Growing Social Inequality in Mortality in Norway: The Combined Importance of Marital Status and Own and Spouse's Education
 **年份**: 2017 | **DOI**: [10.1111/padr.12096](https://doi.org/10.1111/padr.12096)
@@ -353,7 +353,7 @@
 ### Socially Embedded Preferences, Environmental Externalities, and Reproductive Rights
 **年份**: 2017 | **DOI**: [10.1111/padr.12090](https://doi.org/10.1111/padr.12090)
 **作者**: Dasgupta, Aisha; Dasgupta, Partha
-**摘要**: （暂无）
+**摘要**: We review a class of adverse environmental externalities that accompany consumption and procreation. We also identify externalities that are traceable to socially embedded preferences for family size.…
 
 ### Adult Mortality Five Years after a Natural Disaster
 **年份**: 2017 | **DOI**: [10.1111/padr.12075](https://doi.org/10.1111/padr.12075)
@@ -373,12 +373,12 @@
 ### African Transitions and Fertility Inequality: A Demographic Kuznets Hypothesis
 **年份**: 2017 | **DOI**: [10.1111/padr.12034](https://doi.org/10.1111/padr.12034)
 **作者**: Eloundou-Enyegue, Parfait; Giroux, Sarah; Tenikue, Michel
-**摘要**: （暂无）
+**摘要**: Is Africa is different?" The question permeates the debate over Africa's fertility transitions, whether analysts ponder the causes, the consequences, or the socioeconomic patterns of these transitions.…
 
 ### Patterns of Fertility Decline and the Impact of Alternative Scenarios of Future Fertility Change in sub-Saharan Africa
 **年份**: 2017 | **DOI**: [10.1111/padr.12011](https://doi.org/10.1111/padr.12011)
 **作者**: Gerland, Patrick; Biddlecom, Ann; Kantorova, Vladimira
-**摘要**: （暂无）
+**摘要**: Fertility decline in most countries of sub-Saharan Africa has thus far started later and proceeded more slowly than in countries in Asia and Latin America and the Caribbean undergoing the transition in fertility since the 1950s from high levels to near-replacement or even below-replacement levels (B…
 
 ### The Politics of Family Planning Policies and Programs in sub-Saharan Africa
 **年份**: 2017 | **DOI**: [10.1111/j.1728-4457.2016.00165.x](https://doi.org/10.1111/j.1728-4457.2016.00165.x)
@@ -418,7 +418,7 @@
 ### Fertility Desires and the Course of Fertility Decline in sub-Saharan Africa
 **年份**: 2017 | **DOI**: [10.1111/padr.12030](https://doi.org/10.1111/padr.12030)
 **作者**: Casterline, John B.; Agyei-Mensah, Samuel
-**摘要**: （暂无）
+**摘要**: This research examines the demand for children in sub-Saharan Africa and how this demand bears on prospects for fertility decline. Fertility levels on average are high in the region. At issue is whether, and how, fertility decline will occur in the near or medium term.…
 
 ### The Effect of Fertility Decline on Economic Growth in Africa: A Macrosimulation Model
 **年份**: 2017 | **DOI**: [10.1111/padr.12009](https://doi.org/10.1111/padr.12009)
@@ -433,22 +433,22 @@
 ### The Challenges Posed by Demographic Change in sub-Saharan Africa: A Concise Overview
 **年份**: 2017 | **DOI**: [10.1111/padr.170](https://doi.org/10.1111/padr.170)
 **作者**: Cleland, John; Machiyama, Kazuyo
-**摘要**: （暂无）
+**摘要**: The aim of this paper is to assess the implications of demographic change between 2015 and 2050 for progress in sub-Saharan Africa. Because of the slow fertility decline, the dominant demographic force will be continued growth in numbers of births, the school age and the working age population.…
 
 ### The Persistence of High Fertility in sub-Saharan Africa: A Comment
 **年份**: 2017 | **DOI**: [10.1111/padr.12052](https://doi.org/10.1111/padr.12052)
 **作者**: Mbacke, Cheikh
-**摘要**: （暂无）
+**摘要**: The US National Academy of Sciences Panel on the Population Dynamics of Sub-Saharan Africa met for the first time in February 1990 in Washington, DC to launch a major initiative aimed at deepening understanding of demographic change in the subcontinent.…
 
 ### Trading Youth for Citizenship? The Spousal Age Gap in Cross-Border Marriages
 **年份**: 2017 | **DOI**: [10.1111/padr.12072](https://doi.org/10.1111/padr.12072)
 **作者**: Balistreri, Kelly Stamper; Joyner, Kara; Kao, Grace
-**摘要**: （暂无）
+**摘要**: Prior studies concerning patterns of intermarriage among immigrants have primarily focused on how factors such as race/ethnicity, educational attainment, and country of origin shape the choice of a spouse.…
 
 ### The Impact of Contraceptive Use and Abortion on Fertility in sub-Saharan Africa: Estimates for 2003-2014
 **年份**: 2017 | **DOI**: [10.1111/padr.12027](https://doi.org/10.1111/padr.12027)
 **作者**: Singh, Susheela; Bankole, Akinrinola; Darroch, Jacqueline E.
-**摘要**: （暂无）
+**摘要**: With the exception of sub-Saharan Africa, fertility has declined substantially in all regions of the developing world. The fertility decline, which started in Latin America and Asia in the 1960s, progressed rapidly through the decades that followed, reaching close to replacement level in these two r…
 
 ### Women's Reproductive Intentions and Behaviors during the Zika Epidemic in Brazil
 **年份**: 2017 | **DOI**: [10.1111/padr.12074](https://doi.org/10.1111/padr.12074)
@@ -473,7 +473,7 @@
 ### Contraceptive Practice in sub-Saharan Africa
 **年份**: 2017 | **DOI**: [10.1111/padr.12051](https://doi.org/10.1111/padr.12051)
 **作者**: Tsui, Amy O.; Brown, Win; Li, Qingfeng
-**摘要**: （暂无）
+**摘要**: Forty eight of the African continent's 54 sovereign states are located in the Sub-Saharan Africa (SSA) region, with the government of each defining and shaping its own health services and delivery systems. This paper reviews the trends and patterns of contraceptive practice in the region.…
 
 ### The Intergenerational Effect of Cambodia's Genocide on Children's Education and Health
 **年份**: 2017 | **DOI**: [10.1111/padr.12047](https://doi.org/10.1111/padr.12047)
@@ -493,27 +493,27 @@
 ### Fertility by Birth Order among the Descendants of Immigrants in Selected European Countries
 **年份**: 2017 | **DOI**: [10.1111/padr.12037](https://doi.org/10.1111/padr.12037)
 **作者**: Kulu, Hill; Hannemann, Tina; Pailhe, Ariane 等7人
-**摘要**: （暂无）
+**摘要**: EUROPEAN POPULATIONS are characterized by an increasing share of immigrants and their descendants In the second half of the twentieth century, most immigrants arrived in Northern and Western European countries, whereas in the first decade of this century Southern European countries experienced a rap…
 
 ### A Profile of Germany's Refugee Populations
 **年份**: 2017 | **DOI**: [10.1111/padr.12042](https://doi.org/10.1111/padr.12042)
 **作者**: Juran, Sabrina; Broer, P. Niclas
-**摘要**: （暂无）
+**摘要**: As a result of the war in Syria, as well as other humanitarian crises, poverty, and social deprivation in Africa and elsewhere, European Union countries have experienced high inflows of asylum-seekers, refugees, and migrants.1 Civil unrest and armed conflict generate vital and complex needs.…
 
 ### Patrilineality, Son Preference, and Sex Selection in South Korea and Vietnam
 **年份**: 2017 | **DOI**: [10.1111/padr.12041](https://doi.org/10.1111/padr.12041)
 **作者**: den Boer, Andrea; Hudson, Valerie
-**摘要**: （暂无）
+**摘要**: RECENT ADVANCES in promoting the rights of women and girls globally have been partially offset by increasing implementation of son preference through offspring sex selection, leading to rising sex ratios at birth 1 (SRB) and child sex ratios throughout Asia, as well as parts of Eastern Europe and Af…
 
 ### Has Child Marriage Declined in sub-Saharan Africa? An Analysis of Trends in 31 Countries
 **年份**: 2017 | **DOI**: [10.1111/padr.12035](https://doi.org/10.1111/padr.12035)
 **作者**: Koski, Alissa; Clark, Shelley; Nandi, Arijit
-**摘要**: （暂无）
+**摘要**: Child marriage, defined by the United Nations as marriage before the age of 18, disproportionately affects girls and hinders progress toward development and public health goals. The magnitude of the threat child marriage poses to global development is highlighted by the fact that its elimination is …
 
 ### The Effect of Birth Spacing on Child Mortality in Sweden, 1878-1926
 **年份**: 2017 | **DOI**: [10.1111/padr.12050](https://doi.org/10.1111/padr.12050)
 **作者**: Molitoris, Joseph
-**摘要**: （暂无）
+**摘要**: SHORTER BIRTH INTERVALS have been identified as having potentially serious implications for the health of both children and their mothers (see Evidence has consistently shown that children born following shorter intervals generally have substantially higher rates of neonatal, post-neonatal, and chil…
 
 ### The Effect of Education on the Demographic Dividend
 **年份**: 2016 | **DOI**: [10.1111/padr.12017](https://doi.org/10.1111/padr.12017)
@@ -548,7 +548,7 @@
 ### Fighting Infectious Disease: Evidence from Sweden 1870-1940
 **年份**: 2016 | **DOI**: [10.1111/j.1728-4457.2016.00108.x](https://doi.org/10.1111/j.1728-4457.2016.00108.x)
 **作者**: Lazuka, Volha; Quaranta, Luciana; Bengtsson, Tommy
-**摘要**: （暂无）
+**摘要**: Even more than in developing countries today, public health strategies to fight infectious disease in the past focused on the prevention of new infections by stopping their spread. These strategies were motivated by new insights into the causes of disease and the modes of transmission in the mid-nin…
 
 ### A Demographic Rationale for Brexit
 **年份**: 2016 | **DOI**: [10.1111/padr.12014](https://doi.org/10.1111/padr.12014)
@@ -558,7 +558,7 @@
 ### Residential Mobility and Homeownership in Dar es Salaam
 **年份**: 2016 | **DOI**: [10.1111/j.1728-4457.2016.00104.x](https://doi.org/10.1111/j.1728-4457.2016.00104.x)
 **作者**: Andreasen, Manja Hoppe; Agergaard, Jytte
-**摘要**: （暂无）
+**摘要**: This article is a study of the intra-urban settlement experiences of residents in the periphery of Dar es Salaam.It emphasizes the importance of homeownership as a key dimension of how migrants and urban-born residents shift their residence within the city boundaries.The evidence suggests that befor…
 
 ### Is the US Old-Age Mortality Advantage Vanishing?
 **年份**: 2016 | **DOI**: [10.1111/j.1728-4457.2016.00157.x](https://doi.org/10.1111/j.1728-4457.2016.00157.x)
@@ -648,7 +648,7 @@
 ### Advanced Maternal Age and Offspring Outcomes: Reproductive Aging and Counterbalancing Period Trends
 **年份**: 2016 | **DOI**: [10.1111/j.1728-4457.2016.00105.x](https://doi.org/10.1111/j.1728-4457.2016.00105.x)
 **作者**: Barclay, Kieron; Myrskylae, Mikko
-**摘要**: （暂无）
+**摘要**: Advanced Maternal Age and Offspring Outcomes : Reproductive Aging and Counterbalancing Period Trends
 
 ### The Impact of Migration on Long-Term European Population Trends, 1850 to Present
 **年份**: 2016 | **DOI**: [10.1111/j.1728-4457.2016.00132.x](https://doi.org/10.1111/j.1728-4457.2016.00132.x)
@@ -968,12 +968,12 @@
 ### Cross-Sections Are History
 **年份**: 2013 | **DOI**: [10.1111/j.1728-4457.2013.00565.x](https://doi.org/10.1111/j.1728-4457.2013.00565.x)
 **作者**: Easterlin, Richard A.
-**摘要**: （暂无）
+**摘要**: Although cross section relationships are often taken to indicate causation, and especially the important impact of economic growth on many social phenomena, they may, in fact, merely reflect historical experience, that is, similar leader-follower country patterns for variables that are causally unre…
 
 ### Patriarchal Demographics? China's Sex Ratio Reconsidered
 **年份**: 2013 | **DOI**: [10.1111/j.1728-4457.2013.00556.x](https://doi.org/10.1111/j.1728-4457.2013.00556.x)
 **作者**: Greenhalgh, Susan
-**摘要**: （暂无）
+**摘要**: Since amartya Sen published his pathbreaking research on the "missing women" of asia two decades ago across east, South, and even west asia, the masculinization of sex ratios has been proceeding at a pace unprecedented in recorded history.…
 
 ### Education and Cohabitation in Britain: A Return to Traditional Patterns?
 **年份**: 2013 | **DOI**: [10.1111/j.1728-4457.2013.00611.x](https://doi.org/10.1111/j.1728-4457.2013.00611.x)
@@ -1088,7 +1088,7 @@
 ### Demographic Metabolism: A Predictive Theory of Socioeconomic Change
 **年份**: 2013 | **DOI**: [10.1111/j.1728-4457.2013.00564.x](https://doi.org/10.1111/j.1728-4457.2013.00564.x)
 **作者**: Lutz, Wolfgang
-**摘要**: （暂无）
+**摘要**: This essay introduces a general theory of how societies change as a consequence of the changing composition of their members with respect to certain relevant and measurable characteristics.…
 
 ### The Apparent Failure of Russia's Pronatalist Family Policies
 **年份**: 2013 | **DOI**: [10.1111/j.1728-4457.2013.00631.x](https://doi.org/10.1111/j.1728-4457.2013.00631.x)
@@ -1133,7 +1133,7 @@
 ### Population, Policy, and Politics: How Will History Judge China's One-Child Policy?
 **年份**: 2013 | **DOI**: [10.1111/j.1728-4457.2013.00555.x](https://doi.org/10.1111/j.1728-4457.2013.00555.x)
 **作者**: Feng, Wang; Cai, Yong; Gu, Baochang
-**摘要**: （暂无）
+**摘要**: one of the main puzzles of modern population and social history is why, among all countries confronting rapid population growth in the second half of the twentieth century, China chose to adopt an extreme measure of birth control known as the one-child policy.a related question is why such a policy,…
 
 ### A Cognitive-Social Model of Fertility Intentions
 **年份**: 2013 | **DOI**: [10.1111/j.1728-4457.2013.00612.x](https://doi.org/10.1111/j.1728-4457.2013.00612.x)
@@ -1153,7 +1153,7 @@
 ### Fertility and Population Policy in Algeria: Discrepancies between Planning and Outcomes
 **年份**: 2013 | **DOI**: [10.1111/j.1728-4457.2013.00559.x](https://doi.org/10.1111/j.1728-4457.2013.00559.x)
 **作者**: Ouadah-Bedidi, Zahia; Vallin, Jacques
-**摘要**: （暂无）
+**摘要**: Archined est l’archive ouverte institutionnelle et la base patrimoniale des publications, communications et autres travaux scientifiques produits par les chercheur.e.s, y compris les chercheur.e.s associé.e.s, et ingénieur.e.s de l’Ined.
 
 ### The Recent Fertility Transition in Rwanda
 **年份**: 2013 | **DOI**: [10.1111/j.1728-4457.2013.00558.x](https://doi.org/10.1111/j.1728-4457.2013.00558.x)
@@ -1368,7 +1368,7 @@
 ### Achievers and Laggards in Demographic Transition: A Comparison of Indonesia and Nigeria
 **年份**: 2011 | **DOI**: [10.1111/j.1728-4457.2011.00384.x](https://doi.org/10.1111/j.1728-4457.2011.00384.x)
 **作者**: McNicoll, Geoffrey
-**摘要**: （暂无）
+**摘要**: over the last 50 years many developing countries have experienced demographic transitions from high to low death and birth rates; others have barely begun that process. what explains that delay?…
 
 ### Harvesting the Biosphere: The Human Impact
 **年份**: 2011 | **DOI**: [10.1111/j.1728-4457.2011.00450.x](https://doi.org/10.1111/j.1728-4457.2011.00450.x)

@@ -1967,7 +1967,7 @@
 ### The Gendered Impacts of COVID-19: Lessons and Reflections
 **年份**: 2021 | **DOI**: [10.1177/08912432211001305](https://doi.org/10.1177/08912432211001305)
 **作者**: Mooi-Reci, Irma; Risman, Barbara J.
-**摘要**: （暂无）
+**摘要**: Widespread unemployment, job displacement, and income loss have characterized the lives of millions since the onset of the coronavirus disease 2019 (COVID-19) pandemic. Around the world, early findings show that effects of the recent COVID-19 crisis are not equally distributed (e.g., Bartik et al.…
 
 ### Women in Iranian Kurdistan: Patriarchy and the Quest for Empowerment
 **年份**: 2021 | **DOI**: [10.1177/08912432211029205](https://doi.org/10.1177/08912432211029205)

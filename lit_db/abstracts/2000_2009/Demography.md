@@ -1270,22 +1270,22 @@
 ### Rethinking Gender Segregation and Gender Inequality: Measures and Meanings
 **年份**: 2003 | **DOI**: [10.2307/1515159](https://doi.org/10.2307/1515159)
 **作者**: Bridges, William P.
-**摘要**: （暂无）
+**摘要**: It is often assumed that occupational segregation by gender is readily interpretable as an index of inequality between men and women in the labor force. Although this view has been challenged, the development and dissemination of analytic tools that could test this assumption have been limited.…
 
 ### Selective Gender Differences in Childhood Nutrition and Immunization in Rural India: The Role of Siblings
 **年份**: 2003 | **DOI**: [10.2307/1515152](https://doi.org/10.2307/1515152)
 **作者**: Pande, Rohini P.
-**摘要**: （暂无）
+**摘要**: This article examines the role of the sex composition of surviving older siblings on gender differences in childhood nutrition and immunization, using data from the National Family Health Survey, India (1992–1993).…
 
 ### Parental Leave: The Impact of Recent Legislation on Parents' Leave Taking
 **年份**: 2003 | **DOI**: [10.2307/3180818](https://doi.org/10.2307/3180818)
 **作者**: Han, Wen-Jui; Waldfogel, Jane
-**摘要**: （暂无）
+**摘要**: We use data from the Survey of Income and Program Participation to examine the impact of leave entitlements on unpaid leave usage by men and women after the birth of a child from 1991 to 1999.…
 
 ### Trends in Reproductive Behavior among Young Single Women in Colombia and Peru: 1985-1999
 **年份**: 2003 | **DOI**: [10.2307/1515202](https://doi.org/10.2307/1515202)
 **作者**: Ali, Mohamed M.; Cleland, John; Shah, Iqbal H.
-**摘要**: （暂无）
+**摘要**: Using “calendar” data for single women aged 15-24 from successive Demographic and Health Surveys (DHS) conducted in Colombia and Peru during the 1990s, we document trends, year by year, in sexual activity, the use of contraceptives, and subsequent reproductive outcomes.…
 
 ### Child gender and the transition to marriage
 **年份**: 2003 | **DOI**: [10.1353/dem.2003.0015](https://doi.org/10.1353/dem.2003.0015)
@@ -1320,17 +1320,17 @@
 ### Women's Autonomy and Child Survival: A Comparison of Muslims and Non-Muslims in Four Asian Countries
 **年份**: 2003 | **DOI**: [10.2307/1515153](https://doi.org/10.2307/1515153)
 **作者**: Ghuman, Sharon J.
-**摘要**: （暂无）
+**摘要**: In this article, I evaluate the hypothesis that higher infant and child mortality among Muslim populations is related to the lower autonomy of Muslim women using data from 15 pairs of Muslim and non-Muslim communities in India, Malaysia, the Philippines, and Thailand.…
 
 ### Welfare Work Requirements and Child Well-Being: Evidence from the Effects on Breast-Feeding
 **年份**: 2003 | **DOI**: [10.2307/1515156](https://doi.org/10.2307/1515156)
 **作者**: Haider, Steven J.; Jacknowitz, Alison; Schoeni, Robert F.
-**摘要**: （暂无）
+**摘要**: A central theme of welfare reform is that recipients are required to engage in work activities. In many states, these work requirements apply to mothers whose children are a few months old, which may increase the costs and decrease the prevalence of breast-feeding.…
 
 ### The Racial Crossover in Family Complexity in the United States
 **年份**: 2003 | **DOI**: [10.2307/1515160](https://doi.org/10.2307/1515160)
 **作者**: Goldscheider, Frances K.; Bures, Regina M.
-**摘要**: （暂无）
+**摘要**: This article examines the evolution of the black extended family by documenting a black-white crossover in the proportions of unmarried adults living in complex households after the middle of the twentieth century.…
 
 ### Modeling momentum in gradual demographic transitions
 **年份**: 2003 | **DOI**: [10.1353/dem.2003.0040](https://doi.org/10.1353/dem.2003.0040)
@@ -1350,12 +1350,12 @@
 ### Why Poverty Remains High: The Role of Income Growth, Economic Inequality, and Changes in Family Structure, 1949-1999
 **年份**: 2003 | **DOI**: [10.2307/1515157](https://doi.org/10.2307/1515157)
 **作者**: Iceland, John
-**摘要**: （暂无）
+**摘要**: After dramatic declines in poverty from 1950 to the early 1970s in the United States, progress stalled. This article examines the association between trends in poverty and income growth, economic inequality, and changes in family structure using three measures of poverty: an absolute measure, a rela…
 
 ### Explaining Trends in Child Support: Economic, Demographic, and Policy Effects
 **年份**: 2003 | **DOI**: [10.2307/3180817](https://doi.org/10.2307/3180817)
 **作者**: Case, Anne C.; Lin, I-Fen; McLanahan, Sara S.
-**摘要**: （暂无）
+**摘要**: We use data from the Panel Study of Income Dynamics to examine trends in the receipt of child support (and the determinants of trends) between 1968 and 1997. The findings suggest that political, demographic, and economic forces all exerted downward pressure on child-support payments during this 30-y…
 
 ### The joint effects of marriage partners’ socioeconomic positions on the risk of divorce
 **年份**: 2003 | **DOI**: [10.1353/dem.2003.0004](https://doi.org/10.1353/dem.2003.0004)
@@ -1365,7 +1365,7 @@
 ### The Joint Effects of Marriage Partners' Socioeconomic Positions on the Risk of Divorce
 **年份**: 2003 | **DOI**: [10.2307/3180812](https://doi.org/10.2307/3180812)
 **作者**: Jalovaara, Marika
-**摘要**: （暂无）
+**摘要**: This study investigated the joint effects of spouses' socioeconomic positions on the risk of divorce in Finland. For couples in which both partners were at the lowest educational level, the risk of divorce was lower than could be expected on the basis of the previously documented overall inverse ass…
 
 ### Cohabiting and marriage during young men’s career-development process
 **年份**: 2003 | **DOI**: [10.1353/dem.2003.0006](https://doi.org/10.1353/dem.2003.0006)
@@ -1380,7 +1380,7 @@
 ### Engendering Migrant Networks: The Case of Mexican Migration
 **年份**: 2003 | **DOI**: [10.2307/3180802](https://doi.org/10.2307/3180802)
 **作者**: Curran, Sara R.; Rivero-Fuentes, Estela
-**摘要**: （暂无）
+**摘要**: This article compares the impact of family migrant and destination-specific networks on international and internal migration. We find that migrant networks are more important for international moves than for internal moves and that female networks are more important than male networks for moves with…
 
 ### Cohort and life-course patterns in the relationship between education and health: A hierarchical approach
 **年份**: 2003 | **DOI**: [10.1353/dem.2003.0016](https://doi.org/10.1353/dem.2003.0016)
@@ -1425,7 +1425,7 @@
 ### The Impact of Economic Resources on Premarital Childbearing and Subsequent Marriage among Young American Women
 **年份**: 2003 | **DOI**: [10.2307/3180814](https://doi.org/10.2307/3180814)
 **作者**: Aassve, Arnstein
-**摘要**: （暂无）
+**摘要**: This paper extends previous work on premarital childbearing by modeling both the entry rates and the exit rates of unwed motherhood among young American women. In particular, I investigate the impact of economic resources on the likelihood of experiencing a premarital birth and then of subsequent ma…
 
 ### An evaluation of population projections by age
 **年份**: 2003 | **DOI**: [10.1353/dem.2003.0041](https://doi.org/10.1353/dem.2003.0041)
@@ -1440,7 +1440,7 @@
 ### Early Origins of the Gradient: The Relationship between Socioeconomic Status and Infant Mortality in the United States
 **年份**: 2003 | **DOI**: [10.2307/1515203](https://doi.org/10.2307/1515203)
 **作者**: Finch, Brian Karl
-**摘要**: （暂无）
+**摘要**: Although relationships between social conditions and health have been documented for centuries, the past few decades have witnessed the emergence of socioeconomic gradients in health and mortality in most developed countries.…
 
 ### How an earnings supplement can affect union formation among low-income single mothers
 **年份**: 2003 | **DOI**: [10.1353/dem.2003.0024](https://doi.org/10.1353/dem.2003.0024)
@@ -1465,7 +1465,7 @@
 ### Women's Status and Domestic Violence in Rural Bangladesh: Individual- and Community-Level Effects
 **年份**: 2003 | **DOI**: [10.2307/3180801](https://doi.org/10.2307/3180801)
 **作者**: Koenig, Michael A.; Ahmed, Saifuddin; Hossain, Mian Bazle 等4人
-**摘要**: （暂无）
+**摘要**: We explore the determinants of domestic violence in two rural areas of Bangladesh. We found increased education, higher socioeconomic status, non-Muslim religion, and extended family residence to be associated with lower risks of violence.…
 
 ### Do amnesty programs reduce undocumented immigration? Evidence from Irca
 **年份**: 2003 | **DOI**: [10.1353/dem.2003.0028](https://doi.org/10.1353/dem.2003.0028)
@@ -1475,22 +1475,22 @@
 ### Declining Sex Differences in Mortality from Lung Cancer in High-Income Nations
 **年份**: 2003 | **DOI**: [10.2307/3180811](https://doi.org/10.2307/3180811)
 **作者**: Pampel, Fred C.
-**摘要**: （暂无）
+**摘要**: After decades of widening, the difference in mortality from lung cancer between men and women has begun to narrow in recent years. Recognizing that the increase in smoking among women relative to men is the proximate cause of the changing sex difference in rates of lung cancer, I analyzed two approa…
 
 ### Social Security, Age of Retirement, and Economic Well-Being: Intertemporal and Demographic Patterns among Retired-Worker Beneficiaries
 **年份**: 2003 | **DOI**: [10.2307/3180806](https://doi.org/10.2307/3180806)
 **作者**: Haveman, Robert; Holden, Karen; Wilson, Kathryn 等4人
-**摘要**: （暂无）
+**摘要**: We examine the economic status of a sample of new recipients of social security retired-worker benefits shortly after their first receipt of benefits (1982) and 10 years later (1991).…
 
 ### The Reporting of Sensitive Behavior by Adolescents: A Methodological Experiment in Kenya
 **年份**: 2003 | **DOI**: [10.2307/3180800](https://doi.org/10.2307/3180800)
 **作者**: Mensch, Barbara S.; Hewett, Paul C.; Erulkar, Annabel S.
-**摘要**: （暂无）
+**摘要**: Does audio computer-assisted self-interviewing (ACASI) produce more valid reporting of sexual activity and related behaviors than face-to-face interviews or self-administered interviews?…
 
 ### Do Amnesty Programs Reduce Undocumented Immigration? Evidence from IRCA
 **年份**: 2003 | **DOI**: [10.2307/1515154](https://doi.org/10.2307/1515154)
 **作者**: Orrenius, Pia M.; Zavodny, Madeline
-**摘要**: （暂无）
+**摘要**: This article examines whether mass legalization programs reduce future undocumented immigration. We focus on the effects of the 1986 Immigration Reform and Control Act, which granted amnesty to nearly 2.7 million undocumented immigrants.…
 
 ### Sharing the wealth: The effect of siblings on adults’ wealth ownership
 **年份**: 2003 | **DOI**: [10.1353/dem.2003.0026](https://doi.org/10.1353/dem.2003.0026)
@@ -1505,7 +1505,7 @@
 ### Cohort and Life-Course Patterns in the Relationship between Education and Health: A Hierarchical Approach
 **年份**: 2003 | **DOI**: [10.2307/3180803](https://doi.org/10.2307/3180803)
 **作者**: Lynch, Scott M.
-**摘要**: （暂无）
+**摘要**: Recent medical sociological research has examined whether the relationship between education and health is dynamic across age, whereas recent demographic research has examined whether the relationship varies across cohorts.…
 
 ### Parental leave: The impact of recent legislation on parents’ leave taking
 **年份**: 2003 | **DOI**: [10.1353/dem.2003.0003](https://doi.org/10.1353/dem.2003.0003)
@@ -1525,17 +1525,17 @@
 ### Child Gender and the Transition to Marriage
 **年份**: 2003 | **DOI**: [10.2307/3180804](https://doi.org/10.2307/3180804)
 **作者**: Lundberg, Shelly; Rose, Elaina
-**摘要**: （暂无）
+**摘要**: We estimate the effect of a child's gender on the mother's probability of marriage or remarriage using data from the PSID Marital History and Childbirth and Adoption History Files. We find that the birth of a son speeds the transition into marriage when the child is born before the mother's first ma…
 
 ### Appropriate Methods for Analyzing the Effect of Method Choice on Contraceptive Discontinuation
 **年份**: 2003 | **DOI**: [10.2307/3180809](https://doi.org/10.2307/3180809)
 **作者**: Steele, Fiona; Curtis, Sian
-**摘要**: （暂无）
+**摘要**: The contraceptive method chosen is an important determinant of contraceptive discontinuation. However, method choice is endogenous to contraceptive discontinuation. Using data from the 1997 Indonesia Demographic and Health Survey, we apply a multilevel multiprocess model to examine the impact of met…
 
 ### Verification of the Ages of Supercentenarians in the United States: Results of a Matching Study
 **年份**: 2003 | **DOI**: [10.2307/1515205](https://doi.org/10.2307/1515205)
 **作者**: Rosenwaike, Ira; Stone, Leslie F.
-**摘要**: （暂无）
+**摘要**: Unprecedented declines in mortality among the very old have led to the emergence of "true" supercentenarians (persons aged 110 and over). The ages of these individuals have been welldocumented in European countries with a history of birth registration, but have not been systematically studied in the…
 
 ### Economic potential and entry into marriage and cohabitation
 **年份**: 2003 | **DOI**: [10.1353/dem.2003.0019](https://doi.org/10.1353/dem.2003.0019)
@@ -1550,7 +1550,7 @@
 ### How an Earnings Supplement Can Affect Union Formation among Low-Income Single Mothers
 **年份**: 2003 | **DOI**: [10.2307/1515155](https://doi.org/10.2307/1515155)
 **作者**: Harknett, Kristen; Gennetian, Lisa A.
-**摘要**: （暂无）
+**摘要**: Using data from an experimental evaluation in two Canadian provinces, we found that offering an earnings supplement to single mothers in place of welfare altered rates of marriage and cohabitation, but that the direction of the effects varied by province.…
 
 ### Sharing the Wealth: The Effect of Siblings on Adults' Wealth Ownership
 **年份**: 2003 | **DOI**: [10.2307/1515158](https://doi.org/10.2307/1515158)
@@ -1560,12 +1560,12 @@
 ### An Investigation of Racial and Ethnic Disparities in Birth Weight in Chicago Neighborhoods
 **年份**: 2003 | **DOI**: [10.2307/1515204](https://doi.org/10.2307/1515204)
 **作者**: Sastry, Narayan; Hussey, Jon M.
-**摘要**: （暂无）
+**摘要**: We examine differences in the mean birth weights of infants born to non-Hispanic black, non-Hispanic white, and Mexican-origin Hispanic mothers (of any race) in Chicago in 1990 using linear regression models with neighborhood fixed effects.…
 
 ### Modeling Momentum in Gradual Demographic Transitions
 **年份**: 2003 | **DOI**: [10.2307/1515200](https://doi.org/10.2307/1515200)
 **作者**: Schoen, Robert; Jonsson, Stefan Hrafn
-**摘要**: （暂无）
+**摘要**: The analysis of population momentum following a gradual decline in fertility to replacement level provides valuable insights into prospects for future population growth. Here, we extend recent work in the area by applying a new form of the quadratic hyperstable (QH) model, which relates exponentiall…
 
 ### Social security, age of retirement, and economic well-being: Intertemporal and demographic patterns among retired-worker beneficiaries
 **年份**: 2003 | **DOI**: [10.1353/dem.2003.0012](https://doi.org/10.1353/dem.2003.0012)
@@ -1575,7 +1575,7 @@
 ### Is Low Fertility a Twenty-First-Century Demographic Crisis?
 **年份**: 2003 | **DOI**: [10.2307/1515198](https://doi.org/10.2307/1515198)
 **作者**: Morgan, S. Philip
-**摘要**: （暂无）
+**摘要**: Nearly half of the world's population in 2000 lived in countries with fertility rates at or below replacement level, and nearly all countries will reach low fertility levels in the next two decades. Concerns about low fertility, fertility that is well below replacement, are widespread.…
 
 ### Cohabiting and Marriage during Young Men's Career-Development Process
 **年份**: 2003 | **DOI**: [10.2307/3180815](https://doi.org/10.2307/3180815)
@@ -1605,12 +1605,12 @@
 ### Population Momentum for Gradual Demographic Transitions: An Alternative Approach
 **年份**: 2002 | **DOI**: [10.2307/3088364](https://doi.org/10.2307/3088364)
 **作者**: Goldstein, Joshua R.
-**摘要**: （暂无）
+**摘要**: In this article, I derive a simple formula for approximating the ultimate size of a population that undergoes a gradual transition to replacement fertility. I model the fertility transition by specifying a linear frontier on the Lexis surface across which a change in fertility is instantaneous.…
 
 ### The Effect of Stepchildren on Childbearing Intentions and Births
 **年份**: 2002 | **DOI**: [10.2307/3088370](https://doi.org/10.2307/3088370)
 **作者**: Stewart, Susan D.
-**摘要**: （暂无）
+**摘要**: This article reports on a study of the effect of stepchildren (children from previous unions) on couples' fertility intentions and childbearing behavior using longitudinal data from the National Survey of Families and Households.…
 
 ### An empirical analysis of the matching patterns of same-sex and opposite-sex couples
 **年份**: 2002 | **DOI**: [10.1353/dem.2002.0027](https://doi.org/10.1353/dem.2002.0027)
@@ -1620,17 +1620,17 @@
 ### The Effects of Early Maternal Employment on Child Cognitive Development
 **年份**: 2002 | **DOI**: [10.2307/3088344](https://doi.org/10.2307/3088344)
 **作者**: Waldfogel, Jane; Han, Wen-Jui; Brooks-Gunn, Jeanne
-**摘要**: （暂无）
+**摘要**: We investigated the effects of early maternal employment on children's cognitive outcomes, using data from the National Longitudinal Survey of Youth on 1,872 children who can be followed from birth to age 7 or 8.…
 
 ### Diversity and Change in the Institutional Context of Immigrant Adaptation: California Schools 1985-2000
 **年份**: 2002 | **DOI**: [10.2307/3180824](https://doi.org/10.2307/3180824)
 **作者**: Hook, Jennifer Van; Balistreri, Kelly Stamper
-**摘要**: （暂无）
+**摘要**: Jennifer Van Hook, Kelly Stamper Balistreri, Diversity and Change in the Institutional Context of Immigrant Adaptation: California Schools 1985-2000, Demography, Vol. 39, No. 4 (Nov., 2002), pp. 639-654
 
 ### War, Peace, and Fertility in Angola
 **年份**: 2002 | **DOI**: [10.2307/3088336](https://doi.org/10.2307/3088336)
 **作者**: Agadjanian, Victor; Prata, Ndola
-**摘要**: （暂无）
+**摘要**: Using data from a nationally representative survey conducted in 1996, some two years after the end of a major outbreak of war, we examine the impact of war on the timing of recent births and war-related differences in reproductive preferences in Angola.…
 
 ### Mortality rates of elderly Asian American populations based on medicare and social security data
 **年份**: 2002 | **DOI**: [10.1353/dem.2002.0028](https://doi.org/10.1353/dem.2002.0028)
@@ -1640,12 +1640,12 @@
 ### Whites Who Say They'd Flee: Who Are They, and Why Would They Leave?
 **年份**: 2002 | **DOI**: [10.2307/3180826](https://doi.org/10.2307/3180826)
 **作者**: Krysan, Maria
-**摘要**: （暂无）
+**摘要**: Questions have been raised about whether white flight—one factor contributing to U.S. residential segregation—is driven by racial, race-associated, or neutral ethnocentric concerns. I use closed- and open-ended survey data from the Multi-City Study of Urban Inequality to explore who says they would …
 
 ### Low Birth Weight, Social Factors, and Developmental Outcomes among Children in the United States
 **年份**: 2002 | **DOI**: [10.2307/3088343](https://doi.org/10.2307/3088343)
 **作者**: Boardman, Jason D.; Powers, Daniel A.; Padilla, Yolanda C. 等4人
-**摘要**: （暂无）
+**摘要**: We used six waves of the National Longitudinal Survey of Youth-Child Data (1986–1996) to assess the relative impact of adverse birth outcomes vis-à-vis social risk factors on children's developmental outcomes.…
 
 ### Changing chronic disease rates and longterm declines in functional limitation among older men
 **年份**: 2002 | **DOI**: [10.1353/dem.2002.0003](https://doi.org/10.1353/dem.2002.0003)
@@ -1665,12 +1665,12 @@
 ### Assessing Immigrant Policy Options: Labor Market Conditions and Postreform Declines in Immigrants' Receipt of Welfare
 **年份**: 2002 | **DOI**: [10.2307/3180823](https://doi.org/10.2307/3180823)
 **作者**: Lofstrom, Magnus; Bean, Frank D.
-**摘要**: （暂无）
+**摘要**: Researchers infrequently have focused on assessing the degree to which the changes in welfare policy legislated during the 1990s have affected immigrants' receipt of welfare. Using data from the March Current Population Survey, we analyze the contribution of local labor market conditions to the expl…
 
 ### Stability across Cohorts in Divorce Risk Factors
 **年份**: 2002 | **DOI**: [10.2307/3088342](https://doi.org/10.2307/3088342)
 **作者**: Teachman, Jay D.
-**摘要**: （暂无）
+**摘要**: Over the past quarter-century, many covariates of divorce have been identified. However, the extent to which the effects of these covariates remain constant across time is not known.…
 
 ### How well can we track cohabitation using the sipp? A consideration of direct and inferred measures
 **年份**: 2002 | **DOI**: [10.1353/dem.2002.0024](https://doi.org/10.1353/dem.2002.0024)
@@ -1695,17 +1695,17 @@
 ### Reporting of Fertility Events by Men and Women in Rural Gambia
 **年份**: 2002 | **DOI**: [10.2307/3088333](https://doi.org/10.2307/3088333)
 **作者**: Ratcliffe, Amy A.; Hill, Allan G.; Harrington, David P. 等4人
-**摘要**: （暂无）
+**摘要**: We conducted a survey of male and female fertility in rural villages in The Gambia and compared men and women's reports of recent pregnancy events in the aggregate and of children ever born for matched couples.…
 
 ### A Simple Method for Estimating Age-Specific Rates from Sequential Cross Sections
 **年份**: 2002 | **DOI**: [10.2307/3088340](https://doi.org/10.2307/3088340)
 **作者**: Schmertmann, Carl P.
-**摘要**: （暂无）
+**摘要**: I develop and demonstrate a simple formula for estimating age-specific event rates for a period from "before" and "after" cross sections. The general approach applies to a wide range of estimation problems in demography, the social sciences, and epidemiology.…
 
 ### A Regression Approach to Estimating the Average Number of Persons Per Household
 **年份**: 2002 | **DOI**: [10.2307/3180827](https://doi.org/10.2307/3180827)
 **作者**: Smith, Stanley K.; Nogle, June; Cody, Scott
-**摘要**: （暂无）
+**摘要**: In the housing unit method, population is calculated as the number of households times the average number of persons per household (PPH), plus the population residing in group quarters facilities.…
 
 ### Low birth weight, social factors, and developmental outcomes among children in the United States
 **年份**: 2002 | **DOI**: [10.1353/dem.2002.0015](https://doi.org/10.1353/dem.2002.0015)
@@ -1720,12 +1720,12 @@
 ### Child Care Subsidies and the Employment of Welfare Recipients
 **年份**: 2002 | **DOI**: [10.2307/3088369](https://doi.org/10.2307/3088369)
 **作者**: Meyers, Marcia K.; Heintze, Theresa; Wolf, Douglas A.
-**摘要**: （暂无）
+**摘要**: Changing patterns of maternal employment, coupled with stronger work requirements for welfare recipients, are increasing the demand for child care. For many families, the cost of child care creates a financial burden; for mothers with low incomes and those who are former welfare recipients, these co…
 
 ### Mortality Rates of Elderly Asian American Populations Based on Medicare and Social Security Data
 **年份**: 2002 | **DOI**: [10.2307/3088330](https://doi.org/10.2307/3088330)
 **作者**: Lauderdale, Diane S.; Kestenbaum, Bert
-**摘要**: （暂无）
+**摘要**: We present sex- and age-specific death probabilities for the elderly of six Asian American subgroups— Chinese, Filipino, Indian, Japanese, Korean, and Vietnamese—based on data from Social Security Administration files.…
 
 ### The effect of stepchildren on childbearing intentions and births
 **年份**: 2002 | **DOI**: [10.1353/dem.2002.0011](https://doi.org/10.1353/dem.2002.0011)
@@ -1745,7 +1745,7 @@
 ### Insights from Longitudinal Data on the Earnings Growth of U.S. Foreign-Born Men
 **年份**: 2002 | **DOI**: [10.2307/3088328](https://doi.org/10.2307/3088328)
 **作者**: Duleep, Harriet Orcutt; Dowhan, Daniel J.
-**摘要**: （暂无）
+**摘要**: Does the growth in earnings of foreign-born men exceed that of U.S. natives? We use longitudinal data on earnings from a Social Security Administration (SSA) database matched to the 1994 March Current Population Survey to shed new light on this important issue.…
 
 ### Reporting of fertility events by men and women in rural Gambia
 **年份**: 2002 | **DOI**: [10.1353/dem.2002.0031](https://doi.org/10.1353/dem.2002.0031)
@@ -1755,7 +1755,7 @@
 ### Only English by the Third Generation? Loss and Preservation of the Mother Tongue among the Grandchildren of Contemporary Immigrants
 **年份**: 2002 | **DOI**: [10.2307/3088327](https://doi.org/10.2307/3088327)
 **作者**: Alba, Richard; Logan, John; Lutz, Amy 等4人
-**摘要**: （暂无）
+**摘要**: We investigate whether a three-generation model of linguistic assimilation, known from previous waves of immigration, can be applied to the descendants of contemporary immigrant groups.…
 
 ### Simultaneity in the use of maternal-child health care and contraceptives: evidence from developing countries
 **年份**: 2002 | **DOI**: [10.1353/dem.2002.0001](https://doi.org/10.1353/dem.2002.0001)
@@ -1780,7 +1780,7 @@
 ### Education and Fertility in Sub-Saharan Africa: Individual and Community Effects
 **年份**: 2002 | **DOI**: [10.2307/3088337](https://doi.org/10.2307/3088337)
 **作者**: Kravdal, Oystein
-**摘要**: （暂无）
+**摘要**: Using data from Demographic and Health Surveys for 22 countries in sub-Saharan Africa, I show that the average educational level in a village or a community of a similar size has a significant depressing effect on a woman 's birth rates, net of urbanization and her own education.…
 
 ### Has the Chinese family planning policy been successful in changing fertility preferences?
 **年份**: 2002 | **DOI**: [10.1353/dem.2002.0029](https://doi.org/10.1353/dem.2002.0029)
@@ -1830,17 +1830,17 @@
 ### Does Race Matter? Children's Height in Brazil and South Africa
 **年份**: 2002 | **DOI**: [10.2307/3180830](https://doi.org/10.2307/3180830)
 **作者**: Burgard, Sarah
-**摘要**: （暂无）
+**摘要**: I examine racial differences in child stunting in mid-1990s South Africa and Brazil, two multiracial societies with different histories of legal support for racial discrimination. Using data from nationally representative household samples linked to community-level measures, the analysis shows that …
 
 ### Are Black Workers Missing the Connection? The Effect of Spatial Distance and Employee Referrals on Interfirm Racial Segregation
 **年份**: 2002 | **DOI**: [10.2307/3088329](https://doi.org/10.2307/3088329)
 **作者**: Mouw, Ted
-**摘要**: （暂无）
+**摘要**: I use data on the hiring practices and spatial location of firms in four cities to model the process of interfirm racial segregation. When I control for the spatial location of the firm, the use of employee referrals reduced the probability of hiring a black worker by 75% in firms that are less than…
 
 ### Spatial Variation in Contraceptive Use in Bangladesh: Looking beyond the Borders
 **年份**: 2002 | **DOI**: [10.2307/3088338](https://doi.org/10.2307/3088338)
 **作者**: Amin, Sajeda; Basu, Alaka Malwade; Stephenson, Rob
-**摘要**: （暂无）
+**摘要**: This article promotes a more complete understanding of social change by analyzing spatial patterns of contraceptive use in Bangladesh and the contiguous state of West Bengal in India.…
 
 ### Does race matter? Children’s height in Brazil and South Africa
 **年份**: 2002 | **DOI**: [10.1353/dem.2002.0034](https://doi.org/10.1353/dem.2002.0034)
@@ -1855,7 +1855,7 @@
 ### Demography and the Social Contract
 **年份**: 2002 | **DOI**: [10.2307/3180822](https://doi.org/10.2307/3180822)
 **作者**: Tienda, Marta
-**摘要**: （暂无）
+**摘要**: As the most demographically complex nation in the world, the United States faces ever more formidable challenges to fulfill its commitment to the democratic values of equity and inclusion as the foreign-born share of the population increases.…
 
 ### Has the Chinese Family Planning Policy Been Successful in Changing Fertility Preferences?
 **年份**: 2002 | **DOI**: [10.2307/3088332](https://doi.org/10.2307/3088332)
@@ -1865,7 +1865,7 @@
 ### On the Validity of Retrospective Assessments of Pregnancy Intention
 **年份**: 2002 | **DOI**: [10.2307/3088371](https://doi.org/10.2307/3088371)
 **作者**: Joyce, Ted; Kaestner, Robert; Korenman, Sanders
-**摘要**: （暂无）
+**摘要**: Information on pregnancy intention is often gathered retrospectively (after the birth of a child). This article investigates whether the retrospective assessment of pregnancy intention leads to biased estimates of the extent or consequences of unintended fertility.…
 
 ### Stability across cohorts in divorce risk factors
 **年份**: 2002 | **DOI**: [10.1353/dem.2002.0019](https://doi.org/10.1353/dem.2002.0019)
@@ -1880,7 +1880,7 @@
 ### Forest Fires, Air Pollution, and Mortality in Southeast Asia
 **年份**: 2002 | **DOI**: [10.2307/3088361](https://doi.org/10.2307/3088361)
 **作者**: Sastry, Narayan
-**摘要**: （暂无）
+**摘要**: I assess the population health effects in Malaysia of air pollution from a widespread series of fires that occurred in Indonesia between April and November of 1997. I describe how the fires occurred and why the associated air pollution was so widespread and long lasting.…
 
 ### A Simple method for estimating age-specific rates from sequential cross sections
 **年份**: 2002 | **DOI**: [10.1353/dem.2002.0018](https://doi.org/10.1353/dem.2002.0018)
@@ -1905,17 +1905,17 @@
 ### How Well Can We Track Cohabitation Using the SIPP? A Consideration of Direct and Inferred Measures
 **年份**: 2002 | **DOI**: [10.2307/3088326](https://doi.org/10.2307/3088326)
 **作者**: Baughman, Reagan; Dickert-Conlin, Stacy; Houser, Scott
-**摘要**: （暂无）
+**摘要**: Cohabitation is an alternative to marriage and to living independently for an increasing number of Americans. Still, research that explores links between living arrangements and economic behavior is limited by a lack of data that explicitly identify cohabiting couples.…
 
 ### The Living Arrangements of New Unmarried Mothers
 **年份**: 2002 | **DOI**: [10.2307/3088324](https://doi.org/10.2307/3088324)
 **作者**: Sigle-Rushton, Wendy; McLanahan, Sara
-**摘要**: （暂无）
+**摘要**: We use data from the Fragile Families and Child Wellbeing Study to describe the living arrangements of new, unwed mothers and to examine the selection process that underlies choices of living arrangements.…
 
 ### An Empirical Analysis of the Matching Patterns of Same-Sex and Opposite-Sex Couples
 **年份**: 2002 | **DOI**: [10.2307/3088325](https://doi.org/10.2307/3088325)
 **作者**: Jepsen, Lisa K.; Jepsen, Christopher A.
-**摘要**: （暂无）
+**摘要**: We used 1990 Census data to compare the matching behaviors of four types of cohabiting couples: same-sex male couples, same-sex female couples, opposite-sex unmarried couples, and married couples.…
 
 ### The living arrangements of new unmarried mothers
 **年份**: 2002 | **DOI**: [10.1353/dem.2002.0032](https://doi.org/10.1353/dem.2002.0032)
@@ -1930,17 +1930,17 @@
 ### Private Schools and "Latino Flight" from Black Schoolchildren
 **年份**: 2002 | **DOI**: [10.2307/3180825](https://doi.org/10.2307/3180825)
 **作者**: Fairlie, Robert W.
-**摘要**: （暂无）
+**摘要**: Several recent studies provide evidence that the choice between private and public school among white students is influenced by the racial composition of the local student population.None of these studies, however, examines whether Latinos are also fleeing to private schools in response to black sch…
 
 ### Self-Reported Work-Limitation Data: What They Can and Cannot Tell Us
 **年份**: 2002 | **DOI**: [10.2307/3088331](https://doi.org/10.2307/3088331)
 **作者**: Burkhauser, Richard V.; Daly, Mary C.; Houtenville, Andrew J. 等4人
-**摘要**: （暂无）
+**摘要**: Despite their widespread use in the literature, the Current Population Survey (CPS) and similar surveys have come under attack of late. We put the criticisms in perspective by systematically examining what the CPS data can and cannot be used for in disability research compared to the National Health…
 
 ### AIDS and the Elderly of Thailand: Projecting Familial Impacts
 **年份**: 2002 | **DOI**: [10.2307/3088362](https://doi.org/10.2307/3088362)
 **作者**: Wachter, Kenneth W.; Knodel, John E.; VanLandingham, Mark
-**摘要**: （暂无）
+**摘要**: We apply aggregate demographic analysis and computer microsimulation to project the number of older Thais who will lose children to AIDS during their own lifetimes and to assess their involvement with ill children through caregiving and coresidence.…
 
 ### Are black workers missing the connection? The effect of spatial distance and employee referrals on interfirm racial segregation
 **年份**: 2002 | **DOI**: [10.1353/dem.2002.0030](https://doi.org/10.1353/dem.2002.0030)
@@ -1970,22 +1970,22 @@
 ### Estimating Wealth Effects without Expenditure Data-or Tears: An Application to Educational Enrollments in States of India
 **年份**: 2001 | **DOI**: [10.2307/3088292](https://doi.org/10.2307/3088292)
 **作者**: Filmer, Deon; Pritchett, Lant H.
-**摘要**: （暂无）
+**摘要**: Deon Filmer, Lant H. Pritchett, Estimating Wealth Effects without Expenditure Data-or Tears: An Application to Educational Enrollments in States of India, Demography, Vol. 38, No. 1 (Feb., 2001), pp. 115-132
 
 ### Increasing Longevity and Medicare Expenditures
 **年份**: 2001 | **DOI**: [10.2307/3088302](https://doi.org/10.2307/3088302)
 **作者**: Miller, Tim
-**摘要**: （暂无）
+**摘要**: Official Medicare projections forecast that the elderly population will be less healthy and more costly over the next century. This prediction stems from the use of age as an indicator of health status: increases in longevity are assumed to increase demand for health care as individuals survive to o…
 
 ### A Model of Destination-Language Acquisition: Application to Male Immigrants in Canada
 **年份**: 2001 | **DOI**: [10.2307/3088354](https://doi.org/10.2307/3088354)
 **作者**: Chiswick, Barry R.; Miller, Paul W.
-**摘要**: （暂无）
+**摘要**: We develop a model using human capital theory and an immigrant adjustment process to generate hypotheses on the acquisition of destination-language skills among immigrants. The model is tested for adult male immigrants in the 1991 Census of Canada.…
 
 ### Inequality in Life Expectancy, Functional Status, and Active Life Expectancy across Selected Black and White Populations in the United States
 **年份**: 2001 | **DOI**: [10.2307/3088303](https://doi.org/10.2307/3088303)
 **作者**: Geronimus, Arline T.; Bound, John; Waidmann, Timothy A. 等5人
-**摘要**: （暂无）
+**摘要**: We calculated population-level estimates of mortality, functional health, and active life expectancy for black and white adults living in a diverse set of 23 local areas in 1990, and nationwide.…
 
 ### How enduring were the inequalities among European immigrant groups in the United States?
 **年份**: 2001 | **DOI**: [10.1353/dem.2001.0022](https://doi.org/10.1353/dem.2001.0022)
@@ -1995,17 +1995,17 @@
 ### Ethnic Variations in Observance and Rationale for Postpartum Sexual Abstinence in Malawi
 **年份**: 2001 | **DOI**: [10.2307/3088312](https://doi.org/10.2307/3088312)
 **作者**: Zulu, Eliya Msiyaphazi
-**摘要**: （暂无）
+**摘要**: Using quantitative and qualitative data from three culturally heterogeneous ethnic groups in Malawi, I show that differences in postpartum sexual abstinence are closely associated with community-specific rationales for the practice, particularly differences in the definition and timing of child-stre…
 
 ### Long-Run Convergence of Ethnic Skill Differentials, Revisited
 **年份**: 2001 | **DOI**: [10.2307/3088351](https://doi.org/10.2307/3088351)
 **作者**: Borjas, George J.
-**摘要**: （暂无）
+**摘要**: In my original study, "Long-Run Convergence of Ethnic Skill Differentials," I concluded that the ethnic differentials introduced by the Great Migration seemed to persist into the second and third generations.…
 
 ### Life Expectancies in Specific Health States: Results from a Joint Model of Health Status and Mortality of Older Persons
 **年份**: 2001 | **DOI**: [10.2307/3088316](https://doi.org/10.2307/3088316)
 **作者**: Portrait, France; Lindeboom, Maarten; Deeg, Dorly
-**摘要**: （暂无）
+**摘要**: With the trend toward aging, increases in health care expenditures are expected. Insight into (future) needs for care services requires a taxonomy of older persons’ health conditions: how health status develops as people age and how these health conditions determine residual life expectancy.…
 
 ### The educational enrollment of immigrant youth: A test of the segmented-assimilation hypothesis
 **年份**: 2001 | **DOI**: [10.1353/dem.2001.0028](https://doi.org/10.1353/dem.2001.0028)
@@ -2030,7 +2030,7 @@
 ### Changes in Children's Time with Parents: United States, 1981-1997
 **年份**: 2001 | **DOI**: [10.2307/3088356](https://doi.org/10.2307/3088356)
 **作者**: Sandberg, John F.; Hofferth, Sandra L.
-**摘要**: （暂无）
+**摘要**: In this paper we examine changes in the time American children spent with their parents between 1981 and 1997, and the contribution to these changes made by shifting patterns of female labor force participation, family structure, and parental education.…
 
 ### Availability of child care in the United States: A description and analysis of data sources
 **年份**: 2001 | **DOI**: [10.1353/dem.2001.0016](https://doi.org/10.1353/dem.2001.0016)
@@ -2055,32 +2055,32 @@
 ### Availability of Child Care in the United States: A Description and Analysis of Data Sources
 **年份**: 2001 | **DOI**: [10.2307/3088307](https://doi.org/10.2307/3088307)
 **作者**: Gordon, Rachel A.; Chase-Lansdale, P. Lindsay
-**摘要**: （暂无）
+**摘要**: Lack of high-quality, affordable, and accessible child care is an often-cited impediment to a manageable balance between work and family. Researchers, however, have been restricted by a scarcity of data on the availability of child care across all U.S. communities.…
 
 ### Is Breast-Feeding a Substitute for Contraception in Family Planning?
 **年份**: 2001 | **DOI**: [10.2307/3088314](https://doi.org/10.2307/3088314)
 **作者**: Rous, Jeffrey J.
-**摘要**: （暂无）
+**摘要**: Using data from the Cebu Longitudinal Health and Nutrition Survey, I disentangle the complex interrelationship between breastfeeding, postpartum amenorrhea, and choice of contraceptive method. I find evidence that women substitute breast-feeding for contraception.…
 
 ### Differences in the Locational Attainment of Immigrant and Native-Born Households with Children in New York City
 **年份**: 2001 | **DOI**: [10.2307/3088349](https://doi.org/10.2307/3088349)
 **作者**: Rosenbaum, Emily; Friedman, Samantha
-**摘要**: （暂无）
+**摘要**: In this paper we use a data set created especially for New York City to evaluate whether the locational attainment of households with children, as indicated by the context of the neighborhoods in which they live, varies by their immigrant status.…
 
 ### Variance Effects in the Bongaarts-Feeney Formula
 **年份**: 2001 | **DOI**: [10.2307/3088284](https://doi.org/10.2307/3088284)
 **作者**: Kohler, Hans-Peter; Philipov, Dimiter
-**摘要**: （暂无）
+**摘要**: Bongaarts and Feeney have recently proposed an adjusted total fertility rate to disentangle tempo effects from changes in the quantum of fertility. We propose an extension to the Bongaarts and Feeney formula that includes variance effects: that is, changes in the variance of the fertility schedule o…
 
 ### Evaluating the Performance of the Lee-Carter Method for Forecasting Mortality
 **年份**: 2001 | **DOI**: [10.2307/3088317](https://doi.org/10.2307/3088317)
 **作者**: Lee, Ronald; Miller, Timothy
-**摘要**: （暂无）
+**摘要**: Lee and Carter (LC) published a new statistical method for forecasting mortality in 1992. This paper examines its actual and hypothetical forecast errors, and compares them with Social Security forecast errors.…
 
 ### The Impact of Immigration on the Internal Migration of Natives and Immigrants
 **年份**: 2001 | **DOI**: [10.2307/3088293](https://doi.org/10.2307/3088293)
 **作者**: Kritz, Mary M.; Gurak, Douglas T.
-**摘要**: （暂无）
+**摘要**: In this paper we examine the internal migratory response, by native-born non-Hispanic white men and foreign-born men in the United States, to recent immigration. Our analysis does not support the claim that natives have made a migratory response to recent immigration.…
 
 ### Racial intermarriage pairings
 **年份**: 2001 | **DOI**: [10.1353/dem.2001.0011](https://doi.org/10.1353/dem.2001.0011)
@@ -2105,27 +2105,27 @@
 ### The Density of Social Networks and Fertility Decisions: Evidence from South Nyanza District, Kenya
 **年份**: 2001 | **DOI**: [10.2307/3088287](https://doi.org/10.2307/3088287)
 **作者**: Kohler, Hans-Peter; Behrman, Jere R.; Watkins, Susan C.
-**摘要**: （暂无）
+**摘要**: Demographers have argued increasingly that social interaction is an important mechanism for understanding fertility behavior. Yet it is still quite uncertain whether social learning or social influence is the dominant mechanism through which social networks affect individuals' contraceptive decision…
 
 ### New African American Life Tables from 1935-1940 to 1985-1990
 **年份**: 2001 | **DOI**: [10.2307/3088291](https://doi.org/10.2307/3088291)
 **作者**: Elo, Irma T.
-**摘要**: （暂无）
+**摘要**: New life tables for African Americans are presented from 1935 through 1990. They are based on a historical series of vital statistics data on deaths that have been corrected for age misreporting, on reconstructed population counts that have been adjusted for census underenumeration, and on births th…
 
 ### Circular, Invisible, and Ambiguous Migrants: Components of Difference in Estimates of the Number of Unauthorized Mexican Migrants in the United States
 **年份**: 2001 | **DOI**: [10.2307/3088355](https://doi.org/10.2307/3088355)
 **作者**: Bean, Frank D.; Corona, Rodolfo; Tuiran, Rodolfo 等5人
-**摘要**: （暂无）
+**摘要**: Based on an equation that can be used with available data and that provides a basis for facilitating decomposition analyses, this research estimates that about 2.54 million total (as opposed to enumerated) unauthorized Mexicans resided in the United States in 1996.…
 
 ### Education and Survival: Birth Cohort, Period, and Age Effects
 **年份**: 2001 | **DOI**: [10.2307/3088318](https://doi.org/10.2307/3088318)
 **作者**: Lauderdale, Diane S.
-**摘要**: （暂无）
+**摘要**: Previous studies have found that educational differences in mortality are weaker among the elderly. In this study I examine whether either cohort or period effects may have influenced the interpretation of age effects. Six 10-year birth cohorts are followed over 30 years through decennial censuses.…
 
 ### Increasing Fertility in Cohabiting Unions: Evidence for the Second Demographic Transition in the United States?
 **年份**: 2001 | **DOI**: [10.2307/3088288](https://doi.org/10.2307/3088288)
 **作者**: Raley, R. Kelly
-**摘要**: （暂无）
+**摘要**: As cohabitation becomes increasingly common and accepted, one might expect the meaning of this arrangement to change. In some countries in Europe (e.g., Sweden), as cohabitation became more prevalent, it moved from a deviant status to an acceptable alternative to marriage.…
 
 ### Ethnic variations in observance and rationale for postpartum sexual abstinence in malawi
 **年份**: 2001 | **DOI**: [10.1353/dem.2001.0042](https://doi.org/10.1353/dem.2001.0042)
@@ -2145,7 +2145,7 @@
 ### One Step Back in Understanding Racial Differences in Birth Weight
 **年份**: 2001 | **DOI**: [10.2307/3088320](https://doi.org/10.2307/3088320)
 **作者**: Zuberi, Tukufu
-**摘要**: （暂无）
+**摘要**: In recognition of the biological and social connections in demographic processes, demographers have integrated biological factors into their models of population variation. This new effort has tended to focus on the analysis of fertility and mortality. Edwin J.C.G. van den Oord and David C.…
 
 ### A cross-national comparison of the impact of family migration on women’s employment status
 **年份**: 2001 | **DOI**: [10.1353/dem.2001.0012](https://doi.org/10.1353/dem.2001.0012)
@@ -2155,7 +2155,7 @@
 ### Behavior Genetic Modeling of Human Fertility: Findings from a Contemporary Danish Twin Study
 **年份**: 2001 | **DOI**: [10.2307/3088286](https://doi.org/10.2307/3088286)
 **作者**: Rodgers, Joseph Lee; Kohler, Hans-Peter; Kyvik, Kirsten Ohm 等4人
-**摘要**: （暂无）
+**摘要**: Behavior genetic designs and analyses can be used to address issues of central importance to demography. We use this methodology to document genetic influence on human fertility. Our data come from Danish twin pairs born from 1953 to 1959, measured on age at first attempt to get pregnant (FirstTry) …
 
 ### Differences in the locational attainment of immigrant and native-born households with children in New York City
 **年份**: 2001 | **DOI**: [10.1353/dem.2001.0030](https://doi.org/10.1353/dem.2001.0030)
@@ -2165,7 +2165,7 @@
 ### Immigration and Males' Earnings Inequality in the Regions of the United States
 **年份**: 2001 | **DOI**: [10.2307/3088352](https://doi.org/10.2307/3088352)
 **作者**: Reed, Deborah
-**摘要**: （暂无）
+**摘要**: In this paper I investigate the impact of recent immigration on males' earnings distributions in the major regions of the United States. I use six counterfactual scenarios to describe alternative regional skill distributions and wage structures for the population of natives and long-term immigrants …
 
 ### Circular, invisible, and ambiguous migrants: Components of difference in estimates of the number of unauthorized Mexican migrants in the United States
 **年份**: 2001 | **DOI**: [10.1353/dem.2001.0023](https://doi.org/10.1353/dem.2001.0023)
@@ -2180,12 +2180,12 @@
 ### Dimensions of Women's Autonomy and the Influence on Maternal Health Care Utilization in a North Indian City
 **年份**: 2001 | **DOI**: [10.2307/3088289](https://doi.org/10.2307/3088289)
 **作者**: Bloom, Shelah S.; Wypij, David; das Gupta, Monica
-**摘要**: （暂无）
+**摘要**: The dimensions of women’s autonomy and their relationship to maternal health care utilization were investigated in a probability sample of 300 women in Varanasi, India. We examined the determinants of women’s autonomy in three areas: control over finances, decision-making power, and freedom of movem…
 
 ### Social Inequalities in Disability-Free Life Expectancy in the French Male Population, 1980-1991
 **年份**: 2001 | **DOI**: [10.2307/3088315](https://doi.org/10.2307/3088315)
 **作者**: Cambois, Emmanuelle; Robine, Jean-Marie; Hayward, Mark D.
-**摘要**: （暂无）
+**摘要**: We calculate aggregate indicators of population health for occupational groups to gauge changes in health disparities during the 1980–1991 period. The study is based on the experiences of French adult men in three major occupational classes: managers, manual workers, and an intermediary occupational…
 
 ### The misuse of biology in demographic research on racial/ethnic differences: A reply to van den oord and rowe
 **年份**: 2001 | **DOI**: [10.1353/dem.2001.0034](https://doi.org/10.1353/dem.2001.0034)
@@ -2220,12 +2220,12 @@
 ### How Do Family Planning Workers' Visits Affect Women's Contraceptive Behavior in Bangladesh?
 **年份**: 2001 | **DOI**: [10.2307/3088313](https://doi.org/10.2307/3088313)
 **作者**: Arends-Kuenning, Mary
-**摘要**: （暂无）
+**摘要**: In Bangladesh, family planning workers' visits reduce the costs of contraception and may increase the demand. If visits increase demand or if workers are targeting their visits, past visits by family planning workers should have a positive and significant effect on later probabilities of adopting co…
 
 ### The Influence of Remarriage on the Racial Difference in Mother-Only Families in 1910
 **年份**: 2001 | **DOI**: [10.2307/3088306](https://doi.org/10.2307/3088306)
 **作者**: London, Andrew S.; Elman, Cheryl
-**摘要**: （暂无）
+**摘要**: proportionately or otherwise to promote differentiation from normative Euro-American family patterns. For example, many early (and some contemporary) theorists point to the effects of slavery.…
 
 ### Erratum: Increasing Fertility in Cohabiting Unions: Evidence for the Second Demographic Transition in the United States?
 **年份**: 2001 | **DOI**: [10.2307/3088296](https://doi.org/10.2307/3088296)
@@ -2234,7 +2234,7 @@
 ### Reconsidering Mortality Compression and Deceleration: An Alternative Model of Mortality Rates
 **年份**: 2001 | **DOI**: [10.2307/3088290](https://doi.org/10.2307/3088290)
 **作者**: Lynch, Scott M.; Brown, J. Scott
-**摘要**: （暂无）
+**摘要**: In this research we develop a model of mortality rates that parameterizes mortality deceleration and compression, permits hypothesis tests for change in these parameters over time, and allows for formal gender comparisons.…
 
 ### The Misuse of Biology in Demographic Research on Racial/Ethnic Differences: A Reply to Van Den Oord and Rowe
 **年份**: 2001 | **DOI**: [10.2307/3088319](https://doi.org/10.2307/3088319)
@@ -2244,7 +2244,7 @@
 ### The Educational Enrollment of Immigrant Youth: A Test of the Segmented-Assimilation Hypothesis
 **年份**: 2001 | **DOI**: [10.2307/3088348](https://doi.org/10.2307/3088348)
 **作者**: Hirschman, Charles
-**摘要**: （暂无）
+**摘要**: An analysis of 1990 census data on the educational enrollment of 15- to 17-year-old immigrants to the United States provides partial support for predictions from both the segmented-assimilation hypothesis and the immigrant optimism hypothesis.…
 
 ### Immigration and males’ earnings inequality in the regions of the United States
 **年份**: 2001 | **DOI**: [10.1353/dem.2001.0029](https://doi.org/10.1353/dem.2001.0029)
@@ -2259,12 +2259,12 @@
 ### On the Auspices of Female Migration from Mexico to the United States
 **年份**: 2001 | **DOI**: [10.2307/3088300](https://doi.org/10.2307/3088300)
 **作者**: Cerrutti, Marcela; Massey, Douglas S.
-**摘要**: （暂无）
+**摘要**: In this paper we examine the circumstances and determinants of female migration between Mexico and the United States. Using data from the Mexican Migration Project, we considered the relative timing of males' and females' moves northward.…
 
 ### Women's Health and Pregnancy Outcomes: Do Services Make a Difference?
 **年份**: 2001 | **DOI**: [10.2307/3088304](https://doi.org/10.2307/3088304)
 **作者**: Frankenberg, Elizabeth; Thomas, Duncan
-**摘要**: （暂无）
+**摘要**: We use data from the Indonesia Family Life Survey to investigate the impact of a major expansion in access to midwifery services on health and pregnancy outcomes for women of reproductive age. Between 1990 and 1998 Indonesia trained some 50,000 midwives.…
 
 ### A Sensitivity Analysis of the Bongaarts-Feeney Method for Adjusting Bias in Observed Period Total Fertility Rates
 **年份**: 2001 | **DOI**: [10.2307/3088285](https://doi.org/10.2307/3088285)
@@ -2279,12 +2279,12 @@
 ### How Enduring Were the Inequalities among European Immigrant Groups in the United States?
 **年份**: 2001 | **DOI**: [10.2307/3088350](https://doi.org/10.2307/3088350)
 **作者**: Alba, Richard; Lutz, Amy; Vesselinov, Elena
-**摘要**: （暂无）
+**摘要**: A long-standing and unresolved issue in the study of racial and ethnic groups concerns the persistence of initial inequalities among groups. Recently it has surfaced again in the study of U.S.…
 
 ### Sibling, Peer, Neighbor, and Schoolmate Correlations as Indicators of the Importance of Context for Adolescent Development
 **年份**: 2001 | **DOI**: [10.2307/3088357](https://doi.org/10.2307/3088357)
 **作者**: Duncan, Greg J.; Boisjoly, Johanne; Harris, Kathleen Mullan
-**摘要**: （暂无）
+**摘要**: We use nationally representative data to calculate correlations in achievement and delinquency between genetically differentiated siblings within a family, between peers as defined by adolescents' "best friend" nominations, between schoolmates living in the same neighborhood, and between grademates …
 
 ### Inequality in life expectancy, functional status, and active life expectancy across selected black and white populations in the United States
 **年份**: 2001 | **DOI**: [10.1353/dem.2001.0015](https://doi.org/10.1353/dem.2001.0015)
@@ -2304,7 +2304,7 @@
 ### A Step in Another Direction: Looking for Maternal Genetic and Environmental Effects on Racial Differences in Birth Weight
 **年份**: 2001 | **DOI**: [10.2307/3088321](https://doi.org/10.2307/3088321)
 **作者**: van den Oord, Edwin J.C.G.; Rowe, David C.
-**摘要**: （暂无）
+**摘要**: Edwin J.C.G. van den Oord, David C. Rowe, A Step in Another Direction: Looking for Maternal Genetic and Environmental Effects on Racial Differences in Birth Weight, Demography, Vol. 38, No. 4 (Nov., 2001), pp. 573-576
 
 ### Increasing fertility in cohabiting unions: Evidence for the second demographic transition in the United States?
 **年份**: 2001 | **DOI**: [10.1353/dem.2001.0008](https://doi.org/10.1353/dem.2001.0008)
@@ -2329,7 +2329,7 @@
 ### Savings/Credit Group Formation and Change in Contraception
 **年份**: 2001 | **DOI**: [10.2307/3088305](https://doi.org/10.2307/3088305)
 **作者**: Steele, Fiona; Amin, Sajeda; Naved, Ruchira T.
-**摘要**: （暂无）
+**摘要**: We examine the characteristics of women who chose to join a women's savings or credit group organized by Save the Children USA in a rural area of Bangladesh, and the impact of participation on contraceptive use.…
 
 ### Dimensions of women’s autonomy and the influence on maternal health care utilization in a North Indian city
 **年份**: 2001 | **DOI**: [10.1353/dem.2001.0001](https://doi.org/10.1353/dem.2001.0001)
@@ -2339,7 +2339,7 @@
 ### A Cross-National Comparison of the Impact of Family Migration on Women's Employment Status
 **年份**: 2001 | **DOI**: [10.2307/3088301](https://doi.org/10.2307/3088301)
 **作者**: Boyle, Paul; Cooke, Thomas J.; Halfacree, Keith 等4人
-**摘要**: （暂无）
+**摘要**: In this paper we consider the effects of family migration on women's employment status, using census microdata from Great Britain and the United States. We test a simple hypothesis that families tend to move long distances in favor of the male's career and that this can have a detrimental effect on …
 
 ### Estimating wealth effects without expenditure data—or tears: An application to educational enrollments in states of India
 **年份**: 2001 | **DOI**: [10.1353/dem.2001.0003](https://doi.org/10.1353/dem.2001.0003)
@@ -2349,17 +2349,17 @@
 ### Immigrants' Welfare Use and Opportunity for Contact with Co-Ethnics
 **年份**: 2001 | **DOI**: [10.2307/3088353](https://doi.org/10.2307/3088353)
 **作者**: Hao, Lingxin; Kawano, Yukio
-**摘要**: （暂无）
+**摘要**: In this article we examine the relationship between immigrants' welfare use and their social capital, using the 1990 census. We measure community social capital using contact with co-ethnics and coethnics' economic inactivity, and examine the use of AFDC and SSI in two subpopulations: single-mother …
 
 ### Racial Intermarriage Pairings
 **年份**: 2001 | **DOI**: [10.2307/3088297](https://doi.org/10.2307/3088297)
 **作者**: Fu, Vincent Kang
-**摘要**: （暂无）
+**摘要**: Most studies of racial intermarriage rely on the prevalence of intermarriage to measure the strength of group boundaries, without scrutinizing the nature of intermarriage pairings. Examination of intermarried couples’ characteristics reveals (1) that intermarriages and endogamous marriages follow di…
 
 ### Black-White Unions: West Indians and African Americans Compared
 **年份**: 2001 | **DOI**: [10.2307/3088299](https://doi.org/10.2307/3088299)
 **作者**: Model, Suzanne; Fisher, Gene
-**摘要**: （暂无）
+**摘要**: In this research we use 1990 PUMS data to compare the propensity for unions between African Americans and native whites with the propensity for unions between British West Indians and native whites. In addition, we distinguish women and men.…
 
 ### Reconsidering mortality compression and deceleration: An alternative model of mortality rates
 **年份**: 2001 | **DOI**: [10.1353/dem.2001.0007](https://doi.org/10.1353/dem.2001.0007)
@@ -2414,7 +2414,7 @@
 ### Diverging Fertility among U.S. Women Who Delay Childbearing Past Age 30
 **年份**: 2000 | **DOI**: [10.2307/2648078](https://doi.org/10.2307/2648078)
 **作者**: Martin, Steven P.
-**摘要**: （暂无）
+**摘要**: In this paper I examine the evolving association between educational attainment and the timing of births. In the late 1970s, women with four-year college degrees had lower first birth rates before age 30 than women with less education, but rates of first births were similar for the two groups after …
 
 ### How does POSSLQ measure up? Historical estimates of cohabitation
 **年份**: 2000 | **DOI**: [10.2307/2648125](https://doi.org/10.2307/2648125)
@@ -2449,12 +2449,12 @@
 ### Understanding the Sex Ratio in India: A Simulation Approach
 **年份**: 2000 | **DOI**: [10.2307/2648074](https://doi.org/10.2307/2648074)
 **作者**: Griffiths, Paula; Matthews, Zoe; Hinde, Andrew
-**摘要**: （暂无）
+**摘要**: The highly masculine sex ratio in India has increased substantially in the twentieth century, in contrast to most other countries in the world. Competing arguments alternatively posit underenumeration, highly masculine sex ratios at birth, or excess female mortality throughout the life course as the…
 
 ### Intra-Ethnic Diversity in Hispanic Child Mortality, 1890-1910
 **年份**: 2000 | **DOI**: [10.2307/2648073](https://doi.org/10.2307/2648073)
 **作者**: Gutmann, Myron P.; Haines, Michael R.; Frisbie, W. Parker 等4人
-**摘要**: （暂无）
+**摘要**: Using a representative sample of the Hispanic population of the United States based on the manuscripts of the 1910 census, we estimate childhood mortality for the period from approximately 1890 to 1910.…
 
 ### Measuring living standards with proxy variables
 **年份**: 2000 | **DOI**: [10.2307/2648118](https://doi.org/10.2307/2648118)
@@ -2529,7 +2529,7 @@
 ### Demographics of Dumping II: A National Environmental Equity Survey and the Distribution of Hazardous Materials Handlers
 **年份**: 2000 | **DOI**: [10.2307/2648072](https://doi.org/10.2307/2648072)
 **作者**: Davidson, Pamela; Anderton, Douglas L.
-**摘要**: （暂无）
+**摘要**: Using a national survey of facilities governed by the Resource Conservation and Recovery Act (RCRA), we examine the sociospatial distribution of a much larger group of hazardous materials handlers than did previous environmental equity studies.…
 
 ### Social security, economic growth, and the rise in elderly widows’ independence in the twentieth century
 **年份**: 2000 | **DOI**: [10.2307/2648124](https://doi.org/10.2307/2648124)
@@ -2549,7 +2549,7 @@
 ### Marital Protection and Marital Selection: Evidence from a Historical-Prospective Sample of American Men
 **年份**: 2000 | **DOI**: [10.2307/2648077](https://doi.org/10.2307/2648077)
 **作者**: Murray, John E.
-**摘要**: （暂无）
+**摘要**: Whether marriage causes people to live longer or whether healthier people select into marriage is an open question. In this study I followed a sample of men from age 18 to first marriage and ultimately to death. Health in early adulthood was represented by height and weight around age 20.…
 
 ### Racial differences in birth health risk: A quantitative genetic approach
 **年份**: 2000 | **DOI**: [10.2307/2648042](https://doi.org/10.2307/2648042)
@@ -2584,7 +2584,7 @@
 ### Forecasting Enrollments for Immigrant Entry-Port School Districts
 **年份**: 2000 | **DOI**: [10.2307/2648076](https://doi.org/10.2307/2648076)
 **作者**: Morrison, Peter A.
-**摘要**: （暂无）
+**摘要**: This paper projects school enrollments in Santa Ana, California and evaluates the accuracy of the projections. It emphasizes the distinctive aspects of a local setting undergoing substantial immigrant influx and highlights the uncertainties that must be addressed.…
 
 ### Demographics of the gay and lesbian population in the United States: Evidence from available systematic data sources
 **年份**: 2000 | **DOI**: [10.2307/2648117](https://doi.org/10.2307/2648117)
@@ -2599,12 +2599,12 @@
 ### The Spatial Separation of the Poor in Canadian Cities
 **年份**: 2000 | **DOI**: [10.2307/2648071](https://doi.org/10.2307/2648071)
 **作者**: Fong, Eric; Shibuya, Kumiko
-**摘要**: （暂无）
+**摘要**: We used the 1991 Canadian census to examine the extent of spatial separation of the poor in Canadian cities. Although there were no extensive areas of blight, decay, or housing abandonment, we found high spatial separation of poor visible minorities in the selected cities.…
 
 ### Demographic Models of Birth Outcomes and Infant Mortality: An Alternative Measurement Approach
 **年份**: 2000 | **DOI**: [10.2307/2648075](https://doi.org/10.2307/2648075)
 **作者**: Solis, Patricio; Pullum, Starling G.; Frisbie, W. Parker
-**摘要**: （暂无）
+**摘要**: Most demographic studies use 2,500 grams of birth weight and 37 weeks of gestation as cutpoints for evaluating the effects of adverse birth outcomes on infant mortality. We propose an alternative strategy, which relies on continuous measures of birth outcomes, identifies an optimal combination of bi…
 
 ### Demographic models of birth outcomes and infant mortality: An alternative measurement approach
 **年份**: 2000 | **DOI**: [10.1353/dem.2000.0011](https://doi.org/10.1353/dem.2000.0011)
@@ -2629,7 +2629,7 @@
 ### Refinements of a methodology for detecting married couples in the medicare data
 **年份**: 2000 | **DOI**: [10.2307/2648127](https://doi.org/10.2307/2648127)
 **作者**: Iwashyna, Theodore J.; Zhang, James X.; Lauderdale, Diane S. 等4人
-**摘要**: （暂无）
+**摘要**: This article is a commentary on the methodology used by Kestenbaum in detecting married couples in the US. First the authors considered Kestenbaums efforts in conducting parallel analyses on this subject using the data sets of the Social Security Administration and his ability to confirm the main po…
 
 ### Forecasting enrollments for immigrant entry-port school districts
 **年份**: 2000 | **DOI**: [10.1353/dem.2000.0009](https://doi.org/10.1353/dem.2000.0009)
@@ -2639,7 +2639,7 @@
 ### Explaining Levels of Within-Group Wage Inequality in U.S. Labor Markets
 **年份**: 2000 | **DOI**: [10.2307/2648069](https://doi.org/10.2307/2648069)
 **作者**: McCall, Leslie
-**摘要**: （暂无）
+**摘要**: Most research on earnings inequality has focused on the growing gap between workers of different races and at different education, age, and income levels, but a large portion of the increasing inequality has actually occurred within these groups.…
 
 ### Are births underreported in rural China? Manipulation of statistical records in response to China’s population policies
 **年份**: 2000 | **DOI**: [10.2307/2648100](https://doi.org/10.2307/2648100)

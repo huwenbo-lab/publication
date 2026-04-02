@@ -224,7 +224,7 @@
 ### Cultivating theoretical advances in family science: JFTR's innovation continues
 **年份**: 2025 | **DOI**: [10.1111/jftr.12631](https://doi.org/10.1111/jftr.12631)
 **作者**: Allen, Katherine R.
-**摘要**: （暂无）
+**摘要**: As Editor of the Journal of Family Theory & Review, I have the privilege of seeing the remarkable diversity that comes our way from intersectional, interdisciplinary, and international perspectives.JFTR readers and authors share a passion for theorizing about families from a wide range of traditiona…
 
 ### Seahorse Dads: Theorizing Gender and Parenting Beyond the Binary
 **年份**: 2025 | **DOI**: [10.1111/jftr.70015](https://doi.org/10.1111/jftr.70015)
@@ -249,7 +249,7 @@
 ### Embracing age: How Catholic nuns became models of aging well. By Anna I.Corwin. 2021. New Brunswick, NJ: Rutgers University Press. 2021. pp. 202. $32.95 (paperback). ISBN: 9781978822276
 **年份**: 2025 | **DOI**: [10.1111/jftr.12625](https://doi.org/10.1111/jftr.12625)
 **作者**: Keenoy, Jaclyn Elisa; Torrez, Fatima Hernandez; Taylor, Natalia
-**摘要**: （暂无）
+**摘要**: We have no known conflict of interest to disclose.
 
 ### Quantify or Classify? Recommendations for Ambiguous Loss Versus Boundary Ambiguity
 **年份**: 2025 | **DOI**: [10.1111/jftr.70011](https://doi.org/10.1111/jftr.70011)
@@ -294,7 +294,7 @@
 ### Unifying human development and family science: Navigating identity challenges in higher education
 **年份**: 2025 | **DOI**: [10.1111/jftr.12607](https://doi.org/10.1111/jftr.12607)
 **作者**: Weiser, Dana A.; Knopik, Valerie S.; Horn, Stacey S. 等10人
-**摘要**: （暂无）
+**摘要**: Co-Guest editors Ramona Faith Oswald and Anisa Zvonkovic invited us to comment on the article by Dyer (2024) in the special issue, Theorizing Academia: Critical and Futuristic Perspectives.…
 
 ### Issue Information
 **年份**: 2025 | **DOI**: [10.1111/jftr.12565](https://doi.org/10.1111/jftr.12565)
@@ -333,7 +333,7 @@
 ### The sociocultural context of romantic relationships. By Brian G.Ogolsky. 2024. Cambridge, UK: Cambridge University Press. pp. 275. $32.99 (paperback). ISBN: 978‐1‐009‐15866‐4
 **年份**: 2025 | **DOI**: [10.1111/jftr.12622](https://doi.org/10.1111/jftr.12622)
 **作者**: Weiser, Dana A.; Black, Randi; Pickett, Aubrey
-**摘要**: （暂无）
+**摘要**: The authors declare no conflicts of interest.
 
 ### Resilience in the COVID‐19 Pandemic and Beyond: A Dynamic Multilevel Systemic Resilience Model
 **年份**: 2025 | **DOI**: [10.1111/jftr.70017](https://doi.org/10.1111/jftr.70017)
@@ -343,7 +343,7 @@
 ### Reflexive voices: Revealing the person behind the science
 **年份**: 2025 | **DOI**: [10.1111/jftr.70007](https://doi.org/10.1111/jftr.70007)
 **作者**: Sanner, Caroline
-**摘要**: （暂无）
+**摘要**: The author declares no conflicts of interest. Data sharing not applicable to this article as no datasets were generated or analyzed during the current study.
 
 ### Intersectional Scholar Advocacy in a Shifting United States Political Landscape
 **年份**: 2025 | **DOI**: [10.1111/jftr.70024](https://doi.org/10.1111/jftr.70024)
@@ -378,12 +378,12 @@
 ### Resilient relationships: Techniques for surviving hyper‐individualism, social isolation, and a mental health crisis. By CarolineHeim, ChristianHeim. 2023. New York, NY: Routledge. pp. 280. ISBN: 9781032203911
 **年份**: 2025 | **DOI**: [10.1111/jftr.12623](https://doi.org/10.1111/jftr.12623)
 **作者**: Ross, Jennifer Calloway
-**摘要**: （暂无）
+**摘要**: The author declares no conflicts of interest.
 
 ### The War on Intersectionality
 **年份**: 2025 | **DOI**: [10.1111/jftr.70021](https://doi.org/10.1111/jftr.70021)
 **作者**: Grzanka, Patrick R.
-**摘要**: （暂无）
+**摘要**: Intersectionality scholars, including myself, spent much of the past 15+ years in what Jennifer Nash (2017) called the “intersectionality wars” (17), or fierce and sometimes deeply personal debates on the appropriate uses and perceived abuses of intersectionality in academic scholarship.…
 
 ### The association between dual filial piety and life satisfaction: A meta‐analysis
 **年份**: 2025 | **DOI**: [10.1111/jftr.12614](https://doi.org/10.1111/jftr.12614)
@@ -428,7 +428,7 @@
 ### To boldly go: The paradigmatic framework, coordination theory, and the quest for unified theory
 **年份**: 2025 | **DOI**: [10.1111/jftr.12630](https://doi.org/10.1111/jftr.12630)
 **作者**: Constantine, Larry L.
-**摘要**: （暂无）
+**摘要**: The supreme goal of all theory is to make the irreducible basic elements as simple and as few as possible without having to surrender the adequate representation of a single datum of experience.—Albert Einstein Todd Jensen (2024) began his commentary with a plea for humility in science.…
 
 ### Theorizing academia: Focus on human development and family science
 **年份**: 2025 | **DOI**: [10.1111/jftr.12615](https://doi.org/10.1111/jftr.12615)
@@ -463,7 +463,7 @@
 ### Types, dimensions, and limitations
 **年份**: 2024 | **DOI**: [10.1111/jftr.12603](https://doi.org/10.1111/jftr.12603)
 **作者**: Bell, David C.
-**摘要**: （暂无）
+**摘要**: Constantine's (2025) theoretical framework has been shown to provide a useful set of orienting ideas, and the set of papers cited show where other authors have employed it. Therapists have clearly gained useful insights from these orienting ideas to help them perceive and analyze family processes.…
 
 ### Systems intelligence and families
 **年份**: 2024 | **DOI**: [10.1111/jftr.12585](https://doi.org/10.1111/jftr.12585)
@@ -498,7 +498,7 @@
 ### Intentional allyship at the intersection: Moving the human sciences forward
 **年份**: 2024 | **DOI**: [10.1111/jftr.12602](https://doi.org/10.1111/jftr.12602)
 **作者**: Youngblade, Lise M.
-**摘要**: （暂无）
+**摘要**: Many years ago, my graduate mentor, Jay Belsky, said something to me that has stuck with me throughout my career: “Ideas that move us forward are found at the intersection.” Indeed, this sentiment has been in my thoughts as I have read and reflected on “Human Development and Family Science: A Story …
 
 ### Testimonio as a methodology in the study of sexual and intimate partner violence
 **年份**: 2024 | **DOI**: [10.1111/jftr.12558](https://doi.org/10.1111/jftr.12558)
@@ -581,7 +581,7 @@
 ### Family keyworker as a non‐clinical and democratic figure to support hard‐to‐reach families from an attachment perspective
 **年份**: 2024 | **DOI**: [10.1111/jftr.12556](https://doi.org/10.1111/jftr.12556)
 **作者**: Berástegui, Ana; Pitillas, Carlos
-**摘要**: （暂无）
+**摘要**: We express gratitude to both Silvia Lordello and Daniel J. Puhlman for their insightful comments on our paper entitled “The Family Keyworker as a Critical Element for Attachment Resilience in the Face of Adversity” (Berástegui & Pitillas, 2024).…
 
 ### Self‐care rhetoric and institutional culpability: Theorizing the academy and intellectual labor
 **年份**: 2024 | **DOI**: [10.1111/jftr.12567](https://doi.org/10.1111/jftr.12567)
@@ -660,7 +660,7 @@
 ### Celebrating the “good‐enough families”: Family challenges and resilience during global adversity
 **年份**: 2024 | **DOI**: [10.1111/jftr.12557](https://doi.org/10.1111/jftr.12557)
 **作者**: Crespo, Carla; Relvas, Ana Paula
-**摘要**: （暂无）
+**摘要**: Families have historically been and remain the most significant units of human existence (Montefiore, 2022). The recognition of the families' paradoxical position is as old as the beginning of family science.…
 
 ### Couple and family optimal experiences: Integrating flow theory into the relational sciences
 **年份**: 2024 | **DOI**: [10.1111/jftr.12576](https://doi.org/10.1111/jftr.12576)
@@ -679,12 +679,12 @@
 ### Comparing the Circumplex Model and the Paradigmatic Framework
 **年份**: 2024 | **DOI**: [10.1111/jftr.12604](https://doi.org/10.1111/jftr.12604)
 **作者**: Wojciak, Armeda Stevenson; Olson, David H.
-**摘要**: （暂无）
+**摘要**: The circumplex model of marital and family systems (Olson et al., 1979) was developed to bridge the gap between theory, research, and clinical practice (Olson et al., 1989). The Circumplex Model (CM) is based on theoretical ideas from a variety of theorists and researchers who have worked independen…
 
 ### Contexts and concepts: Thoughts on the paradigmatic framework
 **年份**: 2024 | **DOI**: [10.1111/jftr.12600](https://doi.org/10.1111/jftr.12600)
 **作者**: Willis, Bethany; DiGregorio, Nikki
-**摘要**: （暂无）
+**摘要**: Although it may be a bit untraditional, we'd like to begin this commentary with sincere expressions of gratitude. We are grateful to Larry Constantine for his legacy of thoughtful and diligent efforts in promoting theoretical advancement in Family Science.…
 
 ### A symbolic interactionist model of White adolescents' digital critical racial literacy and digital anti‐racist action
 **年份**: 2024 | **DOI**: [10.1111/jftr.12568](https://doi.org/10.1111/jftr.12568)
@@ -758,7 +758,7 @@
 ### JFTR's venues and voices for family theorizing and critical review
 **年份**: 2023 | **DOI**: [10.1111/jftr.12513](https://doi.org/10.1111/jftr.12513)
 **作者**: Allen, Katherine R.
-**摘要**: （暂无）
+**摘要**: Journal of Family Theory & Review (JFTR) offers an array of creative and critical voices that champion theory advancement, methodological innovation, and scholarly contributions to social justice.…
 
 ### The stability of singlehood: Limitations of the relationship status paradigm and a new theoretical framework for reimagining singlehood
 **年份**: 2023 | **DOI**: [10.1111/jftr.12506](https://doi.org/10.1111/jftr.12506)
@@ -955,7 +955,7 @@
 ### LGBTQ family building: A guide for prospective parents. By Abbie E.Goldberg, Washington, DC: American Psychological Association. 2022. pp. 295. $16.99 (paperback). ISBN: 978‐1‐4338‐3392‐2
 **年份**: 2023 | **DOI**: [10.1111/jftr.12544](https://doi.org/10.1111/jftr.12544)
 **作者**: Tarantino, Mari; Sanner, Caroline
-**摘要**: （暂无）
+**摘要**: LGBTQ young people are increasingly considering parenthood for themselves (Patterson & Riskind, 2010; Reczek, 2020; Riskind et al., 2013; Simon et al., 2018), yet most books on family building assume a heterosexual, cisgender audience.…
 
 ### Dyadic bicultural competence: A new way of conceptualizing patterns of cultural competence in close relationships
 **年份**: 2023 | **DOI**: [10.1111/jftr.12541](https://doi.org/10.1111/jftr.12541)

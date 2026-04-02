@@ -55,6 +55,7 @@ publication/
 │
 ├── build_articles.py          # 从 XLS 构建 articles.json
 ├── enrich_crossref.py         # CrossRef API 补全摘要/DOI/历史数据
+├── enrich_openalex.py         # OpenAlex + Semantic Scholar 补全摘要
 ├── update.py                  # 定期更新脚本
 ├── check_quality.py           # 数据质量检查
 ├── build_lit_db.py            # 生成 lit_db/ 目录
@@ -153,6 +154,7 @@ python build_search_db.py --rebuild
 source venv/bin/activate
 python build_articles.py      # 从 raw_data/*.xls 重建
 python enrich_crossref.py     # CrossRef 补全（耗时较长）
+python enrich_openalex.py     # OpenAlex + S2 二次补全摘要
 python build_lit_db.py        # 重建 AI 查阅索引
 python build_search_db.py     # 重建全文检索数据库
 ```

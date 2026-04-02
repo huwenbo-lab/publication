@@ -848,7 +848,7 @@
 ### Introduction to mid-decade Special Issue on Theory and Methods
 **年份**: 2024 | **DOI**: [10.1111/jomf.13039](https://doi.org/10.1111/jomf.13039)
 **作者**: Sayer, Liana C.
-**摘要**: （暂无）
+**摘要**: This issue, Volume 86, number 5, is the sixth contribution to the Journal of Marriage and Family's tradition of mid-decade issues on theory and method. The objective of the mid-decade Special Issues is to showcase theoretical and methodological advances in family research over the last decade, with …
 
 ### The ties that bind: Questions for studying families in neighborhood contexts
 **年份**: 2024 | **DOI**: [10.1111/jomf.13026](https://doi.org/10.1111/jomf.13026)

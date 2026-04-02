@@ -1789,7 +1789,7 @@
 ### Where Are the Children?
 **年份**: 2015 | **DOI**: [10.1177/0891243215612412](https://doi.org/10.1177/0891243215612412)
 **作者**: Whittier, Nancy
-**摘要**: （暂无）
+**摘要**: Feminists have been central to virtually every era of activism around child sexual
 
 ### Same-Sex Marriage and the Future of the LGBT Movement
 **年份**: 2015 | **DOI**: [10.1177/0891243215575287](https://doi.org/10.1177/0891243215575287)
@@ -1814,7 +1814,7 @@
 ### The Rape Prone Culture of Academic Contexts
 **年份**: 2015 | **DOI**: [10.1177/0891243215612708](https://doi.org/10.1177/0891243215612708)
 **作者**: Martin, Patricia Yancey
-**摘要**: （暂无）
+**摘要**: Keywords: sexual violence, women
 
 ### Book Review: Muslim American Women on Campus: Undergraduate Social Life and Identity by Shabana Mir
 **年份**: 2015 | **DOI**: [10.1177/0891243215573749](https://doi.org/10.1177/0891243215573749)
@@ -3831,7 +3831,7 @@
 ### Dana M. Britton (2007-2011)
 **年份**: 2011 | **DOI**: [10.1177/0891243211407633](https://doi.org/10.1177/0891243211407633)
 **作者**: Britton, Dana M.
-**摘要**: （暂无）
+**摘要**: Gender & Society started in 1986, the same year that I received my PhD. When I applied to edit the journal in 2004,1 wrote that I saw myself as a beneficiary of the journal, and that I wanted to pass on those benefits to the next generation.…
 
 ### Book Review: The State of Sex: Tourism, Sex, and Sin in the New American Heartland
 **年份**: 2011 | **DOI**: [10.1177/0891243210391897](https://doi.org/10.1177/0891243210391897)
@@ -3856,7 +3856,7 @@
 ### Margaret L. Andersen (1991-1995)
 **年份**: 2011 | **DOI**: [10.1177/0891243211407491](https://doi.org/10.1177/0891243211407491)
 **作者**: Andersen, Margaret L.
-**摘要**: （暂无）
+**摘要**: I became editor of Gender & Society in 1990 (first issue, June 1991). At the time, there were very few places for feminist scholars to publish their work. The major journals were Signs: A Journal of Women in Culture and Society, Sex Roles, and Feminist Studies.…
 
 ### Book Review: Women on Probation and Parole: A Feminist Critique of Community Programs and Services
 **年份**: 2011 | **DOI**: [10.1177/0891243210394171](https://doi.org/10.1177/0891243210394171)
@@ -3866,7 +3866,7 @@
 ### Christine E. Bose (2000-2003)
 **年份**: 2011 | **DOI**: [10.1177/0891243211407631](https://doi.org/10.1177/0891243211407631)
 **作者**: Bose, Christine E.
-**摘要**: （暂无）
+**摘要**: in demonstrating how to think about policy and offer models for women centered and feminist social action. The experience of editor provided nearly daily contact with the work of scholars across the country. It was always educational and also humbling.…
 
 ### Book Review: A Typology of Domestic Violence: Intimate Terrorism, Violent Resistance, and Situational Couple Violence
 **年份**: 2011 | **DOI**: [10.1177/0891243211405653](https://doi.org/10.1177/0891243211405653)
@@ -3896,7 +3896,7 @@
 ### Beth E. Schneider (1996-1999)
 **年份**: 2011 | **DOI**: [10.1177/0891243211407490](https://doi.org/10.1177/0891243211407490)
 **作者**: Schneider, Beth E.
-**摘要**: （暂无）
+**摘要**: 1992), coedited by Doris Wilkinson, Maxine Baca Zinn, and Esther Ngan Ling Chow; and Sexual Identities/Sexual Communities (September 1994), edited by Beth E. Schneider. Each of these called attention to critical theo retical and empirical topics that marked the time.…
 
 ### Gender in Context, Content, and Approach
 **年份**: 2011 | **DOI**: [10.1177/0891243210390517](https://doi.org/10.1177/0891243210390517)
@@ -3971,7 +3971,7 @@
 ### Judith Lorber (1987-1990)
 **年份**: 2011 | **DOI**: [10.1177/0891243211407632](https://doi.org/10.1177/0891243211407632)
 **作者**: Lorber, Judith
-**摘要**: （暂无）
+**摘要**: When I became the first editor of Gender & Society, Mitch Allen, then an editor at Sage, told me that the journal would be successful if we got close to 1,000 library subscriptions in the first year (I think we got more than 900).…
 
 ### Book Review: Liberalization’s Children: Gender, Youth, and Consumer Citizenship in Globalizing India
 **年份**: 2011 | **DOI**: [10.1177/0891243211408717](https://doi.org/10.1177/0891243211408717)
@@ -4091,7 +4091,7 @@
 ### Christine Williams (2004-2006)
 **年份**: 2011 | **DOI**: [10.1177/0891243211407492](https://doi.org/10.1177/0891243211407492)
 **作者**: Williams, Christine
-**摘要**: （暂无）
+**摘要**: Perspectives on and Carework, guest-edited by Mary Zimmerman and Jacqueline Litt, did come to fruition during my editorial term. I also began an inter-journal exchange with the Asian of Women's Studies', and abroad, I co-organized a panel of Latin American and Caribbean and U.S.…
 
 ### With Thanks
 **年份**: 2011 | **DOI**: [10.1177/0891243211425895](https://doi.org/10.1177/0891243211425895)
@@ -4240,7 +4240,7 @@
 ### The Uneven Pace of Change in Heterosexual Romantic Relationships
 **年份**: 2010 | **DOI**: [10.1177/0891243210390356](https://doi.org/10.1177/0891243210390356)
 **作者**: Graf, Nikki L.; Schwartz, Christine R.
-**摘要**: （暂无）
+**摘要**: In The Gender Revolution: Uneven and Stalled, Paula England (2010) argues that gender dynamics ha changed little in the personal realm, particularly with respect to heterosexual romantic relationships.…
 
 ### Elementary School Girls and Heteronormativity
 **年份**: 2010 | **DOI**: [10.1177/0891243209358579](https://doi.org/10.1177/0891243209358579)
@@ -4280,7 +4280,7 @@
 ### Women and Men as Class and Race Actors
 **年份**: 2010 | **DOI**: [10.1177/0891243210389812](https://doi.org/10.1177/0891243210389812)
 **作者**: McCall, Leslie
-**摘要**: （暂无）
+**摘要**: Paula England's ambition in Gender Revolution: Uneven and Stalled (2010) is to explain why occupational sex segr gation and the gender division of familial labor are still robust despite decades of egalitarian values and policies.…
 
 ### Doing, Undoing, or Redoing Gender?
 **年份**: 2010 | **DOI**: [10.1177/0891243209356429](https://doi.org/10.1177/0891243209356429)
@@ -4350,7 +4350,7 @@
 ### Sex Segregation in the Blue-collar Occupations: Women’s Choices or Unremedied Discrimination?
 **年份**: 2010 | **DOI**: [10.1177/0891243210389813](https://doi.org/10.1177/0891243210389813)
 **作者**: Bergmann, Barbara R.
-**摘要**: （暂无）
+**摘要**: The Gender Mobility Paradox: Gender Segregation and Women’s Mobility Across Gender-Type Boundaries, 1970–2018
 
 ### Book Review: Swimming Against the Tide: African American Girls and Science Education. By Sandra L. Hanson. Philadelphia: Temple University Press, 2009, 213 pp., $64.50 (cloth); $24.95 (paper)
 **年份**: 2010 | **DOI**: [10.1177/0891243209357036](https://doi.org/10.1177/0891243209357036)
@@ -4490,7 +4490,7 @@
 ### An Unfinished Revolution
 **年份**: 2010 | **DOI**: [10.1177/0891243210392781](https://doi.org/10.1177/0891243210392781)
 **作者**: Prokos, Anastasia
-**摘要**: （暂无）
+**摘要**: After many decades of feminist activism, the is incomplete. Feminist gains have spawned an ongoing backlash (Douglas 2010; Faludi 1991/2006), and as England (2010) notes, the pace of change for women has slowed in many spheres.…
 
 ### “A Rose is a Rose”
 **年份**: 2010 | **DOI**: [10.1177/0891243210385918](https://doi.org/10.1177/0891243210385918)
@@ -4619,7 +4619,7 @@
 ### Reassessing the Uneven Gender Revolution and its Slowdown
 **年份**: 2010 | **DOI**: [10.1177/0891243210391461](https://doi.org/10.1177/0891243210391461)
 **作者**: England, Paula
-**摘要**: （暂无）
+**摘要**: In my recent status report on the gender revolution in Gender & Society (England 2010), I argued that change in the gender system has been asymmetric, with women changing more than men.…
 
 ### Grinding On the Dance Floor
 **年份**: 2010 | **DOI**: [10.1177/0891243210369894](https://doi.org/10.1177/0891243210369894)

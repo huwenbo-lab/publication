@@ -38,7 +38,7 @@
 ### Traces of the Second Demographic Transition in Four Selected Countries in Central and Eastern Europe: Union Formation as a Demographic Manifestation
 **年份**: 2009 | **DOI**: [10.1007/s10680-009-9177-y](https://doi.org/10.1007/s10680-009-9177-y)
 **作者**: Hoem, Jan M.; Kostova, Dora; Jasilioniene, Aiva 等4人
-**摘要**: （暂无）
+**摘要**: Using data from the first round of the national Gender and Generations Surveys of Russia, Romania, and Bulgaria, and from a similar survey of Hungary, which were all collected in recent years, we study rates of entry into marital and non-marital unions.…
 
 ### Family Policies and Fertility in Norway
 **年份**: 2009 | **DOI**: [10.1007/s10680-009-9190-1](https://doi.org/10.1007/s10680-009-9190-1)
@@ -98,7 +98,7 @@
 ### Italy’s Non-Negligible Cohabitational Unions
 **年份**: 2009 | **DOI**: [10.1007/s10680-009-9193-y](https://doi.org/10.1007/s10680-009-9193-y)
 **作者**: Gabrielli, Giuseppe; Hoem, Jan M.
-**摘要**: （暂无）
+**摘要**: Italy has long been regarded as the country with negligible non-marital cohabitation par excellence, but lately the pattern has begun to change and entry into consensual unions has increased strongly in younger Italian generations.…
 
 ### Tiziana Nazio: Cohabitation, Family and Society
 **年份**: 2009 | **DOI**: [10.1007/s10680-009-9180-3](https://doi.org/10.1007/s10680-009-9180-3)
@@ -143,7 +143,7 @@
 ### Fertility, Human Capital, and Economic Growth over the Demographic Transition
 **年份**: 2009 | **DOI**: [10.1007/s10680-009-9186-x](https://doi.org/10.1007/s10680-009-9186-x)
 **作者**: Lee, Ronald; Mason, Andrew
-**摘要**: （暂无）
+**摘要**: Do low fertility and population aging lead to economic decline if couples have fewer children, but invest more in each child? By addressing this question, this article extends previous work in which the authors show that population aging leads to an increased demand for wealth that can, under some c…
 
 ### Marital and Reproductive Behavior in Italy After 1995: Bridging the Gap with Western Europe?
 **年份**: 2008 | **DOI**: [10.1007/s10680-008-9155-9](https://doi.org/10.1007/s10680-008-9155-9)
@@ -182,7 +182,7 @@
 ### Change and Stability in Parent–Child Contact in Five Western Countries
 **年份**: 2008 | **DOI**: [10.1007/s10680-008-9176-4](https://doi.org/10.1007/s10680-008-9176-4)
 **作者**: Kalmijn, Matthijs; De Vries, Jannes
-**摘要**: （暂无）
+**摘要**: Although much is known about changes in the conjugal family, little is known about trends in contact between parents and adult (independently living) children. Using unique survey data, we study changes in contact with the mother and the father in five western countries over a 15-year period (Austri…
 
 ### Department of Economic and Social Affairs, Population Division, United Nations Expert Group Meeting on Social and Economic Implications of Changing Population Age Structures
 **年份**: 2008 | **DOI**: [10.1007/s10680-008-9165-7](https://doi.org/10.1007/s10680-008-9165-7)
@@ -197,7 +197,7 @@
 ### Italy’s Path to Very Low Fertility: The Adequacy of Economic and Second Demographic Transition Theories
 **年份**: 2008 | **DOI**: [10.1007/s10680-008-9159-5](https://doi.org/10.1007/s10680-008-9159-5)
 **作者**: Kertzer, David I.; White, Michael J.; Bernardi, Laura 等4人
-**摘要**: （暂无）
+**摘要**: The deep drop of the fertility rate in Italy to among the lowest in the world challenges contemporary theories of childbearing and family building. Among high-income countries, Italy was presumed to have characteristics of family values and female labor force participation that would favor higher fe…
 
 ### Arland Thornton, William G. Axinn and Yu Xie (eds): Marriage and Cohabitation
 **年份**: 2008 | **DOI**: [10.1007/s10680-008-9154-x](https://doi.org/10.1007/s10680-008-9154-x)
@@ -242,12 +242,12 @@
 ### Changes in Family Size Intentions Across Young Adulthood: A Life-Course Perspective
 **年份**: 2008 | **DOI**: [10.1007/s10680-008-9173-7](https://doi.org/10.1007/s10680-008-9173-7)
 **作者**: Liefbroer, Aart C.
-**摘要**: （暂无）
+**摘要**: Recent years have witnessed a resurgence in the interest in family size intentions and ideals in developed societies, partially stemming from the idea that realized fertility in these societies is lower than intended fertility.…
 
 ### Z. Yi, E. M. Crimmins, Y. Carrière and J.-M. Robine, Longer Life and Healthy Aging
 **年份**: 2008 | **DOI**: [10.1007/s10680-007-9126-6](https://doi.org/10.1007/s10680-007-9126-6)
 **作者**: Oeppen, Jim
-**摘要**: （暂无）
+**摘要**: This book is one of the results of a very productive initiative by the IUSSP on ''Longevity and Health''.After a thematic introduction by the editors, the chapters are divided into four parts, each with its own summary.They are: Disability and Healthy Life Expectancy; Individual Healthy Aging; The F…
 
 ### Economic Consequences of Union Dissolution in Italy: Findings from the European Community Household Panel
 **年份**: 2008 | **DOI**: [10.1007/s10680-008-9157-7](https://doi.org/10.1007/s10680-008-9157-7)
@@ -267,7 +267,7 @@
 ### High Fertility in City Suburbs: Compositional or Contextual Effects?
 **年份**: 2008 | **DOI**: [10.1007/s10680-008-9163-9](https://doi.org/10.1007/s10680-008-9163-9)
 **作者**: Kulu, H.; Boyle, P. J.
-**摘要**: （暂无）
+**摘要**: Fertility rates are known to be higher in city suburbs. One interpretation is that the suburban ‘context’ influences the behaviour of individuals who reside there while an alternative is that the ‘composition’ of the suburban population explains the higher fertility levels.…
 
 ### The 1991–2004 Evolution in Life Expectancy by Educational Level in Belgium Based on Linked Census and Population Register Data
 **年份**: 2008 | **DOI**: [10.1007/s10680-008-9167-5](https://doi.org/10.1007/s10680-008-9167-5)
@@ -287,7 +287,7 @@
 ### The Influence of Partner Relationship Quality on Fertility
 **年份**: 2008 | **DOI**: [10.1007/s10680-008-9156-8](https://doi.org/10.1007/s10680-008-9156-8)
 **作者**: Rijken, Arieke J.; Liefbroer, Aart C.
-**摘要**: （暂无）
+**摘要**: This study examines whether partner relationship quality influences fertility, and if so, in which direction and which aspects of relationship quality are relevant. Competing hypotheses are tested.…
 
 ### Patterns in the delay and recovery of fertility in Europe
 **年份**: 2007 | **DOI**: [10.1007/s10680-006-9114-2](https://doi.org/10.1007/s10680-006-9114-2)
@@ -322,7 +322,7 @@
 ### Job Insecurity and the Timing of Parenthood: A Comparison between Eastern and Western Germany
 **年份**: 2007 | **DOI**: [10.1007/s10680-007-9127-5](https://doi.org/10.1007/s10680-007-9127-5)
 **作者**: Bernardi, Laura; Klärner, Andreas; von der Lippe, Holger
-**摘要**: （暂无）
+**摘要**: This article contributes to the ongoing debate on the economic determinants of fertility behavior by addressing the role of job insecurity in couples’ intentions concerning parenthood and its timing.…
 
 ### Graziella Caselli, Jacques Vallin et Guillaume Wunsch (eds.): Démographie: Analyse et synthèse. Volume VII. Histoire des idées et politiques de population
 **年份**: 2007 | **DOI**: [10.1007/s10680-007-9141-7](https://doi.org/10.1007/s10680-007-9141-7)
@@ -362,12 +362,12 @@
 ### Assumptions for long-term stochastic population forecasts in 18 European countries
 **年份**: 2007 | **DOI**: [10.1007/s10680-006-9104-4](https://doi.org/10.1007/s10680-006-9104-4)
 **作者**: Alders, Maarten; Keilman, Nico; Cruijsen, Harri
-**摘要**: （暂无）
+**摘要**: The aim of the 'Uncertain Population of Europe'(UPE) project was to compute long-term stochastic (probabilistic) population forecasts for 18 European countries. We developed a general methodology for constructing predictive distributions for fertility, mortality and migration.…
 
 ### The Valued Child. In Search of a Latent Attitude Profile that Influences the Transition to Motherhood
 **年份**: 2007 | **DOI**: [10.1007/s10680-007-9123-9](https://doi.org/10.1007/s10680-007-9123-9)
 **作者**: Moors, Guy
-**摘要**: （暂无）
+**摘要**: In this research, a latent class analysis is used to identify latent attitude profiles that influence the transition to the first child. We argue that ideational theories, i.e. the Second Demographic Transition theory and the extended model of Planned Behaviour, often refer to a broad range of attit…
 
 ### Choice and circumstance: Qualitative insights into contemporary childlessness in Australia
 **年份**: 2007 | **DOI**: [10.1007/s10680-006-9112-4](https://doi.org/10.1007/s10680-006-9112-4)
@@ -432,7 +432,7 @@
 ### Richard A. Settersten Jr, Frank F. Furstenberg Jr, and Rúben G. Rumbaut (eds), On the Frontier of Adulthood. Theory, Research, and Public Policy
 **年份**: 2007 | **DOI**: [10.1007/s10680-006-9107-1](https://doi.org/10.1007/s10680-006-9107-1)
 **作者**: Liefbroer, Aart C.
-**摘要**: （暂无）
+**摘要**: On the Frontier of Adulthood is a collection of papers that chart the changes in the lives of American men and women roughly between the ages of 18 and 34. It brings together the work of a large number of renowned scholars in a huge volume (16 chapters, spanning more than 550 pages), producing, as t…
 
 ### Wolfgang Lutz, Rudolf Richter and Chris Wilson (eds): The New Generations of Europeans: Demography and Families in the Enlarged European Union
 **年份**: 2007 | **DOI**: [10.1007/s10680-007-9125-7](https://doi.org/10.1007/s10680-007-9125-7)
@@ -442,7 +442,7 @@
 ### Cause-of-Death Contributions to Educational Inequalities in Mortality in Austria between 1981/1982 and 1991/1992
 **年份**: 2007 | **DOI**: [10.1007/s10680-007-9145-3](https://doi.org/10.1007/s10680-007-9145-3)
 **作者**: Rau, Roland; Doblhammer, Gabriele; Canudas-Romo, Vladimir 等4人
-**摘要**: （暂无）
+**摘要**: This article uses census records and deaths records to analyze trends in educational inequalities in mortality for Austrian women and men aged 35-64 years between 1981/1982 and 1991/1992.…
 
 ### Passages to Adulthood: Linking Demographic Change and Human Development
 **年份**: 2007 | **DOI**: [10.1007/s10680-007-9132-8](https://doi.org/10.1007/s10680-007-9132-8)
@@ -472,7 +472,7 @@
 ### Population and labour force projections for 27 European countries, 2002-052: impact of international migration on population ageing
 **年份**: 2007 | **DOI**: [10.1007/s10680-006-9110-6](https://doi.org/10.1007/s10680-006-9110-6)
 **作者**: Bijak, Jakub; Kupiszewska, Dorota; Kupiszewski, Marek 等5人
-**摘要**: （暂无）
+**摘要**: Population and labour force projections are made for 27 selected European countries for 2002-052, focussing on the impact of international migration on population and labour force dynamics.…
 
 ### Jennifer Johnson-Hanks (ed.), Uncertain Honor. Modern Motherhood in an African Crisis
 **年份**: 2007 | **DOI**: [10.1007/s10680-007-9118-6](https://doi.org/10.1007/s10680-007-9118-6)
@@ -492,7 +492,7 @@
 ### De-standardization of Family-Life Trajectories of Young Adults: A Cross-National Comparison Using Sequence Analysis
 **年份**: 2007 | **DOI**: [10.1007/s10680-007-9133-7](https://doi.org/10.1007/s10680-007-9133-7)
 **作者**: Elzinga, Cees H.; Liefbroer, Aart C.
-**摘要**: （暂无）
+**摘要**: We introduce a number of new methods based on sequence analysis to test hypotheses on the de-standardization of family-life trajectories in early adulthood, using Fertility and Family Survey data on 19 countries.…
 
 ### Jacques Véron, Sophie Pennec, et Jacques Légaré (Eds.): Age, Générations et Contrat Social: L’Etat-providence face aux changements démographiques
 **年份**: 2006 | **DOI**: [10.1007/s10680-006-9102-6](https://doi.org/10.1007/s10680-006-9102-6)
@@ -606,7 +606,7 @@
 ### Déstandardisation, différenciation régionale et changements générationnels. Départ du foyer parental et modes de vie en Suisse au XXe siècle
 **年份**: 2006 | **DOI**: [10.1007/s10680-006-0002-6](https://doi.org/10.1007/s10680-006-0002-6)
 **作者**: Schumacher, Reto; Spoorenberg, Thomas; Forney, Yannic
-**摘要**: （暂无）
+**摘要**: Recent studies on transitions to adulthood have somewhat disregarded the choice of living arrangements after moving out of the parental home. In this article we investigate the leaving home experience of young adults and the way it has changed over time in Switzerland during the 20th century.…
 
 ### Socioeconomic differentials in mortality in Finland and the United States: the role of education and income
 **年份**: 2006 | **DOI**: [10.1007/s10680-006-0003-5](https://doi.org/10.1007/s10680-006-0003-5)
