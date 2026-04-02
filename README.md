@@ -58,6 +58,7 @@ publication/
 ├── update.py                  # 定期更新脚本
 ├── check_quality.py           # 数据质量检查
 ├── build_lit_db.py            # 生成 lit_db/ 目录
+├── build_search_db.py         # 构建 SQLite FTS5 全文检索数据库
 │
 ├── raw_data/                  # Web of Science 原始导出文件（归档）
 │   └── *.xls                  # 17 本期刊的 Excel 导出文件
@@ -101,11 +102,46 @@ python update.py --days 60    # 抓取最近 60 天
 python update.py --dry-run    # 仅检查，不写入
 ```
 
-更新后同步重建 `lit_db/`：
+更新后同步重建索引：
 
 ```bash
-python build_lit_db.py
+python build_lit_db.py        # 重建 AI 查阅索引
+python build_search_db.py     # 重建全文检索数据库
 ```
+
+---
+
+## 全文检索
+
+`build_search_db.py` 基于 SQLite FTS5 构建本地全文检索数据库（`literature.db`，约 53 MB），支持对标题和摘要的关键词搜索，毫秒级返回结果。
+
+```bash
+# 构建索引（首次使用，或 articles.json 更新后重建）
+python build_search_db.py
+
+# 基本搜索
+python build_search_db.py --search "education inequality China"
+
+# 限制返回条数
+python build_search_db.py --search "marriage fertility" --limit 10
+
+# 按期刊过滤
+python build_search_db.py --search "stratification" --journal "American Journal of Sociology"
+
+# 按年份范围过滤
+python build_search_db.py --search "labor market" --year-from 2015 --year-to 2023
+
+# 强制重建索引
+python build_search_db.py --rebuild
+```
+
+搜索语法支持 SQLite FTS5 标准语法：
+- 多个关键词默认为 AND 关系：`education inequality`
+- 精确短语：`"social mobility"`
+- OR 逻辑：`marriage OR cohabitation`
+- NOT 逻辑：`fertility NOT mortality`
+
+> `literature.db` 为生成文件，不纳入 git 版本管理，可随时从 `articles.json` 重建。
 
 ---
 
@@ -118,6 +154,7 @@ source venv/bin/activate
 python build_articles.py      # 从 raw_data/*.xls 重建
 python enrich_crossref.py     # CrossRef 补全（耗时较长）
 python build_lit_db.py        # 重建 AI 查阅索引
+python build_search_db.py     # 重建全文检索数据库
 ```
 
 ---
