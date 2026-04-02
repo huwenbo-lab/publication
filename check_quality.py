@@ -10,6 +10,7 @@ from pathlib import Path
 import xlrd
 
 ROOT = Path(__file__).resolve().parent
+RAW_DATA = ROOT / "raw_data"   # XLS 原始文件目录
 
 # 文件名到标准期刊名的映射（处理拼写错误等）
 FILENAME_TO_JOURNAL = {
@@ -178,7 +179,7 @@ def main():
 
     # 找到所有XLS文件
     xls_files = sorted([
-        f for f in os.listdir(ROOT)
+        f for f in os.listdir(RAW_DATA)
         if f.endswith(".xls") and f in FILENAME_TO_JOURNAL
     ])
 
@@ -187,7 +188,7 @@ def main():
 
     for filename in xls_files:
         journal_name = FILENAME_TO_JOURNAL[filename]
-        filepath = ROOT / filename
+        filepath = RAW_DATA / filename
         print(f"  读取: {filename}")
         _, rows = read_xls(str(filepath))
         stats = check_journal(journal_name, rows)
