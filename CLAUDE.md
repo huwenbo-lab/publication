@@ -61,6 +61,7 @@ build_articles.py      # 从XLS清洗合并为 articles.json
 enrich_crossref.py     # CrossRef API补全摘要/DOI/缺失数据
 update.py              # 定期更新脚本
 build_lit_db.py        # 生成 lit_db/ 目录（AI查阅索引）
+build_search_db.py     # 构建 SQLite FTS5 全文检索数据库 → literature.db
 update_log.md          # 更新日志
 raw_data/              # Web of Science原始导出文件（归档）
     *.xls              # 17本期刊的Excel导出文件
@@ -93,7 +94,20 @@ python update.py --dry-run    # 仅检查，不写入
 source venv/bin/activate
 python build_articles.py      # 从XLS重建（仅已有Excel的17本期刊）
 python enrich_crossref.py     # CrossRef补全（摘要、DOI、历史数据、缺失期刊）
+python build_lit_db.py        # 重建AI查阅索引
+python build_search_db.py     # 重建全文检索数据库
 ```
+
+### 全文检索
+
+```bash
+python build_search_db.py --search "education inequality China"
+python build_search_db.py --search "marriage fertility" --limit 10
+python build_search_db.py --search "stratification" --journal "American Journal of Sociology"
+python build_search_db.py --search "labor market" --year-from 2015 --year-to 2023
+```
+
+`literature.db` 约 53 MB，为生成文件，不纳入 git 管理，可随时从 `articles.json` 重建。
 
 ## 注意事项
 
