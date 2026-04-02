@@ -1,2 +1,0 @@
-This file tells GitHub Pages to bypass Jekyll processing.
-This is necessary to serve files starting with underscores or large static assets that might timeout the Jekyll build.

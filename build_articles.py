@@ -11,6 +11,7 @@ from pathlib import Path
 import xlrd
 
 ROOT = Path(__file__).resolve().parent
+RAW_DATA = ROOT / "raw_data"   # XLS 原始文件目录
 
 # 文件名到标准期刊名映射
 FILENAME_TO_JOURNAL = {
@@ -190,7 +191,7 @@ def main():
 
     all_articles = []
     for filename, journal_name in sorted(FILENAME_TO_JOURNAL.items()):
-        filepath = ROOT / filename
+        filepath = RAW_DATA / filename
         if not filepath.exists():
             print(f"  跳过（文件不存在）: {filename}")
             continue

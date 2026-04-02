@@ -1,71 +1,149 @@
-# 学术文献展示站点（Web of Science 2015–2025）
+# 社会学与人口学期刊文献数据库
 
-本项目用于将多本期刊的 Web of Science 导出数据整理为静态网页，支持按「期刊 → 年份 → 论文」三层浏览，适合用于学术主页展示。
+24本核心期刊、2000年至今、34,000+ 篇文章元数据（标题、摘要、作者、DOI）。
 
-## 项目目标
+研究领域：社会分层 · 婚姻与家庭 · 人口学 · 教育社会学 · 性别 · 劳动与就业
 
-- 展示 2015–2025 年文献数据
-- 以期刊为一级入口
-- 以年份为二级入口
-- 以论文详情为三级内容（标题、作者、摘要）
-- 支持 GitHub Pages 直接部署
+📄 **在线浏览**：[GitHub Pages](https://huwenbo-lab.github.io/publication/)
 
-## 当前文件结构
+---
 
-- `index.html`：前端页面与交互逻辑
-- `data.js`：前端直接加载的数据文件（`const DATA = [...]`）
-- `data.json`：原始 JSON 数据副本
-- `data_prefix.js`：数据拼接或转换辅助文件
-- `1.nojekyll`：GitHub Pages 配置文件
-- `*.xls`：每本期刊一个 Excel 文件
+## 期刊列表（24本）
 
-## 数据字段约定
+| 期刊 | ISSN | 数据起始年 |
+|---|---|---|
+| American Journal of Sociology | 0002-9602 | 2000 |
+| American Sociological Review | 0003-1224 | 2000 |
+| Annual Review of Sociology | 0360-0572 | 2000 |
+| British Journal of Sociology | 0007-1315 | 2000 |
+| British Journal of Sociology of Education | 0142-5692 | 2000 |
+| Chinese Journal of Sociology | 2057-150X | 2015 |
+| Chinese Sociological Review | 2162-0555 | 2000 |
+| Demographic Research | 1435-9871 | 2000 |
+| Demography | 0070-3370 | 2000 |
+| European Journal of Population | 0168-6577 | 2000 |
+| European Sociological Review | 0266-7215 | 2000 |
+| Gender & Society | 0891-2432 | 2000 |
+| Journal of Family Issues | 0192-513X | 2000 |
+| Journal of Family Theory & Review | 1756-2570 | 2009 |
+| Journal of Marriage and Family | 0022-2445 | 2000 |
+| Population and Development Review | 0098-7921 | 2000 |
+| Research in Social Stratification and Mobility | 0276-5624 | 2000 |
+| Social Forces | 0037-7732 | 2000 |
+| Social Science Research | 0049-089X | 2000 |
+| Sociological Science | 2330-6696 | 2014 |
+| Sociology | 0038-0385 | 2000 |
+| Sociology of Education | 0038-0407 | 2000 |
+| Socius | 2378-0231 | 2015 |
+| Work, Employment and Society | 0950-0170 | 2000 |
 
-页面渲染依赖以下字段名：
+---
 
-- `Source Title`
-- `Publication Year`
-- `Article Title`
-- `Author Full Names`
-- `Abstract`
+## 文件结构
 
-如果后续更新数据，请确保字段名一致，或同步修改 `index.html` 中字段映射逻辑。
+```
+publication/
+├── README.md                  # 本文件
+├── CLAUDE.md                  # 项目说明（供 Claude Code 使用）
+├── index.html                 # GitHub Pages 前端浏览页面
+├── .nojekyll                  # GitHub Pages 配置
+│
+├── articles.json              # 主数据文件（34k条，新格式）
+├── data.json                  # 旧格式（供 index.html 使用）
+├── data.js                    # JavaScript 版（供 index.html 加载）
+├── data_quality_report.md     # 数据质量检查报告
+│
+├── build_articles.py          # 从 XLS 构建 articles.json
+├── enrich_crossref.py         # CrossRef API 补全摘要/DOI/历史数据
+├── update.py                  # 定期更新脚本
+├── check_quality.py           # 数据质量检查
+├── build_lit_db.py            # 生成 lit_db/ 目录
+│
+├── raw_data/                  # Web of Science 原始导出文件（归档）
+│   └── *.xls                  # 17 本期刊的 Excel 导出文件
+│
+└── lit_db/                    # 轻量级文献索引（供 AI 查阅）
+    ├── overview.md            # 数据库概况（~3KB，可直接给 AI 读）
+    ├── titles/
+    │   ├── all_titles.tsv     # 全量标题索引，可 grep（~5MB）
+    │   └── by_journal/        # 按期刊：每个文件含该刊所有标题
+    └── abstracts/
+        ├── 2020_2026/         # 近6年文章，含摘要片段，按期刊
+        ├── 2010_2019/         # 2010–2019 年
+        └── 2000_2009/         # 2000–2009 年
+```
 
-## 推荐更新流程
+---
 
-1. 用新导出的 Excel 替换或新增 `*.xls` 文件
-2. 将 Excel 转换为统一结构数据（JSON 或 JS）
-3. 生成 / 更新 `data.js`，确保格式为 `const DATA = [...]`
-4. 本地打开 `index.html` 校验三层导航与内容完整性
-5. 提交并推送到 GitHub 仓库
-6. 在 GitHub Pages 查看线上结果
+## 数据字段
 
-## 每次更新前检查清单
+`articles.json` 中每条记录包含 6 个字段：
 
-- 年份范围是否限制在 2015–2025
-- 每个期刊是否能进入年份列表
-- 每个年份是否能展示完整论文列表
-- 标题、作者、摘要是否存在乱码或空值
-- 移动端与桌面端显示是否正常
+| 字段 | 类型 | 说明 |
+|---|---|---|
+| `title` | string | 文章标题 |
+| `abstract` | string | 摘要（部分早期文章可能为空） |
+| `authors` | string | 作者列表，格式：`姓, 名; 姓, 名` |
+| `journal` | string | 期刊名称 |
+| `year` | int | 发表年份 |
+| `doi` | string | DOI 标识符 |
 
-## 已知风险与后续优化建议
+> `data.json` / `data.js` 使用旧字段名（`Source Title`, `Publication Year` 等），供 `index.html` 前端使用。
 
-- 大数据量下首屏加载可能偏慢，可考虑按期刊拆分数据并懒加载
-- 若折叠内容显示不全，优先检查 CSS 中展开容器的高度限制策略
-- 可增加搜索框（按标题 / 作者 / 关键词）提升可用性
-- 可增加 DOI/链接字段，支持跳转原文
+---
 
-## GitHub Pages 部署说明
+## 日常更新
 
-1. 推送到默认分支（通常为 `main`）
-2. GitHub 仓库设置中启用 Pages：
-   - `Settings` → `Pages`
-   - Source 选择 `Deploy from a branch`
-   - Branch 选择 `main`（根目录 `/root`）
-3. 保存后等待部署完成，访问分配的网址
+```bash
+source venv/bin/activate
+python update.py              # 抓取最近 30 天新文章
+python update.py --days 60    # 抓取最近 60 天
+python update.py --dry-run    # 仅检查，不写入
+```
 
-## 后续维护建议
+更新后同步重建 `lit_db/`：
 
-- 建议将数据生成流程脚本化，固定输入输出格式
-- 建议为 `data.js` 保留时间戳版本备份
-- 建议每次更新后记录一次变更日志（更新时间、期刊数量、论文总数）
+```bash
+python build_lit_db.py
+```
+
+---
+
+## 全量重建
+
+如需从头重建（例如新增了 XLS 文件）：
+
+```bash
+source venv/bin/activate
+python build_articles.py      # 从 raw_data/*.xls 重建
+python enrich_crossref.py     # CrossRef 补全（耗时较长）
+python build_lit_db.py        # 重建 AI 查阅索引
+```
+
+---
+
+## AI 查阅文献库
+
+`lit_db/` 目录为 AI agent 设计的两步检索结构：
+
+**第一步：标题初筛**（按期刊加载，每个文件 50–420KB）
+
+```
+https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md
+```
+
+**第二步：摘要精读**（按期刊 × 年份段，每个文件 50–490KB）
+
+```
+https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md
+```
+
+从这里开始：[`lit_db/overview.md`](lit_db/overview.md)
+
+---
+
+## 数据来源
+
+- **原始数据**：Web of Science 手动导出（存放于 `raw_data/`）
+- **补全数据**：CrossRef API（历史数据、摘要、DOI、7本无Excel期刊）
+- **更新方式**：CrossRef API 定期抓取最新文章

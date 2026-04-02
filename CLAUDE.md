@@ -56,12 +56,18 @@
 articles.json          # 主数据文件（新格式，含DOI）
 data.json / data.js    # 旧格式数据（供index.html使用）
 index.html             # 前端展示页面
-*.xls                  # Web of Science原始导出文件（存档用）
 check_quality.py       # 数据质量检查，生成 data_quality_report.md
 build_articles.py      # 从XLS清洗合并为 articles.json
 enrich_crossref.py     # CrossRef API补全摘要/DOI/缺失数据
 update.py              # 定期更新脚本
+build_lit_db.py        # 生成 lit_db/ 目录（AI查阅索引）
 update_log.md          # 更新日志
+raw_data/              # Web of Science原始导出文件（归档）
+    *.xls              # 17本期刊的Excel导出文件
+lit_db/                # 轻量级文献索引（供AI查阅）
+    overview.md        # 数据库概况
+    titles/            # 标题索引（按期刊）
+    abstracts/         # 摘要（按期刊×年份段）
 ```
 
 ## 如何更新数据库
