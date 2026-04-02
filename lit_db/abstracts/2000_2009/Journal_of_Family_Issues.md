@@ -1,7 +1,7 @@
 # Journal of Family Issues
 ## 2000–2009 年文章（含摘要）
 
-共 **612** 篇
+共 **602** 篇
 
 ---
 
@@ -294,10 +294,6 @@
 **作者**: Latzer, Yael; Lavee, Yoav; Gal, Sharon
 **摘要**: This study assesses and compares the relationship between parents' marital quality, parent—child relationship, and severity of eating-related psychopathology in families with and without eating disorders.…
 
-### Erratum
-**年份**: 2009 | **DOI**: [10.1177/0192513x09355792](https://doi.org/10.1177/0192513x09355792)
-**摘要**: （暂无）
-
 ### Blurring Racial and Ethnic Boundaries in Asian American Families: Asian American Family Patterns, 1980-2005
 **年份**: 2009 | **DOI**: [10.1177/0192513x09350870](https://doi.org/10.1177/0192513x09350870)
 **作者**: Hidalgo, Danielle Antoinette; Bankston, Carl L.
@@ -437,10 +433,6 @@
 **年份**: 2008 | **DOI**: [10.1177/0192513x08322930](https://doi.org/10.1177/0192513x08322930)
 **作者**: Menning, Chadwick L.; Stewart, Susan D.
 **摘要**: Body weight issues disproportionately affect children with nonresident fathers. Using data from the National Longitudinal Study of Adolescent Health, the authors investigate the relationship between nonresident father involvement and adolescent weight, specifically adolescents' risk of being underwe…
-
-### Call for Papers: Experiences, Stress, and Resilience in the Face of a Natural Disaster
-**年份**: 2008 | **DOI**: [10.1177/0192513x08323767](https://doi.org/10.1177/0192513x08323767)
-**摘要**: （暂无）
 
 ### More Than Motherhood
 **年份**: 2008 | **DOI**: [10.1177/0192513x08324379](https://doi.org/10.1177/0192513x08324379)
@@ -1275,18 +1267,10 @@
 **作者**: Riggle, Ellen D. B.; Rostosky, Sharon S.; Prather, Robert A.
 **摘要**: The lack of legal recognition of same-sex couples can leave partners vulnerable in a crisis or emergency. Advance planning is one strategy couples can use to establish legal rights. Analyses of data collected from both partners in 131 same-sex couples suggested that executing advance-planning docume…
 
-### Call for Papers
-**年份**: 2006 | **DOI**: [10.1177/0192513x0602700507](https://doi.org/10.1177/0192513x0602700507)
-**摘要**: （暂无）
-
 ### Time of One’s Own
 **年份**: 2006 | **DOI**: [10.1177/0192513x06292021](https://doi.org/10.1177/0192513x06292021)
 **作者**: Nomaguchi, Kei M.
 **摘要**: Recent theoretical work suggests that the increase in women’s sense of entitlement to leisure has become a key to understanding delay in childbearing in industrialized countries. Using data from the Japanese Panel Study of Consumer Life, the author examines the relationship between leisure time and …
-
-### Call for Papers
-**年份**: 2006 | **DOI**: [10.1177/0192513x0602700106](https://doi.org/10.1177/0192513x0602700106)
-**摘要**: （暂无）
 
 ### Marital Meaning
 **年份**: 2006 | **DOI**: [10.1177/0192513x06290036](https://doi.org/10.1177/0192513x06290036)
@@ -1322,10 +1306,6 @@
 **年份**: 2006 | **DOI**: [10.1177/0192513x05279986](https://doi.org/10.1177/0192513x05279986)
 **作者**: Willetts, Marion C.
 **摘要**: A longitudinal analysis is conducted on the union quality of long-term cohabiting and legally married couples using data from both waves of the National Survey of Families and Households.…
-
-### Call for Papers
-**年份**: 2006 | **DOI**: [10.1177/0192513x06290848](https://doi.org/10.1177/0192513x06290848)
-**摘要**: （暂无）
 
 ### Parents' and Children's Perceptions of Privacy Rights In China
 **年份**: 2006 | **DOI**: [10.1177/0192513x05283095](https://doi.org/10.1177/0192513x05283095)
@@ -1576,10 +1556,6 @@
 **作者**: Regnerus, Mark D.; Luchies, Laura B.
 **摘要**: The present study considers the influence of the parent-child relationship on adolescent virginity status using data from two waves of the National Longitudinal Study of Adolescent Health.…
 
-### Index to Journal of Family Issues
-**年份**: 2006 | **DOI**: [10.1177/0895904805294928](https://doi.org/10.1177/0895904805294928)
-**摘要**: （暂无）
-
 ### Gender and Marital Happiness in Later Life
 **年份**: 2006 | **DOI**: [10.1177/0192513x05285293](https://doi.org/10.1177/0192513x05285293)
 **作者**: Kaufman, Gayle; Taniguchi, Hiromi
@@ -1599,10 +1575,6 @@
 **年份**: 2005 | **DOI**: [10.1177/0192513x04270473](https://doi.org/10.1177/0192513x04270473)
 **作者**: Baxter, Janeen
 **摘要**: Data from an Australian national survey (1996 to 1997) are used to examine domestic labor patterns among de facto and married men and women. The results show that women spend more time on housework and do a greater proportion of housework than men.…
-
-### Index to Journal of Family Issues Volume 26
-**年份**: 2005 | **DOI**: [10.1177/0192513x0502600807](https://doi.org/10.1177/0192513x0502600807)
-**摘要**: （暂无）
 
 ### Grandparent Visitation Rights
 **年份**: 2005 | **DOI**: [10.1177/0192513x04272740](https://doi.org/10.1177/0192513x04272740)
@@ -1952,10 +1924,6 @@
 **作者**: Zipp, John F.; Prohaska, Ariane; Bemiller, Michelle
 **摘要**: A recurrent theme in scholarship on gender and the family is the asymmetry between husbands and wives on decision making, the division of household labor, child care, and so forth. In this article, the authors tested to see if this asymmetry can be explained, in part, by taking into account the invi…
 
-### INDEX to JOURNAL OF FAMILY ISSUES
-**年份**: 2004 | **DOI**: [10.1177/0192513x0402500807](https://doi.org/10.1177/0192513x0402500807)
-**摘要**: （暂无）
-
 ### Outsourcing of Domestic Tasks and Time-saving Effects
 **年份**: 2004 | **DOI**: [10.1177/0192513x03257425](https://doi.org/10.1177/0192513x03257425)
 **作者**: Van Der Lippe, Tanja; Tijdens, Kea; De Ruijter, Esther
@@ -1975,10 +1943,6 @@
 **年份**: 2004 | **DOI**: [10.1177/0192513x03258311](https://doi.org/10.1177/0192513x03258311)
 **作者**: Plotnick, Robert D.; Garfinkel, Irwin; McLanahan, Sara S. 等4人
 **摘要**: Stricter child support enforcement may reduce unwed childbearing by raising the costs of fatherhood. The authors investigate this hypothesis using a sample of young women from the National Longitudinal Survey of Youth, to which they add information on state child support enforcement.…
-
-### Call for Papers
-**年份**: 2004 | **DOI**: [10.1177/0192513x0402500806](https://doi.org/10.1177/0192513x0402500806)
-**摘要**: （暂无）
 
 ### The Childhood Living Arrangements of Children and the Characteristics of Their Marriages
 **年份**: 2004 | **DOI**: [10.1177/0192513x03255346](https://doi.org/10.1177/0192513x03255346)
@@ -2319,10 +2283,6 @@
 **年份**: 2002 | **DOI**: [10.1177/0192513x02023003002](https://doi.org/10.1177/0192513x02023003002)
 **作者**: NOBES, GAVIN; SMITH, MARJORIE
 **摘要**: A community sample of nearly 500 parents was interviewed in order to examine the relative extent of physical punishment of children in one- and two-parent homes. Lone mothers' use of physical punishments was compared first with partnered mothers' and second with the combination of mothers' and fathe…
-
-### Index
-**年份**: 2002 | **DOI**: [10.1177/0192513x02023008010](https://doi.org/10.1177/0192513x02023008010)
-**摘要**: （暂无）
 
 ### Absent Parents Are More Than Money
 **年份**: 2002 | **DOI**: [10.1177/0192513x02023005004](https://doi.org/10.1177/0192513x02023005004)

@@ -175,7 +175,7 @@
 **作者**: Schnittker, Jason
 **摘要**: Although there is considerable evidence linking success-including wealth, marriage, and friendships-to happiness, this relationship might not reflect, as is often assumed, the effects of the proximate environment on well-being.…
 
-### Environmental Contingencies and Genetic Propensities: Social Capital, Educational Continuation, and Dopamine Receptor Gene DRD2
+### Environmental Contingencies and Genetic Propensities: Social Capital, Educational Continuation, and Dopamine Receptor Gene DRD
 **年份**: 2008 | **DOI**: [10.1086/592204](https://doi.org/10.1086/592204)
 **作者**: Shanahan, Michael J.; Vaisey, Stephen; Erickson, Lance D. 等4人
 **摘要**: Studies of gene-environment interplay typically focus on one environmental factor at a time, resulting in a constrained view of social context. The concept of environmental contingency is introduced as a corrective.…

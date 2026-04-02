@@ -1,7 +1,7 @@
 # Demographic Research
 ## 2010–2019 年文章（含摘要）
 
-共 **897** 篇
+共 **895** 篇
 
 ---
 
@@ -509,11 +509,6 @@
 **年份**: 2019 | **DOI**: [10.4054/DemRes.2019.40.1](https://doi.org/10.4054/DemRes.2019.40.1)
 **作者**: Wagner, Michael; Huinink, Johannes; Liefbroer, Aart C.
 **摘要**: BACKGROUND A considerable proportion of childless women in their late thirties or early forties would still like to have children. The number of men and women whose fertility intentions are potentially influenced by the so-called biological clock for childbearing and who remain involuntarily childle…
-
-### Civilian killings and disappearances during civil war in El Salvador (1980-1992)
-**年份**: 2019 | **DOI**: [10.4054/demres.2019.41.27](https://doi.org/10.4054/demres.2019.41.27)
-**作者**: Green, Amelia Hoover; Ball, Patrick
-**摘要**: BACKGROUND Debate over the civilian toll of El Salvador's civil war (1980-1992) raged throughout the conflict and its aftermath. Apologists for the Salvadoran regime claimed no more than 20,000 had died, while some activists placed the toll at 100,000 or more.…
 
 ### Who leaves, who stays? Gendered routes out of the family home following union dissolution in Italy
 **年份**: 2019 | **DOI**: [10.4054/demres.2019.40.20](https://doi.org/10.4054/demres.2019.40.20)
@@ -3555,7 +3550,7 @@
 **作者**: Esteve, Albert; López-Ruiz, Luis Ángel; Spijker, Jeroen
 **摘要**: One of the most salient features of Latin American marriages over the last few decades is the stable timing of their union formation, despite educational expansion, the postponement of and retreat from marriage, and the increase in non-marital cohabitation
 
-### A Stata module for computing fertility rates and TFRs from birth histories: tfr2
+### A Stata module for computing fertility rates and TFRs from birth histories: tfr
 **年份**: 2013 | **DOI**: [10.4054/demres.2013.28.38](https://doi.org/10.4054/demres.2013.28.38)
 **作者**: Schoumaker, Bruno
 **摘要**: Since the 1970s, birth history data have become widely available, thanks to the World Fertility survey and the Demographic and Health Surveys programs. Despite their wide availability, these data remain under-exploited. Computation, even of simple indicato
@@ -4049,11 +4044,6 @@
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.25.20](https://doi.org/10.4054/demres.2011.25.20)
 **作者**: Stone, Juliet; Berrington, Ann; Falkingham, Jane
 **摘要**: The postponement of partnership formation and parenthood in the context of an early average age at leaving home has resulted in increased heterogeneity in the living arrangements of young adults in the UK. More young adults now remain in the parental h
-
-### Gender differences in social mortality differentials in Switzerland (1990-2005)
-**年份**: 2011 | **DOI**: [10.4054/demres.2011.25.8](https://doi.org/10.4054/demres.2011.25.8)
-**作者**: Schumacher, Reto; Vilpert, Sarah
-**摘要**: Using data from the 1990 and 2000 Swiss Federal Censuses linked to the death records of the years 1990-1995 and 2000-2005, this paper investigates gender differences in mortality differentials by level of educational achievement and by marital status.
 
 ### Intergenerational transmission of women’s educational attainment in South Korea
 **年份**: 2011 | **DOI**: [10.4054/demres.2011.24.3](https://doi.org/10.4054/demres.2011.24.3)

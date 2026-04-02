@@ -1,7 +1,7 @@
 # Gender & Society
 ## 2020–2026 年文章（含摘要）
 
-共 **519** 篇
+共 **518** 篇
 
 ---
 
@@ -589,7 +589,7 @@
 **作者**: Aldana Marquez, Beatriz
 **摘要**: （暂无）
 
-### Book Review: Skating on Thin Ice: Professional Hockey, Rape Culture, &amp; Violence against Women by Walter S. Dekeseredy, Stu Cowan, and Martin D. Schwartz Skating on Thin Ice: Professional Hockey, Rape Culture, &amp; Violence against Women. By DekeseredyWalter S.CowanStuSchwartzMartin D.Toronto, ON, Canada: University of Toronto Press, 2023, 340 pp., $32.95 (cloth).
+### Book Review: Skating on Thin Ice: Professional Hockey, Rape Culture, & Violence against Women by Walter S. Dekeseredy, Stu Cowan, and Martin D. Schwartz Skating on Thin Ice: Professional Hockey, Rape Culture, & Violence against Women. By DekeseredyWalter S.CowanStuSchwartzMartin D.Toronto, ON, Canada: University of Toronto Press, 2023, 340 pp., $32.95 (cloth).
 **年份**: 2024 | **DOI**: [10.1177/08912432241274313](https://doi.org/10.1177/08912432241274313)
 **作者**: Silverwood, Victoria
 **摘要**: （暂无）
@@ -914,7 +914,7 @@
 **作者**: Battle, Brittany Pearl; Powell, Amber Joy
 **摘要**: The well-known movement chant “we keep us safe” disrupts carceral logics that deem policing—and the criminal punishment system more broadly—as sites of public safety and protection from violence and instead situates the source of safety within the community.…
 
-### Book Review: Care Activism: Migrant Domestic Workers, Movement-Building, and Communities of Care by Ethel Tungohan and Solidarity &amp; Care: Domestic Worker Activism in New York City by Alana Lee Glaser
+### Book Review: Care Activism: Migrant Domestic Workers, Movement-Building, and Communities of Care by Ethel Tungohan and Solidarity & Care: Domestic Worker Activism in New York City by Alana Lee Glaser
 **年份**: 2024 | **DOI**: [10.1177/08912432241240994](https://doi.org/10.1177/08912432241240994)
 **作者**: Walsh, Jane Schuchert
 **摘要**: （暂无）
@@ -1734,7 +1734,7 @@
 **作者**: Einwohner, Rachel L.
 **摘要**: （暂无）
 
-### Gender &amp; Society in a Post-Roe Era
+### Gender & Society in a Post-Roe Era
 **年份**: 2022 | **DOI**: [10.1177/08912432221114496](https://doi.org/10.1177/08912432221114496)
 **作者**: Risman, Barbara J.
 **摘要**: （暂无）
@@ -2184,10 +2184,6 @@
 **作者**: Kleinman, Sherryl; Copp, Martha; Wilson, Kalah B.
 **摘要**: We provide a qualitative analysis of resistance to calls for gender-neutral language. We analyzed more than 900 comments responding to two essays—one on AlterNet and another on Vox posted to the Vox editor’s Facebook page—that critiqued a pervasive male-based generic, “you guys.” Five rhetorics of r…
 
-### Corrigendum
-**年份**: 2021 | **DOI**: [10.1177/08912432211005402](https://doi.org/10.1177/08912432211005402)
-**摘要**: （暂无）
-
 ### Educational Outcomes Of Gender-Diverse Youth: A National Population-Based Study
 **年份**: 2021 | **DOI**: [10.1177/08912432211038689](https://doi.org/10.1177/08912432211038689)
 **作者**: Wilkinson, Lindsey; Shifrer, Dara; Pearson, Jennifer
@@ -2333,7 +2329,7 @@
 **作者**: Glas, Saskia; Alexander, Amy
 **摘要**: Public debates depict Arabs as opposed to gender equality because of Islam. However, there may be substantial numbers of Arab Muslims who do support feminist issues and who do so while being highly attached to Islam.…
 
-### Book Review: Asian American Feminisms &amp; Women of Color Politics Edited by Lynn Fujiwara and Shireen Roshanravan
+### Book Review: Asian American Feminisms & Women of Color Politics Edited by Lynn Fujiwara and Shireen Roshanravan
 **年份**: 2020 | **DOI**: [10.1177/0891243219898467](https://doi.org/10.1177/0891243219898467)
 **作者**: Gill, Jungyun
 **摘要**: （暂无）

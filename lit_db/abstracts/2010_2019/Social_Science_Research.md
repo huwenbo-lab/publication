@@ -1,7 +1,7 @@
 # Social Science Research
 ## 2010–2019 年文章（含摘要）
 
-共 **1246** 篇
+共 **1230** 篇
 
 ---
 
@@ -2420,7 +2420,7 @@
 **作者**: Zhang, Baoshan; Gao, Qianyun; Fokkema, Marjolein 等5人
 **摘要**: （暂无）
 
-### Latent Class Models in action: Bridging social capital &amp; Internet usage
+### Latent Class Models in action: Bridging social capital & Internet usage
 **年份**: 2015 | **DOI**: [10.1016/j.ssresearch.2014.11.002](https://doi.org/10.1016/j.ssresearch.2014.11.002)
 **作者**: Neves, Barbara Barbosa; Fonseca, Jaime R.S.
 **摘要**: （暂无）
@@ -2460,10 +2460,6 @@
 **作者**: Wu, Xiaogang; Zhang, Zhuoni
 **摘要**: （暂无）
 
-### Editorial Board
-**年份**: 2015 | **DOI**: [10.1016/s0049-089x(14)00207-5](https://doi.org/10.1016/s0049-089x(14)00207-5)
-**摘要**: （暂无）
-
 ### Age at immigration and crime in Stockholm using sibling comparisons
 **年份**: 2015 | **DOI**: [10.1016/j.ssresearch.2015.06.006](https://doi.org/10.1016/j.ssresearch.2015.06.006)
 **作者**: Beckley, Amber L.
@@ -2497,10 +2493,6 @@
 ### Social support, stress, and maternal postpartum depression: A comparison of supportive relationships
 **年份**: 2015 | **DOI**: [10.1016/j.ssresearch.2015.08.009](https://doi.org/10.1016/j.ssresearch.2015.08.009)
 **作者**: Reid, Keshia M.; Taylor, Miles G.
-**摘要**: （暂无）
-
-### Editorial Board
-**年份**: 2015 | **DOI**: [10.1016/s0049-089x(15)00144-1](https://doi.org/10.1016/s0049-089x(15)00144-1)
 **摘要**: （暂无）
 
 ### Occupational conditions, self-care, and obesity among clergy in the United States
@@ -2722,10 +2714,6 @@
 **作者**: Oropesa, R.S.
 **摘要**: （暂无）
 
-### Editorial Board
-**年份**: 2015 | **DOI**: [10.1016/s0049-089x(15)00176-3](https://doi.org/10.1016/s0049-089x(15)00176-3)
-**摘要**: （暂无）
-
 ### Legislative responses to wrongful conviction: Do partisan principals and advocacy efforts influence state-level criminal justice policy?
 **年份**: 2015 | **DOI**: [10.1016/j.ssresearch.2015.01.004](https://doi.org/10.1016/j.ssresearch.2015.01.004)
 **作者**: Kent, Stephanie L.; Carmichael, Jason T.
@@ -2874,14 +2862,6 @@
 ### Disaggregating ethnoracial disparities in physician trust
 **年份**: 2015 | **DOI**: [10.1016/j.ssresearch.2015.06.020](https://doi.org/10.1016/j.ssresearch.2015.06.020)
 **作者**: Sewell, Alyasah Ali
-**摘要**: （暂无）
-
-### Editorial Board
-**年份**: 2015 | **DOI**: [10.1016/s0049-089x(15)00064-2](https://doi.org/10.1016/s0049-089x(15)00064-2)
-**摘要**: （暂无）
-
-### Editorial Board
-**年份**: 2015 | **DOI**: [10.1016/s0049-089x(15)00036-8](https://doi.org/10.1016/s0049-089x(15)00036-8)
 **摘要**: （暂无）
 
 ### Coalitional affiliation as a missing link between ethnic polarization and well-being: An empirical test from the European Social Survey
@@ -3052,10 +3032,6 @@
 ### Long-term health and socioeconomic consequences of early-life exposure to the 1959–1961 Chinese Famine
 **年份**: 2015 | **DOI**: [10.1016/j.ssresearch.2014.07.007](https://doi.org/10.1016/j.ssresearch.2014.07.007)
 **作者**: Fan, Wen; Qian, Yue
-**摘要**: （暂无）
-
-### Editorial Board
-**年份**: 2015 | **DOI**: [10.1016/s0049-089x(15)00098-8](https://doi.org/10.1016/s0049-089x(15)00098-8)
 **摘要**: （暂无）
 
 ### End of an era? Managerial losses of African American and Latinos in the public sector
@@ -3263,7 +3239,7 @@
 **作者**: Edele, Aileen; Seuring, Julian; Kristen, Cornelia 等4人
 **摘要**: （暂无）
 
-### School choice &amp; social stratification: How intra-district transfers shift the racial/ethnic and economic composition of schools
+### School choice & social stratification: How intra-district transfers shift the racial/ethnic and economic composition of schools
 **年份**: 2015 | **DOI**: [10.1016/j.ssresearch.2014.12.005](https://doi.org/10.1016/j.ssresearch.2014.12.005)
 **作者**: Phillips, Kristie J.R.; Larsen, Elisabeth S.; Hausman, Charles
 **摘要**: （暂无）
@@ -3293,7 +3269,7 @@
 **作者**: Payton, Seth B.; Stucky, Thomas D.; Ottensmann, John R.
 **摘要**: Although neighborhood stability has long been considered a substantial determinant of crime, foreclosures have not been the subject of concerted research among criminologists until recently. A number of recent studies have examined the linkage between home foreclosures and crime.…
 
-### Paternal incarceration and child-reported behavioral functioning at age 9
+### Paternal incarceration and child-reported behavioral functioning at age
 **年份**: 2015 | **DOI**: [10.1016/j.ssresearch.2015.01.001](https://doi.org/10.1016/j.ssresearch.2015.01.001)
 **作者**: Haskins, Anna R.
 **摘要**: （暂无）
@@ -3413,10 +3389,6 @@
 **作者**: Van der Bracht, Koen; Van de Putte, Bart
 **摘要**: （暂无）
 
-### Editorial Board
-**年份**: 2014 | **DOI**: [10.1016/s0049-089x(14)00047-7](https://doi.org/10.1016/s0049-089x(14)00047-7)
-**摘要**: （暂无）
-
 ### Intelligence and childlessness
 **年份**: 2014 | **DOI**: [10.1016/j.ssresearch.2014.06.003](https://doi.org/10.1016/j.ssresearch.2014.06.003)
 **作者**: Kanazawa, Satoshi
@@ -3430,10 +3402,6 @@
 ### A non-stationary panel data investigation of the unemployment–crime relationship
 **年份**: 2014 | **DOI**: [10.1016/j.ssresearch.2013.11.007](https://doi.org/10.1016/j.ssresearch.2013.11.007)
 **作者**: Blomquist, Johan; Westerlund, Joakim
-**摘要**: （暂无）
-
-### Editorial Board
-**年份**: 2014 | **DOI**: [10.1016/s0049-089x(13)00147-6](https://doi.org/10.1016/s0049-089x(13)00147-6)
 **摘要**: （暂无）
 
 ### Parvenus and conflict in elite cohorts
@@ -3461,11 +3429,6 @@
 **作者**: Kucheva, Yana; Sander, Richard
 **摘要**: （暂无）
 
-### Corrigendum to “Social mobility in 20 modern societies: The role of economic and political context” [Social Sci. Res. 41 (2012) 527–538]
-**年份**: 2014 | **DOI**: [10.1016/j.ssresearch.2014.07.011](https://doi.org/10.1016/j.ssresearch.2014.07.011)
-**作者**: Yaish, Meir; Andersen, Robert
-**摘要**: （暂无）
-
 ### Housework, children, and women’s wages across racial–ethnic groups
 **年份**: 2014 | **DOI**: [10.1016/j.ssresearch.2014.02.004](https://doi.org/10.1016/j.ssresearch.2014.02.004)
 **作者**: Parrott, Heather Macpherson
@@ -3489,10 +3452,6 @@
 ### NIMBYism – A re-examination of the phenomenon
 **年份**: 2014 | **DOI**: [10.1016/j.ssresearch.2014.06.005](https://doi.org/10.1016/j.ssresearch.2014.06.005)
 **作者**: Esaiasson, Peter
-**摘要**: （暂无）
-
-### Editorial Board
-**年份**: 2014 | **DOI**: [10.1016/s0049-089x(14)00085-4](https://doi.org/10.1016/s0049-089x(14)00085-4)
 **摘要**: （暂无）
 
 ### Understanding the links between education and smoking
@@ -3610,10 +3569,6 @@
 **作者**: Smyth, Jolene D.; Olson, Kristen; Millar, Morgan M.
 **摘要**: （暂无）
 
-### Editorial Board
-**年份**: 2014 | **DOI**: [10.1016/s0049-089x(14)00110-0](https://doi.org/10.1016/s0049-089x(14)00110-0)
-**摘要**: （暂无）
-
 ### Social origins and post-high school institutional pathways: A cumulative dis/advantage approach
 **年份**: 2014 | **DOI**: [10.1016/j.ssresearch.2013.11.004](https://doi.org/10.1016/j.ssresearch.2013.11.004)
 **作者**: Giudici, Francesco; Pallas, Aaron M.
@@ -3669,10 +3624,6 @@
 **作者**: Hart, Joshua
 **摘要**: （暂无）
 
-### Editorial Board
-**年份**: 2014 | **DOI**: [10.1016/s0049-089x(14)00147-1](https://doi.org/10.1016/s0049-089x(14)00147-1)
-**摘要**: （暂无）
-
 ### Early-life social origins of later-life body weight: The role of socioeconomic status and health behaviors over the life course
 **年份**: 2014 | **DOI**: [10.1016/j.ssresearch.2014.02.007](https://doi.org/10.1016/j.ssresearch.2014.02.007)
 **作者**: Pudrovska, Tetyana; Logan, Ellis Scott; Richman, Aliza
@@ -3696,10 +3647,6 @@
 ### The relationship between incarceration and premature adult mortality: Gender specific evidence
 **年份**: 2014 | **DOI**: [10.1016/j.ssresearch.2014.03.002](https://doi.org/10.1016/j.ssresearch.2014.03.002)
 **作者**: Massoglia, Michael; Pare, Paul-Philippe; Schnittker, Jason 等4人
-**摘要**: （暂无）
-
-### Editorial Board
-**年份**: 2014 | **DOI**: [10.1016/s0049-089x(14)00018-0](https://doi.org/10.1016/s0049-089x(14)00018-0)
 **摘要**: （暂无）
 
 ### Hierarchical Bayesian analysis of outcome- and process-based social preferences and beliefs in Dictator Games and sequential Prisoner’s Dilemmas
@@ -3956,10 +3903,6 @@
 **作者**: Schaeffer, Merlin
 **摘要**: （暂无）
 
-### Editorial Board
-**年份**: 2013 | **DOI**: [10.1016/s0049-089x(13)00129-4](https://doi.org/10.1016/s0049-089x(13)00129-4)
-**摘要**: （暂无）
-
 ### Is race a ‘salient…’ or ‘dominant identity’ in the early 21st century: The evidence of UK survey data on respondents’ sense of who they are
 **年份**: 2013 | **DOI**: [10.1016/j.ssresearch.2012.10.007](https://doi.org/10.1016/j.ssresearch.2012.10.007)
 **作者**: Aspinall, Peter J.; Song, Miri
@@ -4155,10 +4098,6 @@
 ### Black and white homebuyer, homeowner, and household segregation in the United States, 1990–2010
 **年份**: 2013 | **DOI**: [10.1016/j.ssresearch.2013.07.015](https://doi.org/10.1016/j.ssresearch.2013.07.015)
 **作者**: Fischer, Mary J.
-**摘要**: （暂无）
-
-### Editorial
-**年份**: 2013 | **DOI**: [10.1016/s0049-089x(13)00103-8](https://doi.org/10.1016/s0049-089x(13)00103-8)
 **摘要**: （暂无）
 
 ### Institutional isolation and crime: The mediating effect of disengaged youth on levels of crime
@@ -4675,11 +4614,6 @@
 ### Income inequality and participation: A comparison of 24 European countries
 **年份**: 2012 | **DOI**: [10.1016/j.ssresearch.2012.04.005](https://doi.org/10.1016/j.ssresearch.2012.04.005)
 **作者**: Lancee, Bram; Van de Werfhorst, Herman G.
-**摘要**: （暂无）
-
-### Erratum on “Eyes on the block: Measuring urban physical disorder through in person observation, by Malia Jones, Anne R. Pebley, Narayan Sastry, Social Science Research 40 (2) 523–537”
-**年份**: 2012 | **DOI**: [10.1016/j.ssresearch.2012.01.004](https://doi.org/10.1016/j.ssresearch.2012.01.004)
-**作者**: Wright, James
 **摘要**: （暂无）
 
 ### Time dynamics of elder victimization: Evidence from the NCVS, 1992 to 2005
@@ -5973,7 +5907,7 @@
 **作者**: Schieman, Scott; Young, Marisa
 **摘要**: （暂无）
 
-### Gender differences in depression in 25 European countries after eliminating measurement bias in the CES-D 8
+### Gender differences in depression in 25 European countries after eliminating measurement bias in the CES-D
 **年份**: 2010 | **DOI**: [10.1016/j.ssresearch.2010.01.002](https://doi.org/10.1016/j.ssresearch.2010.01.002)
 **作者**: Van de Velde, Sarah; Bracke, Piet; Levecque, Katia 等4人
 **摘要**: （暂无）

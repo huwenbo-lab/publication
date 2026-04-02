@@ -1,6 +1,6 @@
 # Chinese Journal of Sociology — 文章标题索引
 
-共 **254** 篇 | 年份范围：2015–2025
+共 **250** 篇 | 年份范围：2015–2025
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -104,7 +104,6 @@
 - Internet involvement, information consumption, and political participation in urban China · [DOI](https://doi.org/10.1177/2057150X221121698)
 - Labor exportation, transnational production politics, and the formation of exploitation relationships-a case study of Chinese migrant workers in Japan · [DOI](https://doi.org/10.1177/2057150X221090359)
 - Heroines who are rebuilding their country: State-society circumstances and coping strategies of female leaders in post-genocide Rwanda · [DOI](https://doi.org/10.1177/2057150X221123622)
-- Social class differentials in marital sex in China (2000-2015) · [DOI](https://doi.org/10.1177/2057150X221107958)
 
 ## 2021
 
@@ -185,7 +184,6 @@
 - Migration and marital instability among migrant workers in China: A gender perspective · [DOI](https://doi.org/10.1177/2057150x18757673)
 - Live like mosquitoes: Hukou, rural–urban disparity, and depression · [DOI](https://doi.org/10.1177/2057150x17748313)
 - Elderly population changes in small- and medium-sized cities in China, 1982–2000 · [DOI](https://doi.org/10.1177/2057150x18764867)
-- Call for Papers · [DOI](https://doi.org/10.1177/2057150x18793045)
 - When do literacy skills begin to decline among Chinese adults? · [DOI](https://doi.org/10.1177/2057150x18775874)
 - Labor market integration of non-Chinese immigrants in Hong Kong from 1991 to 2011: Structure of global market or White privilege? · [DOI](https://doi.org/10.1177/2057150x17748533)
 - Variation in the education gradient of body weight in contemporary China · [DOI](https://doi.org/10.1177/2057150x18782639)
@@ -197,7 +195,6 @@
 - Sharing data: Some examples · [DOI](https://doi.org/10.1177/2057150x18762025)
 - Private tutoring, students’ cognitive ability and school engagement, and the formal schooling context: Evidence from middle school students in China · [DOI](https://doi.org/10.1177/2057150x18764859)
 - ‘Neo-agents’: A study of village governance under the ‘Projects to Villages’ model · [DOI](https://doi.org/10.1177/2057150x18782053)
-- Call for Papers · [DOI](https://doi.org/10.1177/2057150x18793278)
 - Constructing the idea of organization: Thought self-checks and the organizational review of cadres (1952–1960) · [DOI](https://doi.org/10.1177/2057150x18803581)
 - Centralization and decentralization of power structure: A theory of ruling risks and empirical evidence from Chinese history · [DOI](https://doi.org/10.1177/2057150x18789048)
 - Socioeconomic integration of early professional Hong Kongers in Taipei, Taiwan · [DOI](https://doi.org/10.1177/2057150x17747507)
@@ -249,7 +246,6 @@
 - Networks of social relations and underground economics: A study on a black market of bicycles in Shanghai · [DOI](https://doi.org/10.1177/2057150x16651774)
 - Understanding inequality in China · [DOI](https://doi.org/10.1177/2057150x16654059)
 - The perception of global hierarchies: South-Eastern European patterns in comparative perspectives · [DOI](https://doi.org/10.1177/2057150x16670836)
-- Corrigendum · [DOI](https://doi.org/10.1177/2057150x15625564)
 - The separation of officials from local staff: The logic of the Empire and personnel management in the Chinese bureaucracy · [DOI](https://doi.org/10.1177/2057150x16639194)
 - Adult children’s characteristics and intergenerational financial transfers in urban China · [DOI](https://doi.org/10.1177/2057150x15624085)
 - The Chinese diaspora: The current distribution of the overseas Chinese population · [DOI](https://doi.org/10.1177/2057150x16655077)

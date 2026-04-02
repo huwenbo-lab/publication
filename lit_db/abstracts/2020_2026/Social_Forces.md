@@ -115,7 +115,7 @@
 **作者**: Tomaskovic-Devey, Donald; Kerrissey, Jasmine; Li, Yifan
 **摘要**: We conceptualize within job group income distributions as the outcome of claims-making over organizational resources. We examine same job group co-workers by race/gender in all U.S. state and local government workplaces.…
 
-### Transmorphic organizations: racial segregation and discrimination against LGBTQ students at Christian colleges and universities1
+### Transmorphic organizations: racial segregation and discrimination against LGBTQ students at Christian colleges and universities
 **年份**: 2025 | **DOI**: [10.1093/sf/soaf175](https://doi.org/10.1093/sf/soaf175)
 **作者**: Coley, Jonathan S.; Gomez, Gabby
 **摘要**: Do organizations that previously discriminated against one marginalized group go on to discriminate against other marginalized groups? If so, why and under what conditions? We address this question by developing a theory of transmorphic organizations, which suggests that organizations' likelihood of…
@@ -280,7 +280,7 @@
 **作者**: Pesando, Luca Maria; Sarkar, Koyel; Kornrich, Sabino
 **摘要**: This study complements existing scholarship in family sociology and digital demography by investigating the role of digital technologies in shaping partnership ideals among unmarried women in India.…
 
-### Competing social influence in contested diffusion: contention and the spread of the early reformation1
+### Competing social influence in contested diffusion: contention and the spread of the early reformation
 **年份**: 2025 | **DOI**: [10.1093/sf/soaf079](https://doi.org/10.1093/sf/soaf079)
 **作者**: Becker, Sascha; Hsiao, Yuan; Pfaff, Steven 等4人
 **摘要**: The spread of radical institutional change does not often result from one-sided pro-innovation influence; countervailing influence networks in support of the status quo can suppress adoption.…

@@ -1,7 +1,7 @@
 # British Journal of Sociology of Education
 ## 2000–2009 年文章（含摘要）
 
-共 **552** 篇
+共 **551** 篇
 
 ---
 
@@ -1258,7 +1258,7 @@
 **作者**: Jane Kehily, Mary; Pattman, Rob
 **摘要**: Abstract This paper explores the ways in which sixth‐form students in Milton Keynes negotiate their identities and the symbolic significance they attach to leisure activities in the process of doing this.…
 
-### Alternative identities in multicultural schools in Israel: emancipatory identity, mixed identity and transnational identity1
+### Alternative identities in multicultural schools in Israel: emancipatory identity, mixed identity and transnational identity
 **年份**: 2006 | **DOI**: [10.1080/01425690600958782](https://doi.org/10.1080/01425690600958782)
 **作者**: Resnik, Julia
 **摘要**: Economic and technological processes of globalization and the increasing migrations of people in the world undermine dominant national identities. One of the main characteristics of our time is the instability of identities and the continuous invention of new/old identities.…
@@ -1584,7 +1584,7 @@
 **作者**: Jones *, Alison
 **摘要**: Abstract Foucault's view of the body as a detailed text from which can be read a system of power is used to consider some aspects of contemporary teacher work. In particular, this paper considers the impact on primary school teachers of social anxiety about touching children.…
 
-### From the Crick Report to the Parekh Report: multiculturalism, cultural difference, and democracy—the re‐visioning of citizenship education1
+### From the Crick Report to the Parekh Report: multiculturalism, cultural difference, and democracy—the re‐visioning of citizenship education
 **年份**: 2004 | **DOI**: [10.1080/0142569042000205127](https://doi.org/10.1080/0142569042000205127)
 **作者**: Olssen *, Mark
 **摘要**: This paper attempts to develop a more sophisticated notion of multiculturalism in Britain. It starts by examining the philosophical basis of the Crick Report on citizenship education to resolve the theoretical tension between liberal and multicultural approaches to the subject.…
@@ -1706,11 +1706,6 @@
 **年份**: 2004 | **DOI**: [10.1080/0142569032000155971](https://doi.org/10.1080/0142569032000155971)
 **作者**: Archer *, Louise
 **摘要**: Click to increase image sizeClick to decrease image size Additional informationNotes on contributorsLouise Archer ** Institute for Policy Studies in Education, London Metropolitan University, London, UK.…
-
-### EDITORIAL
-**年份**: 2004 | **DOI**: [10.1080/0142569042000237005](https://doi.org/10.1080/0142569042000237005)
-**作者**: Reay, Diane; Arnot, Madeleine; David, Miriam 等5人
-**摘要**: Pierre Bourdieu, the French sociologist and internationally renowned public intellectual, died in 2002. He resisted the prophetic role of ‘the total intellectual’ although his fame was such that wh...
 
 ### Texts and literacies of the Shi Jinrui
 **年份**: 2004 | **DOI**: [10.1080/0142569042000205109](https://doi.org/10.1080/0142569042000205109)

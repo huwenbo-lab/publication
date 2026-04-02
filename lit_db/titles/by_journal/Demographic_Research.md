@@ -1,6 +1,6 @@
 # Demographic Research — 文章标题索引
 
-共 **1833** 篇 | 年份范围：2000–2025
+共 **1831** 篇 | 年份范围：2000–2025
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -627,7 +627,6 @@
 - Stability and change in family time transfers and workload inequality in Italian couples · [DOI](https://doi.org/10.4054/DemRes.2019.40.3)
 - Weak support for a U-shaped pattern between societal gender equality and fertility when comparing societies across time · [DOI](https://doi.org/10.4054/DemRes.2019.40.2)
 - Running out of time? Understanding the consequences of the biological clock for the dynamics of fertility intentions and union formation · [DOI](https://doi.org/10.4054/DemRes.2019.40.1)
-- Civilian killings and disappearances during civil war in El Salvador (1980-1992) · [DOI](https://doi.org/10.4054/demres.2019.41.27)
 - Who leaves, who stays? Gendered routes out of the family home following union dissolution in Italy · [DOI](https://doi.org/10.4054/demres.2019.40.20)
 - Persistent joblessness and fertility intentions · [DOI](https://doi.org/10.4054/demres.2019.40.8)
 
@@ -1254,7 +1253,7 @@
 - Nonresident Fathers and Formal Child Support: Evidence from the CPS, NSFG, and SIPP · [DOI](https://doi.org/10.4054/demres.2013.29.46)
 - Indigenous life expectancy in Sweden 1850-1899: Towards a long and healthy life? · [DOI](https://doi.org/10.4054/demres.2013.28.16)
 - Disentangling how educational expansion did not increase women's age at union formation in Latin America from 1970 to 2000 · [DOI](https://doi.org/10.4054/demres.2013.28.3)
-- A Stata module for computing fertility rates and TFRs from birth histories: tfr2 · [DOI](https://doi.org/10.4054/demres.2013.28.38)
+- A Stata module for computing fertility rates and TFRs from birth histories: tfr · [DOI](https://doi.org/10.4054/demres.2013.28.38)
 
 ## 2012
 
@@ -1359,7 +1358,6 @@
 - Cohort change, diffusion, and support for gender egalitarianism in cross-national perspective · [DOI](https://doi.org/10.4054/demres.2011.25.21)
 - Household composition across the new Europe: Where do the new Member States fit in? · [DOI](https://doi.org/10.4054/demres.2011.25.14)
 - The changing determinants of UK young adults' living arrangements · [DOI](https://doi.org/10.4054/demres.2011.25.20)
-- Gender differences in social mortality differentials in Switzerland (1990-2005) · [DOI](https://doi.org/10.4054/demres.2011.25.8)
 - Intergenerational transmission of women’s educational attainment in South Korea · [DOI](https://doi.org/10.4054/demres.2011.24.3)
 - Towards an integrated approach for the analysis of gender equity in policies supporting paid work and care responsibilities · [DOI](https://doi.org/10.4054/demres.2011.25.11)
 - Should governments in Europe be more aggressive in pushing for gender equality to raise fertility? The second "YES" · [DOI](https://doi.org/10.4054/demres.2011.24.9)
@@ -1747,7 +1745,7 @@
 - Fertility and Public Policies - Evidence from Norway and Finland · [DOI](https://doi.org/10.4054/demres.2004.10.6)
 - Marriage in Russia: a reconstruction · [DOI](https://doi.org/10.4054/demres.2004.10.2)
 - Educational differentials in male mortality in Russia and northern Europe · [DOI](https://doi.org/10.4054/demres.2004.10.1)
-- A summary of Special Collection 2 · [DOI](https://doi.org/10.4054/demres.2004.10.12)
+- A summary of Special Collection · [DOI](https://doi.org/10.4054/demres.2004.10.12)
 - Reproduction at the Margins: Migration and Legitimacy in the New Europe · [DOI](https://doi.org/10.4054/demres.2004.s3.4)
 - Progress in health care, progress in health? · [DOI](https://doi.org/10.4054/demres.2004.s2.6)
 - The case of the Czech Republic · [DOI](https://doi.org/10.4054/demres.2004.s2.5)
@@ -1764,7 +1762,7 @@
 - Childbearing patterns for Swedish mothers of twins, 1961-1999 · [DOI](https://doi.org/10.4054/demres.2004.11.15)
 - Sociodemographic Effects on the Onset and Recovery of ADL Disability among Chinese Oldest-old · [DOI](https://doi.org/10.4054/demres.2004.11.1)
 - Australia's uncertain demographic future · [DOI](https://doi.org/10.4054/demres.2004.11.8)
-- A summary of Special Collection 3 · [DOI](https://doi.org/10.4054/demres.2004.10.13)
+- A summary of Special Collection · [DOI](https://doi.org/10.4054/demres.2004.10.13)
 - A Method for Estimating Size of Population Aged 90 and over with Application to the U.S. Census 2000 Data · [DOI](https://doi.org/10.4054/demres.2004.11.9)
 - Russian mortality beyond vital statistics · [DOI](https://doi.org/10.4054/demres.2004.s2.4)
 - Health sector reforms in Central and Eastern Europe · [DOI](https://doi.org/10.4054/demres.2004.s2.7)
@@ -1817,7 +1815,7 @@
 - A diminishing population whose every cohort more than replaces itself · [DOI](https://doi.org/10.4054/demres.2003.9.6)
 - Is nursing home demand affected by the decline in age difference between spouses? · [DOI](https://doi.org/10.4054/demres.2003.8.10)
 - Insecurities in employment and occupational careers and their impact on the transition to fatherhood in Western Germany · [DOI](https://doi.org/10.4054/demres.2003.9.3)
-- A summary of Special Collection 1 · [DOI](https://doi.org/10.4054/demres.2003.9.12)
+- A summary of Special Collection · [DOI](https://doi.org/10.4054/demres.2003.9.12)
 - Does biological relatedness affect child survival? · [DOI](https://doi.org/10.4054/demres.2003.8.9)
 - Elaboration of the Coale-McNeil Nuptiality Model as The Generalized Log Gamma Distribution · [DOI](https://doi.org/10.4054/demres.2003.9.10)
 - Spousal communication about the risk of contracting HIV/AIDS in rural Malawi · [DOI](https://doi.org/10.4054/demres.2003.s1.8)

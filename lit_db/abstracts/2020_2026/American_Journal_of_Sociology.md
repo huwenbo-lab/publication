@@ -5,27 +5,27 @@
 
 ---
 
-### Wealth Begins at Home: The Housing Benefits of the 1944 GI Bill and the Reproduction of Black-White Inequality in Homeownership and Home Value1
+### Wealth Begins at Home: The Housing Benefits of the 1944 GI Bill and the Reproduction of Black-White Inequality in Homeownership and Home Value
 **年份**: 2025 | **DOI**: [10.1086/738245](https://doi.org/10.1086/738245)
 **作者**: Agbai, Chinyere O.
 **摘要**: This article bridges empirical research on wealth inequality and theoretical perspectives on the influence of racial structures to highlight the implications of historic policy on Black-White inequalities in homeownership.…
 
-### The Leniency of Low Expectations: Parental Incarceration, Race, and Teachers' Evaluations of Student Writing1
+### The Leniency of Low Expectations: Parental Incarceration, Race, and Teachers' Evaluations of Student Writing
 **年份**: 2025 | **DOI**: [10.1086/738516](https://doi.org/10.1086/738516)
 **作者**: McCauley, Erin J.
 **摘要**: In the era of mass incarceration, scholars have linked the expansion of the criminal legal system to the development and persistence of disparities in education. Leveraging a survey-based experiment with 1,492 high school teachers, I find that teachers grade the same essay less rigorously if they be…
 
-### The Polarization of Inequality Perceptions in the New Gilded Age1
+### The Polarization of Inequality Perceptions in the New Gilded Age
 **年份**: 2025 | **DOI**: [10.1086/736841](https://doi.org/10.1086/736841)
 **作者**: Waight, Hannah; Goldstein, Adam
 **摘要**: A growing social science literature finds that Americans tend to underestimate levels of socioeconomic inequality, but this work has not considered the historical evolution of distributional perceptions in an era of rising economic polarization.…
 
-### Who Polices Which Boundaries? How Racial Self-Identification Affects External Classification1
+### Who Polices Which Boundaries? How Racial Self-Identification Affects External Classification
 **年份**: 2025 | **DOI**: [10.1086/737164](https://doi.org/10.1086/737164)
 **作者**: Abascal, Maria; Armenta, Amada; Halm, W. M. 等4人
 **摘要**: This study explores whether Americans agree on the ethnoracial categories that are worth policing. It evaluates how receptive White, Black, Latino, and Asian Americans are to how others self-identify by race/ethnicity.…
 
-### How Protests Spread: Diasporas, Wide Bridges, and the Transnational Diffusion of Un violador en tu camino1
+### How Protests Spread: Diasporas, Wide Bridges, and the Transnational Diffusion of Un violador en tu camino
 **年份**: 2025 | **DOI**: [10.1086/735430](https://doi.org/10.1086/735430)
 **作者**: Saetre, Juliette
 **摘要**: How do local expressions of dissent become global? This article studies the diffusion of Un violador en tu camino-a protest performance against gender-based violence born out of the 2019 Chilean uprisings-as a case of complex contagion.…
@@ -35,67 +35,67 @@
 **作者**: Light, Michael T.; Warner, Avery
 **摘要**: We leverage the rollout of Secure Communities (S-Comm)-the largest effort in US history to integrate local criminal justice authorities into immigration enforcement-to examine whether immigration enforcement exacerbates racial disparities in the criminal justice system.…
 
-### What Makes a Contact Valuable? Hiring, Organizational Networks and the Advantages of Network Closure1
+### What Makes a Contact Valuable? Hiring, Organizational Networks and the Advantages of Network Closure
 **年份**: 2025 | **DOI**: [10.1086/736352](https://doi.org/10.1086/736352)
 **作者**: Henriksen, Lasse Folke; Lyttelton, Thomas; Begtrup-Bright, Emil
 **摘要**: What makes contacts at hiring organizations valuable for job seekers? Network-structural research emphasizes the importance of open networks for transmitting job leads, but studies of organizational networks show that closure helps employees influence decision-makers and increases group identificati…
 
-### Locally Ensconced and Globally Integrated: How Network Cohesion and Range Relate to a Language-Based Model of Organizational Identification1
+### Locally Ensconced and Globally Integrated: How Network Cohesion and Range Relate to a Language-Based Model of Organizational Identification
 **年份**: 2025 | **DOI**: [10.1086/735405](https://doi.org/10.1086/735405)
 **作者**: Yang, Lara; Anshuman, Sarayu; Goldberg, Amir 等4人
 **摘要**: Shifting attachments to organizations are a constant in the modern era. What accounts for variation in the strength of organizational identification? Whereas prior work has emphasized organization-level properties and individual differences, this article instead highlights the role of network-struct…
 
-### The Contagion of Labor: Linking Workplace Copresence and Occupational Mobility Patterns1
+### The Contagion of Labor: Linking Workplace Copresence and Occupational Mobility Patterns
 **年份**: 2025 | **DOI**: [10.1086/736439](https://doi.org/10.1086/736439)
 **作者**: Lin, Ken-Hou; Hung, Koit; Piccone, David 等6人
 **摘要**: This article proposes that workplaces are key sites for career exploration and development. By bringing together workers of distinct occupations, workplaces facilitate the exchange of information and skill, generating mobility resources for individuals to transition into other occupations.…
 
-### Slavery's Carceral Legacy1
+### Slavery's Carceral Legacy
 **年份**: 2025 | **DOI**: [10.1086/733783](https://doi.org/10.1086/733783)
 **作者**: Clegg, John
 **摘要**: A burgeoning social scientific literature on the place-based legacy of slavery has mostly overlooked the effect of slavery on incarceration, despite the fact that the intensity and racial disparity of US incarceration is often attributed to its history of slavery.…
 
-### From the Block to the Beat: How Violence in Officers' Neighborhoods Influences Racially Biased Policing1
+### From the Block to the Beat: How Violence in Officers' Neighborhoods Influences Racially Biased Policing
 **年份**: 2025 | **DOI**: [10.1086/734296](https://doi.org/10.1086/734296)
 **作者**: Donahue, Samuel Thomas; Torrats-Espinosa, Gerard
 **摘要**: Research on the relationship between police discrimination and place has focused on a single context: the workplace. Yet, theories of exclusion and group identity suggest that where people live shapes their perceptions and actions.…
 
-### What Makes a Decision Fair? Relative Earnings, Gender, and Justifications for Couples' Decision-Making1
+### What Makes a Decision Fair? Relative Earnings, Gender, and Justifications for Couples' Decision-Making
 **年份**: 2025 | **DOI**: [10.1086/735618](https://doi.org/10.1086/735618)
 **作者**: Pepin, Joanna R.; Scarborough, William J.
 **摘要**: This article builds on research demonstrating that inequality is widely accepted when it results from practices that are perceived to be fair. Using a survey experiment on a nationally representative sample of US adults (n=3,978), the study adds new insight into the mechanisms that sustain gender in…
 
-### Stimulating (In)equality? The Earnings Penalty in Different-Sex and Female Same-Sex Couples Transitioning to Parenthood in Denmark, Finland, Norway, and Sweden1
+### Stimulating (In)equality? The Earnings Penalty in Different-Sex and Female Same-Sex Couples Transitioning to Parenthood in Denmark, Finland, Norway, and Sweden
 **年份**: 2025 | **DOI**: [10.1086/735884](https://doi.org/10.1086/735884)
 **作者**: Evertsson, Marie; Moberg, Ylva; van der Vleuten, Maaike
 **摘要**: The Nordic countries are known as family-friendly welfare states, yet gendered work-care divisions remain. We use a case study approach focusing on the key differences in work-family policy packages in Denmark, Finland, Norway, and Sweden.…
 
-### Cross-Cutting Preferences in Interactional Trajectories Toward Violence1
+### Cross-Cutting Preferences in Interactional Trajectories Toward Violence
 **年份**: 2025 | **DOI**: [10.1086/734912](https://doi.org/10.1086/734912)
 **作者**: Whitehead, Kevin A.; Raymond, Geoffrey; Bowman, Brett
 **摘要**: Contemporary scholarship on violence has offered contradictory accounts for its situated production in interaction, with some proposing that it is difficult to carry out and others contending that most violence is motivated by ostensibly pro-social moral imperatives.…
 
-### Market Design as Organizational Problem: Explaining System Failures in Platform Markets1
+### Market Design as Organizational Problem: Explaining System Failures in Platform Markets
 **年份**: 2025 | **DOI**: [10.1086/735201](https://doi.org/10.1086/735201)
 **作者**: Rilinger, Georg
 **摘要**: System failures occur when organizations managing sociotechnical systems lose control over interactions between components. To prevent such failures, organizations decompose systems into simpler parts and empower frontline experts to manage them in a flat hierarchy.…
 
-### Adjudication Under Cover: Compliance and Inequality in the Criminal Courts1
+### Adjudication Under Cover: Compliance and Inequality in the Criminal Courts
 **年份**: 2025 | **DOI**: [10.1086/733928](https://doi.org/10.1086/733928)
 **作者**: Stitt, Mary Ellen
 **摘要**: State agencies tasked with governing poverty often aim to improve individuals' social conditions by transforming their conduct. From welfare offices to prison reentry programs, those agencies work to compel behavioral changes by making the receipt of aid-or punishment-contingent on individuals' comp…
 
-### Territoriality and the Emergence of Norms During the COVID-19 Pandemic1
+### Territoriality and the Emergence of Norms During the COVID-19 Pandemic
 **年份**: 2025 | **DOI**: [10.1086/733799](https://doi.org/10.1086/733799)
 **作者**: Bergemann, Patrick; Brandtner, Christof
 **摘要**: Although social norms are critical for regulating behavior, the emergence of new norms is rarely studied in consequential real-world settings. Thus, the conditions under which norms arise in certain communities but not in others are not well understood.…
 
-### Between-Firm Inequality and Informal Social Relations1
+### Between-Firm Inequality and Informal Social Relations
 **年份**: 2025 | **DOI**: [10.1086/734909](https://doi.org/10.1086/734909)
 **作者**: Wilmers, Nathan; Tong, Di; Zhang, Victoria Y.
 **摘要**: Employer investment, social closure, peer networks: substantial research highlights differences in informal social structure across workplaces. Yet studies of pay inequality between firms have largely neglected these differences in favor of more easily measurable features like firm size or ownership…
 
-### Social Movements in the Commercial Public Sphere: How Women's Magazines Popularized Second-Wave Feminism1
+### Social Movements in the Commercial Public Sphere: How Women's Magazines Popularized Second-Wave Feminism
 **年份**: 2025 | **DOI**: [10.1086/734377](https://doi.org/10.1086/734377)
 **作者**: Polletta, Francesca; Boka, Debra; Martinez, Caroline 等4人
 **摘要**: Social movements have impact by getting their issues into the public sphere, but scholars have conceptualized the public sphere narrowly, focusing on how movements are covered in the news.…
@@ -130,17 +130,17 @@
 **作者**: York, Hunter; Song, Xi; Xie, Yu
 **摘要**: Studies of intergenerational occupational mobility typically characterize occupations quantitatively in one of two ways: gradationally or categorically. Both methods likely grossly oversimplify the complex realities of the transmission mechanisms of occupations across generations.…
 
-### The Anatomy of Regime Change: Transnational Political Opposition and Domestic Foreign Policy Elites in the Making of US Foreign Policy on Iraq1
+### The Anatomy of Regime Change: Transnational Political Opposition and Domestic Foreign Policy Elites in the Making of US Foreign Policy on Iraq
 **年份**: 2024 | **DOI**: [10.1086/732155](https://doi.org/10.1086/732155)
 **作者**: Alshaibi, Wisam H.
 **摘要**: Scholars attribute the causes of the 2003 US war in Iraq to threats to national security or declining hegemonic power. The dominant accounts, however, fail to clarify how Iraqi regime change emerged as official US foreign policy, despite policymakers' hostility toward such an objective throughout th…
 
-### Gendered Market Devices: The Persistence of Gender Discrimination in Insurance Markets1
+### Gendered Market Devices: The Persistence of Gender Discrimination in Insurance Markets
 **年份**: 2024 | **DOI**: [10.1086/732318](https://doi.org/10.1086/732318)
 **作者**: Krippner, Greta R.
 **摘要**: This article explores the reasons for the stubborn persistence of gender discrimination in insurance long after gender classifications have been banned in employment, housing, and credit markets.…
 
-### Macro-Micro Interaction in Knowledge Construction: Structural and Communicative Memory in Rwanda and Sierra Leone1
+### Macro-Micro Interaction in Knowledge Construction: Structural and Communicative Memory in Rwanda and Sierra Leone
 **年份**: 2024 | **DOI**: [10.1086/731782](https://doi.org/10.1086/731782)
 **作者**: Labranche, Jillian
 **摘要**: Scholars have investigated how state narratives about mass violence produced at the macrolevel shape education. This article instead examines the microlevel and its interaction with macrolevel narratives.…
@@ -150,7 +150,7 @@
 **作者**: Washington, Scott
 **摘要**: This article examines laws against interracial sex or marriage in the United States between 1662 and 2000. Isolating the period after Reconstruction, it surveys four regions: the South, the West, the Midwest, and the Northeast. Several findings are reported.…
 
-### The Increase in Refugees to Germany and Exclusionary Beliefs and Behaviors1
+### The Increase in Refugees to Germany and Exclusionary Beliefs and Behaviors
 **年份**: 2024 | **DOI**: [10.1086/731833](https://doi.org/10.1086/731833)
 **作者**: Giesselmann, Marco; Brady, David; Naujoks, Tabea
 **摘要**: In 2015-16, Germany experienced a rapid and controversial increase in refugees that varied substantially across German districts. This increase provides unique leverage for analyzing how fractionalization, threat, and contact shape the consequences of immigration and ethnolinguistic heterogeneity.…
@@ -275,7 +275,7 @@
 **作者**: Glass, Jennifer
 **摘要**: （暂无）
 
-### Competition and Gender Inequality: A Comprehensive Analysis of Effects and Mechanisms1
+### Competition and Gender Inequality: A Comprehensive Analysis of Effects and Mechanisms
 **年份**: 2023 | **DOI**: [10.1086/727822](https://doi.org/10.1086/727822)
 **作者**: Gerxhani, Klarita; Brandts, Jordi; Schram, Arthur
 **摘要**: This study uses data from a series of laboratory experiments to provide a comprehensive analysis of gender differences in performance caused by two different dimensions of competition-rivalry for resources and status ranking. It also examines two mechanisms behind such differences.…
@@ -350,7 +350,7 @@
 **作者**: Stein, Arlene
 **摘要**: （暂无）
 
-### Horror Vacui: Racial Misalignment, Symbolic Repair, and Imperial Legitimation in German National Socialist Portrait Photography1
+### Horror Vacui: Racial Misalignment, Symbolic Repair, and Imperial Legitimation in German National Socialist Portrait Photography
 **年份**: 2023 | **DOI**: [10.1086/727562](https://doi.org/10.1086/727562)
 **作者**: Skarpelis, A. K. M.
 **摘要**: Racial purity and supremacy were central to Nazi Germany's claims to European dominion. At the same time, their very own racial scientific research showed that most Germans were mixed-race.…
@@ -370,22 +370,22 @@
 **作者**: Fiorito, Tara; Nicholls, Walter J.
 **摘要**: During the late 2010s, the undocumented immigrant youth movement embraced inclusive and intersectional representations. Directly impacted activists deconstructed language and symbolic categories that excluded. However, their movement continued to stratify activists along representational lines.…
 
-### Life Course Trajectories and Wealth Accumulation in the United States: Comparing Late Baby Boomers and Early Millennials1
+### Life Course Trajectories and Wealth Accumulation in the United States: Comparing Late Baby Boomers and Early Millennials
 **年份**: 2023 | **DOI**: [10.1086/726445](https://doi.org/10.1086/726445)
 **作者**: Gruijters, Rob J.; Van Winkle, Zachary; Fasang, Anette E.
 **摘要**: Millennials are often assumed to be economically worse off than previous generations because of more precarious employment and unstable family lives. Using sequence analysis and unconditional quantile decomposition, we analyze the work and family trajectories of late baby boomers and early millennia…
 
-### (Not) Feeling the Past: Boredom as a Racialized Emotion1
+### (Not) Feeling the Past: Boredom as a Racialized Emotion
 **年份**: 2023 | **DOI**: [10.1086/725803](https://doi.org/10.1086/725803)
 **作者**: Teeger, Chana
 **摘要**: This article centers boredom as a racialized emotion by analyzing how it can come to characterize encounters with histories of racial oppression. Drawing on data collected in two racially diverse South African high schools, I document how and why students framed the history of apartheid as boring.…
 
-### Welfare Drug Bans and Criminal Legal Cycling1
+### Welfare Drug Bans and Criminal Legal Cycling
 **年份**: 2023 | **DOI**: [10.1086/725424](https://doi.org/10.1086/725424)
 **作者**: Sugie, Naomi F.; Newark, Carol
 **摘要**: Punitive policies of welfare and criminal legal systems reflect a shared orientation governing social marginality. The welfare drug bans, which prohibit people convicted of drug-related felonies from receiving cash assistance and food stamps, are a key example of increasing synergies between the two…
 
-### The Rich Have Peers, the Poor Have Patrons: Engaging the State in a South Indian City1
+### The Rich Have Peers, the Poor Have Patrons: Engaging the State in a South Indian City
 **年份**: 2023 | **DOI**: [10.1086/725592](https://doi.org/10.1086/725592)
 **作者**: Heller, Patrick; Swaminathan, Siddharth; Varshney, Ashutosh
 **摘要**: Research on democracy has shed much light on two kinds of democratic politics: patterns of voting and patterns of associational or movement politics. But there is growing recognition that in order to better understand the quality or depth of democracy, we need to move beyond this dualistic focus to …
@@ -395,22 +395,22 @@
 **作者**: Flores, Rene D.; Loria, Maria Vignau; Casas, Regina Martinez
 **摘要**: Ethnic boundary crossing takes two different forms that have distinct triggers, traits, and potential outcomes: transitory crossing, which is typically short-term, reversible, and triggered by microcontextual cues, and durable crossing, which is a longer-lasting, gradual process motivated by macropo…
 
-### Noncitizen Justice: The Criminal Case Processing of Non-US Citizens in Texas and California1
+### Noncitizen Justice: The Criminal Case Processing of Non-US Citizens in Texas and California
 **年份**: 2023 | **DOI**: [10.1086/725390](https://doi.org/10.1086/725390)
 **作者**: Light, Michael T.; Robey, Jason P.; Kim, Jungmyung
 **摘要**: Immigration enforcement is increasingly dependent on local criminal justice authorities, yet basic questions on the criminal case processing of non-US citizens (documented or undocumented) in state and local jurisdictions remain unanswered.…
 
-### Racial Disparity in Leadership: Evidence of Valuative Bias in the Promotions of National Football League Coaches1
+### Racial Disparity in Leadership: Evidence of Valuative Bias in the Promotions of National Football League Coaches
 **年份**: 2023 | **DOI**: [10.1086/725389](https://doi.org/10.1086/725389)
 **作者**: Rider, Christopher I. I.; Wade, James B. B.; Swaminathan, Anand 等4人
 **摘要**: The authors propose that racial disparity in organizational leadership representation will persist until valuative bias favoring white men ceases to influence advancement from the lower-level positions where most careers begin.…
 
-### Black-White Trends in Intergenerational Educational Mobility: A Positional Analysis1
+### Black-White Trends in Intergenerational Educational Mobility: A Positional Analysis
 **年份**: 2023 | **DOI**: [10.1086/724884](https://doi.org/10.1086/724884)
 **作者**: Karlson, Kristian Bernt
 **摘要**: This article examines black-white differences in intergenerational educational mobility for cohorts born in the United States during 1915-84. Using a novel mobility measure based on relative educational positions, the author compares racial mobility flows across the entire schooling distribution.…
 
-### Structural Inequities in the Kin Safety Net: Mapping the Three-Generational Network throughout Early Adulthood1
+### Structural Inequities in the Kin Safety Net: Mapping the Three-Generational Network throughout Early Adulthood
 **年份**: 2023 | **DOI**: [10.1086/724817](https://doi.org/10.1086/724817)
 **作者**: Sohn, Heeju
 **摘要**: Research in the intergenerational transmission of socioeconomic status (SES) consistently shows that the SES of one generation benefits the next. Demographic processes shape the kin structures that serve as conduits for the transmission of SES.…
@@ -420,17 +420,17 @@
 **作者**: Sweet, Paige L.
 **摘要**: Existing literature argues that the incorporation of crime victims into the U.S. state has been a causal force in carceral expansion. I argue that instead of carceral expansion alone, victim politics have contributed to penal-welfare hybridity: the welfare state expands as it gets attached to crimin…
 
-### The Shadow of Peasant Past: Seven Generations of Inequality Persistence in Northern Sweden1
+### The Shadow of Peasant Past: Seven Generations of Inequality Persistence in Northern Sweden
 **年份**: 2023 | **DOI**: [10.1086/724835](https://doi.org/10.1086/724835)
 **作者**: Hallsten, Martin; Kolk, Martin
 **摘要**: The authors use administrative data linked to parish records from northern Sweden to study how persistent inequality is across multiple generations in education, occupation, and wealth, going from historical to contemporary time.…
 
-### Walking the Moral Tightrope: Federal Civil Servants' Loyalties, Caution, and Resistance under the Trump Administration1
+### Walking the Moral Tightrope: Federal Civil Servants' Loyalties, Caution, and Resistance under the Trump Administration
 **年份**: 2023 | **DOI**: [10.1086/725313](https://doi.org/10.1086/725313)
 **作者**: Kucinskas, Jaime; Zylan, Yvonne
 **摘要**: The Trump administration and its supporters were quick to decry the federal civil service as a deep state thwarting the president's agenda. Yet most research describes the career corps as loyal to mission, risk averse, and rarely partisan.…
 
-### Rearranging the Desk Chairs: A Large Randomized Field Experiment on the Effects of Close Contact on Interethnic Relations1
+### Rearranging the Desk Chairs: A Large Randomized Field Experiment on the Effects of Close Contact on Interethnic Relations
 **年份**: 2023 | **DOI**: [10.1086/724865](https://doi.org/10.1086/724865)
 **作者**: Elwert, Felix; Keller, Tamas; Kotsadam, Andreas
 **摘要**: Contact theory predicts that interethnic exposure reduces antiminority discrimination. By contrast, conflict theory predicts that interethnic exposure worsens discrimination. Received scope conditions, however, are vague and do not properly differentiate between the domains of the theories.…
@@ -470,17 +470,17 @@
 **作者**: Greene, Joss
 **摘要**: A core feature of prisons is their institutionalization of a fixed male/female binary. Yet, definitions of and responses to prison gender boundary violation are historically variable.…
 
-### Organizational Supererogation and the Transformation of Nonprofit Accountability1
+### Organizational Supererogation and the Transformation of Nonprofit Accountability
 **年份**: 2023 | **DOI**: [10.1086/723799](https://doi.org/10.1086/723799)
 **作者**: Horvath, Aaron
 **摘要**: This article advances the moral philosophical concept of supererogation as a sociological process through which organizational action outstrips externally imposed evaluative demands.…
 
-### Hostile Environments: State Infrastructural Power and the Exclusion of Unauthorized Migrants in Western Europe1
+### Hostile Environments: State Infrastructural Power and the Exclusion of Unauthorized Migrants in Western Europe
 **年份**: 2023 | **DOI**: [10.1086/723400](https://doi.org/10.1086/723400)
 **作者**: Morgan, Kimberly J.
 **摘要**: The phrase immigration enforcement often calls to mind border policing or efforts to detain and deport unauthorized migrants, but governments also employ techniques of exclusion-denying migrants access to public and private resources.…
 
-### From Superdiversity to Consolidation: Implications of Structural Intersectionality for Interethnic Friendships1
+### From Superdiversity to Consolidation: Implications of Structural Intersectionality for Interethnic Friendships
 **年份**: 2023 | **DOI**: [10.1086/723435](https://doi.org/10.1086/723435)
 **作者**: Zhao, Linda
 **摘要**: This study advances a theoretical framework of consolidation as a measure of structural intersectionality and applies it to study interethnic friendships in Western European classrooms.…
@@ -490,7 +490,7 @@
 **作者**: Levine, Jeremy R.; Russell, Kelly L.
 **摘要**: What mechanisms allow governments to expand into new areas of social provision and provide new benefits? Integrating theories from sociology and political science and using the case of crime victim compensation, this article shows how the political and moral meaning of policy financing tools affects…
 
-### How Tilly's WUNC Works: Bystander Evaluations of Social Movement Signals Lead to Mobilization1
+### How Tilly's WUNC Works: Bystander Evaluations of Social Movement Signals Lead to Mobilization
 **年份**: 2023 | **DOI**: [10.1086/723489](https://doi.org/10.1086/723489)
 **作者**: Bailey, Erica R.; Wang, Dan; Soule, Sarah A. 等4人
 **摘要**: Social movements must mobilize participation from bystanders to survive, yet there is little research on how bystanders' evaluations of social movements predict their likelihood to join.…
@@ -530,17 +530,17 @@
 **作者**: Browning, Christopher R.; Pinchak, Nicolo P.; Boettner, Bethany 等5人
 **摘要**: Foundational urban social theories view heterogeneity of exposure to spatial contexts as essential aspects of the urban experience. In contrast, contemporary neighborhood research emphasizes the isolation of city dwellers-particularly racially segregated youth.…
 
-### Good Time, Bad Time: Socioeconomic Status, Time Scarcity, and Well-Being in Retirement1
+### Good Time, Bad Time: Socioeconomic Status, Time Scarcity, and Well-Being in Retirement
 **年份**: 2022 | **DOI**: [10.1086/720866](https://doi.org/10.1086/720866)
 **作者**: Bo, Boroka
 **摘要**: We tend to think of retirement as a great equalizer when it comes to relief from the pernicious time scarcity characterizing the lives of many workers. Puzzlingly, this is not entirely the case.…
 
-### From the State to the Street: The Segregated Loss of Childcare and the Institutional Origins of Organizational Deprivation1
+### From the State to the Street: The Segregated Loss of Childcare and the Institutional Origins of Organizational Deprivation
 **年份**: 2022 | **DOI**: [10.1086/721034](https://doi.org/10.1086/721034)
 **作者**: Bouek, Jennifer W.
 **摘要**: The inequitable distribution of social service organizations contributes to embedded systems of racial and economic inequality. But while the relationship between neighborhood disadvantage and organizational deprivation is well established, explanations for how these patterns originate are less so.…
 
-### They Are There with Us: Theorizing Racial Status and Intergroup Relations1
+### They Are There with Us: Theorizing Racial Status and Intergroup Relations
 **年份**: 2022 | **DOI**: [10.1086/721467](https://doi.org/10.1086/721467)
 **作者**: Jones, Jennifer A.
 **摘要**: Working from a case study of Latinx immigrant settlement in a Black-White community in North Carolina, this article draws on social psychology, racial formation theory, and intersectional theory to produce the theory of racial status.…
@@ -555,7 +555,7 @@
 **作者**: McArthur, Daniel; Reeves, Aaron
 **摘要**: In this article we investigate whether quantifying school performance can have the unintended consequence of increasing the spatial concentration of advantage. Combining research on residential segregation with the sociology of quantification, we argue that ranking school performance may induce affl…
 
-### Employment Application Criminal Record Questions and Willingness to Apply: A Mixed Method Study of Self-Selection1
+### Employment Application Criminal Record Questions and Willingness to Apply: A Mixed Method Study of Self-Selection
 **年份**: 2022 | **DOI**: [10.1086/722293](https://doi.org/10.1086/722293)
 **作者**: Vuolo, Mike; Schneider, Lesley E.; LaPlant, Eric G.
 **摘要**: Audits demonstrate fewer employer callbacks for applicants with criminal records, yet applicants may not apply for each position as assumed. When encountering criminal record questions (CRQs) or background check statements (BCSs), applicants may self-select out rather than divulge their record.…
@@ -710,22 +710,22 @@
 **作者**: Roscigno, Vincent J.; Yavorsky, Jill E.; Quadlin, Natasha
 **摘要**: Scholars have long noted paradoxical results surrounding women's higher-than-expected job appraisals, particularly in the face of persistent pay gaps, segregation, discrimination, and glass ceilings.…
 
-### Cycles of Conflict, a Century of Continuity: The Impact of Persistent Place-Based Political Logics on Social Movement Strategy1
+### Cycles of Conflict, a Century of Continuity: The Impact of Persistent Place-Based Political Logics on Social Movement Strategy
 **年份**: 2021 | **DOI**: [10.1086/714915](https://doi.org/10.1086/714915)
 **作者**: Nelson, Laura K.
 **摘要**: The women's liberation movement hotly debated both the cause of women's oppression and the best approach to changing it. When treated as a moment within 1960s political polarization, these debates can seem esoteric and arbitrary.…
 
-### Why Elites Rebel: Elite Insurrections during the Taiping Civil War in China1
+### Why Elites Rebel: Elite Insurrections during the Taiping Civil War in China
 **年份**: 2021 | **DOI**: [10.1086/715151](https://doi.org/10.1086/715151)
 **作者**: Zhang, Yang
 **摘要**: Insurrection of local elites in the early modern era is often regarded as the result of structural contradictions between the expanding state and elites or of preexisting cleavages among elites, but these models cannot address cases in which preexisting, structural cleavages were less evident.…
 
-### Pensioner Employment, Well-Being, and Gender: Lessons from Russia1
+### Pensioner Employment, Well-Being, and Gender: Lessons from Russia
 **年份**: 2021 | **DOI**: [10.1086/715150](https://doi.org/10.1086/715150)
 **作者**: Ashwin, Sarah; Keenan, Katherine; Kozina, Irina M.
 **摘要**: Encouraging pensioner employment is one answer to the challenge of aging societies. Employment positively influences the subjective well-being (SWB) of working-age populations, but the implications for pensioners, including variance by gender and occupational class, are unclear.…
 
-### Beholding Inequality: Race, Gender, and Returns to Physical Attractiveness in the United States1
+### Beholding Inequality: Race, Gender, and Returns to Physical Attractiveness in the United States
 **年份**: 2021 | **DOI**: [10.1086/715141](https://doi.org/10.1086/715141)
 **作者**: Monk, Ellis P., Jr.; Esposito, Michael H.; Lee, Hedwig
 **摘要**: Physical attractiveness is an important axis of social stratification associated with educational attainment, marital patterns, earnings, and more. Still, relative to ethnoracial and gender stratification, physical attractiveness is relatively understudied.…
@@ -735,7 +735,7 @@
 **作者**: Hamilton, Laura T.; Armstrong, Elizabeth A.
 **摘要**: Using data from a 12-year longitudinal qualitative interview study of 45 white women at a public flagship university in the American Midwest, the authors compare the class position of interviewees' parents in 2004 to the women's own adult class position at age 30.…
 
-### Cameras of Merit or Engines of Inequality? College Ranking Systems and the Enrollment of Disadvantaged Students1
+### Cameras of Merit or Engines of Inequality? College Ranking Systems and the Enrollment of Disadvantaged Students
 **年份**: 2021 | **DOI**: [10.1086/714916](https://doi.org/10.1086/714916)
 **作者**: Chu, James
 **摘要**: The expansion of ranking systems has increased public access to information about organizations, but there is burgeoning concern that rankings reduce the accessibility of goods and services for individuals from lower socioeconomic status backgrounds.…
@@ -745,17 +745,17 @@
 **作者**: Douds, Kiara Wyndham
 **摘要**: Although theorists argue that ideology and material conditions emerge in relation to one another, the connection between racial ideology and place is undertheorized. Analyzing in-depth interviews (N=109) with residents of a racially diverse suburb-Fort Bend County, Texas-the author uncovers a local …
 
-### Domains of Diffusion: How Culture and Institutions Travel around the World and with What Consequences1
+### Domains of Diffusion: How Culture and Institutions Travel around the World and with What Consequences
 **年份**: 2021 | **DOI**: [10.1086/714273](https://doi.org/10.1086/714273)
 **作者**: Wimmer, Andreas
 **摘要**: How do cultural and organizational templates, such as the ideal of gender equality or neoliberal policies, spread around the globe, and what are the cumulative consequences of such processes?…
 
-### Marital Experiences and Depression in an Arranged Marriage Setting1
+### Marital Experiences and Depression in an Arranged Marriage Setting
 **年份**: 2021 | **DOI**: [10.1086/714272](https://doi.org/10.1086/714272)
 **作者**: Zhang, Yang; Axinn, William G.
 **摘要**: Understanding the consequences of marital experiences for individual mental health provides insight into how social relationships shape individual well-being. Using newly available, clinically validated diagnostic interviews with more than 10,000 respondents, the authors assess the associations betw…
 
-### Network Inequalities and International Migration in the Americas1
+### Network Inequalities and International Migration in the Americas
 **年份**: 2021 | **DOI**: [10.1086/713877](https://doi.org/10.1086/713877)
 **作者**: Leal, Diego F.
 **摘要**: Based on predictions derived from migration systems theory, this study argues that chain-like international migratory exchanges tend to be organized as transitive structures patterned along an intelligible hierarchy of attractiveness between countries.…
@@ -765,37 +765,37 @@
 **作者**: Neil, Roland; Sampson, Robert J.
 **摘要**: This article advances and tests hypotheses on arrest in the lives of 1,057 individuals from an original longitudinal study of multiple birth cohorts who came of age during a period of considerable social change in the last quarter-century.…
 
-### A New Methodological Framework for Studying Status Exchange in Marriage1
+### A New Methodological Framework for Studying Status Exchange in Marriage
 **年份**: 2021 | **DOI**: [10.1086/713927](https://doi.org/10.1086/713927)
 **作者**: Xie, Yu; Dong, Hao
 **摘要**: The authors propose a new methodological framework for studying status exchange in marriage. As shown in recent debates on status-race or status-beauty exchange, the conventional log-linear modeling approach is prone to controversial specifications and alternative interpretations.…
 
-### Ancestry, Color, or Culture? How Whites Racially Classify Others in the US1
+### Ancestry, Color, or Culture? How Whites Racially Classify Others in the US
 **年份**: 2021 | **DOI**: [10.1086/714215](https://doi.org/10.1086/714215)
 **作者**: Schachter, Ariela; Flores, Rene D.; Maghbouleh, Neda
 **摘要**: Historically, the U.S. legal system formally institutionalized ancestry and appearance as the foundations of racial membership. Yet evidence suggests informal classification logics based on cultural cues like religion or language may have also long been present.…
 
-### Cracks in Broken Windows: How Objects Shape Professional Evaluation1
+### Cracks in Broken Windows: How Objects Shape Professional Evaluation
 **年份**: 2021 | **DOI**: [10.1086/713763](https://doi.org/10.1086/713763)
 **作者**: Bartram, Robin
 **摘要**: Sociologists consistently show that people are more likely to perceive physical disorder in minority and low-income neighborhoods and that frontline workers either target or neglect issues in these places. A study of building inspectors in Chicago reveals an alternative explanation.…
 
-### Cracks in the Melting Pot? Religiosity and Assimilation among the Diverse Muslim Population in France1
+### Cracks in the Melting Pot? Religiosity and Assimilation among the Diverse Muslim Population in France
 **年份**: 2021 | **DOI**: [10.1086/712804](https://doi.org/10.1086/712804)
 **作者**: Drouhot, Lucas G.
 **摘要**: The maintenance of high religiosity levels among Muslim youths in Western Europe constitutes a puzzle in need of an explanation. Focusing on France and using a new empirical strategy for the quantitative study of cultural differences between heterogeneous populations, this study first demonstrates t…
 
-### Incorporation: Governing Gendered Violence in a State of Disempowerment1
+### Incorporation: Governing Gendered Violence in a State of Disempowerment
 **年份**: 2021 | **DOI**: [10.1086/713132](https://doi.org/10.1086/713132)
 **作者**: Roychowdhury, Poulami
 **摘要**: Gender and legal scholars argue that law enforcement personnel govern gendered violence by selectively protecting good victims and imposing social control. This article shows why these theories are not universally applicable.…
 
-### Layaway Freedom: Coercive Financialization in the Criminal Legal System1
+### Layaway Freedom: Coercive Financialization in the Criminal Legal System
 **年份**: 2021 | **DOI**: [10.1086/712871](https://doi.org/10.1086/712871)
 **作者**: Pattillo, Mary; Kirk, Gabriela
 **摘要**: Economic sociologists have documented the rise of financialization, including credit and debt. In the case of monetary sanctions in the criminal legal system, courts frequently extend payment plans-or layaway-as a way for defendants to manage financial court debt and gain their freedom.…
 
-### The Normativity of Marriage and the Marriage Premium for Children's Outcomes1
+### The Normativity of Marriage and the Marriage Premium for Children's Outcomes
 **年份**: 2021 | **DOI**: [10.1086/713382](https://doi.org/10.1086/713382)
 **作者**: Torche, Florencia; Abufhele, Alejandra
 **摘要**: Children born to married parents have better health, behavioral, educational, and economic outcomes than children of unmarried mothers. This association, known as the marriage premium, has been interpreted as emerging from the selectivity of parents who marry and from a positive effect of marriage.…
@@ -805,57 +805,57 @@
 **作者**: Brown-Saracino, Japonica
 **摘要**: In four U.S. cities, contemporary activists commemorate dyke bars as a strategy for establishing social ties, rather than political mobilization, with other gender and sexual minorities without replicating past exclusions.…
 
-### Leveraging Legitimacy: Institutional Work and Change in the Case of Same-Sex Marriage1
+### Leveraging Legitimacy: Institutional Work and Change in the Case of Same-Sex Marriage
 **年份**: 2020 | **DOI**: [10.1086/712501](https://doi.org/10.1086/712501)
 **作者**: Ocobock, Abigail
 **摘要**: Institutions draw strict boundaries around included groups of people, and changing them typically requires professional advocating and lobbying work to introduce new laws or policies.…
 
-### Addressing Emotional Health while Protecting Status: Asian American and White Parents in Suburban America1
+### Addressing Emotional Health while Protecting Status: Asian American and White Parents in Suburban America
 **年份**: 2020 | **DOI**: [10.1086/712820](https://doi.org/10.1086/712820)
 **作者**: Warikoo, Natasha
 **摘要**: The emotional dimensions of parenting among upper-middle-class parents have not been fully theorized or measured. In this article I employ 60 in-depth interviews with professional white, Chinese, and Indian parents living in the same well-off suburban town to show how parents think about and attend …
 
-### Flows and Boundaries: A Network Approach to Studying Occupational Mobility in the Labor Market1
+### Flows and Boundaries: A Network Approach to Studying Occupational Mobility in the Labor Market
 **年份**: 2020 | **DOI**: [10.1086/712406](https://doi.org/10.1086/712406)
 **作者**: Cheng, Siwei; Park, Barum
 **摘要**: Although stratification research has long recognized the importance of mapping out the underlying boundaries that govern the flow of workers in the labor market, the current literature faces two major challenges: (1) the determination of mobility boundaries and (2) the incorporation of changes in mo…
 
-### Is Lying Contagious? Spatial Diffusion of High-Yield Satellites during China's Great Leap Forward1
+### Is Lying Contagious? Spatial Diffusion of High-Yield Satellites during China's Great Leap Forward
 **年份**: 2020 | **DOI**: [10.1086/712407](https://doi.org/10.1086/712407)
 **作者**: Xu, Hongwei; Tian, Geng
 **摘要**: Situated in China's Great Leap Forward (GLF) campaign in 1958, this study examines the spatial diffusion of launching high-yield satellites-exaggerating grain yields, which contributed to the 1959-61 GLF famine that claimed millions of human lives.…
 
-### With Friends Like These: Aggression from Amity and Equivalence1
+### With Friends Like These: Aggression from Amity and Equivalence
 **年份**: 2020 | **DOI**: [10.1086/712972](https://doi.org/10.1086/712972)
 **作者**: Faris, Robert; Felmlee, Diane; McMillan, Cassie
 **摘要**: Some teenagers are willing to bully, harass, and torment their schoolmates in order to achieve popularity and other goals. But whom do they bully? Here, we extend the logic of instrumental aggression to answer this question.…
 
-### The Dynamics of Repression and Insurgent Practice in the Black Liberation Struggle1
+### The Dynamics of Repression and Insurgent Practice in the Black Liberation Struggle
 **年份**: 2020 | **DOI**: [10.1086/711672](https://doi.org/10.1086/711672)
 **作者**: Bloom, Joshua
 **摘要**: When authorities repress insurgents, does it quell their rebellion? Classic approaches to this question yielded inconsistent results because they sought to generalize repressive effects without accounting for the practices repressed.…
 
-### Educational Mobility among the Children of Asian American Immigrants1
+### Educational Mobility among the Children of Asian American Immigrants
 **年份**: 2020 | **DOI**: [10.1086/711231](https://doi.org/10.1086/711231)
 **作者**: Fishman, Samuel H.
 **摘要**: Recent qualitative research argues that Asian Americans' educational attainments are not predicated on their parents' education, diverging from status attainment theory. Using data from two nationally representative studies, the analysis reveals extremely high levels of offspring education and no as…
 
-### Colonial Legacies and Comparative Racial Identification in the Americas1
+### Colonial Legacies and Comparative Racial Identification in the Americas
 **年份**: 2020 | **DOI**: [10.1086/711063](https://doi.org/10.1086/711063)
 **作者**: McNamee, Lachlan
 **摘要**: What accounts for variation in racial identification in the Americas? An influential first generation of race scholarship attributed contemporary racial schemas to the cultural legacies of different colonizers, whereas a second generation has emphasized varying national ideologies like mestizaje.…
 
-### Unequal Displacement: Gentrification, Racial Stratification, and Residential Destinations in Philadelphia1
+### Unequal Displacement: Gentrification, Racial Stratification, and Residential Destinations in Philadelphia
 **年份**: 2020 | **DOI**: [10.1086/711015](https://doi.org/10.1086/711015)
 **作者**: Hwang, Jackelyn; Ding, Lei
 **摘要**: Drawing from sociological theory and research on residential mobility and neighborhood stratification, which primarily explain urban decline and persistent segregation, the authors propose a framework for examining residential displacement in the context of gentrification.…
 
-### Jim Crow and the Spatial Mismatch Hypothesis1
+### Jim Crow and the Spatial Mismatch Hypothesis
 **年份**: 2020 | **DOI**: [10.1086/711686](https://doi.org/10.1086/711686)
 **作者**: Ruef, Martin; Grigoryeva, Angelina
 **摘要**: Extensive research has investigated the spatial mismatch hypothesis (SMH), considering the consequences of disparities between black residential locations and opportunities for employment.…
 
-### On the Other Side of Values1
+### On the Other Side of Values
 **年份**: 2020 | **DOI**: [10.1086/709778](https://doi.org/10.1086/709778)
 **作者**: Martin, John Levi; Lembo, Alessandra
 **摘要**: The concept of values is currently enjoying renewed interest in sociology; indeed, many claim that it must be treated as central to any theory of action. As introduced to American sociology from Europe by Parsons, it was transformed from a condition of possibility into an intrinsic element of the ac…
@@ -865,7 +865,7 @@
 **作者**: Walder, Andrew G.; Chu, James
 **摘要**: The origins of the armed warfare between rebel alliances that spread across China in the late 1960s have long been obscure. This historical puzzle poses two distinct but interrelated questions: first, how and why did rebel factions form, and second, why did armed warfare follow?…
 
-### Rethinking Religion: Toward a Practice Approach1
+### Rethinking Religion: Toward a Practice Approach
 **年份**: 2020 | **DOI**: [10.1086/709779](https://doi.org/10.1086/709779)
 **作者**: Ammerman, Nancy T.
 **摘要**: Over the last three decades, fruitful new lines of research and theorizing have revealed the inadequacy of secularization and rational choice explanations of religion. This article argues that sociological understandings of religion can best advance now by building on the empirical findings that hav…
@@ -890,32 +890,32 @@
 **作者**: Sabin, Nicholas; Reed-Tsochas, Felix
 **摘要**: It is known that greater social cohesion increases a group's ability to enforce cooperation. Despite this, defectors often go unpunished, and groups with social structures that are a priori favorable often fail.…
 
-### The Imperial Origins of American Policing: Militarization and Imperial Feedback in the Early 20th Century1
+### The Imperial Origins of American Policing: Militarization and Imperial Feedback in the Early 20th Century
 **年份**: 2020 | **DOI**: [10.1086/708464](https://doi.org/10.1086/708464)
 **作者**: Go, Julian
 **摘要**: In the early 20th century, police departments across America's cities enhanced their infrastructural power by adopting various tactical, operational, and organizational innovations. Based upon a nested cross-city analysis of qualitative and quantitative data, including a negative binomial regression…
 
-### The Right to Work, Power Resources, and Economic Inequality1
+### The Right to Work, Power Resources, and Economic Inequality
 **年份**: 2020 | **DOI**: [10.1086/708067](https://doi.org/10.1086/708067)
 **作者**: VanHeuvelen, Tom
 **摘要**: How do right to work laws affect the distribution of economic resources? While sociological theories would predict inequality to increase following their passage, previous research finds these laws to be largely inconsequential.…
 
-### The Disciplining Effect of Mass Incarceration on Labor Organization1
+### The Disciplining Effect of Mass Incarceration on Labor Organization
 **年份**: 2020 | **DOI**: [10.1086/709016](https://doi.org/10.1086/709016)
 **作者**: Reich, Adam D.; Prins, Seth J.
 **摘要**: Previous research has described the criminal justice system as a labor market institution. In recent years, however, research on the relationship between the criminal justice system and the labor market has focused primarily on the negative impact of criminal justice involvement on an individual's a…
 
-### What Do Historical Sociologists Do All Day? Analytic Architectures in Historical Sociology1
+### What Do Historical Sociologists Do All Day? Analytic Architectures in Historical Sociology
 **年份**: 2020 | **DOI**: [10.1086/709017](https://doi.org/10.1086/709017)
 **作者**: Mayrl, Damon; Wilson, Nicholas Hoover
 **摘要**: Drawing on an original data set of over 15,000 in-text citations, we use quantitative and qualitative techniques to analyze 37 award-winning publications in historical sociology between 1995 and 2015.…
 
-### Located Institutions: Neighborhood Frames, Residential Preferences, and the Case of Policing1
+### Located Institutions: Neighborhood Frames, Residential Preferences, and the Case of Policing
 **年份**: 2020 | **DOI**: [10.1086/708004](https://doi.org/10.1086/708004)
 **作者**: Bell, Monica C.
 **摘要**: How do parents weigh police presence and police activity in their assessments of a neighborhood's suitability for raising children? How do place-bound institutions relate to neighborhood frames?…
 
-### Making Markets on the Margins: Housing Finance Agencies and the Racial Politics of Credit Expansion1
+### Making Markets on the Margins: Housing Finance Agencies and the Racial Politics of Credit Expansion
 **年份**: 2020 | **DOI**: [10.1086/707927](https://doi.org/10.1086/707927)
 **作者**: Robinson, John N., III
 **摘要**: Widespread reliance on credit increasingly defines realities of economic citizenship in American society. This article theorizes the racial politics of credit expansion. It examines the federal initiative in the 1960s and '70s to broaden financial access for poor renters in communities of color, whi…
@@ -925,7 +925,7 @@
 **作者**: Downey, Douglas B.; Gibbs, Benjamin G.
 **摘要**: Many social commentators posit that children's social skills are declining as a result of exposure to technology. But this claim is difficult to assess empirically because it is challenging to measure social skills with confidence and because a strong test would employ nationally representative data…
 
-### Homophily and Segregation in Cooperative Networks1
+### Homophily and Segregation in Cooperative Networks
 **年份**: 2020 | **DOI**: [10.1086/708142](https://doi.org/10.1086/708142)
 **作者**: Melamed, David; Simpson, Brent; Harrell, Ashley 等6人
 **摘要**: Social networks affect individuals' ability to solve conflicts between individual and collective interests. Indeed, the ability to seek out cooperative others is a key explanation for the high levels of cooperation observed in social life.…

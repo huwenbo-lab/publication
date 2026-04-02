@@ -1,7 +1,7 @@
 # Research in Social Stratification and Mobility
 ## 2000–2009 年文章（含摘要）
 
-共 **187** 篇
+共 **178** 篇
 
 ---
 
@@ -18,10 +18,6 @@
 ### “This Place Makes me Proud to be a Woman”: Theoretical explanations for success in entrepreneurship education for low-income women
 **年份**: 2009 | **DOI**: [10.1016/j.rssm.2008.10.003](https://doi.org/10.1016/j.rssm.2008.10.003)
 **作者**: Godwyn, Mary
-**摘要**: （暂无）
-
-### Call for Papers
-**年份**: 2009 | **DOI**: [10.1016/j.rssm.2009.07.001](https://doi.org/10.1016/j.rssm.2009.07.001)
 **摘要**: （暂无）
 
 ### Black–white differences in social mobility in the past 30 years: A latent-class regression analysis
@@ -361,10 +357,6 @@
 **作者**: Kendall, Diana
 **摘要**: （暂无）
 
-### Editorial Board
-**年份**: 2006 | **DOI**: [10.1016/s0276-5624(06)00042-4](https://doi.org/10.1016/s0276-5624(06)00042-4)
-**摘要**: （暂无）
-
 ### Structural theory and relative poverty in rich Western democracies, 1969–2000
 **年份**: 2006 | **DOI**: [10.1016/j.rssm.2005.02.004](https://doi.org/10.1016/j.rssm.2005.02.004)
 **作者**: Brady, David
@@ -448,10 +440,6 @@
 **作者**: Tranby, Eric
 **摘要**: （暂无）
 
-### Editorial Board
-**年份**: 2006 | **DOI**: [10.1016/s0276-5624(06)00032-1](https://doi.org/10.1016/s0276-5624(06)00032-1)
-**摘要**: （暂无）
-
 ### The rise in involuntary part-time employment in Israel
 **年份**: 2006 | **DOI**: [10.1016/j.rssm.2005.02.002](https://doi.org/10.1016/j.rssm.2005.02.002)
 **作者**: Cohen, Yinon; Stier, Haya
@@ -516,10 +504,6 @@
 **作者**: Sikora, Joanna
 **摘要**: （暂无）
 
-### Editorial Board
-**年份**: 2005 | **DOI**: [10.1016/s0276-5624(05)23014-7](https://doi.org/10.1016/s0276-5624(05)23014-7)
-**摘要**: （暂无）
-
 ### List of Contributors
 **年份**: 2005 | **DOI**: [10.1016/s0276-5624(05)23016-0](https://doi.org/10.1016/s0276-5624(05)23016-0)
 **摘要**: （暂无）
@@ -542,10 +526,6 @@
 ### SCHOOL EFFECTS AND SØRENSEN’S THEORIES OF LEARNING OPPORTUNITIES AND ACHIEVEMENT
 **年份**: 2004 | **DOI**: [10.1016/s0276-5624(04)21006-x](https://doi.org/10.1016/s0276-5624(04)21006-x)
 **作者**: Kubitschek, Warren N.
-**摘要**: （暂无）
-
-### EDITORIAL BOARD
-**年份**: 2004 | **DOI**: [10.1016/s0276-5624(04)22016-9](https://doi.org/10.1016/s0276-5624(04)22016-9)
 **摘要**: （暂无）
 
 ### ASSIMILATION IN AMERICAN SOCIETY: OCCUPATIONAL ACHIEVEMENT AND EARNINGS FOR ETHNIC MINORITIES IN THE UNITED STATES, 1970 TO 1990
@@ -712,10 +692,6 @@
 **作者**: Raffalovich, Lawrence E; Vesselinov, Elena
 **摘要**: （暂无）
 
-### EDITORIAL BOARD
-**年份**: 2003 | **DOI**: [10.1016/s0276-5624(03)20012-3](https://doi.org/10.1016/s0276-5624(03)20012-3)
-**摘要**: （暂无）
-
 ### Table of Contents
 **年份**: 2003 | **DOI**: [10.1016/s0276-5624(03)20011-1](https://doi.org/10.1016/s0276-5624(03)20011-1)
 **摘要**: （暂无）
@@ -767,10 +743,6 @@
 ### Birth of a market economy: Hungarian agriculture after socialism
 **年份**: 2002 | **DOI**: [10.1016/s0276-5624(02)80038-5](https://doi.org/10.1016/s0276-5624(02)80038-5)
 **作者**: Oberschall, Anthony; Hanto, Zsuzsa
-**摘要**: （暂无）
-
-### Editorial Board
-**年份**: 2002 | **DOI**: [10.1016/s0276-5624(02)80032-4](https://doi.org/10.1016/s0276-5624(02)80032-4)
 **摘要**: （暂无）
 
 ### Occupational sex segregation in state socialist and market economies: Levels, patterns, and change in East and West Germany, 1980s and 1998
@@ -857,10 +829,6 @@
 **作者**: Weinberg, Nancy
 **摘要**: （暂无）
 
-### Call for papers
-**年份**: 2001 | **DOI**: [10.1016/s0276-5624(01)80019-6](https://doi.org/10.1016/s0276-5624(01)80019-6)
-**摘要**: （暂无）
-
 ### List of contributors
 **年份**: 2001 | **DOI**: [10.1016/s0276-5624(01)80017-2](https://doi.org/10.1016/s0276-5624(01)80017-2)
 **摘要**: （暂无）
@@ -878,10 +846,6 @@
 ### Strategies of economic endurance: Israeli Palestinians in the ethnic economy and the public sector
 **年份**: 2001 | **DOI**: [10.1016/s0276-5624(01)80027-5](https://doi.org/10.1016/s0276-5624(01)80027-5)
 **作者**: Yonay, Yuval P.; Kraus, Vered
-**摘要**: （暂无）
-
-### Editorial Board
-**年份**: 2001 | **DOI**: [10.1016/s0276-5624(01)80016-0](https://doi.org/10.1016/s0276-5624(01)80016-0)
 **摘要**: （暂无）
 
 ### Intergenerational mobility of class and occupation in modern England: Analysis of a four-way mobility table

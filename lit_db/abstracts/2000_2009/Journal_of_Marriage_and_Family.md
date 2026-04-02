@@ -1,7 +1,7 @@
 # Journal of Marriage and Family
 ## 2000–2009 年文章（含摘要）
 
-共 **1089** 篇
+共 **1082** 篇
 
 ---
 
@@ -305,10 +305,6 @@
 ### How Caregiving Affects Development: Psychological Implications for Child, Adolescent, and Adult Caregivers ‐ Edited by Kim Shifren
 **年份**: 2009 | **DOI**: [10.1111/j.1741-3737.2009.00655.x](https://doi.org/10.1111/j.1741-3737.2009.00655.x)
 **作者**: Gaugler, Joseph E.
-**摘要**: （暂无）
-
-### INDEX TO VOLUME 71, 2009 Cumulative Table of Contents
-**年份**: 2009 | **DOI**: [10.1111/j.1741-3737.2009.volcontents_1.x](https://doi.org/10.1111/j.1741-3737.2009.volcontents_1.x)
 **摘要**: （暂无）
 
 ### Parental Work Demands and the Frequency of Child‐Related Routine and Interactive Activities
@@ -694,10 +690,6 @@
 **作者**: Raymo, James M.; Iwasawa, Miho
 **摘要**: In this paper, we examine two aspects of recent increases in marriage preceded by pregnancy (bridal pregnancy) in Japan. Using information on 28,973 respondents to the Japanese National Fertility Surveys, we first demonstrate that increases in bridal pregnancy between 1970 and 2002 were concentrated…
 
-### In Memoriam—Felix Mario Berardo
-**年份**: 2008 | **DOI**: [10.1111/j.1741-3737.2008.00573.x](https://doi.org/10.1111/j.1741-3737.2008.00573.x)
-**摘要**: （暂无）
-
 ### Factors Associated With Multiple‐Partner Fertility Among Fathers
 **年份**: 2008 | **DOI**: [10.1111/j.1741-3737.2008.00499.x](https://doi.org/10.1111/j.1741-3737.2008.00499.x)
 **作者**: Manlove, Jennifer; Logan, Cassandra; Ikramullah, Erum 等4人
@@ -1046,7 +1038,7 @@
 **作者**: Lawrence, Lucie P.; Suter, Elizabeth A.
 **摘要**: （暂无）
 
-### Parents’ Reports of Sexual Communication With Children in Kindergarten to Grade 8
+### Parents’ Reports of Sexual Communication With Children in Kindergarten to Grade
 **年份**: 2008 | **DOI**: [10.1111/j.1741-3737.2007.00463.x](https://doi.org/10.1111/j.1741-3737.2007.00463.x)
 **作者**: Byers, E. Sandra; Sears, Heather A.; Weaver, Angela D.
 **摘要**: We examined factors associated with parents’ reports of three aspects of parent‐child sexual communication, quality, frequency with which parents encouraged questions, and extent of communication, on each of 10 sexual health topics.…
@@ -1223,7 +1215,7 @@
 **作者**: Knoester, Chris; Petts, Richard J.; Eggebeen, David J.
 **摘要**: This study uses data on 2,494 new fathers from the Fragile Families Study to analyze why and how the arrival of a new child may influence fathers’ well‐being and social participation.…
 
-### Changing Rhythms of American Family Life ‐ by Suzanne M. Bianchi, John P. Robinson, &amp; Melissa A. Milkie
+### Changing Rhythms of American Family Life ‐ by Suzanne M. Bianchi, John P. Robinson, & Melissa A. Milkie
 **年份**: 2007 | **DOI**: [10.1111/j.1741-3737.2007.00383.x](https://doi.org/10.1111/j.1741-3737.2007.00383.x)
 **作者**: Damaske, Sarah
 **摘要**: （暂无）
@@ -1273,7 +1265,7 @@
 **作者**: Hank, Karsten
 **摘要**: Using data from the 2004 Survey of Health, Ageing and Retirement in Europe, this article continues and extends recent cross‐national research on proximity and contacts of older parents to their children.…
 
-### On Your Own Without a Net: The Transition to Adulthood for Vulnerable Populations ‐ Edited by D. Wayne Osgood, E. Michael Foster, Constance Flanagan, &amp; Gretchen R. Ruth
+### On Your Own Without a Net: The Transition to Adulthood for Vulnerable Populations ‐ Edited by D. Wayne Osgood, E. Michael Foster, Constance Flanagan, & Gretchen R. Ruth
 **年份**: 2007 | **DOI**: [10.1111/j.1741-3737.2007.00386.x](https://doi.org/10.1111/j.1741-3737.2007.00386.x)
 **作者**: Hines, Alice
 **摘要**: （暂无）
@@ -1393,7 +1385,7 @@
 **作者**: Williams, Lindy; Kabamalan, Midea; Ogena, Nimfa
 **摘要**: We examine data from a national survey of 15 – 27 year olds in the Philippines to assess attitudes toward marriage and cohabitation, and we analyze the marital and nonmarital union experiences of 25 – 27 year olds.…
 
-### Sibling Identity and Relationships: Sisters and Brothers ‐ by Rosalind Edwards, Lucy Hadfield, Helen Lucey, &amp; Melanie Mauthner
+### Sibling Identity and Relationships: Sisters and Brothers ‐ by Rosalind Edwards, Lucy Hadfield, Helen Lucey, & Melanie Mauthner
 **年份**: 2007 | **DOI**: [10.1111/j.1741-3737.2007.00432.x](https://doi.org/10.1111/j.1741-3737.2007.00432.x)
 **作者**: Eriksen, Shelley
 **摘要**: （暂无）
@@ -1423,7 +1415,7 @@
 **作者**: Jellison, Katherine
 **摘要**: （暂无）
 
-### The Work and Family Handbook: Multidisciplinary Perspectives, Methods, and Approaches ‐ Edited by Marcie Pitt‐Catsouphes, Ellen Ernst Kossek, &amp; Stephen Sweet
+### The Work and Family Handbook: Multidisciplinary Perspectives, Methods, and Approaches ‐ Edited by Marcie Pitt‐Catsouphes, Ellen Ernst Kossek, & Stephen Sweet
 **年份**: 2007 | **DOI**: [10.1111/j.1741-3737.2007.00385.x](https://doi.org/10.1111/j.1741-3737.2007.00385.x)
 **作者**: Ferguson, Susan J.
 **摘要**: （暂无）
@@ -1463,7 +1455,7 @@
 **作者**: Sharp, Elizabeth A.; Ganong, Lawrence
 **摘要**: Given the increasing trend of women delaying (or forgoing) marriage and the minimal scholarship on women’s reflections of their life course trajectories, the purpose of the study was to examine the lived experience of White, college‐educated women aged 28 – 34 years who have not married.…
 
-### Handbook of Divorce and Relationship Dissolution ‐ Edited by Mark A. Fine &amp; John H. Harvey
+### Handbook of Divorce and Relationship Dissolution ‐ Edited by Mark A. Fine & John H. Harvey
 **年份**: 2007 | **DOI**: [10.1111/j.1741-3737.2007.00390.x](https://doi.org/10.1111/j.1741-3737.2007.00390.x)
 **作者**: Stamps, Katherine C.
 **摘要**: （暂无）
@@ -1767,7 +1759,7 @@
 **作者**: Press, Julie E.; Fagan, Jay; Laughlin, Lynda
 **摘要**: We use the Philadelphia Survey of Child Care and Work to model the effect of child‐care subsidies and other ecological demands and resources on the work hour, shift, and overtime problems of 191 low‐income urban mothers.…
 
-### The Mommy Myth: The Idealization of Motherhood and How It Has Undermined All Women. Susan J. Douglas &amp; Meredith W. Michaels
+### The Mommy Myth: The Idealization of Motherhood and How It Has Undermined All Women. Susan J. Douglas & Meredith W. Michaels
 **年份**: 2006 | **DOI**: [10.1111/j.1741-3737.2006.00247.x](https://doi.org/10.1111/j.1741-3737.2006.00247.x)
 **作者**: Layne, Linda L.
 **摘要**: （暂无）
@@ -1807,7 +1799,7 @@
 **作者**: Foley, Lara
 **摘要**: （暂无）
 
-### Corporal Punishment of Children in Theoretical Perspective. Michael Donnelly &amp; Murray Straus, Editors
+### Corporal Punishment of Children in Theoretical Perspective. Michael Donnelly & Murray Straus, Editors
 **年份**: 2006 | **DOI**: [10.1111/j.1741-3737.2006.00270.x](https://doi.org/10.1111/j.1741-3737.2006.00270.x)
 **作者**: Gunnoe, Marjorie Lindner
 **摘要**: （暂无）
@@ -1827,7 +1819,7 @@
 **作者**: Nelson, Margaret K.
 **摘要**: This paper explores how single mothers both incorporate others into family life (e.g., when they ask others to care for their children) and simultaneously “do families” in a manner that holds out a vision of a “traditional” family structure.…
 
-### What We Know About Childcare ‐ Edited by Alison Clarke‐Stewart &amp; Virginia D. Allhusen
+### What We Know About Childcare ‐ Edited by Alison Clarke‐Stewart & Virginia D. Allhusen
 **年份**: 2006 | **DOI**: [10.1111/j.1741-3737.2006.00317_2.x](https://doi.org/10.1111/j.1741-3737.2006.00317_2.x)
 **作者**: Elicker, James
 **摘要**: （暂无）
@@ -1852,7 +1844,7 @@
 **作者**: Pugh, Allison J.
 **摘要**: （暂无）
 
-### Promises I Can Keep: Why Poor Women Put Motherhood Before Marriage ‐ Edited by Kathryn Edin &amp; Maria Kefalas
+### Promises I Can Keep: Why Poor Women Put Motherhood Before Marriage ‐ Edited by Kathryn Edin & Maria Kefalas
 **年份**: 2006 | **DOI**: [10.1111/j.1741-3737.2006.00317_1.x](https://doi.org/10.1111/j.1741-3737.2006.00317_1.x)
 **作者**: Deollos, Ione Y.
 **摘要**: （暂无）
@@ -1952,7 +1944,7 @@
 **作者**: Guilamo‐Ramos, Vincent; Jaccard, James; Dittus, Patricia 等4人
 **摘要**: A communication framework of persuasion and attitude change was utilized to analyze parent‐adolescent communication about adolescent risk behavior. Three parent dimensions were deemed important: (a) perceived expertise, (b) perceived trustworthiness, and (c) perceived accessibility.…
 
-### The Declining Significance of Gender? ‐ Edited by Francine D. Blau, Mary Brinton, &amp; David B. Grunsky
+### The Declining Significance of Gender? ‐ Edited by Francine D. Blau, Mary Brinton, & David B. Grunsky
 **年份**: 2006 | **DOI**: [10.1111/j.1741-3737.2006.00339.x-i2](https://doi.org/10.1111/j.1741-3737.2006.00339.x-i2)
 **作者**: Gallagher, Sally K.
 **摘要**: （暂无）
@@ -1972,7 +1964,7 @@
 **作者**: Kurdek, Lawrence A.
 **摘要**: Partners from four types of couples without children (gay unmarried, lesbian unmarried, heterosexual unmarried, and heterosexual married, Ns=1,412, 1,310, 1,036, and 1,728, respectively) were compared to partners from heterosexual married couples with children (N =3,116) on mean levels of variables …
 
-### Work, Family, Health, and Well‐Being ‐ Edited by Suzanne M. Bianchi, Lynne M. Casper, &amp; Rosalind Berkowitz King (Eds.)
+### Work, Family, Health, and Well‐Being ‐ Edited by Suzanne M. Bianchi, Lynne M. Casper, & Rosalind Berkowitz King (Eds.)
 **年份**: 2006 | **DOI**: [10.1111/j.1741-3737.2006.00289_5.x](https://doi.org/10.1111/j.1741-3737.2006.00289_5.x)
 **作者**: Lang, Molly Monahan
 **摘要**: Work, Family, Health, and Well-Being. Suzanne M. Bianchi, Lynne M. Casper, & Rosalind Berkowitz King (Eds.) Mahwah, NJ: Lawrence Erlbaum Associates. 2005. 583 pp. ISBN 0-8058-5254-9. $145 (cloth).…
@@ -2124,16 +2116,12 @@
 **作者**: Browning, Christopher R.; Burrington, Lori A.
 **摘要**: Using data from the Project on Human Development in Chicago Neighborhoods (neighborhood N= 77; individual N= 951), we consider the extent to which African American youth maintain sexual and fertility‐related norms that support early sexual activity and childbearing and examine the robustness of raci…
 
-### African American Grief. Paul C. Rosenblatt &amp; Beverly R. Wallace
+### African American Grief. Paul C. Rosenblatt & Beverly R. Wallace
 **年份**: 2006 | **DOI**: [10.1111/j.1741-3737.2006.00249.x](https://doi.org/10.1111/j.1741-3737.2006.00249.x)
 **作者**: Monk, David L.
 **摘要**: （暂无）
 
-### Erratum
-**年份**: 2006 | **DOI**: [10.1111/j.1741-3737.2006.00339.x](https://doi.org/10.1111/j.1741-3737.2006.00339.x)
-**摘要**: （暂无）
-
-### On the Frontier of Adulthood: Theory, Research, and Public Policy. Richard A. Settersten, Jr., Frank F. Furstenberg, Jr., &amp; Rubén G. Rumbaut
+### On the Frontier of Adulthood: Theory, Research, and Public Policy. Richard A. Settersten, Jr., Frank F. Furstenberg, Jr., & Rubén G. Rumbaut
 **年份**: 2006 | **DOI**: [10.1111/j.1741-3737.2006.00248.x](https://doi.org/10.1111/j.1741-3737.2006.00248.x)
 **作者**: Meier, Ann
 **摘要**: （暂无）
@@ -2182,10 +2170,6 @@
 **年份**: 2006 | **DOI**: [10.1111/j.1741-3737.2006.00254.x](https://doi.org/10.1111/j.1741-3737.2006.00254.x)
 **作者**: Rotolo, Thomas; Wilson, John
 **摘要**: Social scientists have documented the influence of family statuses on volunteering, ignoring intrafamily effects. Using newly issued data from the Current Population Survey on the volunteer behavior of 19,626 American couples, we test two competing theories concerning spousal influences on volunteer…
-
-### Erratum
-**年份**: 2006 | **DOI**: [10.1111/j.1741-3737.2006.00290.x](https://doi.org/10.1111/j.1741-3737.2006.00290.x)
-**摘要**: （暂无）
 
 ### Interracial and Intraracial Patterns of Mate Selection Among America’s Diverse Black Populations
 **年份**: 2006 | **DOI**: [10.1111/j.1741-3737.2006.00281.x](https://doi.org/10.1111/j.1741-3737.2006.00281.x)
@@ -2385,7 +2369,7 @@
 **年份**: 2005 | **DOI**: [10.1111/j.1741-3737.2005.00172.x](https://doi.org/10.1111/j.1741-3737.2005.00172.x)
 **摘要**: （暂无）
 
-### The Future of the Family, edited by Daniel P. Moynihan, Timothy M. Smeeding, &amp; Lee Rainwater
+### The Future of the Family, edited by Daniel P. Moynihan, Timothy M. Smeeding, & Lee Rainwater
 **年份**: 2005 | **DOI**: [10.1111/j.1741-3737.2005.00221_4.x](https://doi.org/10.1111/j.1741-3737.2005.00221_4.x)
 **作者**: Pettit, Becky
 **摘要**: （暂无）
@@ -2705,7 +2689,7 @@
 **年份**: 2005 | **DOI**: [10.1111/j.1741-3737.2005.00254.x](https://doi.org/10.1111/j.1741-3737.2005.00254.x)
 **摘要**: （暂无）
 
-### Ending Intimate Abuse: Practical Guidance and Survival Strategies. Albert R. Roberts &amp; Beverly Schenkman Roberts
+### Ending Intimate Abuse: Practical Guidance and Survival Strategies. Albert R. Roberts & Beverly Schenkman Roberts
 **年份**: 2005 | **DOI**: [10.1111/j.1741-3737.2005.00201.x](https://doi.org/10.1111/j.1741-3737.2005.00201.x)
 **作者**: Welch, Ronald D
 **摘要**: （暂无）
@@ -2777,10 +2761,6 @@
 **年份**: 2005 | **DOI**: [10.1111/j.0022-2445.2005.00017.x](https://doi.org/10.1111/j.0022-2445.2005.00017.x)
 **作者**: Hynes, Kathryn; Clarkberg, Marin
 **摘要**: Research on women's employment and parenthood frequently focuses on the correlates and consequences of decisions at a particular time, such as a birth. This article applies a group‐based trajectory method to examine women's employment trajectories across the period of early parenthood using the Nati…
-
-### Erratum
-**年份**: 2005 | **DOI**: [10.1111/j.0022-2445.2005.err.x](https://doi.org/10.1111/j.0022-2445.2005.err.x)
-**摘要**: （暂无）
 
 ### Legalizing Gay Marriage, by Michael Mello
 **年份**: 2005 | **DOI**: [10.1111/j.1741-3737.2005.00221_1.x](https://doi.org/10.1111/j.1741-3737.2005.00221_1.x)
@@ -3010,10 +2990,6 @@
 **作者**: Tichenor, Veronica
 **摘要**: （暂无）
 
-### Erratum
-**年份**: 2004 | **DOI**: [10.1111/j.0022-2445.2004.0erratum.x](https://doi.org/10.1111/j.0022-2445.2004.0erratum.x)
-**摘要**: （暂无）
-
 ### Welfare Reform and Teenage Pregnancy, Childbirth, and School Dropout
 **年份**: 2004 | **DOI**: [10.1111/j.0022-2445.2004.00012.x-i1](https://doi.org/10.1111/j.0022-2445.2004.00012.x-i1)
 **作者**: Hao, Lingxin; Cherlin, Andrew J.
@@ -3197,10 +3173,6 @@
 **年份**: 2004 | **DOI**: [10.1111/j.0022-2445.2004.00089.x](https://doi.org/10.1111/j.0022-2445.2004.00089.x)
 **作者**: Forrest Zhang, Qian
 **摘要**: This study uses national data from the 1996 Life History and Social Change in Contemporary China survey (N= 3,087) to gauge the effect of the economic transition on parent‐adult child coresidence in urban China.…
-
-### Index to volume 66, 2004
-**年份**: 2004 | **DOI**: [10.1111/j.0022-2445.2004.cutoc.x](https://doi.org/10.1111/j.0022-2445.2004.cutoc.x)
-**摘要**: （暂无）
 
 ### The Power of Older Women and Men in Egyptian and Tunisian Families
 **年份**: 2004 | **DOI**: [10.1111/j.0022-2445.2004.00009.x-i1](https://doi.org/10.1111/j.0022-2445.2004.00009.x-i1)

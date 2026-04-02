@@ -1,7 +1,7 @@
 # Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **579** 篇
+共 **575** 篇
 
 ---
 
@@ -609,10 +609,6 @@
 **作者**: Back, Les; Benson, Michaela; Tomlinson, Maisie
 **摘要**: This article reflects our experiences of developing a more sociable approach to teaching qualitative methods. Through a set of examples drawn from our teaching practice, from our shared development of a sociable qualitative methods curriculum for MA students to the production of the Fieldwork Fables…
 
-### Retraction Notice: “Book Review: Patricia García and Anna-Leena Toivanen (eds), Urban Mobilities in Literature and Art Activism”
-**年份**: 2025 | **DOI**: [10.1177/00380385251352742](https://doi.org/10.1177/00380385251352742)
-**摘要**: （暂无）
-
 ### Book Review: Paula Bialski, Middle Tech: Software Work and the Culture of Good Enough BialskiPaulaMiddle Tech: Software Work and the Culture of Good EnoughPrinceton: Princeton University Press, 2024, £25.00 (pbk) (ISBN: 9780691257167), 224 pp.
 **年份**: 2025 | **DOI**: [10.1177/00380385251331376](https://doi.org/10.1177/00380385251331376)
 **作者**: Sun, Ningxiang
@@ -947,11 +943,6 @@
 **作者**: Karimi, Aryan; Thompson, Sara; Bucerius, Sandra M
 **摘要**: In sociology of migration, assimilation theory anticipates second-generations’ socio-economic mobility into the mainstream. In contrast, the concept of transnationalism predicts second-generations’ simultaneous belonging to the origin and destination countries.…
 
-### Retraction Notice: Book Review: Patricia García and Anna-Leena Toivanen (eds), Urban Mobilities in Literature and Art Activism Retracted: GarcíaPatriciaToivanenAnna-Leena (eds)Urban Mobilities in Literature and Art ActivismSwitzerland: Palgrave Macmillan, 2024, £139.99 hbk (ISBN: 9783031427978), 336 pp.; £117.69 eBook (ISBN: 9783031427985)
-**年份**: 2024 | **DOI**: [10.1177/00380385241289271](https://doi.org/10.1177/00380385241289271)
-**作者**: Agung, Antonius Setyawan Sugeng Nur; Taa, Tobias; Oktaviana, Vita 等5人
-**摘要**: （暂无）
-
 ### Queering COVID-19: A Synergistic Approach to Theorizing Pandemic Inequalities
 **年份**: 2024 | **DOI**: [10.1177/00380385241275856](https://doi.org/10.1177/00380385241275856)
 **作者**: Mackenzie, Sonja; Sánchez-Rivera, R
@@ -1081,10 +1072,6 @@
 **年份**: 2023 | **DOI**: [10.1177/00380385231206072](https://doi.org/10.1177/00380385231206072)
 **作者**: Schwitter, Nicole; Liebe, Ulf
 **摘要**: While previous research has focused on terrorist attacks and natives’ attitudes towards immigration, we examine the effect of anti-refugee attacks on refugees’ attitude towards the host country.…
-
-### CORRIGENDUM to ‘Social Space as a Theory of Society: Scientific Arguments Regarding the Figuration of the Social in Bourdieu’s Distinction’
-**年份**: 2023 | **DOI**: [10.1177/00380385231166536](https://doi.org/10.1177/00380385231166536)
-**摘要**: （暂无）
 
 ### Thank You to Referees
 **年份**: 2023 | **DOI**: [10.1177/00380385231215647](https://doi.org/10.1177/00380385231215647)
@@ -2112,10 +2099,6 @@
 **年份**: 2021 | **DOI**: [10.1177/00380385211056011](https://doi.org/10.1177/00380385211056011)
 **作者**: Alacovska, Ana
 **摘要**: This article argues the importance of considering wageless life and related post-wage regimes of work in the study of creative and cultural labour. Such consideration is necessary to understand how creative workers persevere in their profession, dedicating substantial amounts of time to making art i…
-
-### CORRIGENDUM to ‘Youth, Reinventive Institutions and the Moral Politics of Future-Making in Postcolonial Africa’
-**年份**: 2021 | **DOI**: [10.1177/00380385211045307](https://doi.org/10.1177/00380385211045307)
-**摘要**: （暂无）
 
 ### Sober Rebels or Good Consumer-Citizens? Anti-Consumption and the ‘Enterprising Self’ in Early Sobriety
 **年份**: 2021 | **DOI**: [10.1177/0038038520981837](https://doi.org/10.1177/0038038520981837)

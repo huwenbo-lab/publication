@@ -1,6 +1,6 @@
 # European Journal of Population — 文章标题索引
 
-共 **850** 篇 | 年份范围：2000–2026
+共 **834** 篇 | 年份范围：2000–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -29,7 +29,6 @@
 - Analysing Biases in Genealogies Using Demographic Microsimulation · [DOI](https://doi.org/10.1007/s10680-025-09756-4)
 - The 2021 Baby Boom in Iceland: Exploring the Role of a Parental Leave Reform and the COVID-19 Pandemic · [DOI](https://doi.org/10.1007/s10680-024-09727-1)
 - Fertility among Norwegian Women and Men with Mental Disorders · [DOI](https://doi.org/10.1007/s10680-025-09739-5)
-- Correction: Does Ethnicity Moderate the Union Dissolution Penalty for Women? A Register-based Analysis of Changes in Income Components · [DOI](https://doi.org/10.1007/s10680-025-09731-z)
 - Swedish Fertility Developments Before, During and After the COVID-19 Pandemic · [DOI](https://doi.org/10.1007/s10680-025-09744-8)
 - Silver Splits and Parent–Child Disconnectedness: Mental Health Consequences for European Older Adults · [DOI](https://doi.org/10.1007/s10680-025-09751-9)
 - Wealth and Family Formation: Insights from First Cohabitation, Marriage, and Birth in Germany · [DOI](https://doi.org/10.1007/s10680-025-09738-6)
@@ -91,7 +90,6 @@
 - Family Life Courses, Uncertain Futures, and the Changing World of Work: State-of-the-Art and Prospects · [DOI](https://doi.org/10.1007/s10680-024-09701-x)
 - The Urban Bias in Latin American Avoidable Mortality · [DOI](https://doi.org/10.1007/s10680-024-09716-4)
 - Partnership Dynamics of LGB People and Heterosexuals: Patterns of First Partnership Formation and First Cohabitation · [DOI](https://doi.org/10.1007/s10680-024-09697-4)
-- Correction: Cross-sectional Average Length of Life Entropy $$({\mathcal{H}}_{{{\text{CAL}}}} )$$: International Comparisons and Decompositions · [DOI](https://doi.org/10.1007/s10680-024-09715-5)
 - Residential Mobility in Childhood and Union Dissolution Later in Life · [DOI](https://doi.org/10.1007/s10680-024-09717-3)
 - Educational Gradient of Multi-partner Fertility: First Estimates for the UK · [DOI](https://doi.org/10.1007/s10680-024-09708-4)
 - Gendered Parenthood-Employment Gaps from Midlife: A Demographic Perspective Across Three Different Welfare Systems · [DOI](https://doi.org/10.1007/s10680-024-09699-2)
@@ -104,10 +102,8 @@
 - The Influence of Partnership Status on Fertility Intentions of Childless Women and Men Across European Countries · [DOI](https://doi.org/10.1007/s10680-023-09664-5)
 - Do Attitudes Towards Immigrants Matter? The Subjective Wellbeing of Immigrants in England and Wales and Their Exposure to Non-migrants · [DOI](https://doi.org/10.1007/s10680-023-09686-z)
 - Deborah Chambers and Pablo Gracia, A Sociology of Family Life · [DOI](https://doi.org/10.1007/s10680-023-09672-5)
-- Correction: The Well-Being of Adolescents Conceived Through Medically Assisted Reproduction: A Population-Level and Within-Family Analysis · [DOI](https://doi.org/10.1007/s10680-023-09663-6)
 - Does Caring for Parents Take Its Toll? Gender Differences in Caregiving Intensity, Coresidence, and Psychological Well-Being Across Europe · [DOI](https://doi.org/10.1007/s10680-023-09666-3)
 - Inequalities in Resources for Preschool-Age Children by Parental Education: Evidence from Six Advanced Industrialized Countries · [DOI](https://doi.org/10.1007/s10680-023-09685-0)
-- Correction to: Understanding Diversity in the Meaning of Cohabitation Across Europe · [DOI](https://doi.org/10.1007/s10680-023-09688-x)
 - Industrial Robots and Regional Fertility in European Countries · [DOI](https://doi.org/10.1007/s10680-023-09657-4)
 - Love is Elsewhere: Internal Migration and Marriage Prospects in China · [DOI](https://doi.org/10.1007/s10680-023-09658-3)
 - Double Disadvantage in a Nordic Welfare State: A Demographic Analysis of the Single-Parent Employment Gap in Finland, 1987–2018 · [DOI](https://doi.org/10.1007/s10680-023-09651-w)
@@ -137,7 +133,6 @@
 - Religiosity of Migrants and Natives in Western Europe 2002–2018: Convergence and Divergence · [DOI](https://doi.org/10.1007/s10680-023-09660-9)
 - Daniel Courgeau, Understanding Human Life. A Methodological and Interdisciplinary Approach. Methodos Series vol. 19., 2022, Springer, xv + 261 pp. · [DOI](https://doi.org/10.1007/s10680-023-09673-4)
 - Trends in Distance Between Non-resident Parents and Minor Children Following Separation: Analysis of the Belgian Case, 1992–2018 · [DOI](https://doi.org/10.1007/s10680-023-09674-3)
-- Correction: Well-Being Adjusted Health Expectancy: A New Summary Measure of Population Health · [DOI](https://doi.org/10.1007/s10680-023-09648-5)
 
 ## 2022
 
@@ -173,7 +168,6 @@
 - Life-Course Trajectories of Childless Women: Country-Specific or Universal? · [DOI](https://doi.org/10.1007/s10680-022-09624-5)
 - Cohort Succession in the Timing of Marriage Among the Children of Turkish and Moroccan Immigrants · [DOI](https://doi.org/10.1007/s10680-022-09616-5)
 - Wealth Accumulation and the Gender Wealth Gap Across Couples’ Legal Statuses and Matrimonial Property Regimes in France · [DOI](https://doi.org/10.1007/s10680-022-09632-5)
-- Correction to: Joint Family and Work Trajectories and Multidimensional Wellbeing · [DOI](https://doi.org/10.1007/s10680-022-09615-6)
 - Mortality Advantage Reversed: The Causes of Death Driving All-Cause Mortality Differentials Between Immigrants, the Descendants of Immigrants and Ancestral Natives in Sweden, 1997–2016 · [DOI](https://doi.org/10.1007/s10680-022-09637-0)
 - The Decline of Spanish Fertility: The Role of Religion · [DOI](https://doi.org/10.1007/s10680-022-09644-1)
 - Movers and Stayers: A Study of Emigration from Sweden 1993–2014 · [DOI](https://doi.org/10.1007/s10680-022-09634-3)
@@ -207,12 +201,10 @@
 - What Can We Learn from the Functional Clustering of Mortality Data? An Application to the Human Mortality Database · [DOI](https://doi.org/10.1007/s10680-021-09588-y)
 - Mating Market and Dynamics of Union Formation · [DOI](https://doi.org/10.1007/s10680-021-09592-2)
 - Are Separated Fathers Less or More Involved in Childrearing than Partnered Fathers? · [DOI](https://doi.org/10.1007/s10680-021-09593-1)
-- Correction to: Beyond the Economic Gaze: Childbearing During and After Recessions in the Nordic Countries · [DOI](https://doi.org/10.1007/s10680-021-09579-z)
 - Socio-Economic Differences in the Prevalence of Single Motherhood in North America and Europe · [DOI](https://doi.org/10.1007/s10680-021-09591-3)
 - Smoothing, Decomposing and Forecasting Mortality Rates · [DOI](https://doi.org/10.1007/s10680-021-09582-4)
 - Progress of Inequality in Age at Death in India: Role of Adult Mortality · [DOI](https://doi.org/10.1007/s10680-021-09577-1)
 - Patterns and Drivers of Emigration of the Turkish Second Generation in the Netherlands · [DOI](https://doi.org/10.1007/s10680-021-09598-w)
-- Correction to: Housing Affordability, Housing Tenure Status and Household Density: Are Housing Characteristics Associated with Union Dissolution? · [DOI](https://doi.org/10.1007/s10680-021-09587-z)
 - Male–Female Fertility Differentials Across 17 High-Income Countries: Insights From A New Data Resource · [DOI](https://doi.org/10.1007/s10680-020-09575-9)
 
 ## 2020
@@ -241,7 +233,6 @@
 - Assessing Short-Term Fertility Intentions and Their Realisation Using the Generations and Gender Survey: Pitfalls and Challenges · [DOI](https://doi.org/10.1007/s10680-020-09573-x)
 - The Gender Cliff in the Relative Contribution to the Household Income: Insights from Modelling Marriage Markets in 27 European Countries · [DOI](https://doi.org/10.1007/s10680-019-09547-8)
 - Boomerang Behaviour and Emerging Adulthood: Moving Back to the Parental Home and the Parental Neighbourhood in Sweden · [DOI](https://doi.org/10.1007/s10680-020-09557-x)
-- Correction to: A Research Note on the Convergence of Childlessness Rates Between Women with Secondary and Tertiary Education in the United States · [DOI](https://doi.org/10.1007/s10680-020-09554-0)
 - Are the Sick Left Behind at the Peripheries? Health Selection in Migration to Growing Urban Centres in Finland · [DOI](https://doi.org/10.1007/s10680-020-09568-8)
 - Migrants’ Fertility in Italy: A Comparison Between Origin and Destination · [DOI](https://doi.org/10.1007/s10680-019-09553-w)
 
@@ -362,7 +353,6 @@
 - Margaret O’Brien and Karin Wall (Eds.): Comparative Perspectives on Work–Life Balance and Gender Equality · [DOI](https://doi.org/10.1007/s10680-017-9436-2)
 - Surviving the Holocaust: Socio-demographic Differences Among Amsterdam Jews · [DOI](https://doi.org/10.1007/s10680-016-9403-3)
 - Does Migrant Background Matter for Adolescents’ Fertility Preferences? The Latin American 1.5 Generation in Spain · [DOI](https://doi.org/10.1007/s10680-017-9427-3)
-- Erratum to: Geographical Distances Between Separated Parents: A Longitudinal Analysis · [DOI](https://doi.org/10.1007/s10680-017-9442-4)
 - Constrained Mortality Extrapolation to Old Age: An Empirical Assessment · [DOI](https://doi.org/10.1007/s10680-017-9434-4)
 - Investigating the Dynamics of Migration and Health in Australia: A Longitudinal Study · [DOI](https://doi.org/10.1007/s10680-017-9439-z)
 - Koen Matthijs, Saskia Hin, Jan Kok and Hideko Matsuo (eds.): The Future of Historical Demography. Upside Down and Inside Out · [DOI](https://doi.org/10.1007/s10680-017-9415-7)
@@ -441,7 +431,7 @@
 - The Transition to Adulthood of the Italian Second Generation in France · [DOI](https://doi.org/10.1007/s10680-015-9354-0)
 - Family Attitudes and Fertility Timing in Sweden · [DOI](https://doi.org/10.1007/s10680-014-9333-x)
 - Can M. Aybek, Johannes Huinink, Raya Muttarak (Eds): Spatial Mobility, Migration, and Living Arrangements · [DOI](https://doi.org/10.1007/s10680-015-9359-8)
-- Brigit Glorius, Izabela Grabowska-Lusińska &amp; Aimee Kuvik (eds.): Mobility in Transition. Migration Patterns After EU Enlargement · [DOI](https://doi.org/10.1007/s10680-015-9352-2)
+- Brigit Glorius, Izabela Grabowska-Lusińska & Aimee Kuvik (eds.): Mobility in Transition. Migration Patterns After EU Enlargement · [DOI](https://doi.org/10.1007/s10680-015-9352-2)
 - Referees · [DOI](https://doi.org/10.1007/s10680-015-9347-z)
 - Between Flows and Places: Using Geodemographics to Explore EU Migration Across Neighbourhoods in Britain · [DOI](https://doi.org/10.1007/s10680-015-9344-2)
 - Philipov, Dimiter; Liefbroer, Aart C.; Klobas, Jane (Eds.): Reproductive Decision-Making in a Macro–Micro Perspective · [DOI](https://doi.org/10.1007/s10680-015-9367-8)
@@ -543,7 +533,6 @@
 - Albert Kraler, Eleonore Kofman, Martin Kohli and Camille Schmoll (eds.): Gender, Generations and the Family in International Migration · [DOI](https://doi.org/10.1007/s10680-012-9281-2)
 - For Better and for Worse: The Relationship Between Union Dissolution and Self-Assessed Health in European Panel Data · [DOI](https://doi.org/10.1007/s10680-012-9269-y)
 - Are Mixed-Ethnic Unions More Likely to Dissolve Than Co-Ethnic Unions? New Evidence from Britain · [DOI](https://doi.org/10.1007/s10680-012-9259-0)
-- Editorial · [DOI](https://doi.org/10.1007/s10680-012-9276-z)
 - Secularization, Union Formation Practices, and Marital Stability: Evidence from Italy · [DOI](https://doi.org/10.1007/s10680-012-9255-4)
 - Analysing Multiple Causes of Death: Which Methods For Which Data? An Application to the Cancer-Related Mortality in France and Italy · [DOI](https://doi.org/10.1007/s10680-012-9272-3)
 - Marriage Patterns Among Palestinians in Israel · [DOI](https://doi.org/10.1007/s10680-012-9264-3)
@@ -588,7 +577,6 @@
 - H. Engelhardt, H.-P. Kohler, and A. Prskawetz (eds), Causal Analysis in Population Studies: Concepts, Methods, Applications · [DOI](https://doi.org/10.1007/s10680-010-9218-6)
 - Where Are the Babies? Labor Market Conditions and Fertility in Europe · [DOI](https://doi.org/10.1007/s10680-010-9222-x)
 - Through Civil War, Food Crisis and Drought: Trends in Fertility and Nuptiality in Post-Soviet Tajikistan · [DOI](https://doi.org/10.1007/s10680-010-9206-x)
-- Editorial · [DOI](https://doi.org/10.1007/s10680-010-9207-9)
 - Low Fertility and the Housing Market: Evidence from Swedish Regional Data · [DOI](https://doi.org/10.1007/s10680-009-9205-y)
 - Contrasting Trajectories of Labor-Market Integration Between Migrant Women in Western and Southern Europe · [DOI](https://doi.org/10.1007/s10680-010-9214-x)
 - Overcoming the Problems of Inconsistent International Migration data: A New Method Applied to Flows in Europe · [DOI](https://doi.org/10.1007/s10680-010-9220-z)
@@ -643,7 +631,6 @@
 - Marital and Reproductive Behavior in Italy After 1995: Bridging the Gap with Western Europe? · [DOI](https://doi.org/10.1007/s10680-008-9155-9)
 - Referees/Examinateurs · [DOI](https://doi.org/10.1007/s10680-008-9171-9)
 - Childcare Cash Benefits and Fertility Timing in Norway · [DOI](https://doi.org/10.1007/s10680-008-9158-6)
-- Editorial · [DOI](https://doi.org/10.1007/s10680-008-9150-1)
 - Zhongwei Zhao and Fei Guo (eds): Transition and Challenge: China’s Population at the Beginning of the 21st Century · [DOI](https://doi.org/10.1007/s10680-008-9164-8)
 - The Contribution of Irish Immigrants to the Quebec (Canada) Gene Pool: An Estimation Using Data from Deep-Rooted Genealogies · [DOI](https://doi.org/10.1007/s10680-008-9170-x)
 - Jacqueline Scott, Judith Treas and Martin Richards (eds): The Blackwell Companion to the Sociology of Families · [DOI](https://doi.org/10.1007/s10680-008-9166-6)
@@ -656,7 +643,6 @@
 - The Effects of Education, Social Class and Income on Non-alcohol- and Alcohol-Associated Suicide Mortality: A Register-based Study of Finnish Men Aged 25–64 · [DOI](https://doi.org/10.1007/s10680-007-9147-1)
 - The Low Mortality of a Learned Society · [DOI](https://doi.org/10.1007/s10680-007-9148-0)
 - Characteristics of Women in Consanguineous Marriages in Egypt, 1988–2000 · [DOI](https://doi.org/10.1007/s10680-008-9160-z)
-- Editorial · [DOI](https://doi.org/10.1007/s10680-008-9149-7)
 - Contexte local et migration: l’exemple des dynamiques migratoires internationales de quartiers dans la ville sénégalaise de Kaolack · [DOI](https://doi.org/10.1007/s10680-008-9169-3)
 - Are Individuals’ Desired Family Sizes Stable? Evidence from West German Panel Data · [DOI](https://doi.org/10.1007/s10680-008-9162-x)
 - Changes in Family Size Intentions Across Young Adulthood: A Life-Course Perspective · [DOI](https://doi.org/10.1007/s10680-008-9173-7)
@@ -725,7 +711,6 @@
 - Book Review · [DOI](https://doi.org/10.1007/s10680-005-5011-3)
 - Demographic change and the supply of potential family supporters in Britain, Finland and France in the period 1911–2050/Changements démographiques et disponibilité des soutiens familiaux en Grande-Bretagne, en Finlande et en France entre 1911 et 2050 · [DOI](https://doi.org/10.1007/s10680-006-9003-8)
 - ‘The Effect of Social Networks at Origin Communities on Migrant Remittances: Evidence from Nang Rong District’ · [DOI](https://doi.org/10.1007/s10680-006-0001-7)
-- Editorial · [DOI](https://doi.org/10.1007/s10680-006-8225-0)
 - Zimmermann F. Klaus (ed): European migration. What do we know? · [DOI](https://doi.org/10.1007/s10680-006-9101-7)
 - Book Review · [DOI](https://doi.org/10.1007/s10680-005-5014-0)
 - Timing, Sequencing, and Quantum of Life Course Events: A Machine Learning Approach · [DOI](https://doi.org/10.1007/s10680-005-5549-0)
@@ -758,7 +743,7 @@
 - International Humanitarian Law and Combat Casualties · [DOI](https://doi.org/10.1007/s10680-005-6421-y)
 - European Journal of Population Revue Européenne de Démographie · [DOI](https://doi.org/10.1007/s10680-005-5118-6)
 - War-related Deaths in the 1992–1995 Armed Conflicts in Bosnia and Herzegovina: A Critique of Previous Estimates and Recent Results · [DOI](https://doi.org/10.1007/s10680-005-6852-5)
-- Union Stability and Stepfamily Fertility in Austria, Finland, France &amp; West Germany · [DOI](https://doi.org/10.1007/s10680-004-7267-4)
+- Union Stability and Stepfamily Fertility in Austria, Finland, France & West Germany · [DOI](https://doi.org/10.1007/s10680-004-7267-4)
 - Book Review: Paul Demeny and Geoffrey McNicoll (eds.), Encyclopaedia of Population, over New York: McMillan Reference USA, 2003, XXXVIII + 1040 pp. · [DOI](https://doi.org/10.1007/s10680-004-6526-8)
 - Book Reviews: Tim Dyson, Robert Cassen, and Leela Visaria (eds.), Twenty-First Century India: Population, Economy, Human Development, and the Environment. New York: Oxford University Press Inc., 2004, XXii + 414 pp. · [DOI](https://doi.org/10.1007/s10680-005-5974-0)
 - Cambodia: Reconstructing the Demographic Stab of the Past and Forecasting the Demographic Scar of the Future · [DOI](https://doi.org/10.1007/s10680-005-6854-3)
@@ -918,7 +903,6 @@
 - Bart J. de Bruijn, Foundations of Demographic Theory · [DOI](https://doi.org/10.1023/a:1026509231514)
 - Multilevel Models in the Study of Dynamic Household Structures · [DOI](https://doi.org/10.1023/a:1006493723125)
 - The Fertility Impact of Temporary Migration in China: A Detachment Hypothesis · [DOI](https://doi.org/10.1023/a:1006351407811)
-- Editorial · [DOI](https://doi.org/10.1023/a:1017291211157)
 - Active Population Growth and Immigration Hypotheses in Western Europe · [DOI](https://doi.org/10.1023/a:1006331030823)
 - Structural and Behavioural Changes in the Short TermPreventive Check in the Northwest Balkans in the 18th and19th Centuries · [DOI](https://doi.org/10.1023/a:1006399818470)
 - Referees · [DOI](https://doi.org/10.1023/a:1017285702214)

@@ -720,7 +720,7 @@
 **作者**: Alvarez Munoz, Jose Santiago; Hernandez Prados, Ma Angeles
 **摘要**: Leisure has been acquiring a leading role in families to the point of being represented in different areas of society. In fact, a diversified practice is necessary to obtain maximum benefit.…
 
-### Children's Contact With Fathers Who Never Co-Resided With Them and Father-Child Relationship Quality at age 9
+### Children's Contact With Fathers Who Never Co-Resided With Them and Father-Child Relationship Quality at age
 **年份**: 2024 | **DOI**: [10.1177/0192513X231220037](https://doi.org/10.1177/0192513X231220037)
 **作者**: Fagan, Jay
 **摘要**: Using a sample of 868 unmarried fathers who did not live with their children from birth to age 9, this study focused on the association between patterns of father-child contact during infancy and early and middle childhood and children's perceptions of their relationship with the father at age 9.…

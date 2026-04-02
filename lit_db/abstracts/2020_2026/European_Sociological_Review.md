@@ -170,7 +170,7 @@
 **作者**: Van Hootegem, Arno; Rogne, Adrian Farner; Cros, Caroline Tveter 等5人
 **摘要**: Parents and children tend to have similar socioeconomic status (SES). Sociological theory has often emphasized the role of social mechanisms in intergenerational transmission, including the influence of the broader rearing environment as well as parental investments and aid, but often not allotted a…
 
-### Ethnoreligious diversity and state-building: evidence from Pakistan's tribal areas1
+### Ethnoreligious diversity and state-building: evidence from Pakistan's tribal areas
 **年份**: 2025 | **DOI**: [10.1093/esr/jcaf030](https://doi.org/10.1093/esr/jcaf030)
 **作者**: Krakowski, Krzysztof; Khan, Hidayat Ullah; Kubota, Yuichi 等6人
 **摘要**: Does ethnoreligious diversity lead to higher or lower support for a central state? In this study, we propose that the relationship between diversity and state-making depends on the degree of intergroup contact between different ethnoreligious groups, which varies with locally fractionalized and regi…
@@ -230,7 +230,7 @@
 **作者**: Diehl, Claudia; Trittler, Sabine
 **摘要**: Using survey data collected among recent Turkish and Syrian immigrants in Germany, we examine the relationship between newcomers' self-assessed phenotypic visibility, their level of education, and their perceptions of discrimination.…
 
-### Does inequality undermine life satisfaction? Effective identification of country-level controls for a longitudinal investigation1
+### Does inequality undermine life satisfaction? Effective identification of country-level controls for a longitudinal investigation
 **年份**: 2025 | **DOI**: [10.1093/esr/jcaf014](https://doi.org/10.1093/esr/jcaf014)
 **作者**: Bartram, David
 **摘要**: Does increased economic inequality undermine people's subjective well-being (SWB)? Longitudinal analyses ostensibly offer a good foundation for results that can be interpreted in causal terms, because the analytical design controls for time-constant differences between countries.…

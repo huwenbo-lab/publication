@@ -1,6 +1,6 @@
 # Population and Development Review — 文章标题索引
 
-共 **932** 篇 | 年份范围：2000–2025
+共 **931** 篇 | 年份范围：2000–2025
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -232,7 +232,6 @@
 - Public Health and Armed Conflict: Immunization in Times of Systemic Disruptions · [DOI](https://doi.org/10.1111/padr.12450)
 - Cohort and Period Effects as Explanations for Declining Dementia Trends and Cognitive Aging · [DOI](https://doi.org/10.1111/padr.12409)
 - Spurring Economic Growth through Human Development: Research Results and Guidance for Policymakers · [DOI](https://doi.org/10.1111/padr.12389)
-- The Contribution of Diffusion to the Fertility Transition in Belgium (1887-1934) · [DOI](https://doi.org/10.1111/padr.12395)
 - Is Migration a Learned Behavior? Understanding the Impact of Past Migration on Future Migration · [DOI](https://doi.org/10.1111/padr.12387)
 - Health Shocks, Recovery, and the First Thousand Days: The Effect of the Second World War on Height Growth in Japanese Children · [DOI](https://doi.org/10.1111/padr.12444)
 - The Untold Story of 50 Years of Adolescent Fertility in West Africa: A Cohort Perspective on the Quantum, Timing, and Spacing of Adolescent Childbearing · [DOI](https://doi.org/10.1111/padr.12384)

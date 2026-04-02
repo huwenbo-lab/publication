@@ -1,7 +1,7 @@
 # British Journal of Sociology
 ## 2000–2009 年文章（含摘要）
 
-共 **733** 篇
+共 **725** 篇
 
 ---
 
@@ -58,10 +58,6 @@
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01263.x](https://doi.org/10.1111/j.1468-4446.2009.01263.x)
 **摘要**: （暂无）
 
-### Retraction
-**年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01264.x](https://doi.org/10.1111/j.1468-4446.2009.01264.x)
-**摘要**: （暂无）
-
 ### Sacred Order/Social Order: Volume I, My Life among the Deathworks: Illustrations of the Aesthetics of Authority Volume II, The Crisis of the Officer Class: The Decline of the Tragic Sensibility Volume III, The Jew of Culture: Freud, Moses and Modernity – By P. Rieff
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01277_8.x](https://doi.org/10.1111/j.1468-4446.2009.01277_8.x)
 **作者**: Turner, Charles
@@ -82,12 +78,12 @@
 **作者**: Felson, Richard B.
 **摘要**: Randall Collins – one of Sociology's leading theorists – has applied his erudition to the study of violence. He is a creative thinker who has brought together interesting material from diverse areas.…
 
-### Configurations of gender inequality: the consequences of ideology and public policy1
+### Configurations of gender inequality: the consequences of ideology and public policy
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01271.x](https://doi.org/10.1111/j.1468-4446.2009.01271.x)
 **作者**: Mandel, Hadas
 **摘要**: AbstractThis paper gathers a wide range of indicators into distinctive profiles to show how configurations of gender economic inequality are shaped by both welfare state strategies and gender role ideologies.…
 
-### Laïcité and multiculturalism: the Stasi Report in context1
+### Laïcité and multiculturalism: the Stasi Report in context
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01229.x](https://doi.org/10.1111/j.1468-4446.2009.01229.x)
 **作者**: Akan, Murat
 **摘要**: AbstractFrench republican universalism – expressed most strongly in the principle and practice oflaïcité– and multiculturalism have constituted opposite poles on questions of citizenship and integration.…
@@ -101,12 +97,12 @@
 **作者**: Bottoms, Anthony
 **摘要**: Robert Sampson has placed us all in his debt by his immensely stimulating British Journal of Sociology lecture. Emulating the spirit of confession apparent in his third footnote (Sampson 2009: 27) I candidly admit that, while in theory recognizing the distinction between actual disorder and perceive…
 
-### Policing the past: cold case studies, forensic evidence and retroactive social control1
+### Policing the past: cold case studies, forensic evidence and retroactive social control
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01255.x](https://doi.org/10.1111/j.1468-4446.2009.01255.x)
 **作者**: Innes, Martin; Clarke, Alan
 **摘要**: AbstractIn this article an empirically grounded study of the police practices used when conducting cold case reviews of unsolved homicides is used to illuminate the key features of what is termed ‘retroactive social control’.…
 
-### Young people's time use and maternal employment in the UK1
+### Young people's time use and maternal employment in the UK
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01273.x](https://doi.org/10.1111/j.1468-4446.2009.01273.x)
 **作者**: Mullan, Killian
 **摘要**: AbstractThis paper analyses the relationship between young people's time use and maternal employment in the United Kingdom (UK). Two dimensions of young people's time use are important for understanding the impact of maternal employment. The first of these is family context.…
@@ -131,7 +127,7 @@
 **作者**: Bayatrizi, Zohreh
 **摘要**: AbstractThis paper examines the contributions made by early modern statistical literature to the formation of the sociological imagination. Starting in the mid‐seventeenth century, the fields of ‘political arithmetic’ and vital and moral statistics provided a discursive framework within which it bec…
 
-### Figurational dynamics and parliamentary discourses of living standards in Ireland1
+### Figurational dynamics and parliamentary discourses of living standards in Ireland
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01272.x](https://doi.org/10.1111/j.1468-4446.2009.01272.x)
 **作者**: Dolan, Paddy
 **摘要**: AbstractWhile the concept of living standards remains central to political debate, it has become marginal in sociological research compared to the burgeoning attention given to the topic of consumer culture in recent decades.…
@@ -155,7 +151,7 @@
 **作者**: Parker, Ian
 **摘要**: （暂无）
 
-### Ethnic conflict without ethnic groups: a study in pure sociology1
+### Ethnic conflict without ethnic groups: a study in pure sociology
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01252.x](https://doi.org/10.1111/j.1468-4446.2009.01252.x)
 **作者**: Cooney, Mark
 **摘要**: AbstractDespite growing awareness of the limitations of group‐level analyses in ethnic studies, research on ethnic conflict has paid virtually no systematic attention to variation at the individual or micro level.…
@@ -199,7 +195,7 @@
 **作者**: Jabri, Vivienne
 **摘要**: Shaw, M. What is Genocide? Polity Press 2007 232 pp. £55.00 (hardback) £15.99 (paperback) Genocide is a highly charged term. Recent controversies surrounding the Armenian Genocide and Turkish culpabilities thereof are only the most recent testimony to the contested nature of the concept and the plac…
 
-### Interacting forms of expertise in security governance: the example of CCTV surveillance at Geneva International Airport1
+### Interacting forms of expertise in security governance: the example of CCTV surveillance at Geneva International Airport
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01231.x](https://doi.org/10.1111/j.1468-4446.2009.01231.x)
 **作者**: Klauser, Francisco
 **摘要**: AbstractThe paper investigates the multiple public‐private exchanges and cooperation involved in the installation and development of CCTV surveillance at Geneva International Airport.…
@@ -229,7 +225,7 @@
 **作者**: Inglis, David
 **摘要**: AbstractHow relevant are figures from the classical sociological canon for present day efforts to found cosmopolitan forms of sociological thought? According to the critique of Ulrich Beck, the classical sociologists remain far too wedded to nation‐state‐centred ways of thinking to play an important…
 
-### Relationality and social interaction1
+### Relationality and social interaction
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01236.x](https://doi.org/10.1111/j.1468-4446.2009.01236.x)
 **作者**: Bottero, Wendy
 **摘要**: AbstractThis paper explores Bourdieu's account of a relational social space, and his relative neglect of social interaction within this framework. Bourdieu includes social capital as one of the key relational elements of his social space, but says much less about it than economic or cultural capital…
@@ -274,12 +270,12 @@
 **作者**: Husbands, Christopher T
 **摘要**: （暂无）
 
-### Reconsidering identity: the ethnic and political dimensions of hybridity among majority and Turkish youth in Germany and England1
+### Reconsidering identity: the ethnic and political dimensions of hybridity among majority and Turkish youth in Germany and England
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01232.x](https://doi.org/10.1111/j.1468-4446.2009.01232.x)
 **作者**: Faas, Daniel
 **摘要**: AbstractSociological research has hitherto largely focused on majority2 and minority ethnic identities or citizenship identities. However, the social connections between youth are not simply ethnic dynamics but also political dynamics involving citizenship categories.…
 
-### ‘We, the Congolese, we cannot trust each other’. Trust, norms and relations among traders in Katanga, Democratic Republic of Congo1
+### ‘We, the Congolese, we cannot trust each other’. Trust, norms and relations among traders in Katanga, Democratic Republic of Congo
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01261.x](https://doi.org/10.1111/j.1468-4446.2009.01261.x)
 **作者**: Rubbers, Benjamin
 **摘要**: AbstractCongolese traders in Katanga claim that they cannot trust their peers, customers, and employees. Existing literature about social capital in Africa does not enhance our understanding, as it tends to consider trust as depending on the degree of social knowledge.…
@@ -289,7 +285,7 @@
 **作者**: Kloosterman, Rianne; Ruiter, Stijn; De Graaf, Paul M. 等4人
 **摘要**: AbstractAccording to Boudon, social background affects educational transitions as a result of differences in children's academic performance (primary effects) and differences in transition probabilities given children's level of academic performance (secondary effects).…
 
-### Economic Penalties and Rewards of Family Formation, Gender and Education in the Low‐income Sector in Germany1
+### Economic Penalties and Rewards of Family Formation, Gender and Education in the Low‐income Sector in Germany
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2008.01220.x](https://doi.org/10.1111/j.1468-4446.2008.01220.x)
 **作者**: Aisenbrey, Silke
 **摘要**: AbstractThis article examines the differential effects of changes in family formations on men's and women's economic vulnerability. The motivating question is whether investments in education provide sufficient resources to escape the risk of poverty in the low‐income sector or if changes in househo…
@@ -324,12 +320,12 @@
 **作者**: Phoenix, Jo
 **摘要**: （暂无）
 
-### Disadvantaged through discrimination? The role of employers in social stratification1
+### Disadvantaged through discrimination? The role of employers in social stratification
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01270.x](https://doi.org/10.1111/j.1468-4446.2009.01270.x)
 **作者**: Jackson, Michelle
 **摘要**: AbstractSociologists have consistently demonstrated that a rather strong association exists between an individual's social class origin and their social class destination, even after controlling for educational attainment.…
 
-### Disparity and diversity in the contemporary city: social (dis)order revisited1
+### Disparity and diversity in the contemporary city: social (dis)order revisited
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01211.x](https://doi.org/10.1111/j.1468-4446.2009.01211.x)
 **作者**: Sampson, Robert J.
 **摘要**: When they approach me they see only my surroundings, themselves or figments of their imagination – indeed, everything and anything except me. Scholars of the city have long interpreted signs of disorder in public spaces in ways that constitute powerful forces of social differentiation.…
@@ -364,7 +360,7 @@
 **作者**: Gilroy, Paul
 **摘要**: Professor Sampson's paper offers a valuable snapshot of the professional sociologist's craft. His methodological innovations will prove influential and his focus on durable inequality and the social ranking of places is instructive even if those dynamics are gravely complicated – as they are in cont…
 
-### The scientific significance of Collins's Violence1
+### The scientific significance of Collins's Violence
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01258.x](https://doi.org/10.1111/j.1468-4446.2009.01258.x)
 **作者**: Cooney, Mark
 **摘要**: In Violence: A Micro-sociological Theory, one of the world's greatest sociologists, applies his formidable intellectual powers to the problem of human aggression. But how far does Randall Collins's big and ambitious book advance the scientific understanding of violent behaviour?…
@@ -404,7 +400,7 @@
 **作者**: Goldstone, Jack A.
 **摘要**: （暂无）
 
-### Citizenship beyond politics: the importance of political, civil and social rights and responsibilities among women and men1
+### Citizenship beyond politics: the importance of political, civil and social rights and responsibilities among women and men
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01274.x](https://doi.org/10.1111/j.1468-4446.2009.01274.x)
 **作者**: Bolzendahl, Catherine; Coffé, Hilde
 **摘要**: AbstractPrevious research has suggested that men are more engaged as citizens than are women. Yet, little is known about gender cleavages across a variety of citizenship norms. To what extent do men and women define citizenship differently?…
@@ -414,17 +410,17 @@
 **作者**: Tolsma, Jochem; De Graaf, Nan Dirk; Quillian, Lincoln
 **摘要**: AbstractUp till now, no study satisfactorily addressed the effect of social mobility on antagonistic attitudes toward ethnic minorities. In this contribution, we investigate the effect of educational and class intergenerational mobility on ethnic stereotypes, ethnic threat, and opposition to ethnic …
 
-### Explaining religiosity: towards a unified theoretical model1
+### Explaining religiosity: towards a unified theoretical model
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01234.x](https://doi.org/10.1111/j.1468-4446.2009.01234.x)
 **作者**: Stolz, Jörg
 **摘要**: AbstractThe article presents a unified theoretical model, explaining differences in Christian and ‘alternative’ religiosity at individual and collective levels. The model reconstructs and integrates the most important theories explaining religiosity (deprivation, regulation, socialization, cultural …
 
-### An emergent cosmopolitan paradigm? Asylum, welfare and human rights1
+### An emergent cosmopolitan paradigm? Asylum, welfare and human rights
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01228.x](https://doi.org/10.1111/j.1468-4446.2009.01228.x)
 **作者**: Morris, Lydia
 **摘要**: AbstractThis paper addresses the recognition in cosmopolitan debate of a possible disjuncture between the normative ideal of cosmopolitanism and its realization in practice. Taking as its focus the potential conflict between human rights commitments and national concern about immigration control, it…
 
-### Preferences, constraints or schemas of devotion? Exploring Norwegian mothers' withdrawals from high‐commitment careers1
+### Preferences, constraints or schemas of devotion? Exploring Norwegian mothers' withdrawals from high‐commitment careers
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01233.x](https://doi.org/10.1111/j.1468-4446.2009.01233.x)
 **作者**: Halrynjo, Sigtona; Lyng, Selma Therese
 **摘要**: AbstractDespite decades of focus on gender equality and work–family balance, parenthood still affects mothers' and fathers' careers differently. Drawing on in‐depth interviews with Norwegian mothers who are relinquishing high‐commitment careers of law and consultancy, this paper questions the adequa…
@@ -494,7 +490,7 @@
 **作者**: Kruttschnitt, Candace; Hussemann, Jeanette
 **摘要**: AbstractResearch over the past two decades has focused on the topic of race as important for understanding order and compliance in men's prisons. However, relatively little research considers how subjective understandings of imprisonment are influenced by race, particularly in the case of women pris…
 
-### Integrating institutional, relational and embodied structure: an emergentist perspective1
+### Integrating institutional, relational and embodied structure: an emergentist perspective
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00194.x](https://doi.org/10.1111/j.1468-4446.2008.00194.x)
 **作者**: Elder‐Vass, Dave
 **摘要**: AbstractThis paper begins to develop an emergentist and realist account of normative social institutions. The argument is developed as a response to Lopez and Scott's historical portrait of the debate on social structure as a dialogue between two different concepts of structure: institutional struct…
@@ -518,7 +514,7 @@
 **作者**: Venn, Susan; Arber, Sara; Meadows, Robert 等4人
 **摘要**: AbstractThe study of sleep has been neglected within sociology, yet may provide insights into fundamental aspects of the nature of gender inequalities. This article examines how, for couples with children, sleep is influenced by the gendered nature of caring.…
 
-### Climate change, travel and complex futures1
+### Climate change, travel and complex futures
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00193.x](https://doi.org/10.1111/j.1468-4446.2008.00193.x)
 **作者**: Urry, John
 **摘要**: AbstractIn this paper I examine various sociologies of the future. I argue that one future, of global climate change, is now exceptionally significant. This future is based upon certain sociological presumptions and thus sociology is central to its emerging contours and to its analysis.…
@@ -537,7 +533,7 @@
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00199.x](https://doi.org/10.1111/j.1468-4446.2008.00199.x)
 **摘要**: （暂无）
 
-### Political attitudes, social participation and social mobility: a longitudinal analysis1
+### Political attitudes, social participation and social mobility: a longitudinal analysis
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00201.x](https://doi.org/10.1111/j.1468-4446.2008.00201.x)
 **作者**: Paterson, Lindsay
 **摘要**: AbstractIt is often suggested that the political attitudes and social participation which have underpinned the welfare‐state democracies have depended on large amounts of upward social mobility.…
@@ -572,7 +568,7 @@
 **作者**: Bhatt, Chetan
 **摘要**: Judith Butler's expansive, stimulating paper can be seen as an exploration of the kinds of ethical positions that might become possible once we internalize fully the loss of a political conception of linear, progressive time and secure ethical foundations.…
 
-### Economic deprivation, maternal depression, parenting and children's cognitive and emotional development in early childhood1
+### Economic deprivation, maternal depression, parenting and children's cognitive and emotional development in early childhood
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00219.x](https://doi.org/10.1111/j.1468-4446.2008.00219.x)
 **作者**: Kiernan, Kathleen E.; Huerta, M. Carmen
 **摘要**: AbstractThis study uses data from the UK Millennium Cohort Study to examine the extent to which economic circumstances in infancy and mother's mental well‐being are associated with children's cognitive development and behaviour problems at age 3 years, and what part parenting behaviours and attitude…
@@ -590,7 +586,7 @@
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00221.x](https://doi.org/10.1111/j.1468-4446.2008.00221.x)
 **摘要**: （暂无）
 
-### The contribution of media consumption to civic participation1
+### The contribution of media consumption to civic participation
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00197.x](https://doi.org/10.1111/j.1468-4446.2008.00197.x)
 **作者**: Livingstone, Sonia; Markham, Tim
 **摘要**: AbstractA national UK survey (N = 1017) examined the association between media consumption and three indicators of civic participation – likelihood of voting, interest in politics, and actions taken in response to a public issue of concern to the respondent.…
@@ -625,7 +621,7 @@
 **作者**: Sparks, Richard
 **摘要**: （暂无）
 
-### Social class variation in risk: a comparative analysis of the dynamics of economic vulnerability1
+### Social class variation in risk: a comparative analysis of the dynamics of economic vulnerability
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00213.x](https://doi.org/10.1111/j.1468-4446.2008.00213.x)
 **作者**: Whelan, Christopher T.; Maître, Bertrand
 **摘要**: AbstractA joint concern with multidimensionality and dynamics is a defining feature of the pervasive use of the terminology of social exclusion in the European Union. The notion of social exclusion focuses attention on economic vulnerability in the sense of exposure to risk and uncertainty.…
@@ -640,7 +636,7 @@
 **作者**: Waisbord, Silvio
 **摘要**: （暂无）
 
-### It's a long way to Auchterarder! ‘Negotiated management’ and mismanagement in the policing of G8 protests1
+### It's a long way to Auchterarder! ‘Negotiated management’ and mismanagement in the policing of G8 protests
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00189.x](https://doi.org/10.1111/j.1468-4446.2008.00189.x)
 **作者**: Gorringe, Hugo; Rosie, Michael
 **摘要**: AbstractRecent analyses of protest policing in Western democracies argue that there has been a marked shift away from oppressive or coercive approaches to an emphasis on consensus based negotiation.…
@@ -649,7 +645,7 @@
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00222.x](https://doi.org/10.1111/j.1468-4446.2008.00222.x)
 **摘要**: （暂无）
 
-### Double‐edged swords? Collective identity and solidarity in the environment movement1
+### Double‐edged swords? Collective identity and solidarity in the environment movement
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00191.x](https://doi.org/10.1111/j.1468-4446.2008.00191.x)
 **作者**: Saunders, Clare
 **摘要**: AbstractPerhaps by virtue of its theoretical slipperiness, collective identity is often hailed as an important feature of social movements for the role it plays in unifying activists and organizations, and so helping them to develop shared concerns and engage in collective action.…
@@ -699,14 +695,10 @@
 **作者**: Tonkiss, Fran
 **摘要**: （暂无）
 
-### How to make head or tail of ‘bridging’ and ‘bonding’?: addressing the methodological ambiguity1
+### How to make head or tail of ‘bridging’ and ‘bonding’?: addressing the methodological ambiguity
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00202.x](https://doi.org/10.1111/j.1468-4446.2008.00202.x)
 **作者**: Geys, Benny; Murdoch, Zuzana
 **摘要**: AbstractA distinction has recently been proposed between bridging (or encompassing) and bonding (or inward‐looking) social networks. However, existing theoretical contributions remain vague as to the fundamental meaning of both concepts.…
-
-### Editorial announcement
-**年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00211.x](https://doi.org/10.1111/j.1468-4446.2008.00211.x)
-**摘要**: （暂无）
 
 ### War and the Transformation of Global Politics – By V. Jabri
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00198_4.x](https://doi.org/10.1111/j.1468-4446.2008.00198_4.x)
@@ -733,12 +725,12 @@
 **作者**: Amara, Mahfoud
 **摘要**: （暂无）
 
-### Our favourite melodies: musical consumption and teenage lifestyles1
+### Our favourite melodies: musical consumption and teenage lifestyles
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2007.00185.x](https://doi.org/10.1111/j.1468-4446.2007.00185.x)
 **作者**: Tanner, Julian; Asbridge, Mark; Wortley, Scot
 **摘要**: AbstractThe present study explores the determinants and lifestyle correletes of musical preferences among a large sample of high school students in Toronto, Ontario. Our work is informed by theory and research on cultural stratification and adolescent subcultures.…
 
-### Searching for realism, structure and agency in Actor Network Theory1
+### Searching for realism, structure and agency in Actor Network Theory
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00203.x](https://doi.org/10.1111/j.1468-4446.2008.00203.x)
 **作者**: Elder‐Vass, Dave
 **摘要**: AbstractSuperficially, Actor Network Theory (ANT) and critical realism (CR) are radically opposed research traditions. Written from a realist perspective, this paper asks whether there might be a basis for finding common ground between these two traditions.…
@@ -748,7 +740,7 @@
 **作者**: Butler, Judith
 **摘要**: （暂无）
 
-### A clash of civilizations? Examining liberal‐democratic values in Turkey and the European Union1
+### A clash of civilizations? Examining liberal‐democratic values in Turkey and the European Union
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00215.x](https://doi.org/10.1111/j.1468-4446.2008.00215.x)
 **作者**: Dixon, Jeffrey C.
 **摘要**: AbstractTurkey's proposed entry into the European Union (EU) has been undermined by Europeans’ perceptions of Turkish–European cultural differences, particularly regarding the liberal‐democratic values that the EU promotes (democracy, rule of law, and respect for and appreciation of minority/human r…
@@ -773,7 +765,7 @@
 **作者**: Blane, David
 **摘要**: （暂无）
 
-### Parent presence and gender‐typicalness of educational choice1
+### Parent presence and gender‐typicalness of educational choice
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00218.x](https://doi.org/10.1111/j.1468-4446.2008.00218.x)
 **作者**: Låftman, Sara Brolin
 **摘要**: AbstractGiven parental influence on children's educational choices, new family constellations may impact on sex segregation in school and thus in the labour market. This paper addresses the question of what consequence father absence and stepfather presence may have for choice of the male‐dominated …
@@ -803,7 +795,7 @@
 **作者**: Modood, Tariq
 **摘要**: There is a deepening crisis between oppressed and disaffected religious groups such as Muslims in western societies and some of the principal sources of anti-oppression doctrines and movements.…
 
-### In search of the glass ceiling: gender and recruitment to management in Norway's state bureaucracy1
+### In search of the glass ceiling: gender and recruitment to management in Norway's state bureaucracy
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00217.x](https://doi.org/10.1111/j.1468-4446.2008.00217.x)
 **作者**: Storvik, Aagoth Elise; Schøne, Pål
 **摘要**: AbstractThere are still fewer female than male managers in Norway's state bureaucracy. This article asks if there are organizational barriers which prevent women from entering these positions.…
@@ -813,12 +805,12 @@
 **作者**: Brown, Chris
 **摘要**: （暂无）
 
-### Being a pretty good citizen: an analysis and monetary valuation of formal and informal voluntary work by gender and educational attainment1
+### Being a pretty good citizen: an analysis and monetary valuation of formal and informal voluntary work by gender and educational attainment
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2007.00186.x](https://doi.org/10.1111/j.1468-4446.2007.00186.x)
 **作者**: Egerton, Muriel; Mullan, Killian
 **摘要**: AbstractThis paper is set in the context of macrosocial/macroeconomic theories of the organization of both paid and unpaid work. The specific topic investigated is engagement in unpaid voluntary work, an activity which is thought to be important for social cohesion, civil society and citizenship.…
 
-### Education effects on authoritarian–libertarian values: a question of socialization1
+### Education effects on authoritarian–libertarian values: a question of socialization
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00196.x](https://doi.org/10.1111/j.1468-4446.2008.00196.x)
 **作者**: Stubager, Rune
 **摘要**: AbstractOver the past decades an authoritarian–libertarian value dimension has become increasingly important to electoral behaviour across western countries. Previous analyses have shown that education is the most important social antecedent of individuals’ positions on this value dimension; high ed…
@@ -833,7 +825,7 @@
 **作者**: Beckford, James A.
 **摘要**: The animus behind Judith Butler's investigation of the links between sexual politics, torture and secularism in the early twenty-first century is the perceived need for a ‘politics that opposes state coercion and violence’ (Butler 2008: 20).…
 
-### Ignorance as an under‐identified social problem1
+### Ignorance as an under‐identified social problem
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00195.x](https://doi.org/10.1111/j.1468-4446.2008.00195.x)
 **作者**: Ungar, Sheldon
 **摘要**: AbstractThis paper examines the persistence and intensification of ignorance in the ostensible knowledge society. Given the ubiquity of ignorance, it focuses on research and observations dealing with functional knowledge deficits that challenge the ideal of the well‐informed citizen.…
@@ -843,7 +835,7 @@
 **作者**: Archer, Louise
 **摘要**: （暂无）
 
-### The Pinochet case: cosmopolitanism and intermestic human rights1
+### The Pinochet case: cosmopolitanism and intermestic human rights
 **年份**: 2007 | **DOI**: [10.1111/j.1468-4446.2007.00158.x](https://doi.org/10.1111/j.1468-4446.2007.00158.x)
 **作者**: Nash, Kate
 **摘要**: AbstractThis article explores the Pinochet case, widely heralded as a landmark, as a case of ‘intermestic’ human rights that raises difficult normative and empirical questions concerning cosmopolitan justice.…
@@ -888,7 +880,7 @@
 **作者**: Fox, Jon E.
 **摘要**: （暂无）
 
-### The decline of British national pride1
+### The decline of British national pride
 **年份**: 2007 | **DOI**: [10.1111/j.1468-4446.2007.00170.x](https://doi.org/10.1111/j.1468-4446.2007.00170.x)
 **作者**: Tilley, James; Heath, Anthony
 **摘要**: AbstractThis article examines how national pride has changed in Britain since the beginning of the 1980s. We show that there have been large declines in pride and that this is exclusively generational in nature; with more recent generations having substantially lower levels of pride in ‘Britishness’…
@@ -928,12 +920,12 @@
 **作者**: Smith, Oliver
 **摘要**: （暂无）
 
-### Putting Adam Ferguson in his place1
+### Putting Adam Ferguson in his place
 **年份**: 2007 | **DOI**: [10.1111/j.1468-4446.2007.00141.x](https://doi.org/10.1111/j.1468-4446.2007.00141.x)
 **作者**: Brewer, John D.
 **摘要**: AbstractThis paper re‐conceptualizes the relationship between Ferguson's life and work by locating him in his biographical and geographical context for the purposes of better understanding his proto‐sociological writings.…
 
-### Colonial and post‐colonial aspects of Australian identity1
+### Colonial and post‐colonial aspects of Australian identity
 **年份**: 2007 | **DOI**: [10.1111/j.1468-4446.2007.00146.x](https://doi.org/10.1111/j.1468-4446.2007.00146.x)
 **作者**: Tranter, Bruce; Donoghue, Jed
 **摘要**: AbstractSince the 1988 Bicentennial and the 2001 centenary of federation celebrations colonial images have flourished in Australia, highlighting the roles of convicts and free settlers during early colonization.…
@@ -953,7 +945,7 @@
 **作者**: Hakim, Catherine
 **摘要**: （暂无）
 
-### Class in construction: London building workers, dirty work and physical cultures1
+### Class in construction: London building workers, dirty work and physical cultures
 **年份**: 2007 | **DOI**: [10.1111/j.1468-4446.2007.00149.x](https://doi.org/10.1111/j.1468-4446.2007.00149.x)
 **作者**: Thiel, Darren
 **摘要**: AbstractDescriptions of manual employment tend to ignore its diversity and overstate the homogenizing effects of technology and industrialization. Based on ethnographic research on a London construction site, building work was found to be shaped by the forms of a pre‐industrial work pattern characte…
@@ -982,12 +974,12 @@
 **作者**: Higgs, Matthew
 **摘要**: （暂无）
 
-### Operationalizing Max Weber's probability concept of class situation: the concept of social class1
+### Operationalizing Max Weber's probability concept of class situation: the concept of social class
 **年份**: 2007 | **DOI**: [10.1111/j.1468-4446.2007.00140.x](https://doi.org/10.1111/j.1468-4446.2007.00140.x)
 **作者**: Smith, Ken
 **摘要**: AbstractIn this essay I take seriously Max Weber's astonishingly neglected claim that class situation may be defined, not in categorial terms, butprobabilistically. I then apply this idea to another equally neglected claim made by Weber that the boundaries of social classes may be determined by the …
 
-### Beyond false oppositions: a reply to Beck1
+### Beyond false oppositions: a reply to Beck
 **年份**: 2007 | **DOI**: [10.1111/j.1468-4446.2007.00172.x](https://doi.org/10.1111/j.1468-4446.2007.00172.x)
 **作者**: Atkinson, Will
 **摘要**: （暂无）
@@ -1072,7 +1064,7 @@
 **作者**: Maclean, Mavis
 **摘要**: （暂无）
 
-### Foucault's void1
+### Foucault's void
 **年份**: 2007 | **DOI**: [10.1111/j.1468-4446.2007.00161.x](https://doi.org/10.1111/j.1468-4446.2007.00161.x)
 **作者**: Dodd, Nigel
 **摘要**: （暂无）
@@ -1101,7 +1093,7 @@
 **作者**: MacInnes, John; Rosie, Michael; Petersoo, Pille 等5人
 **摘要**: AbstractAlthough globalization has highlighted the danger of conflating state, society and nation, sociologists remain insufficiently alert to such banal nationalism. Newspapers offer a strong test case of the extent of diversity in the construction of state, national and social boundaries, since Bi…
 
-### How far merit selection? Social stratification and the labour market1
+### How far merit selection? Social stratification and the labour market
 **年份**: 2007 | **DOI**: [10.1111/j.1468-4446.2007.00156.x](https://doi.org/10.1111/j.1468-4446.2007.00156.x)
 **作者**: Jackson, Michelle
 **摘要**: AbstractThe question of how societies allocate occupational positions and subsequent rewards has long been of interest to sociologists. According to one influential theory, the needs of modern industrial societies and economies demand that high‐level and functionally important occupational positions…
@@ -1111,7 +1103,7 @@
 **作者**: Byrne, David
 **摘要**: （暂无）
 
-### Beck, individualization and the death of class: a critique1
+### Beck, individualization and the death of class: a critique
 **年份**: 2007 | **DOI**: [10.1111/j.1468-4446.2007.00155.x](https://doi.org/10.1111/j.1468-4446.2007.00155.x)
 **作者**: Atkinson, Will
 **摘要**: AbstractUlrich Beck has argued that the changing logic of distribution and, more importantly, the ‘individualization’ of social processes in reflexive modernity have killed off the concept of social class and rendered the analysis of its effects a flawed endeavour.…
@@ -1181,7 +1173,7 @@
 **作者**: Sanders, Teela; Campbell, Rosie
 **摘要**: AbstractOne recent finding about the prostitution market is the differences in the extent and nature of violence experienced between women who work on the street and those who work from indoor sex work venues.…
 
-### Are clerical workers proletarian? A case study of the Australian Public Service1
+### Are clerical workers proletarian? A case study of the Australian Public Service
 **年份**: 2007 | **DOI**: [10.1111/j.1468-4446.2007.00167.x](https://doi.org/10.1111/j.1468-4446.2007.00167.x)
 **作者**: Matheson, Craig
 **摘要**: AbstractThis paper explores whether clerical workers have been proletarianized by using the Australian Public Service (APS) as a case study. It shows that before the late 1980s the market, work and status situations of APS clerks were predominantly proletarian since they were typified by limited car…
@@ -1211,15 +1203,10 @@
 **作者**: Manning, Nick
 **摘要**: （暂无）
 
-### Analysing non‐doctrinal socialization: re‐assessing the role of cognition to account for social cohesion in the Religious Society of Friends1
+### Analysing non‐doctrinal socialization: re‐assessing the role of cognition to account for social cohesion in the Religious Society of Friends
 **年份**: 2007 | **DOI**: [10.1111/j.1468-4446.2007.00150.x](https://doi.org/10.1111/j.1468-4446.2007.00150.x)
 **作者**: Plüss, Caroline
 **摘要**: AbstractTo incorporate newcomers into membership, a group employs socialization strategies to transform the characteristics of the newcomers, so that it can admit them with the confidence that their behaviour will not endanger group unity.…
-
-### Editorial announcement
-**年份**: 2007 | **DOI**: [10.1111/j.1468-4446.2007.00164.x](https://doi.org/10.1111/j.1468-4446.2007.00164.x)
-**作者**: Mills, Colin
-**摘要**: （暂无）
 
 ### Citizenship and Vulnerability: Disability and Issues of Social and Political Engagement – By Angharad E. Beckett
 **年份**: 2007 | **DOI**: [10.1111/j.1468-4446.2007.00173_1.x](https://doi.org/10.1111/j.1468-4446.2007.00173_1.x)
@@ -1236,7 +1223,7 @@
 **作者**: Frug, Gerald
 **摘要**: （暂无）
 
-### Intergenerational class mobility in contemporary Britain: political concerns and empirical findings1
+### Intergenerational class mobility in contemporary Britain: political concerns and empirical findings
 **年份**: 2007 | **DOI**: [10.1111/j.1468-4446.2007.00165.x](https://doi.org/10.1111/j.1468-4446.2007.00165.x)
 **作者**: Goldthorpe, John H.; Jackson, Michelle
 **摘要**: AbstractIn Britain in recent years social mobility has become a topic of central political concern, primarily as a result of the effort made by New Labour to make equality of opportunity rather than equality of condition a focus of policy.…
@@ -1260,7 +1247,7 @@
 **作者**: Hobbs, Dick; O'Brien, Kate; Westmarland, Louise
 **摘要**: AbstractThis paper explores the emerging role of women who work as ‘bouncers’, or doorstaff, in the night‐time economy and examines how the cultural capital of the female bouncer is connected to the methods utilized to control licensed premises.…
 
-### Cultural capital or relative risk aversion? Two mechanisms for educational inequality compared1
+### Cultural capital or relative risk aversion? Two mechanisms for educational inequality compared
 **年份**: 2007 | **DOI**: [10.1111/j.1468-4446.2007.00157.x](https://doi.org/10.1111/j.1468-4446.2007.00157.x)
 **作者**: Van De Werfhorst, Herman G.; Hofstede, Saskia
 **摘要**: AbstractIn this paper we empirically examined two explanatory mechanisms for educational inequality: cultural reproduction and relative risk aversion, using survey data taken from secondary school pupils in Amsterdam.…
@@ -1279,12 +1266,12 @@
 **作者**: Mason, Barbara
 **摘要**: （暂无）
 
-### Social stratification and attitudes: a comparative analysis of the effects of class and education in Europe1
+### Social stratification and attitudes: a comparative analysis of the effects of class and education in Europe
 **年份**: 2007 | **DOI**: [10.1111/j.1468-4446.2007.00166.x](https://doi.org/10.1111/j.1468-4446.2007.00166.x)
 **作者**: Kalmijn, Matthijs; Kraaykamp, Gerbert
 **摘要**: AbstractA classic topic in the sociology of inequality lies in the subjective consequences of people's stratification position. Many studies have shown that education and occupational class have significant effects on attitudes, but little is known about how the magnitude of these effects depends on…
 
-### Beyond class and nation: reframing social inequalities in a globalizing world1
+### Beyond class and nation: reframing social inequalities in a globalizing world
 **年份**: 2007 | **DOI**: [10.1111/j.1468-4446.2007.00171.x](https://doi.org/10.1111/j.1468-4446.2007.00171.x)
 **作者**: Beck, Ulrich
 **摘要**: AbstractFrom the start individualization theory is the investigation of the paradigm shift in social inequality. Furthermore it shows, how the transnationalization of social inequalities bursts the framework of institutional responses – nation state (parties), trade unions, welfare state systems and…
@@ -1323,7 +1310,7 @@
 **作者**: Gill, Aisha
 **摘要**: （暂无）
 
-### Generational affinities and discourses of difference: a case study of highly skilled information technology workers1
+### Generational affinities and discourses of difference: a case study of highly skilled information technology workers
 **年份**: 2007 | **DOI**: [10.1111/j.1468-4446.2007.00152.x](https://doi.org/10.1111/j.1468-4446.2007.00152.x)
 **作者**: McMullin, Julie Ann; Duerden Comeau, Tammy; Jovic, Emily
 **摘要**: AbstractSociologists theorizing the concept of ‘generation’ have traditionally looked to birth cohorts sharing major social upheavals such as war or decolonization to explain issues of generational solidarity and identity affiliation.…
@@ -1566,7 +1553,7 @@
 **年份**: 2006 | **DOI**: [10.1111/j.1468-4446.2006.00135.x](https://doi.org/10.1111/j.1468-4446.2006.00135.x)
 **摘要**: （暂无）
 
-### The reproduction of gender: housework and attitudes towards gender equality in the home among Swedish boys and girls1
+### The reproduction of gender: housework and attitudes towards gender equality in the home among Swedish boys and girls
 **年份**: 2006 | **DOI**: [10.1111/j.1468-4446.2006.00118.x](https://doi.org/10.1111/j.1468-4446.2006.00118.x)
 **作者**: Evertsson, Marie
 **摘要**: AbstractThe housework Swedish girls and boys age 10 to 18 do, and their attitudes towards gender equality in the home are studied. One aim is to see whether the work children do is gendered and if so, whether they follow their parents’, often gendered, pattern in housework.…
@@ -1581,7 +1568,7 @@
 **作者**: Holloway, Lewis
 **摘要**: （暂无）
 
-### Intimate relationships and changing patterns of money management at the beginning of the twenty‐first century1
+### Intimate relationships and changing patterns of money management at the beginning of the twenty‐first century
 **年份**: 2006 | **DOI**: [10.1111/j.1468-4446.2006.00120.x](https://doi.org/10.1111/j.1468-4446.2006.00120.x)
 **作者**: Vogler, Carolyn; Brockmann, Michaela; Wiggins, Richard D.
 **摘要**: AbstractDrawing on British data from two annual sweeps of theISSPeight years apart in 1994 and 2002, for modules focusing on ‘Family and Changing Gender Roles’, this paper examines the extent to which changes in women's labour market participation, changing ideologies/discourses of gender and changi…
@@ -1604,10 +1591,6 @@
 ### Implementing Change in Health Systems – Michael I. Harrison
 **年份**: 2006 | **DOI**: [10.1111/j.1468-4446.2006.00123_10.x](https://doi.org/10.1111/j.1468-4446.2006.00123_10.x)
 **作者**: Meads, Geoffrey
-**摘要**: （暂无）
-
-### Erratum
-**年份**: 2006 | **DOI**: [10.1111/j.1468-4446.2006.00113.x](https://doi.org/10.1111/j.1468-4446.2006.00113.x)
 **摘要**: （暂无）
 
 ### Interaction Ritual Chains – Randall Collins
@@ -1720,7 +1703,7 @@
 **作者**: Tovey, Hilary
 **摘要**: （暂无）
 
-### Castells' Catalan routes: nationalism and the sociology of identity1
+### Castells' Catalan routes: nationalism and the sociology of identity
 **年份**: 2006 | **DOI**: [10.1111/j.1468-4446.2006.00131.x](https://doi.org/10.1111/j.1468-4446.2006.00131.x)
 **作者**: MacInnes, John
 **摘要**: AbstractCastells' analysis of the rise of a global network society and information age is underpinned, paradoxically, by a nationalist vision with organic links in a Gramscian sense to Catalan nationalism.…
@@ -1729,7 +1712,7 @@
 **年份**: 2006 | **DOI**: [10.1111/j.1468-4446.2006.00099.x](https://doi.org/10.1111/j.1468-4446.2006.00099.x)
 **摘要**: （暂无）
 
-### What's parenthood got to do with it?: men's hours of paid work1
+### What's parenthood got to do with it?: men's hours of paid work
 **年份**: 2006 | **DOI**: [10.1111/j.1468-4446.2006.00128.x](https://doi.org/10.1111/j.1468-4446.2006.00128.x)
 **作者**: Dermott, Esther
 **摘要**: AbstractIt is commonly reported that fathers in Britain work longer hours than non‐fathers. This statistic is frequently used as supporting evidence for the argument that the role of fathers within families remains primarily concerned with financial provisioning.…
@@ -1749,7 +1732,7 @@
 **作者**: Willis, Katie
 **摘要**: （暂无）
 
-### Sovereignty transformed: a sociology of human rights1
+### Sovereignty transformed: a sociology of human rights
 **年份**: 2006 | **DOI**: [10.1111/j.1468-4446.2006.00130.x](https://doi.org/10.1111/j.1468-4446.2006.00130.x)
 **作者**: Levy, Daniel; Sznaider, Natan
 **摘要**: AbstractThis paper examines how global interdependencies and the consolidation of a human rights discourse are transforming national sovereignty. Social researchers frequently address the supremacy of state sovereignty and the absoluteness of human rights as mutually exclusive categories.…
@@ -1783,7 +1766,7 @@
 **作者**: Payne, Geoff
 **摘要**: AbstractRecent media reports have repeated claims that there are very large numbers of illiterate people in Britain, seven million adults being the most common figure. The moral panic this engendered has helped to justify educational initiatives and greater public spending on basic skills.…
 
-### The intellectuals and capitalism1
+### The intellectuals and capitalism
 **年份**: 2006 | **DOI**: [10.1111/j.1468-4446.2006.00101.x](https://doi.org/10.1111/j.1468-4446.2006.00101.x)
 **作者**: Fontaine, Philippe
 **摘要**: （暂无）
@@ -1832,7 +1815,7 @@
 **作者**: Jones, Cecily
 **摘要**: （暂无）
 
-### Towards an analytical theory of social change: the case of China1
+### Towards an analytical theory of social change: the case of China
 **年份**: 2006 | **DOI**: [10.1111/j.1468-4446.2006.00122.x](https://doi.org/10.1111/j.1468-4446.2006.00122.x)
 **作者**: Liu, Serena
 **摘要**: AbstractLockwood argues that contradiction between the core institutional order and the material substructure of a society gives rise to potential social relationships which constitute a threat to the existing institutional order and may lead to change in the type of the society.…
@@ -2024,7 +2007,7 @@
 **作者**: Hinshelwood, Bob
 **摘要**: （暂无）
 
-### Choosing Buddhism in Australia: towards a traditional style of reflexive spiritual engagement1
+### Choosing Buddhism in Australia: towards a traditional style of reflexive spiritual engagement
 **年份**: 2005 | **DOI**: [10.1111/j.1468-4446.2005.00056.x](https://doi.org/10.1111/j.1468-4446.2005.00056.x)
 **作者**: Phillips, Tim; Aarons, Haydn
 **摘要**: AbstractThere has been little dedicated sociological research on the appeal Buddhism holds for many individuals in the West. It is suggested that this absence reflects a current tendency within the discipline to highlight a new age approach to spiritual involvement and to overlook other optional sty…
@@ -2089,7 +2072,7 @@
 **作者**: Fazey, Cindy S.J.
 **摘要**: （暂无）
 
-### Bookmarks for public sociologists1
+### Bookmarks for public sociologists
 **年份**: 2005 | **DOI**: [10.1111/j.1468-4446.2005.00067.x](https://doi.org/10.1111/j.1468-4446.2005.00067.x)
 **作者**: Etzioni, Amitai
 **摘要**: Michael Burawoy deserves much credit for bringing the role of public sociol-ogy back to the discipline’s attention. Public sociologists have always been called for. However, it is hard to recall a time in which they have been more needed but less in evidence than the present day.…
@@ -2113,7 +2096,7 @@
 **年份**: 2005 | **DOI**: [10.1111/j.1468-4446.2005.00090.x](https://doi.org/10.1111/j.1468-4446.2005.00090.x)
 **摘要**: （暂无）
 
-### Who will speak, and who will listen? Comments on Burawoy and public sociology1
+### Who will speak, and who will listen? Comments on Burawoy and public sociology
 **年份**: 2005 | **DOI**: [10.1111/j.1468-4446.2005.00073.x](https://doi.org/10.1111/j.1468-4446.2005.00073.x)
 **作者**: Scott, John
 **摘要**: （暂无）
@@ -2148,12 +2131,12 @@
 **作者**: Barbalet, Jack
 **摘要**: AbstractTreatments of sources of Adam Smith's sociological theory of the self and associated ideas inThe Theory of Moral Sentimentstypically refer to classical antecedents or the work of his teacher Francis Hutcheson or his contemporary David Hume.…
 
-### Capitals, assets, and resources: some critical issues1
+### Capitals, assets, and resources: some critical issues
 **年份**: 2005 | **DOI**: [10.1111/j.1468-4446.2005.00045.x](https://doi.org/10.1111/j.1468-4446.2005.00045.x)
 **作者**: Savage, Mike; Warde, Alan; Devine, Fiona
 **摘要**: AbstractThis paper explores the potential of Bourdieu's approach to capital as a way of understanding class dynamics in contemporary capitalism. Recent rethinking of class analysis has sought to move beyond what RosemaryCrompton (1998) calls the ‘employment aggregate approach’, one which involves ca…
 
-### For public social science1
+### For public social science
 **年份**: 2005 | **DOI**: [10.1111/j.1468-4446.2005.00064.x](https://doi.org/10.1111/j.1468-4446.2005.00064.x)
 **作者**: Braithwaite, John
 **摘要**: （暂无）
@@ -2183,7 +2166,7 @@
 **作者**: Robbins, Derek
 **摘要**: AbstractThe paper examines the context of the first introduction of the concept of ‘cultural capital’ in the sociology of education analyses undertaken in the early 1960s and published by Bourdieu in collaboration with Jean‐Claude Passeron in ‘Les étudiants et leurs études’ (1964a) and Les Héritiers…
 
-### The new gender essentialism – domestic and family ‘choices’ and their relation to attitudes1
+### The new gender essentialism – domestic and family ‘choices’ and their relation to attitudes
 **年份**: 2005 | **DOI**: [10.1111/j.1468-4446.2005.00085.x](https://doi.org/10.1111/j.1468-4446.2005.00085.x)
 **作者**: Crompton, Rosemary; Lyonette, Clare
 **摘要**: AbstractThis paper critically examines two strands within contemporary gender essentialism – that is, the argument that men and women are fundamentally different and that it is this ‘difference’ that explains the continuing social and material differences between the sexes.…
@@ -2297,7 +2280,7 @@
 **作者**: O’Brien, Kate
 **摘要**: （暂无）
 
-### Social influences on corporate political donations in Britain1
+### Social influences on corporate political donations in Britain
 **年份**: 2004 | **DOI**: [10.1111/j.1468-4446.2004.00006.x](https://doi.org/10.1111/j.1468-4446.2004.00006.x)
 **作者**: Bond, Matthew
 **摘要**: AbstractIt is argued that institutional features of the British state create collective action problems for the mobilization of corporations as donors to the Conservative Party. Social factors are necessary for overcoming these problems.…
@@ -2327,7 +2310,7 @@
 **作者**: Wiles, Paul
 **摘要**: （暂无）
 
-### Talking about money: public participation and expert knowledge in the Euro referendum1
+### Talking about money: public participation and expert knowledge in the Euro referendum
 **年份**: 2004 | **DOI**: [10.1111/j.1468-4446.2004.00005.x](https://doi.org/10.1111/j.1468-4446.2004.00005.x)
 **作者**: Evans, Robert
 **摘要**: AbstractThis paper uses the proposed UK referendum on the single European currency as a means of investigating the effect of democratizing science on the scrutiny of conflicting expert advice.…
@@ -2337,12 +2320,12 @@
 **作者**: Robinson, Jennifer
 **摘要**: Amin, Ash and Thrift, Nigel 2002 Cambridge : 192 pp. £ 50.00 (hardback) £ 14.99 (paperback) Beall, Jo, Crankshaw, Owen and Parnell, Susan 2002 London : 200 pp. £ 60.00 (hardback) £ 19.99 (paperback) Bridge, Gary and Watson, Sophie (eds) 2002 Oxford : 600 pp.…
 
-### Socio‐historical paths of the male breadwinner model – an explanation of cross‐national differences1
+### Socio‐historical paths of the male breadwinner model – an explanation of cross‐national differences
 **年份**: 2004 | **DOI**: [10.1111/j.1468-4446.2004.00025.x](https://doi.org/10.1111/j.1468-4446.2004.00025.x)
 **作者**: Pfau‐Effinger, Birgit
 **摘要**: AbstractIt is often assumed that in the historical transformation to modern industrial society, the integration of women into the economy occurred everywhere as a three‐phase process: in pre‐modern societies, the extensive integration of women into societal production; then, their wide exclusion wit…
 
-### Signal crimes and signal disorders: notes on deviance as communicative action1
+### Signal crimes and signal disorders: notes on deviance as communicative action
 **年份**: 2004 | **DOI**: [10.1111/j.1468-4446.2004.00023.x](https://doi.org/10.1111/j.1468-4446.2004.00023.x)
 **作者**: Innes, Martin
 **摘要**: AbstractIn this paper a ‘signal crimes’ perspective is outlined in an effort to unpack the relationships between experiences of crime and disorder, and perceptions of criminogenic risk.…
@@ -2352,7 +2335,7 @@
 **作者**: Condry, Rachel
 **摘要**: （暂无）
 
-### Visions in monochrome: families, marriage and the individualization thesis1
+### Visions in monochrome: families, marriage and the individualization thesis
 **年份**: 2004 | **DOI**: [10.1111/j.1468-4446.2004.00034.x](https://doi.org/10.1111/j.1468-4446.2004.00034.x)
 **作者**: Smart, Carol; Shipman, Beccy
 **摘要**: AbstractThis paper takes issue with the way in which the individualization thesis – in which it is assumed that close relationships have become tenuous and fragile – has become so dominant in ‘new’ sociological theorizing about family life.…
@@ -2362,12 +2345,12 @@
 **作者**: Bridge, Gillian
 **摘要**: （暂无）
 
-### Sociology and political arithmetic: some principles of a new policy science1
+### Sociology and political arithmetic: some principles of a new policy science
 **年份**: 2004 | **DOI**: [10.1111/j.1468-4446.2004.00002.x](https://doi.org/10.1111/j.1468-4446.2004.00002.x)
 **作者**: Lauder, Hugh; Brown, Phillip; Halsey, A.H.
 **摘要**: AbstractThis paper advances the position that sociology needs to develop an approach to research which focuses on fundamental social problems. In doing so it shares many of the intellectual values and goals of political arithmetic while seeking to move methodologically beyond it.…
 
-### A unified middle class or two middle classes? A comparison of career strategies and intergenerational mobility strategies between teachers and managers in contemporary Hong Kong1
+### A unified middle class or two middle classes? A comparison of career strategies and intergenerational mobility strategies between teachers and managers in contemporary Hong Kong
 **年份**: 2004 | **DOI**: [10.1111/j.1468-4446.2004.00014.x](https://doi.org/10.1111/j.1468-4446.2004.00014.x)
 **作者**: Wong, Yi‐Lee
 **摘要**: AbstractA debate over whether the ‘service class’ is a unitary middle class or is divided between professionals and managers remains unsettled. This qualitative mobility study seeks to elucidate mobility processes of how professional and managerial groups secure their advantages throughout their wor…
@@ -2387,12 +2370,12 @@
 **作者**: MacInnes, John
 **摘要**: Robert W. Connell 2002 Cambridge and Oxford : . 184 pp. £ 45.00 (hardback) £ 12.99 (paperback) Mary Daly and Katherine Rake 2003 Cambridge and Oxford : . 212 pp. £ 50.00 (hardback) £ 17.99 (paperback) Mary, Evans 2003 Buckingham : 138 pp.…
 
-### Symbolic violence and the neighbourhood: the educational aspirations of 7–8 year old working‐class girls1
+### Symbolic violence and the neighbourhood: the educational aspirations of 7–8 year old working‐class girls
 **年份**: 2004 | **DOI**: [10.1111/j.1468-4446.2004.00035.x](https://doi.org/10.1111/j.1468-4446.2004.00035.x)
 **作者**: Connolly, Paul; Healy, Julie
 **摘要**: AbstractThis article focuses on the experiences of 7–8 year old working‐class girls in Belfast, Northern Ireland and their attitudes towards education. It shows how their emerging identities tend to emphasize relationships, marriage and motherhood at the expense of a concern with education and futur…
 
-### The retreat of multiculturalism in the liberal state: theory and policy1
+### The retreat of multiculturalism in the liberal state: theory and policy
 **年份**: 2004 | **DOI**: [10.1111/j.1468-4446.2004.00017.x](https://doi.org/10.1111/j.1468-4446.2004.00017.x)
 **作者**: Joppke, Christian
 **摘要**: AbstractThis article discusses a recent retreat of multiculturalism in the liberal state. This retreat has occurred both at the level of theory and policy. With the help of some recent liberal critiques of multiculturalism, the first part maps out some shortcomings of the notion of minority integrat…
@@ -2426,11 +2409,6 @@
 
 ### Book reviews
 **年份**: 2004 | **DOI**: [10.1111/j.1468-4446.2004.00020.x](https://doi.org/10.1111/j.1468-4446.2004.00020.x)
-**摘要**: （暂无）
-
-### Editorial foreword
-**年份**: 2004 | **DOI**: [10.1111/j.1468-4446.2004.00001.x](https://doi.org/10.1111/j.1468-4446.2004.00001.x)
-**作者**: Hutter, Bridget; McGovern, Patrick
 **摘要**: （暂无）
 
 ### Domestic equipment does not increase domestic work: a response to Bittman, Rice and Wajcman
@@ -2492,12 +2470,12 @@
 **作者**: McGhee, Derek
 **摘要**: AbstractThis paper examines two significant moments in sexual minority citizenship in England and Wales in relation to one of the Marshallian sets of rights, namely, civil or legal rights, focusing specifically on the Sex Offences legislation and policing practices.…
 
-### Making social science useful1
+### Making social science useful
 **年份**: 2004 | **DOI**: [10.1111/j.1468-4446.2004.00003.x](https://doi.org/10.1111/j.1468-4446.2004.00003.x)
 **作者**: Johnson, Paul
 **摘要**: （暂无）
 
-### Women's and men's careers in British sociology1
+### Women's and men's careers in British sociology
 **年份**: 2004 | **DOI**: [10.1111/j.1468-4446.2004.00015.x](https://doi.org/10.1111/j.1468-4446.2004.00015.x)
 **作者**: Platt, Jennifer
 **摘要**: AbstractThe career experience of men and women in British university sociology since 1950 is compared, using published data for the whole group and fresh data from a sample of departments.…
@@ -2516,11 +2494,6 @@
 **年份**: 2003 | **DOI**: [10.1111/j.1468-4446.2003.00317.x](https://doi.org/10.1111/j.1468-4446.2003.00317.x)
 **作者**: McRae, Susan
 **摘要**: ABSTRACTThis paper provides an empirical examination of women's work histories following a first birth, their sex‐role attitudes, and the relationship between attitudes and work history.…
-
-### Social capital and social exclusion in England and Wales (1972-1999)
-**年份**: 2003 | **DOI**: [10.1080/0007131032000143564](https://doi.org/10.1080/0007131032000143564)
-**作者**: Li, Yaojun
-**摘要**: Recent research on social capital has explored trends in membership in voluntary organizations. However, there is currently little robust evidence on such trends in the UK since the 1970s, nor is there any analysis of whether participation bridges social divisions or accentuates them.…
 
 ### Choice and constraints in mothers' employment careers: McRae replies to Hakim
 **年份**: 2003 | **DOI**: [10.1111/j.1468-4446.2003.00585.x](https://doi.org/10.1111/j.1468-4446.2003.00585.x)
@@ -2581,10 +2554,6 @@
 **作者**: Irwin, Sarah
 **摘要**: ABSTRACTThe paper explores the mutuality of values, claims and social relations in the process of social change. Values are not separable from social relations but are embedded in the shaping and reshaping of social difference and interdependence.…
 
-### Editorial Announcement
-**年份**: 2003 | **DOI**: [10.1080/0007131032000045860](https://doi.org/10.1080/0007131032000045860)
-**摘要**: （暂无）
-
 ### Book Reviews
 **年份**: 2003 | **DOI**: [10.1080/0007131032000080258](https://doi.org/10.1080/0007131032000080258)
 **摘要**: Books reviewed in this article: Ahmed, E., Harris, N., Braithwaite, J. and Braithwaite, V., Shame Management Through Reintegration Hammond, Phillip E., The Dynamics of Religious Organizations: The Extravasation of the Sacred and Other Essays Oswell, David, Television, Childhood and the Home: A Histo…
@@ -2644,7 +2613,7 @@
 **作者**: Allen, Chris
 **摘要**: ABSTRACTThis paper argues that social welfare research on joined‐up thinking is underpinned bytwo theses. The ‘systemic move’ thesis suggests that joined‐up thinking is needed to fill gaps in welfare service provision arising from a lack of inter‐organizational coordination.…
 
-### Social networks, travel and talk1
+### Social networks, travel and talk
 **年份**: 2003 | **DOI**: [10.1080/0007131032000080186](https://doi.org/10.1080/0007131032000080186)
 **作者**: Urry, John
 **摘要**: ABSTRACTThis paper considers the role that physical, corporeal travel plays in social life. There is a large and increasing scale of such travel. This increase has occurred simultaneously with the proliferation of communication devices that in some ways substitute for physical travel.…
@@ -2756,12 +2725,12 @@
 **作者**: Charles, Nickie; James, Emma
 **摘要**: ABSTRACTThis paper explores women's and men's work orientations in conditions of job insecurity, arguing that it is time to move beyond essentalist conceptions of work orientations and central life interests in order to understand the significance of paid work in people's lives.…
 
-### Reflections on the meritocracy debate in Britain: a response to Richard Breen and John Goldthorpe1
+### Reflections on the meritocracy debate in Britain: a response to Richard Breen and John Goldthorpe
 **年份**: 2002 | **DOI**: [10.1080/0007131022000021489](https://doi.org/10.1080/0007131022000021489)
 **作者**: Saunders, Peter
 **摘要**: ABSTRACTA paper by Breen and Goldthorpe recently claimed to have exposed ‘fatal flaws’ in my work on meritocracy in Britain. This paper responds to their criticisms. The results of their re‐analysis of the NCDS data set are shown to be consistent with my earlier findings and arguments.…
 
-### Positivism in sociological research: USA and UK (1966–1990) 1
+### Positivism in sociological research: USA and UK (1966–1990)
 **年份**: 2002 | **DOI**: [10.1080/0007131022000021524](https://doi.org/10.1080/0007131022000021524)
 **作者**: Gartrell, C. David; Gartrell, John W.
 **摘要**: ABSTRACTPositivism has been declared dead in sociological theory circles, yet questions remain as to its viability among researchers. The authors present diagnostic evidence about positivism in sociological practice through a content analysis of journal articles published in the late 1960s and the l…
@@ -2776,7 +2745,7 @@
 **作者**: Brynin, Malcolm
 **摘要**: ABSTRACTThe expansion of higher education is often viewed as reflecting increased demand for skills, whether related to technological change or the growing complexity of the economy. It is also linked to widening pay differentials between the poorly and highly educated.…
 
-### ‘Sites’ of resistance: alternative websites and state‐society relations 1
+### ‘Sites’ of resistance: alternative websites and state‐society relations
 **年份**: 2002 | **DOI**: [10.1080/00071310120109366](https://doi.org/10.1080/00071310120109366)
 **作者**: Ho, K. C.; Baber, Zaheer; Khondker, Habibul
 **摘要**: ABSTRACTMuch attention has been focused on Singapore's attempt to use information technology to build a knowledge‐based economy. This paper examines the implications of the unintended consequences of the Internet in the restructuring of state and society relations in Singapore.We use the data on Sin…
@@ -2844,17 +2813,12 @@
 **作者**: Bennett, Andy
 **摘要**: ABSTRACTIn this article I argue the need for critical evaluation of qualitative research methodology in sociological studies of the relationship between youth culture and popular music.…
 
-### Editorial Introduction
-**年份**: 2002 | **DOI**: [10.1080/00071310220133278](https://doi.org/10.1080/00071310220133278)
-**作者**: Heath, Christian; Button, Graham
-**摘要**: （暂无）
-
 ### Culture, the ‘sick role’ and the consumption of health
 **年份**: 2002 | **DOI**: [10.1080/0007131022000021515](https://doi.org/10.1080/0007131022000021515)
 **作者**: Shilling, Chris
 **摘要**: ABSTRACTThis paper revisits Parsons's conception of the ‘sick role’ and examines the relevance of his writings on the cultural understanding of sickness to the consumption of health in the contemporary era.…
 
-### Global anti‐corporate struggle: a preliminary analysis 1
+### Global anti‐corporate struggle: a preliminary analysis
 **年份**: 2002 | **DOI**: [10.1080/0007131022000021542](https://doi.org/10.1080/0007131022000021542)
 **作者**: Crossley, Nick
 **摘要**: ABSTRACTThis paper offers a preliminary analysis of the recent wave of anti‐corporate protest that has swept across numerous countries throughout the world. In the first part of the paper the social structure of this phenomenon is examined.…
@@ -2864,7 +2828,7 @@
 **作者**: Breen, Richard; Goldthorpe, John H.
 **摘要**: （暂无）
 
-### Organizational communication and the symbolic construction of police murder investigations 1
+### Organizational communication and the symbolic construction of police murder investigations
 **年份**: 2002 | **DOI**: [10.1080/00071310120109339](https://doi.org/10.1080/00071310120109339)
 **作者**: Innes, Martin
 **摘要**: ABSTRACTThis paper draws upon a range of empirical data to consider the ways in which police murder investigations are symbolically constructed, both within and outside of the police organization.…
@@ -2879,7 +2843,7 @@
 **作者**: Chernilo, Daniel
 **摘要**: ABSTRACTThe problem of the differentiation of societies is at the core of the sociological imagination about the rise of modernity. In postwar sociology, T. Parsons developed the theory of generalized symbolic media in the mid‐1960s to tackle, theoretically and historically, the issue of differentia…
 
-### Regulating ‘unruly’ bodies: work tasks, conflict and violence in Britain's night‐time economy1
+### Regulating ‘unruly’ bodies: work tasks, conflict and violence in Britain's night‐time economy
 **年份**: 2002 | **DOI**: [10.1080/0007131022000000572](https://doi.org/10.1080/0007131022000000572)
 **作者**: Monaghan, Lee F.
 **摘要**: ABSTRACTSecurity work in urban licensed premises is a risky occupation in Britain's fast expanding liminal night‐time economy. Sociologically, little is known about this masculinist work, including those embodied strategies used by doorstaff or ‘bouncers’ to regulate ‘unruly’ bodies in and around co…
@@ -2909,7 +2873,7 @@
 **作者**: Adkins, Lisa
 **摘要**: ABSTRACTFrom the mid 1980s onwards HIV/AIDS became a new subject of work reform, with a range of experts producing new knowledges on work and the worker in regard to HIV/AIDS and workplace organizations putting in place workplace HIV/AIDS policies and programmes.…
 
-### Accountability in action?: the case of a database purchasing decision 1
+### Accountability in action?: the case of a database purchasing decision
 **年份**: 2002 | **DOI**: [10.1080/00071310220133331](https://doi.org/10.1080/00071310220133331)
 **作者**: Neyland, Daniel; Woolgar, Steve
 **摘要**: ABSTRACTThe increasing prevalence of audit in university settings has raised concerns about the potentially adverse effects of invasive measures of performance upon the conduct of research and generation of knowledge.…
@@ -3090,7 +3054,7 @@
 **作者**: Barkhatova, Nonna; McMylor, Peter; Mellor, Rosemary
 **摘要**: ABSTRACTThe paper seeks to explore via a series of interview‐based case studies aspects of the emergence of an entrepreneurial middle‐class in Russia. The paper notes the origins of those studied in the professional or highly skilled workers in the former Soviet Union.…
 
-### Sociology and the public understanding of science: from rationalization to rhetoric1
+### Sociology and the public understanding of science: from rationalization to rhetoric
 **年份**: 2001 | **DOI**: [10.1080/00071310020023000](https://doi.org/10.1080/00071310020023000)
 **作者**: Locke, Simon
 **摘要**: ABSTRACTThis paper contributes to the reappraisal of sociological theories of modernity inspired by the sociology of scientific knowledge (SSK). As much as these theories rely on received ideas about the nature of science that SSK has called into doubt, so do they rely on ideas about the public unde…
@@ -3133,12 +3097,12 @@
 **作者**: Denscombe, Martyn
 **摘要**: ABSTRACTThis paper argues that ‘uncertain identities’ are a distinct contributing factor to the residual and intractable level of smoking among young people. Further, it argues that the significance of this factor is increased by the specific social/historical context of late modernity.…
 
-### Analysing patterns of religious participation in post‐communist Eastern Europe1
+### Analysing patterns of religious participation in post‐communist Eastern Europe
 **年份**: 2001 | **DOI**: [10.1080/00071310120044962](https://doi.org/10.1080/00071310120044962)
 **作者**: Need, Ariana; Evans, Geoffrey
 **摘要**: ABSTRACTIt is generally thought that processes of modernization generic to industrialized societies have resulted in a process of secularization with respect to conventional religious participation and observance in most Western countries.…
 
-### The myth of the best argument: power, deliberation and reason1
+### The myth of the best argument: power, deliberation and reason
 **年份**: 2001 | **DOI**: [10.1080/00071310020023037](https://doi.org/10.1080/00071310020023037)
 **作者**: Pellizzoni, Luigi
 **摘要**: ABSTRACTPower in communication takes two main forms. As ‘external’ power, it consists in the ability to acknowledge or disregard a speaker or a discourse. As ‘internal’ power, it is the ability of an argument to eliminate other arguments by demonstrating its superiority.…
@@ -3191,7 +3155,7 @@
 **作者**: Yaish, Meir
 **摘要**: （暂无）
 
-### Critical realism and the dialectic1
+### Critical realism and the dialectic
 **年份**: 2001 | **DOI**: [10.1080/00071310120084526](https://doi.org/10.1080/00071310120084526)
 **作者**: Roberts, John Michael
 **摘要**: ABSTRACTA prominent strand within both sociological and social theory has been concerned to develop a ‘systems approach’ with which to explore social life. One of the most original contributions to a systems approach has arisen within critical realism.…
@@ -3201,7 +3165,7 @@
 **作者**: Barkhatova, Peter McMylor, Rosemary, Nonna
 **摘要**: （暂无）
 
-### Industrialization, class structure, and social mobility in postwar Japan 1
+### Industrialization, class structure, and social mobility in postwar Japan
 **年份**: 2001 | **DOI**: [10.1080/00071310120084481](https://doi.org/10.1080/00071310120084481)
 **作者**: Ishida, Hiroshi
 **摘要**: ABSTRACTThis study examines intergenerational class mobility in Japan using cross‐national comparisons with Western nations and cross‐temporal comparisons of five national surveys conducted in postwar Japan.…
@@ -3239,7 +3203,7 @@
 **作者**: Castells, Manuel
 **摘要**: （暂无）
 
-### Women and class structure in contemporary Japan1
+### Women and class structure in contemporary Japan
 **年份**: 2001 | **DOI**: [10.1080/00071310120071115](https://doi.org/10.1080/00071310120071115)
 **作者**: Shirahase, Sawako
 **摘要**: ABSTRACTThe main purpose of this study is to examine how to determine the class position of women, especially married women, in Japan. This study examines three different approaches to conceptualizing women's position in the class structure: the conventional approach, the individual approach, and th…
@@ -3259,7 +3223,7 @@
 **作者**: Anthias, Floya
 **摘要**: Within most approaches to stratification gender and ethnicity are seen to pertain primarily to the symbolic or cultural realms, whilst class is regarded as pertaining to material inequality.…
 
-### Mobile sociology1
+### Mobile sociology
 **年份**: 2000 | **DOI**: [10.1111/j.1468-4446.2000.00185.x](https://doi.org/10.1111/j.1468-4446.2000.00185.x)
 **作者**: Urry, John
 **摘要**: ABSTRACTThis article seeks to develop a manifesto for a sociology concerned with the diverse mobilities of peoples, objects, images, information, and wastes; and of the complex interdependencies between, and social consequences of, such diverse mobilities.…
@@ -3353,7 +3317,7 @@
 **作者**: Lewis, Mary Daly, Jane
 **摘要**: （暂无）
 
-### ‘You'll never walk alone’: CCTV surveillance, order and neo‐liberal rule in Liverpool city centre1
+### ‘You'll never walk alone’: CCTV surveillance, order and neo‐liberal rule in Liverpool city centre
 **年份**: 2000 | **DOI**: [10.1080/00071310020015299](https://doi.org/10.1080/00071310020015299)
 **作者**: Coleman, Roy; Sim, Joe
 **摘要**: ABSTRACTThis paper is concerned to chart the establishment and uses of CCTV within the location of Liverpool city centre. In doing this the paper seeks to contextualize CCTV within contemporary ‘partnership’ approaches to regeneration which are reshaping the material and discursive form of the city.…
@@ -3403,7 +3367,7 @@
 **作者**: Swift, Adam
 **摘要**: ABSTRACTDistinguishing between an explanatory and a normative interest in social stratification, this paper considers the relation between class analysis and the value of equality. Starting from the familiar distinction between (in) equality of position and (in) equality of opportunity, and noting t…
 
-### Receiving shadows: governance and liminality in the night‐time economy1
+### Receiving shadows: governance and liminality in the night‐time economy
 **年份**: 2000 | **DOI**: [10.1080/00071310020015334](https://doi.org/10.1080/00071310020015334)
 **作者**: Hobbs, Dick; Lister, Stuart; Hadfield, Philip 等5人
 **摘要**: ABSTRACTThis paper focuses upon the emergence of the night‐time economy both materially and culturally as a powerful manifestation of post‐industrial society. This emergence features two key processes: firstly a shift in economic development from the industrial to the post‐industrial; secondly a sig…
@@ -3462,7 +3426,7 @@
 **作者**: Wallerstein, Immanuel
 **摘要**: ABSTRACTAnalysis is provided of the roots of sociology and its links with historical optimism. Particular focus is placed by such a sociology upon the origins of modernity and problems of urban disorder. Sociology's golden age was in the immediate postwar period.…
 
-### Materials for an exploratory theory of the network society1
+### Materials for an exploratory theory of the network society
 **年份**: 2000 | **DOI**: [10.1111/j.1468-4446.2000.00005.x](https://doi.org/10.1111/j.1468-4446.2000.00005.x)
 **作者**: Castells, Manuel
 **摘要**: ABSTRACTThis article aims at proposing some elements for a grounded theory of the network society. The network society is the social structure characteristic of the Information Age, as tentatively identified by empirical, cross‐cultural investigation.…

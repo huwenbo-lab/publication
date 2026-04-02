@@ -1,7 +1,7 @@
 # Work, Employment and Society
 ## 2010–2019 年文章（含摘要）
 
-共 **961** 篇
+共 **956** 篇
 
 ---
 
@@ -823,10 +823,6 @@
 **作者**: Stahl, Juliane Frederike; Schober, Pia Sophia
 **摘要**: This study examines how educational differences in work-care patterns among mothers with young children in Germany changed between 1997 and 2013. Since the mid-2000s, Germany has undergone a paradigm shift in parental leave and childcare policies.…
 
-### Corrigendum
-**年份**: 2017 | **DOI**: [10.1177/0950017017700053](https://doi.org/10.1177/0950017017700053)
-**摘要**: Work, employment and society 2016; 30(5): 783–801. Stephen Wood, Karen Niven and Johan Braeken Managerial abuse and the process of absence among mental health staff 10.1177/0950017015613755
-
 ### Pointless Diversity Training: Unconscious Bias, New Racism and Agency
 **年份**: 2017 | **DOI**: [10.1177/0950017017719841](https://doi.org/10.1177/0950017017719841)
 **作者**: Noon, Mike
@@ -901,10 +897,6 @@
 **年份**: 2017 | **DOI**: [10.1177/0950017017711141](https://doi.org/10.1177/0950017017711141)
 **作者**: Darr, Asaf
 **摘要**: What are the workplace manifestations of ongoing ethno-national conflict? How do co-workers on rival sides in war-torn countries cope with these manifestations? Interviews with nurses, nursing assistants and physicians in a Palestinian-Arab hospital and in a Jewish retirement home reveal how the bro…
-
-### Corrigendum
-**年份**: 2017 | **DOI**: [10.1177/0950017017732949](https://doi.org/10.1177/0950017017732949)
-**摘要**: Work, employment and society 2017; 31(4): 586–604. Suzan Lewis, Deirdre Anderson, Clare Lyonette, Nicola Payne and Stephen Wood Public sector austerity cuts in Britain and the changing discourse of work–life balance 10.1177/0950017016638994 The Editors would like to note an update to the author biog…
 
 ### Flexible men and Successful Women: The Effects of Flexible Working Hours on German Couples’ Wages
 **年份**: 2017 | **DOI**: [10.1177/0950017017708161](https://doi.org/10.1177/0950017017708161)
@@ -1173,10 +1165,6 @@
 ### Book review: Christina Garsten and Anette Nyqvist (eds), Organisational Anthropology: Doing Ethnography in and among Complex Organisations
 **年份**: 2016 | **DOI**: [10.1177/0950017015618134](https://doi.org/10.1177/0950017015618134)
 **作者**: Whittaker, Xanthe
-**摘要**: （暂无）
-
-### Corrigendum
-**年份**: 2016 | **DOI**: [10.1177/0950017016679920](https://doi.org/10.1177/0950017016679920)
 **摘要**: （暂无）
 
 ### Gender, availability and dual emancipation in the Swedish ICT sector
@@ -2536,7 +2524,7 @@
 **年份**: 2014 | **DOI**: [10.1177/0950017014554600](https://doi.org/10.1177/0950017014554600)
 **摘要**: （暂无）
 
-### Employer occupation of regulatory space of the Employee Information and Consultation (I&amp;C) Directive in liberal market economies
+### Employer occupation of regulatory space of the Employee Information and Consultation (I&C) Directive in liberal market economies
 **年份**: 2014 | **DOI**: [10.1177/0950017012466688](https://doi.org/10.1177/0950017012466688)
 **作者**: Dundon, Tony; Dobbins, Tony; Cullinane, Niall 等5人
 **摘要**: This article shows how both employers and the state have influenced macro-level processes and structures concerning the content and transposition of the European Union (EU) Employee Information and Consultation (I&C) Directive.…
@@ -4628,10 +4616,6 @@
 **作者**: Gould, Anthony M
 **摘要**: Within much critical research literature, fast-food jobs are presented as offering few employee advantages. Indeed the disparaging term ‘McJob’ has come to describe low-skill, low-pay, dead-end, routine service industry employment in general.…
 
-### Books Received
-**年份**: 2010 | **DOI**: [10.1177/0950017010361412](https://doi.org/10.1177/0950017010361412)
-**摘要**: （暂无）
-
 ### Unemployment among immigrants in European labour markets: an analysis of origin and destination effects
 **年份**: 2010 | **DOI**: [10.1177/0950017010362153](https://doi.org/10.1177/0950017010362153)
 **作者**: Fleischmann, Fenella; Dronkers, Jaap
@@ -4671,10 +4655,6 @@
 **年份**: 2010 | **DOI**: [10.1177/0950017010362142](https://doi.org/10.1177/0950017010362142)
 **作者**: Buchmann, Marlis C.; Kriesi, Irene; Sacchi, Stefan
 **摘要**: With the rise in women’s part-time work in many Western industrialised countries, a better understanding of women’s employment decisions necessitates the distinction between different employment levels and varying structural opportunities that facilitate or hinder female employment.…
-
-### Books Received
-**年份**: 2010 | **DOI**: [10.1177/0950017010362849](https://doi.org/10.1177/0950017010362849)
-**摘要**: （暂无）
 
 ### Book Review: Hendrik Meyer-Ohle Japanese Workplaces in Transition: Employee Perceptions Basingstoke: Palgrave MacMillan, 2009, £65.00 hbk, (ISBN: 9780230229389), x + 218 pp
 **年份**: 2010 | **DOI**: [10.1177/09500170100240041303](https://doi.org/10.1177/09500170100240041303)

@@ -1,7 +1,7 @@
 # Population and Development Review
 ## 2020–2026 年文章（含摘要）
 
-共 **269** 篇
+共 **268** 篇
 
 ---
 
@@ -1069,11 +1069,6 @@
 **年份**: 2021 | **DOI**: [10.1111/padr.12389](https://doi.org/10.1111/padr.12389)
 **作者**: Bloom, David E.; Khoury, Alex; Kufenko, Vadim 等4人
 **摘要**: Education, general health, and reproductive health are key indicators of human development. Investments in these domains can also promote economic growth. This paper argues for human development-related investments based on (1) a theoretical economic growth model with poverty traps, (2) a literature…
-
-### The Contribution of Diffusion to the Fertility Transition in Belgium (1887-1934)
-**年份**: 2021 | **DOI**: [10.1111/padr.12395](https://doi.org/10.1111/padr.12395)
-**作者**: Costa, Rafael; Bocquier, Philippe; Eggerickx, Thierry
-**摘要**: The aim of this study is to investigate whether diffusion contributed to the geography and the speed of the fertility transition. To this end, we assembled a new and unique dataset from historical sources in Belgium containing yearly information on fertility at the municipality level and a range of …
 
 ### Is Migration a Learned Behavior? Understanding the Impact of Past Migration on Future Migration
 **年份**: 2021 | **DOI**: [10.1111/padr.12387](https://doi.org/10.1111/padr.12387)

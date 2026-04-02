@@ -1,7 +1,7 @@
 # European Journal of Population
 ## 2010–2019 年文章（含摘要）
 
-共 **332** 篇
+共 **329** 篇
 
 ---
 
@@ -550,11 +550,6 @@
 **作者**: Kraus, Elisabeth K.; Castro-Martín, Teresa
 **摘要**: （暂无）
 
-### Erratum to: Geographical Distances Between Separated Parents: A Longitudinal Analysis
-**年份**: 2017 | **DOI**: [10.1007/s10680-017-9442-4](https://doi.org/10.1007/s10680-017-9442-4)
-**作者**: Thomas, Michael J.; Mulder, Clara H.; Cooke, Thomas J.
-**摘要**: （暂无）
-
 ### Constrained Mortality Extrapolation to Old Age: An Empirical Assessment
 **年份**: 2017 | **DOI**: [10.1007/s10680-017-9434-4](https://doi.org/10.1007/s10680-017-9434-4)
 **作者**: Ediev, Dalkhat M.
@@ -913,7 +908,7 @@
 **作者**: Mulder, Clara H.
 **摘要**: （暂无）
 
-### Brigit Glorius, Izabela Grabowska-Lusińska &amp; Aimee Kuvik (eds.): Mobility in Transition. Migration Patterns After EU Enlargement
+### Brigit Glorius, Izabela Grabowska-Lusińska & Aimee Kuvik (eds.): Mobility in Transition. Migration Patterns After EU Enlargement
 **年份**: 2015 | **DOI**: [10.1007/s10680-015-9352-2](https://doi.org/10.1007/s10680-015-9352-2)
 **作者**: Strzelecki, Paweł
 **摘要**: The EU enlargement in the beginning of twenty-first century can be seen by demographers as a huge natural experiment regarding migrations. The book ''Mobility in transition. Migration patterns after EU enlargement'' describes some aspects of massive post-accession migration, but proposes also a refl…
@@ -1374,11 +1369,6 @@
 **作者**: Feng, Zhiqiang; Boyle, Paul; van Ham, Maarten 等4人
 **摘要**: （暂无）
 
-### Editorial
-**年份**: 2012 | **DOI**: [10.1007/s10680-012-9276-z](https://doi.org/10.1007/s10680-012-9276-z)
-**作者**: Gourbin, Catherine
-**摘要**: （暂无）
-
 ### Secularization, Union Formation Practices, and Marital Stability: Evidence from Italy
 **年份**: 2012 | **DOI**: [10.1007/s10680-012-9255-4](https://doi.org/10.1007/s10680-012-9255-4)
 **作者**: Impicciatore, Roberto; Billari, Francesco C.
@@ -1567,11 +1557,6 @@
 ### Through Civil War, Food Crisis and Drought: Trends in Fertility and Nuptiality in Post-Soviet Tajikistan
 **年份**: 2010 | **DOI**: [10.1007/s10680-010-9206-x](https://doi.org/10.1007/s10680-010-9206-x)
 **作者**: Clifford, David; Falkingham, Jane; Hinde, Andrew
-**摘要**: （暂无）
-
-### Editorial
-**年份**: 2010 | **DOI**: [10.1007/s10680-010-9207-9](https://doi.org/10.1007/s10680-010-9207-9)
-**作者**: Kulu, Hill
 **摘要**: （暂无）
 
 ### Low Fertility and the Housing Market: Evidence from Swedish Regional Data

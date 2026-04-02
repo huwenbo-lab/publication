@@ -1,6 +1,6 @@
 # Research in Social Stratification and Mobility — 文章标题索引
 
-共 **855** 篇 | 年份范围：2001–2025
+共 **846** 篇 | 年份范围：2001–2025
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -726,7 +726,6 @@
 - The McMansionization of America? Income stratification and the standard of living in housing, 1960–2000 · [DOI](https://doi.org/10.1016/j.rssm.2009.09.003)
 - The categorical generation of organizational inequality: A comparative test of Tilly's durable inequality · [DOI](https://doi.org/10.1016/j.rssm.2009.04.004)
 - “This Place Makes me Proud to be a Woman”: Theoretical explanations for success in entrepreneurship education for low-income women · [DOI](https://doi.org/10.1016/j.rssm.2008.10.003)
-- Call for Papers · [DOI](https://doi.org/10.1016/j.rssm.2009.07.001)
 - Black–white differences in social mobility in the past 30 years: A latent-class regression analysis · [DOI](https://doi.org/10.1016/j.rssm.2009.01.003)
 - Enemies of the state? Testing three models of anti-immigrant sentiment · [DOI](https://doi.org/10.1016/j.rssm.2009.10.002)
 - Family and school capital explaining regional variation in math and reading achievement · [DOI](https://doi.org/10.1016/j.rssm.2009.04.003)
@@ -804,7 +803,6 @@
 - Fall back or spring forward? · [DOI](https://doi.org/10.1016/j.rssm.2005.07.001)
 - How meritocratic is the United States? · [DOI](https://doi.org/10.1016/j.rssm.2005.02.003)
 - Class in the United States: Not only alive but reproducing · [DOI](https://doi.org/10.1016/j.rssm.2004.11.001)
-- Editorial Board · [DOI](https://doi.org/10.1016/s0276-5624(06)00042-4)
 - Structural theory and relative poverty in rich Western democracies, 1969–2000 · [DOI](https://doi.org/10.1016/j.rssm.2005.02.004)
 - Racial differences in household wealth: Beyond Black and White · [DOI](https://doi.org/10.1016/j.rssm.2005.06.001)
 - The effects of job displacement on job quality: Findings from the Wisconsin Longitudinal Study · [DOI](https://doi.org/10.1016/j.rssm.2006.03.001)
@@ -822,7 +820,6 @@
 - Welfare states, family inequality, and equality of opportunity · [DOI](https://doi.org/10.1016/j.rssm.2006.09.001)
 - Work and pay in flexible and regulated labor markets: A generalized perspective on institutional evolution and inequality trends in Europe and the U.S. · [DOI](https://doi.org/10.1016/j.rssm.2006.04.001)
 - Bringing the state in: A commentary on welfare states and social inequality · [DOI](https://doi.org/10.1016/j.rssm.2006.10.003)
-- Editorial Board · [DOI](https://doi.org/10.1016/s0276-5624(06)00032-1)
 - The rise in involuntary part-time employment in Israel · [DOI](https://doi.org/10.1016/j.rssm.2005.02.002)
 
 ## 2005
@@ -839,7 +836,6 @@
 - Perceived Image and Utility of Collective Action Organizations Among U.S. Physicians · [DOI](https://doi.org/10.1016/s0276-5624(05)23009-3)
 - Educational Assortative Mating in South Korea: Trends 1930–1998 · [DOI](https://doi.org/10.1016/s0276-5624(05)23004-4)
 - Public Attitudes to Economic Policy in East and West: Efficiency, Subsidies and Public Ownership · [DOI](https://doi.org/10.1016/s0276-5624(05)23008-1)
-- Editorial Board · [DOI](https://doi.org/10.1016/s0276-5624(05)23014-7)
 - List of Contributors · [DOI](https://doi.org/10.1016/s0276-5624(05)23016-0)
 - Class and the Educational Attainment of Siblings: An Explanatory Model of Social Mobility · [DOI](https://doi.org/10.1016/s0276-5624(05)23005-6)
 - Introduction · [DOI](https://doi.org/10.1016/s0276-5624(05)23013-5)
@@ -848,7 +844,6 @@
 
 - SOME DEMOGRAPHIC ASPECTS OF RURALITY · [DOI](https://doi.org/10.1016/s0276-5624(04)22003-0)
 - SCHOOL EFFECTS AND SØRENSEN’S THEORIES OF LEARNING OPPORTUNITIES AND ACHIEVEMENT · [DOI](https://doi.org/10.1016/s0276-5624(04)21006-x)
-- EDITORIAL BOARD · [DOI](https://doi.org/10.1016/s0276-5624(04)22016-9)
 - ASSIMILATION IN AMERICAN SOCIETY: OCCUPATIONAL ACHIEVEMENT AND EARNINGS FOR ETHNIC MINORITIES IN THE UNITED STATES, 1970 TO 1990 · [DOI](https://doi.org/10.1016/s0276-5624(04)22004-2)
 - SCHOOLING AND ACADEMIC ACHIEVEMENT IN TIME AND PLACE · [DOI](https://doi.org/10.1016/s0276-5624(04)21004-6)
 - Appendix B · [DOI](https://doi.org/10.1016/s0276-5624(04)21017-4)
@@ -886,7 +881,6 @@
 - INTRODUCTION · [DOI](https://doi.org/10.1016/s0276-5624(03)20014-7)
 - CHANGE IN PART-TIME WORK ACROSS OCCUPATIONS, 1970–1990 · [DOI](https://doi.org/10.1016/s0276-5624(03)20003-2)
 - THE POWER OF PROPERTY IN COMPARATIVE PERSPECTIVE · [DOI](https://doi.org/10.1016/s0276-5624(03)20009-3)
-- EDITORIAL BOARD · [DOI](https://doi.org/10.1016/s0276-5624(03)20012-3)
 - Table of Contents · [DOI](https://doi.org/10.1016/s0276-5624(03)20011-1)
 - LABOR MARKET STRUCTURE AND RE-EMPLOYMENT RATES: UNEMPLOYMENT DYNAMICS IN WEST GERMANY AND THE UNITED STATES · [DOI](https://doi.org/10.1016/s0276-5624(03)20004-4)
 - AS WE AGE: A REVIEW OF THE WISCONSIN LONGITUDINAL STUDY, 1957–2001 · [DOI](https://doi.org/10.1016/s0276-5624(03)20001-9)
@@ -901,7 +895,6 @@
 ## 2002
 
 - Birth of a market economy: Hungarian agriculture after socialism · [DOI](https://doi.org/10.1016/s0276-5624(02)80038-5)
-- Editorial Board · [DOI](https://doi.org/10.1016/s0276-5624(02)80032-4)
 - Occupational sex segregation in state socialist and market economies: Levels, patterns, and change in East and West Germany, 1980s and 1998 · [DOI](https://doi.org/10.1016/s0276-5624(02)80043-9)
 - From cadre managers to private entrepreneurs: Entry into family business in rural China · [DOI](https://doi.org/10.1016/s0276-5624(02)80045-2)
 - Occupational attainment in Eastern Europe under socialism · [DOI](https://doi.org/10.1016/s0276-5624(02)80042-7)
@@ -922,12 +915,10 @@
 - Support for redistributive policies among the African American middle class: Race and class effects · [DOI](https://doi.org/10.1016/s0276-5624(01)80024-x)
 - The movement of physicians between specialties · [DOI](https://doi.org/10.1016/s0276-5624(01)80023-8)
 - Mass migration and labor market incorporation: Soviet immigrants in Israel · [DOI](https://doi.org/10.1016/s0276-5624(01)80028-7)
-- Call for papers · [DOI](https://doi.org/10.1016/s0276-5624(01)80019-6)
 - List of contributors · [DOI](https://doi.org/10.1016/s0276-5624(01)80017-2)
 - Inequality in america: The case for post-industrial capitalism · [DOI](https://doi.org/10.1016/s0276-5624(01)80022-6)
 - The industrial context of occupational mobility: Change in structure · [DOI](https://doi.org/10.1016/s0276-5624(01)80030-5)
 - Strategies of economic endurance: Israeli Palestinians in the ethnic economy and the public sector · [DOI](https://doi.org/10.1016/s0276-5624(01)80027-5)
-- Editorial Board · [DOI](https://doi.org/10.1016/s0276-5624(01)80016-0)
 - Intergenerational mobility of class and occupation in modern England: Analysis of a four-way mobility table · [DOI](https://doi.org/10.1016/s0276-5624(01)80029-9)
 - Symbolic boundaries and the new division of labor: Engineers, workers and the restructuring of factory life · [DOI](https://doi.org/10.1016/s0276-5624(01)80021-4)
 - Redistribution under state socialism: A USSR and PRC comparison · [DOI](https://doi.org/10.1016/s0276-5624(01)80026-3)

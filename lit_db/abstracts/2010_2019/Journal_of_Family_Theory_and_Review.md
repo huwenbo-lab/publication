@@ -1,7 +1,7 @@
 # Journal of Family Theory & Review
 ## 2010–2019 年文章（含摘要）
 
-共 **470** 篇
+共 **465** 篇
 
 ---
 
@@ -70,7 +70,7 @@
 **作者**: Rose, Hilary A.
 **摘要**: （暂无）
 
-### Contemporary Perspectives on Ageism. Liat Ayalon &amp; Clemens Tesch‐Römer (Eds.). 2018. Cham, Switzerland: Springer. ISBN 978‐3‐319‐73819‐2. $59.99. Hardcover.
+### Contemporary Perspectives on Ageism. Liat Ayalon & Clemens Tesch‐Römer (Eds.). 2018. Cham, Switzerland: Springer. ISBN 978‐3‐319‐73819‐2. $59.99. Hardcover.
 **年份**: 2019 | **DOI**: [10.1111/jftr.12349](https://doi.org/10.1111/jftr.12349)
 **作者**: Lagacé, Martine; Lennox‐Terrion, Jenepher
 **摘要**: （暂无）
@@ -142,10 +142,6 @@
 ### The Color of Money: Black Banks and the Racial Wealth Gap
 **年份**: 2019 | **DOI**: [10.1111/jftr.12327](https://doi.org/10.1111/jftr.12327)
 **作者**: James, Anthony G.
-**摘要**: （暂无）
-
-### Corrigendum
-**年份**: 2019 | **DOI**: [10.1111/jftr.12317](https://doi.org/10.1111/jftr.12317)
 **摘要**: （暂无）
 
 ### Issue Information
@@ -637,7 +633,7 @@
 **作者**: Myers‐Bowman, Karen; Newsom, Kimmery
 **摘要**: （暂无）
 
-### Encore Adulthood: Boomers on the Edge of Risk, Renewal, &amp; Purpose
+### Encore Adulthood: Boomers on the Edge of Risk, Renewal, & Purpose
 **年份**: 2017 | **DOI**: [10.1111/jftr.12196](https://doi.org/10.1111/jftr.12196)
 **作者**: Sweet, Stephen
 **摘要**: （暂无）
@@ -866,7 +862,7 @@
 **作者**: Cole, Donald L.
 **摘要**: （暂无）
 
-### Special Reviewers for Volume 9
+### Special Reviewers for Volume
 **年份**: 2017 | **DOI**: [10.1111/jftr.12236](https://doi.org/10.1111/jftr.12236)
 **摘要**: （暂无）
 
@@ -935,16 +931,12 @@
 **作者**: Crossman, Kimberly A.
 **摘要**: （暂无）
 
-### Erratum
-**年份**: 2016 | **DOI**: [10.1111/jftr.12122](https://doi.org/10.1111/jftr.12122)
-**摘要**: （暂无）
-
 ### Ambiguous Loss and Emotional Recovery After Traumatic Brain Injury
 **年份**: 2016 | **DOI**: [10.1111/jftr.12150](https://doi.org/10.1111/jftr.12150)
 **作者**: Kreutzer, Jeffrey S.; Mills, Ana; Marwitz, Jennifer H.
 **摘要**: AbstractTraumatic brain injury (TBI) is highly prevalent, with many survivors experiencing long‐term disability as a consequence of cognitive impairments, adverse personality changes, and emotional and communication difficulties.…
 
-### The Role of Family Therapy in Journal of Family Theory &amp; Review
+### The Role of Family Therapy in Journal of Family Theory & Review
 **年份**: 2016 | **DOI**: [10.1111/jftr.12155](https://doi.org/10.1111/jftr.12155)
 **作者**: Stith, Sandra M.
 **摘要**: （暂无）
@@ -1178,7 +1170,7 @@
 **年份**: 2016 | **DOI**: [10.1111/jftr.12097](https://doi.org/10.1111/jftr.12097)
 **摘要**: （暂无）
 
-### Special Reviewers for Volume 8
+### Special Reviewers for Volume
 **年份**: 2016 | **DOI**: [10.1111/jftr.12174](https://doi.org/10.1111/jftr.12174)
 **摘要**: （暂无）
 
@@ -1769,10 +1761,6 @@
 **作者**: Hurt, Tera R.
 **摘要**: （暂无）
 
-### INDEX TO VOLUME 4, 2012 Cumulative Table of Contents
-**年份**: 2012 | **DOI**: [10.1111/j.1756-2589.2012.volcontents_1.x](https://doi.org/10.1111/j.1756-2589.2012.volcontents_1.x)
-**摘要**: （暂无）
-
 ### Imprisoned Fathers and Their Family Relationships: A 40‐Year Review From a Multi‐Theory View
 **年份**: 2012 | **DOI**: [10.1111/j.1756-2589.2011.00111.x](https://doi.org/10.1111/j.1756-2589.2011.00111.x)
 **作者**: Justin Dyer, W.; Pleck, Joseph H.; McBride, Brent A.
@@ -1813,7 +1801,7 @@
 **作者**: Rauscher, Emily A.; Fine, Mark A.
 **摘要**: The number of families created through the use of assisted reproductive technology (ART) has grown throughout the past decade. Families created through ART face many unique communication challenges both within the immediate family and with others outside the family, such as issues with privacy and d…
 
-### Debating Emerging Adulthood: Stage or Process? ‐ by Jeffrey Jensen Arnett, Marion Kloep, Leo B. Hendry, &amp; Jennifer L. Tanner
+### Debating Emerging Adulthood: Stage or Process? ‐ by Jeffrey Jensen Arnett, Marion Kloep, Leo B. Hendry, & Jennifer L. Tanner
 **年份**: 2012 | **DOI**: [10.1111/j.1756-2589.2012.00123.x](https://doi.org/10.1111/j.1756-2589.2012.00123.x)
 **作者**: Faas, Caitlin
 **摘要**: （暂无）
@@ -2045,10 +2033,6 @@
 **年份**: 2011 | **DOI**: [10.1111/j.1756-2589.2011.00085.x](https://doi.org/10.1111/j.1756-2589.2011.00085.x)
 **作者**: Helms, Heather M.; Supple, Andrew J.; Proulx, Christine M.
 **摘要**: In this article, we draw from Huston's (2000) 3-level model of marriage to provide an informed and integrative template for organizing current knowledge and guiding future inquiry into the study of marital well-being among a rapidly growing segment of the United States' population: low-income, Mexic…
-
-### INDEX TO VOLUME 3, 2011 Cumulative Table of Contents
-**年份**: 2011 | **DOI**: [10.1111/j.1756-2589.2011.volcontents_1.x](https://doi.org/10.1111/j.1756-2589.2011.volcontents_1.x)
-**摘要**: （暂无）
 
 ### Strengthening Couple Relationships for Optimal Child Development: Lessons From Research and Intervention
 **年份**: 2011 | **DOI**: [10.1111/j.1756-2589.2011.00099.x](https://doi.org/10.1111/j.1756-2589.2011.00099.x)
@@ -2289,10 +2273,6 @@
 **作者**: Baber, Kristine M.
 **摘要**: （暂无）
 
-### INDEX TO VOLUME 2, 2010 Cumulative Table of Contents
-**年份**: 2010 | **DOI**: [10.1111/j.1756-2589.2010.volcontents_1.x](https://doi.org/10.1111/j.1756-2589.2010.volcontents_1.x)
-**摘要**: （暂无）
-
 ### Author Index
 **年份**: 2010 | **DOI**: [10.1111/j.1756-2589.2010.auindex_1.x](https://doi.org/10.1111/j.1756-2589.2010.auindex_1.x)
 **摘要**: （暂无）
@@ -2302,7 +2282,7 @@
 **作者**: Renee McCann, Brandy
 **摘要**: （暂无）
 
-### The Cambridge Handbook of Personal Relationships ‐ edited by Anita L. Vangelisti &amp; Daniel Perlman
+### The Cambridge Handbook of Personal Relationships ‐ edited by Anita L. Vangelisti & Daniel Perlman
 **年份**: 2010 | **DOI**: [10.1111/j.1756-2589.2010.00050.x](https://doi.org/10.1111/j.1756-2589.2010.00050.x)
 **作者**: Kimberly, Claire
 **摘要**: （暂无）

@@ -5,22 +5,22 @@
 
 ---
 
-### Revisiting the Weberian Presumption: Gun Militarism, Gun Populism, and the Racial Politics of Legitimate Violence in Policing1
+### Revisiting the Weberian Presumption: Gun Militarism, Gun Populism, and the Racial Politics of Legitimate Violence in Policing
 **年份**: 2019 | **DOI**: [10.1086/707609](https://doi.org/10.1086/707609)
 **作者**: Carlson, Jennifer
 **摘要**: Focusing on police chiefs in three states, this study revisits the Weberian presumption of the state's monopoly on legitimate violence. Seventy-nine interviews with police chiefs in Arizona, Michigan, and California allow for an examination of their understanding of gun policy.…
 
-### Empowerment or Disintegration? Migration, Social Institutions, and Collective Action in Rural China1
+### Empowerment or Disintegration? Migration, Social Institutions, and Collective Action in Rural China
 **年份**: 2019 | **DOI**: [10.1086/706755](https://doi.org/10.1086/706755)
 **作者**: Lu, Yao
 **摘要**: This article integrates literature on social movements and migration to examine how migration shapes both the cognitive and social foundations of collective action in origin communities.…
 
-### Skin in the Game: Colorism and the Subtle Operation of Stereotypes in Men's College Basketball1
+### Skin in the Game: Colorism and the Subtle Operation of Stereotypes in Men's College Basketball
 **年份**: 2019 | **DOI**: [10.1086/707243](https://doi.org/10.1086/707243)
 **作者**: Foy, Steven L.; Ray, Rashawn
 **摘要**: Colorism research often suffers from endogeneity issues related to human capital outcomes and researchers' inability to compare the effects of skin tone to those of racial classification.…
 
-### Death of the Salesman but Not the Sales Force: How Interested Promotion Skews Scientific Valuation1
+### Death of the Salesman but Not the Sales Force: How Interested Promotion Skews Scientific Valuation
 **年份**: 2019 | **DOI**: [10.1086/706800](https://doi.org/10.1086/706800)
 **作者**: Azoulay, Pierre; Wahlen, J. Michael; Zuckerman Sivan, Ezra W.
 **摘要**: Whereas research has demonstrated how social cues appearing as disinterested social validation can skew valuation processes, interested promotion may be at least as important. This factor is examined here via the premature death of 720 elite life scientists.…
@@ -50,27 +50,27 @@
 **作者**: Smith-Doerr, Laurel; Alegria, Sharla; Fealing, Kaye Husbands 等5人
 **摘要**: This study advances understanding of gender pay gaps by examining organizational variation. The gender pay gap literature supplies mechanisms but does not attend to organizational variation; the gender and science literature provides insights on the role of masculinist culture in disciplines but mis…
 
-### The Materiality of Ideology: Cultural Consumption and Political Thought after the American Revolution1
+### The Materiality of Ideology: Cultural Consumption and Political Thought after the American Revolution
 **年份**: 2019 | **DOI**: [10.1086/704370](https://doi.org/10.1086/704370)
 **作者**: Hoffman, Mark Anthony
 **摘要**: This article uses the reading patterns of New York's earliest elites-including a significant number of the founding fathers-who checked out books from the New York Society Library (NYSL), to evaluate the shifting meaning of political affiliation in the years between the ratification of the Constitut…
 
-### Race, Place, and Crime: How Violent Crime Events Affect Employment Discrimination1
+### Race, Place, and Crime: How Violent Crime Events Affect Employment Discrimination
 **年份**: 2019 | **DOI**: [10.1086/703883](https://doi.org/10.1086/703883)
 **作者**: Mobasseri, Sanaz
 **摘要**: This article examines how exposure to violent crime events affects employers' decisions to hire black job applicants with and without a criminal record. Results of a quasi-experimental research design drawing on a correspondence study of 368 job applications submitted to 184 hiring establishments in…
 
-### Babies, Work, or Both? Highly Educated Women's Employment and Fertility in East Asia1
+### Babies, Work, or Both? Highly Educated Women's Employment and Fertility in East Asia
 **年份**: 2019 | **DOI**: [10.1086/704369](https://doi.org/10.1086/704369)
 **作者**: Brinton, Mary C.; Oh, Eunsil
 **摘要**: Highly educated women's likelihood of combining childrearing with continuous employment over the life course has increased among recent U.S. cohorts. This trend is less evident in many postindustrial countries characterized by very low fertility.…
 
-### Neighborhood Attainment Outcomes for Children of the Great Migration1
+### Neighborhood Attainment Outcomes for Children of the Great Migration
 **年份**: 2019 | **DOI**: [10.1086/703682](https://doi.org/10.1086/703682)
 **作者**: Leibbrand, Christine; Massey, Catherine; Alexander, J. Trent 等4人
 **摘要**: Between 1915 and 1970, millions of black and white southerners migrated north in search of better lives for themselves and their children. Using novel, longitudinally linked 1940 and 2000 census data, we investigate whether this mass migration corresponded to improved neighborhood attainment outcome…
 
-### Categorization by Organizations: Manipulation of Disability Categories in a Racially Desegregated School District1
+### Categorization by Organizations: Manipulation of Disability Categories in a Racially Desegregated School District
 **年份**: 2019 | **DOI**: [10.1086/703957](https://doi.org/10.1086/703957)
 **作者**: Saatcioglu, Argun; Skrtic, Thomas M.
 **摘要**: The authors propose and test the concept of categorical manipulation, a process in which subordinate group demands for greater access to high-status categories are met with reversals in the hierarchy of existing categories.…
@@ -100,32 +100,32 @@
 **作者**: Bloome, Deirdre; Burk, Derek; McCall, Leslie
 **摘要**: Women have become increasingly economically self-reliant, depending more on paid employment for their positions in the income distribution than in the past. We know little about what happened to men, however, because most prior research restricts changes in self-reliance to be zero-sum, with women's…
 
-### The Citizenship Advantage: Immigrant Socioeconomic Attainment in the Age of Mass Migration1
+### The Citizenship Advantage: Immigrant Socioeconomic Attainment in the Age of Mass Migration
 **年份**: 2019 | **DOI**: [10.1086/701297](https://doi.org/10.1086/701297)
 **作者**: Catron, Peter
 **摘要**: Scholars who study immigrant economic progress often point to the success of Southern and Eastern Europeans who entered the United States in the early 20th century and draw inferences about whether today's immigrants will follow a similar trajectory.…
 
-### Corporate Conspiracies and Complex Secrets: Structure and Perception of the Insull Scheme in 1930s Chicago1
+### Corporate Conspiracies and Complex Secrets: Structure and Perception of the Insull Scheme in 1930s Chicago
 **年份**: 2019 | **DOI**: [10.1086/702730](https://doi.org/10.1086/702730)
 **作者**: Rilinger, Georg
 **摘要**: Studies of secrecy argue that criminal conspiracies are discovered when they fail to control the leakage of incriminating information. Yet, corporate crimes often remain secret even after crucial information has become public.…
 
-### Do the Poor Pay More for Housing? Exploitation, Profit, and Risk in Rental Markets1
+### Do the Poor Pay More for Housing? Exploitation, Profit, and Risk in Rental Markets
 **年份**: 2019 | **DOI**: [10.1086/701697](https://doi.org/10.1086/701697)
 **作者**: Desmond, Matthew; Wilmers, Nathan
 **摘要**: This article examines tenant exploitation and landlord profit margins within residential rental markets. Defining exploitation as being overcharged relative to the market value of a property, the authors find exploitation of tenants to be highest in poor neighborhoods.…
 
-### The Impact of Class Labels on Life Chances in China1
+### The Impact of Class Labels on Life Chances in China
 **年份**: 2019 | **DOI**: [10.1086/701715](https://doi.org/10.1086/701715)
 **作者**: Treiman, Donald J.; Walder, Andrew G.
 **摘要**: In 1950, China's new Communist government created hereditary family class labels intended to promote the advancement of households supportive of the Communist movement along with the economically disadvantaged and to penalize property owners and those associated with the old regime.…
 
-### The Geography of Racial/Ethnic Test Score Gaps1
+### The Geography of Racial/Ethnic Test Score Gaps
 **年份**: 2019 | **DOI**: [10.1086/700678](https://doi.org/10.1086/700678)
 **作者**: Reardon, Sean F.; Kalogrides, Demetra; Shores, Kenneth
 **摘要**: The authors estimate racial/ethnic achievement gaps in several hundred metropolitan areas and several thousand school districts in the United States using the results of roughly 200 million standardized math and English language arts (ELA) tests administered to public school students from 2009 to 20…
 
-### The World System and the Hollowing Out of State Capacity: How Structural Adjustment Programs Affect Bureaucratic Quality in Developing Countries1
+### The World System and the Hollowing Out of State Capacity: How Structural Adjustment Programs Affect Bureaucratic Quality in Developing Countries
 **年份**: 2019 | **DOI**: [10.1086/701703](https://doi.org/10.1086/701703)
 **作者**: Reinsberg, Bernhard; Stubbs, Thomas; Kentikelenis, Alexander 等4人
 **摘要**: The administrative ability of the state to deliver effective policy is essential for economic development. While sociologists have long devoted attention to domestic forces underpinning state capacity, the authors focus on world system pressures from Western-dominated international organizations.…
@@ -1025,7 +1025,7 @@
 **作者**: Steil, Justin Peter; Vasi, Ion Bogdan
 **摘要**: Analyzing oppositional social movements in the context of municipal immigration ordinances, the authors examine whether the explanatory power of resource mobilization, political process, and strain theories of social movements' impact on policy outcomes differs when considering proactive as opposed …
 
-### Styles of Causal Thought: An Empirical Investigation1
+### Styles of Causal Thought: An Empirical Investigation
 **年份**: 2013 | **DOI**: [10.1086/675892](https://doi.org/10.1086/675892)
 **作者**: Abend, Gabriel; Petre, Caitlin; Sauder, Michael
 **摘要**: While most work on causation in ethnography addresses the normative question of what ethnographers should do, this article addresses the empirical question of what ethnographers actually do.…
@@ -1535,12 +1535,12 @@
 **作者**: Paschel, Tianna S.
 **摘要**: Drawing on archival analysis and in-depth interviews, this article examines Colombia's adoption of policies for black Colombians in 1993. It argues that Afro-Colombian activists were able to seize upon changes in global policy norms around multiculturalism and state disequilibrium both by deploying …
 
-### When Formal Laws and Informal Norms Collide: Lineage Networks versus Birth Control Policy in China1
+### When Formal Laws and Informal Norms Collide: Lineage Networks versus Birth Control Policy in China
 **年份**: 2010 | **DOI**: [10.1086/657102](https://doi.org/10.1086/657102)
 **作者**: Peng, Yusheng
 **摘要**: Ancestor worship and bloodline continuation are the core norms of lineage in China. Beginning in the late 1970s, these cultural norms came into direct confrontation with the state birth control policy.…
 
-### The Structure of Educational Decision Making and Consequences for Inequality: A Swedish Test Case1
+### The Structure of Educational Decision Making and Consequences for Inequality: A Swedish Test Case
 **年份**: 2010 | **DOI**: [10.1086/655751](https://doi.org/10.1086/655751)
 **作者**: Haellsten, Martin
 **摘要**: Class differences in educational decision making are important for inequality. A unique Swedish population-level database of university applications and individuals' ranking of different programs is used to analyze class differences in preferences for different program characteristics.…
@@ -1550,12 +1550,12 @@
 **作者**: Gerber, Theodore P.; Mayorova, Olga
 **摘要**: The authors use employment histories from survey data to examine personal network use and stratification in the Russian labor market from 1985 to 2001. Institutional changes associated with the Soviet collapse increased the use of networks and shaped their prevalence and benefits in theoretically co…
 
-### The Locus of Racial Disadvantage in the Labor Market1
+### The Locus of Racial Disadvantage in the Labor Market
 **年份**: 2010 | **DOI**: [10.1086/655823](https://doi.org/10.1086/655823)
 **作者**: Moore, Thomas S.
 **摘要**: Using a pooled sample constructed from recent installments of the Displaced Workers Survey, this study examines the racial disparities in postdisplacement outcomes while controlling for the predisplacement experience and earnings of individual workers.…
 
-### A Model of Robust Positions in Social Networks1
+### A Model of Robust Positions in Social Networks
 **年份**: 2010 | **DOI**: [10.1086/658293](https://doi.org/10.1086/658293)
 **作者**: Bothner, Matthew S.; Smith, Edward Bishop; White, Harrison C.
 **摘要**: This article introduces a network model that pictures occupants of robust positions as recipients of diversified support from durably located others and portrays occupants of fragile positions as dependents on tenuously situated others.…

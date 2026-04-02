@@ -1,7 +1,7 @@
 # Demography
 ## 2000–2009 年文章（含摘要）
 
-共 **529** 篇
+共 **524** 篇
 
 ---
 
@@ -314,11 +314,6 @@
 **作者**: Sampson, Robert J.; Sharkey, Patrick
 **摘要**: Abstract In this paper, we consider neighborhood selection as a social process central to the reproduction of racial inequality in neighborhood attainment. We formulate a multilevel model that decomposes multiple sources of stability and change in longitudinal trajectories of achieved neighborhood i…
 
-### Erratum to: Retrospective information and health status and its application for population health measures
-**年份**: 2008 | **DOI**: [10.1007/bf03214586](https://doi.org/10.1007/bf03214586)
-**作者**: Molla; Lubitz
-**摘要**: （暂无）
-
 ### Macroeconomic fluctuations and mortality in postwar Japan
 **年份**: 2008 | **DOI**: [10.1353/dem.0.0008](https://doi.org/10.1353/dem.0.0008)
 **作者**: Tapia granados, José A.
@@ -469,11 +464,6 @@
 **作者**: Kravdal, Øystein
 **摘要**: AbstractBy using register data for the entire Norwegian population aged 50–89 in the period 1980–1999, during which there were about 720,000 deaths, I estimate how the proportions of persons who were divorced or never married in the municipality affected all-cause mortality, net of individual marita…
 
-### Erratum to: The association of childhood socioeconomic conditions with healthy longevity at the oldest-old ages in China
-**年份**: 2007 | **DOI**: [10.1353/dem.2007.0042](https://doi.org/10.1353/dem.2007.0042)
-**作者**: Yi, Zeng; Gu, Danan; Land, Kenneth C.
-**摘要**: （暂无）
-
 ### The effects of maternal employment on child injuries and infectious disease
 **年份**: 2007 | **DOI**: [10.1353/dem.2007.0011](https://doi.org/10.1353/dem.2007.0011)
 **作者**: Gordon, Rachel A.; Kaestner, Robert; Korenman, Sanders
@@ -578,11 +568,6 @@
 **年份**: 2007 | **DOI**: [10.1353/dem.2007.0007](https://doi.org/10.1353/dem.2007.0007)
 **作者**: Lundberg, Shelly; McLanahan, Sara; Rose, Elaina
 **摘要**: Abstract In this article, we use data from the first two waves of the Fragile Families and Child Wellbeing Study to examine the effects of child gender on father involvement and to determine if gender effects differ by parents’ marital status.…
-
-### Erratum to: “Effects of Child Health on Parents’ Relationship Status.”
-**年份**: 2007 | **DOI**: [10.1353/dem.2007.0025](https://doi.org/10.1353/dem.2007.0025)
-**作者**: Reichman, N. E.; Corman, H.; Noonan, K.
-**摘要**: （暂无）
 
 ### Elderly parent health and the migration decisions of adult children: Evidence from rural China
 **年份**: 2007 | **DOI**: [10.1353/dem.2007.0010](https://doi.org/10.1353/dem.2007.0010)
@@ -1396,11 +1381,6 @@
 **年份**: 2003 | **DOI**: [10.1353/dem.2003.0010](https://doi.org/10.1353/dem.2003.0010)
 **作者**: Zimmer, Zachary; Kwong, Julia
 **摘要**: AbstractChange in China’s age structure is creating concerns about whether reductions in family size undermine traditional support mechanisms for older adults. Future generations may expect less support as the availability of children declines.…
-
-### Erratum to: “Economic Potential and Entry Into Marriage and Cohabitation”
-**年份**: 2003 | **DOI**: [10.1007/bf03208772](https://doi.org/10.1007/bf03208772)
-**作者**: Xie, Yu; Raymo, James M.; Goyette, Kimberly 等4人
-**摘要**: （暂无）
 
 ### Rethinking the “early” decline of marital fertility in the united states
 **年份**: 2003 | **DOI**: [10.1353/dem.2003.0035](https://doi.org/10.1353/dem.2003.0035)
@@ -2226,10 +2206,6 @@
 **年份**: 2001 | **DOI**: [10.2307/3088306](https://doi.org/10.2307/3088306)
 **作者**: London, Andrew S.; Elman, Cheryl
 **摘要**: proportionately or otherwise to promote differentiation from normative Euro-American family patterns. For example, many early (and some contemporary) theorists point to the effects of slavery.…
-
-### Erratum: Increasing Fertility in Cohabiting Unions: Evidence for the Second Demographic Transition in the United States?
-**年份**: 2001 | **DOI**: [10.2307/3088296](https://doi.org/10.2307/3088296)
-**摘要**: （暂无）
 
 ### Reconsidering Mortality Compression and Deceleration: An Alternative Model of Mortality Rates
 **年份**: 2001 | **DOI**: [10.2307/3088290](https://doi.org/10.2307/3088290)

@@ -1,7 +1,7 @@
 # European Journal of Population
 ## 2000–2009 年文章（含摘要）
 
-共 **299** 篇
+共 **295** 篇
 
 ---
 
@@ -159,11 +159,6 @@
 **作者**: Aassve, Arnstein; Lappegård, Trude
 **摘要**: （暂无）
 
-### Editorial
-**年份**: 2008 | **DOI**: [10.1007/s10680-008-9150-1](https://doi.org/10.1007/s10680-008-9150-1)
-**作者**: Khlat, Myriam
-**摘要**: （暂无）
-
 ### Zhongwei Zhao and Fei Guo (eds): Transition and Challenge: China’s Population at the Beginning of the 21st Century
 **年份**: 2008 | **DOI**: [10.1007/s10680-008-9164-8](https://doi.org/10.1007/s10680-008-9164-8)
 **作者**: Jiang, Leiwen
@@ -222,11 +217,6 @@
 ### Characteristics of Women in Consanguineous Marriages in Egypt, 1988–2000
 **年份**: 2008 | **DOI**: [10.1007/s10680-008-9160-z](https://doi.org/10.1007/s10680-008-9160-z)
 **作者**: Weinreb, Alexander A.
-**摘要**: （暂无）
-
-### Editorial
-**年份**: 2008 | **DOI**: [10.1007/s10680-008-9149-7](https://doi.org/10.1007/s10680-008-9149-7)
-**作者**: Khlat, Myriam
 **摘要**: （暂无）
 
 ### Contexte local et migration: l’exemple des dynamiques migratoires internationales de quartiers dans la ville sénégalaise de Kaolack
@@ -539,10 +529,6 @@
 **作者**: Piotrowski, Martin
 **摘要**: （暂无）
 
-### Editorial
-**年份**: 2006 | **DOI**: [10.1007/s10680-006-8225-0](https://doi.org/10.1007/s10680-006-8225-0)
-**摘要**: （暂无）
-
 ### Zimmermann F. Klaus (ed): European migration. What do we know?
 **年份**: 2006 | **DOI**: [10.1007/s10680-006-9101-7](https://doi.org/10.1007/s10680-006-9101-7)
 **作者**: Fassmann, Heinz
@@ -685,7 +671,7 @@
 **作者**: Tabeau, Ewa; Bijak, Jakub
 **摘要**: （暂无）
 
-### Union Stability and Stepfamily Fertility in Austria, Finland, France &amp; West Germany
+### Union Stability and Stepfamily Fertility in Austria, Finland, France & West Germany
 **年份**: 2005 | **DOI**: [10.1007/s10680-004-7267-4](https://doi.org/10.1007/s10680-004-7267-4)
 **作者**: Henz, Ursula; Thomson, Elizabeth
 **摘要**: （暂无）
@@ -1388,10 +1374,6 @@
 ### The Fertility Impact of Temporary Migration in China: A Detachment Hypothesis
 **年份**: 2000 | **DOI**: [10.1023/a:1006351407811](https://doi.org/10.1023/a:1006351407811)
 **作者**: Yang, Xiushi
-**摘要**: （暂无）
-
-### Editorial
-**年份**: 2000 | **DOI**: [10.1023/a:1017291211157](https://doi.org/10.1023/a:1017291211157)
 **摘要**: （暂无）
 
 ### Active Population Growth and Immigration Hypotheses in Western Europe

@@ -1,7 +1,7 @@
 # Gender & Society
 ## 2010–2019 年文章（含摘要）
 
-共 **928** 篇
+共 **920** 篇
 
 ---
 
@@ -269,7 +269,7 @@
 **作者**: Campbell, Rachel
 **摘要**: （暂无）
 
-### Book Review: Gender Identity, Sexual Orientation &amp; Sexual Assault: Challenging the Myths by Corina Schulze, Sarah Koon-Magnin, and Valerie Bryan
+### Book Review: Gender Identity, Sexual Orientation & Sexual Assault: Challenging the Myths by Corina Schulze, Sarah Koon-Magnin, and Valerie Bryan
 **年份**: 2019 | **DOI**: [10.1177/0891243219866168](https://doi.org/10.1177/0891243219866168)
 **作者**: Prior, Sarah
 **摘要**: （暂无）
@@ -324,7 +324,7 @@
 **作者**: Adjeiwaa-Manu, Nana A.
 **摘要**: （暂无）
 
-### Book Review: Feminism: A Brief Introduction to the Ideas, Debates &amp; Politics of the Movement by Deborah Cameron
+### Book Review: Feminism: A Brief Introduction to the Ideas, Debates & Politics of the Movement by Deborah Cameron
 **年份**: 2019 | **DOI**: [10.1177/0891243219881407](https://doi.org/10.1177/0891243219881407)
 **作者**: Parry, Janine A.
 **摘要**: （暂无）
@@ -626,10 +626,6 @@
 **年份**: 2018 | **DOI**: [10.1177/0891243218777201](https://doi.org/10.1177/0891243218777201)
 **作者**: Longo, Gina Marie
 **摘要**: Foreign nationals who marry U.S. citizens have an expedited track to naturalization. U.S. immigration officials require that “green card” petitioning couples demonstrate that their relationships are “valid and subsisting” (i.e., for love) and not fraudulent (i.e., for immigration papers).…
-
-### Corrigendum
-**年份**: 2018 | **DOI**: [10.1177/0891243218807467](https://doi.org/10.1177/0891243218807467)
-**摘要**: （暂无）
 
 ### Book Review: Gender Reckonings: New Social Theory and Research Edited by James W. Messerschmidt, Patricia Yancey Martin, Michael A. Messner, and Raewyn Connell
 **年份**: 2018 | **DOI**: [10.1177/0891243218783665](https://doi.org/10.1177/0891243218783665)
@@ -1230,7 +1226,7 @@
 **作者**: Patterson, Sarah E.; Damaske, Sarah; Sheroff, Christen
 **摘要**: This study asks how men’s and women’s careers diverge following MBA graduation from an elite university, using qualitative interview data from 74 respondents. We discover men and women follow three career pathways post-graduation: lockstep (stable employment), transitory (3 or more employers), and e…
 
-### Book Review: Dealing in Desire: Asian Ascendancy, Western Decline, and the Hidden Currencies of Global Sex Work by Kimberly Kay Hoang and Tourist Attractions: Performing Race &amp; Masculinity in Brazil’s Sexual Economy by Gregory Mitchell
+### Book Review: Dealing in Desire: Asian Ascendancy, Western Decline, and the Hidden Currencies of Global Sex Work by Kimberly Kay Hoang and Tourist Attractions: Performing Race & Masculinity in Brazil’s Sexual Economy by Gregory Mitchell
 **年份**: 2017 | **DOI**: [10.1177/0891243217692726](https://doi.org/10.1177/0891243217692726)
 **作者**: Adler, Patricia A.
 **摘要**: （暂无）
@@ -1459,7 +1455,7 @@
 **作者**: Coston, Bethany M.
 **摘要**: （暂无）
 
-### Book Review: Postcolonial Masculinities: Emotions, Histories &amp; Ethics by Amal Treacher Kabesh
+### Book Review: Postcolonial Masculinities: Emotions, Histories & Ethics by Amal Treacher Kabesh
 **年份**: 2016 | **DOI**: [10.1177/0891243215587266](https://doi.org/10.1177/0891243215587266)
 **作者**: Zouggari, Najate
 **摘要**: （暂无）
@@ -1886,7 +1882,7 @@
 **作者**: Singh, Vikash
 **摘要**: （暂无）
 
-### Book Review: Women’s Colleges &amp; Universities in a Global Context by Kristen A. Renn
+### Book Review: Women’s Colleges & Universities in a Global Context by Kristen A. Renn
 **年份**: 2015 | **DOI**: [10.1177/0891243215572261](https://doi.org/10.1177/0891243215572261)
 **作者**: Kannen, Victoria
 **摘要**: （暂无）
@@ -1915,10 +1911,6 @@
 **年份**: 2015 | **DOI**: [10.1177/0891243215569597](https://doi.org/10.1177/0891243215569597)
 **作者**: Elliott, Sinikka
 **摘要**: （暂无）
-
-### Erratum
-**年份**: 2015 | **DOI**: [10.1177/0891243215576436](https://doi.org/10.1177/0891243215576436)
-**摘要**: Rinaldo, Rachel (2015) Book review: Muslim American Women on Campus: Undergraduate Social Life and Identity. By Shabana Mir. Gender & Society 29:290-292. The book review should have been included in the February 2015 issue (29(1)) of Gender & Society.
 
 ### Book Review: Preventing Sexual Violence: Interdisciplinary Approaches to Overcoming a Rape Culture edited by Nicola Henry and Anastasia Powell
 **年份**: 2015 | **DOI**: [10.1177/0891243215574843](https://doi.org/10.1177/0891243215574843)
@@ -2045,7 +2037,7 @@
 **作者**: Davis, Georgiann; Dewey, Jodie M.; Murphy, Erin L.
 **摘要**: Although medical providers rely on similar tools to “treat” intersex and trans individuals, their enactment of medicalization practices varies. To deconstruct these complexities, we employ a comparative analysis of providers who specialize in intersex and trans medicine.…
 
-### Book Review: Feminism &amp; Popular Culture: Investigating the Postfeminist Mystique by Rebecca Munford &amp; Melanie Waters
+### Book Review: Feminism & Popular Culture: Investigating the Postfeminist Mystique by Rebecca Munford & Melanie Waters
 **年份**: 2015 | **DOI**: [10.1177/0891243215574854](https://doi.org/10.1177/0891243215574854)
 **作者**: Adams, Michele
 **摘要**: （暂无）
@@ -2324,10 +2316,6 @@
 **作者**: Bridges, Tristan S.
 **摘要**: （暂无）
 
-### Erratum
-**年份**: 2014 | **DOI**: [10.1177/0891243214556952](https://doi.org/10.1177/0891243214556952)
-**摘要**: （暂无）
-
 ### Book Review: The Polyamorists Next Door: Inside Multiple-Partner Relationships and Families by Elisabeth Sheff
 **年份**: 2014 | **DOI**: [10.1177/0891243214540048](https://doi.org/10.1177/0891243214540048)
 **作者**: Schippers, Mimi
@@ -2336,10 +2324,6 @@
 ### Book Review: Human Rights, Sexual Orientation and Gender Identity in the Commonwealth: Struggles for Decriminalization and Change edited by Corinne Lennox and Matthew Waites
 **年份**: 2014 | **DOI**: [10.1177/0891243214562907](https://doi.org/10.1177/0891243214562907)
 **作者**: Alexander, Amy C.
-**摘要**: （暂无）
-
-### Erratum
-**年份**: 2014 | **DOI**: [10.1177/0891243214531171](https://doi.org/10.1177/0891243214531171)
 **摘要**: （暂无）
 
 ### Book Review: Hard to Get: 20-Something Women and the Paradox of Sexual Freedom by Leslie C. Bell
@@ -2516,7 +2500,7 @@
 **作者**: Childs, Erica Chito
 **摘要**: （暂无）
 
-### Book Review: Gender &amp; Justice: Why Women in the Judiciary Really Matter by Sally J. Kenney
+### Book Review: Gender & Justice: Why Women in the Judiciary Really Matter by Sally J. Kenney
 **年份**: 2014 | **DOI**: [10.1177/0891243213517742](https://doi.org/10.1177/0891243213517742)
 **作者**: Anleu, Sharyn Roach
 **摘要**: （暂无）
@@ -2614,10 +2598,6 @@
 ### Book Review: The Foetal Condition: A Sociology of Engendering and Abortion by Luc Boltanski
 **年份**: 2014 | **DOI**: [10.1177/0891243214526773](https://doi.org/10.1177/0891243214526773)
 **作者**: Kimport, Katrina
-**摘要**: （暂无）
-
-### Erratum
-**年份**: 2014 | **DOI**: [10.1177/0891243214556954](https://doi.org/10.1177/0891243214556954)
 **摘要**: （暂无）
 
 ### Book Review: Unfinished Business: Paid Family Leave in California and the Future of U.S. Work-Family Policy by Ruth Milkman and Eileen Appelbaum
@@ -2915,7 +2895,7 @@
 **作者**: Auster, Carol J.
 **摘要**: （暂无）
 
-### Book Review: Everywhere &amp; Nowhere: Contemporary Feminism in the United States by Jo Reger
+### Book Review: Everywhere & Nowhere: Contemporary Feminism in the United States by Jo Reger
 **年份**: 2013 | **DOI**: [10.1177/0891243213493965](https://doi.org/10.1177/0891243213493965)
 **作者**: Aulette, Judy Root
 **摘要**: （暂无）
@@ -3290,10 +3270,6 @@
 **作者**: Dworkin, Shari L.; Colvin, Christopher; Hatcher, Abbey 等4人
 **摘要**: Emerging out of increased attention to gender equality within violence and HIV prevention efforts in South African society has been an intensified focus on masculinities. Garnering a deeper understanding of how men respond to shifting gender relations and rights on the ground is of urgent importance…
 
-### Erratum
-**年份**: 2012 | **DOI**: [10.1177/0891243212461340](https://doi.org/10.1177/0891243212461340)
-**摘要**: Kroska, A. (2012). Framed by Gender: How Gender Inequality Persists in the Modern World by Cecilia L. Ridgeway. Gender & Society, 26(4):665-666. (Original DOI: 10.1177/0891243212439344)
-
 ### Book Review: Making Their Place: Feminism after Socialism in Eastern Germany
 **年份**: 2012 | **DOI**: [10.1177/0891243212440504](https://doi.org/10.1177/0891243212440504)
 **作者**: Zippel, Kathrin
@@ -3588,7 +3564,7 @@
 **作者**: Tesene, Megan
 **摘要**: （暂无）
 
-### Book Review: Rebel Girls: Youth Activism &amp; Social Change Across the Americas
+### Book Review: Rebel Girls: Youth Activism & Social Change Across the Americas
 **年份**: 2012 | **DOI**: [10.1177/0891243212440505](https://doi.org/10.1177/0891243212440505)
 **作者**: Clay, Andreana
 **摘要**: （暂无）
@@ -3913,7 +3889,7 @@
 **作者**: Jauk, Daniela
 **摘要**: （暂无）
 
-### Book Review: Glass Ceilings &amp; 100-Hour Couples: What the Opt-Out Phenomenon Can Teach Us about Work and Family
+### Book Review: Glass Ceilings & 100-Hour Couples: What the Opt-Out Phenomenon Can Teach Us about Work and Family
 **年份**: 2011 | **DOI**: [10.1177/0891243211411181](https://doi.org/10.1177/0891243211411181)
 **作者**: Solomon, Catherine Richards
 **摘要**: （暂无）
@@ -3967,11 +3943,6 @@
 **年份**: 2011 | **DOI**: [10.1177/0891243211405194](https://doi.org/10.1177/0891243211405194)
 **作者**: Bouley, Theresa M.; Dugan, Kimberly B.
 **摘要**: （暂无）
-
-### Judith Lorber (1987-1990)
-**年份**: 2011 | **DOI**: [10.1177/0891243211407632](https://doi.org/10.1177/0891243211407632)
-**作者**: Lorber, Judith
-**摘要**: When I became the first editor of Gender & Society, Mitch Allen, then an editor at Sage, told me that the journal would be successful if we got close to 1,000 library subscriptions in the first year (I think we got more than 900).…
 
 ### Book Review: Liberalization’s Children: Gender, Youth, and Consumer Citizenship in Globalizing India
 **年份**: 2011 | **DOI**: [10.1177/0891243211408717](https://doi.org/10.1177/0891243211408717)
@@ -4088,11 +4059,6 @@
 **作者**: Wallace, Gail
 **摘要**: （暂无）
 
-### Christine Williams (2004-2006)
-**年份**: 2011 | **DOI**: [10.1177/0891243211407492](https://doi.org/10.1177/0891243211407492)
-**作者**: Williams, Christine
-**摘要**: Perspectives on and Carework, guest-edited by Mary Zimmerman and Jacqueline Litt, did come to fruition during my editorial term. I also began an inter-journal exchange with the Asian of Women's Studies', and abroad, I co-organized a panel of Latin American and Caribbean and U.S.…
-
 ### With Thanks
 **年份**: 2011 | **DOI**: [10.1177/0891243211425895](https://doi.org/10.1177/0891243211425895)
 **摘要**: （暂无）
@@ -4182,7 +4148,7 @@
 **作者**: Lippard, Cameron D.
 **摘要**: （暂无）
 
-### Book Review: Hillary Clinton’s Race for the White House: Gender Politics &amp; the Media on the Campaign Trail
+### Book Review: Hillary Clinton’s Race for the White House: Gender Politics & the Media on the Campaign Trail
 **年份**: 2011 | **DOI**: [10.1177/0891243211406437](https://doi.org/10.1177/0891243211406437)
 **作者**: Sobieraj, Sarah
 **摘要**: （暂无）
@@ -4252,7 +4218,7 @@
 **作者**: Parisi, Laura
 **摘要**: （暂无）
 
-### Book Review: Gender and the Politics of Possibilities: Rethinking Globalization. By Manisha Desai. New York: Rowman &amp; Littlefield, 2009, 122 pp. $65.00 (cloth); 22.95 (paper)
+### Book Review: Gender and the Politics of Possibilities: Rethinking Globalization. By Manisha Desai. New York: Rowman & Littlefield, 2009, 122 pp. $65.00 (cloth); 22.95 (paper)
 **年份**: 2010 | **DOI**: [10.1177/0891243209356286](https://doi.org/10.1177/0891243209356286)
 **作者**: Morgan, Kaitlyn
 **摘要**: （暂无）
@@ -4337,7 +4303,7 @@
 **作者**: Bratter, Jenifer
 **摘要**: （暂无）
 
-### Book Review: Globalization and America: Race, Human Rights, and Inequality (Perspectives on a Multiracial America). Edited by Angela J. Hattery, David G. Embrick, and Earl Smith. Lanham, MD: Rowman &amp; Littlefield, 2008, 304 pp., $75.00 (cloth); $29.95 (paper)
+### Book Review: Globalization and America: Race, Human Rights, and Inequality (Perspectives on a Multiracial America). Edited by Angela J. Hattery, David G. Embrick, and Earl Smith. Lanham, MD: Rowman & Littlefield, 2008, 304 pp., $75.00 (cloth); $29.95 (paper)
 **年份**: 2010 | **DOI**: [10.1177/0891243210365509](https://doi.org/10.1177/0891243210365509)
 **作者**: Talcott, Molly
 **摘要**: （暂无）
@@ -4377,7 +4343,7 @@
 **作者**: Bridges, Tristan S.
 **摘要**: Though there is a vast literature on performances of drag, performances of gender and sexual transgressions outside of drag clubs are less studied. This case study of men’s marches protesting violence against women—“Walk a Mile in Her Shoes” marches— examines the politics of such transgressions.…
 
-### Book Review: Doing Business with Beauty: Black Women, Hair Salons, and the Racial Enclave Economy. By Adia Harvey Wingfield. Lanham, MD: Rowman &amp; Littlefield, 2008, 155 pp., $65.00 (cloth); $19.95 (paper)
+### Book Review: Doing Business with Beauty: Black Women, Hair Salons, and the Racial Enclave Economy. By Adia Harvey Wingfield. Lanham, MD: Rowman & Littlefield, 2008, 155 pp., $65.00 (cloth); $19.95 (paper)
 **年份**: 2010 | **DOI**: [10.1177/0891243210364224](https://doi.org/10.1177/0891243210364224)
 **作者**: Battle-Walters Denu, Kimberly
 **摘要**: （暂无）
@@ -4527,7 +4493,7 @@
 **作者**: Cairns, Kate; Johnston, Josée; Baumann, Shyon
 **摘要**: This article draws on interviews with “foodies”—people with a passion for eating and learning about food—to explore questions of gender and foodie culture. The analysis suggests that while this culture is by no means gender-neutral, foodies are enacting gender in ways that warrant closer inspection.…
 
-### Book Review: Women Fielding Danger: Negotiating Ethnographic Identities in Field Research. Edited by Martha K. Huggins and Marie-Louise Glebbeck. New York: Roman &amp; Littlefield, 2009, 408 pp., $90 (cloth); $32.95 (paper)
+### Book Review: Women Fielding Danger: Negotiating Ethnographic Identities in Field Research. Edited by Martha K. Huggins and Marie-Louise Glebbeck. New York: Roman & Littlefield, 2009, 408 pp., $90 (cloth); $32.95 (paper)
 **年份**: 2010 | **DOI**: [10.1177/0891243210371097](https://doi.org/10.1177/0891243210371097)
 **作者**: Loseke, Donileen R.
 **摘要**: （暂无）
@@ -4542,7 +4508,7 @@
 **作者**: Thébaud, Sarah
 **摘要**: This research uses data from 18 countries to investigate cross-national differences in the effect that men’s income relative to their spouses has on their involvement in housework. The author hypothesizes that gender expectations will be more salient in men’s household bargaining in contexts where t…
 
-### Book Review: Cyber Racism: White Supremacy Online and the New Attack on Civil Rights. By Jessie Daniels. New York: Rowman &amp; Littlefield, 2009, 274 pp., $75.00 (cloth); $28.95 (paper)
+### Book Review: Cyber Racism: White Supremacy Online and the New Attack on Civil Rights. By Jessie Daniels. New York: Rowman & Littlefield, 2009, 274 pp., $75.00 (cloth); $28.95 (paper)
 **年份**: 2010 | **DOI**: [10.1177/0891243210364223](https://doi.org/10.1177/0891243210364223)
 **作者**: Sophie Statzel, R.
 **摘要**: （暂无）
@@ -4581,7 +4547,7 @@
 **作者**: Winslow, Sarah
 **摘要**: This article focuses on faculty members’ allocation of time to teaching and research, conceptualizing these—and the mismatch between preferred and actual time allocations—as examples of gender inequality in academic employment.…
 
-### Book Review: Asian American Women and Men: Labor, Laws, and Love. By Yen Le Espiritu. Lanham, MD: Rowman &amp; Littlefield, 2007, 176 pp., $65.00 (cloth), $22.95 (paper)
+### Book Review: Asian American Women and Men: Labor, Laws, and Love. By Yen Le Espiritu. Lanham, MD: Rowman & Littlefield, 2007, 176 pp., $65.00 (cloth), $22.95 (paper)
 **年份**: 2010 | **DOI**: [10.1177/0891243210361472](https://doi.org/10.1177/0891243210361472)
 **作者**: Nemoto, Kumiko
 **摘要**: （暂无）

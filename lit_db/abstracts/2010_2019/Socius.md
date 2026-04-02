@@ -1,7 +1,7 @@
 # Socius
 ## 2010–2019 年文章（含摘要）
 
-共 **295** 篇
+共 **289** 篇
 
 ---
 
@@ -84,10 +84,6 @@
 **年份**: 2019 | **DOI**: [10.1177/2378023119887866](https://doi.org/10.1177/2378023119887866)
 **作者**: Hunsaker, Amanda; Nguyen, Minh Hao; Fuchs, Jaelle 等6人
 **摘要**: Given that older adults constitute a highly heterogeneous group that engages with digital media in varying ways, there is likely to be large variation in technology support needs, something heretofore unaddressed in the literature.…
-
-### Corrigendum to “Context and Change: A Longitudinal Analysis of Attitudes about Immigrants in Adolescence”
-**年份**: 2019 | **DOI**: [10.1177/2378023119871311](https://doi.org/10.1177/2378023119871311)
-**摘要**: （暂无）
 
 ### Humans in the Loop: Incorporating Expert and Crowd-Sourced Knowledge for Predictions Using Survey Data
 **年份**: 2019 | **DOI**: [10.1177/2378023118820157](https://doi.org/10.1177/2378023118820157)
@@ -904,10 +900,6 @@
 **作者**: Alvarez, Camila H.; Norton-Smith, Kathryn G.
 **摘要**: Since the 1990s, Latino migration patterns have shifted from traditional destinations to new destinations away from the Mexico border. Scholars note disparities between destinations in housing, crime, and health care, yet no study has examined environmental inequalities.…
 
-### Erratum
-**年份**: 2018 | **DOI**: [10.1177/2378023118756634](https://doi.org/10.1177/2378023118756634)
-**摘要**: Bauer, Paul C. 2018. “Unemployment, Trust in Government, and Satisfaction with Democracy: An Empirical Investigation.” Socius: Sociological Research for a Dynamic World 4:1-14. (Original DOI: 10.1177/2378023117750533) In this article, two errors appear in the published version: • The citation for Bi…
-
 ### Response to Morgan: On the Role of Status Threat and Material Interests in the 2016 Election
 **年份**: 2018 | **DOI**: [10.1177/2378023118808619](https://doi.org/10.1177/2378023118808619)
 **作者**: Mutz, Diana
@@ -917,10 +909,6 @@
 **年份**: 2018 | **DOI**: [10.1177/2378023117734729](https://doi.org/10.1177/2378023117734729)
 **作者**: Cossyleon, Jennifer E.
 **摘要**: Women’s political engagements often look different from those of men, and they are also undertheorized and understudied. The author examines how participation in family-focused community organizing shapes women’s lives, self-perceptions, and relationships.…
-
-### Corrigendum
-**年份**: 2018 | **DOI**: [10.1177/2378023118821139](https://doi.org/10.1177/2378023118821139)
-**摘要**: （暂无）
 
 ### Biases of Online Political Polls: Who Participates?
 **年份**: 2018 | **DOI**: [10.1177/2378023118791080](https://doi.org/10.1177/2378023118791080)
@@ -1001,10 +989,6 @@
 **年份**: 2018 | **DOI**: [10.1177/2378023118801096](https://doi.org/10.1177/2378023118801096)
 **作者**: LeCount, Ryan Jerome
 **摘要**: The author constructs an over-time coefficient plot to allow visualized evaluation of the role played by indicators of racial resentment on political ideology among Whites since 1986.…
-
-### Corrigendum
-**年份**: 2018 | **DOI**: [10.1177/2378023118754505](https://doi.org/10.1177/2378023118754505)
-**摘要**: Allison, Paul D., Richard Williams, and Enrique Moral-Benito. 2017. “Maximum Likelihood for Cross-lagged Panel Models with Fixed Effects.” Socius: Sociological Research for a Dynamic World 3:1–17. (Original DOI: 10.1177/2378023117710578) In this article, there is an error in the R code shown on pp.…
 
 ### Him, Not Her: Why Working-class White Men Reluctant about Trump Still Made Him President of the United States
 **年份**: 2018 | **DOI**: [10.1177/2378023117736486](https://doi.org/10.1177/2378023117736486)
@@ -1326,10 +1310,6 @@
 **作者**: Moller, Stephanie; Misra, Joya; Wemlinger, Elizabeth 等4人
 **摘要**: Cross-nationally, scholars conceptualize welfare states as both systems of stratification, reinforcing status distinctions between groups, and systems granting social rights to citizens.…
 
-### Corrigendum
-**年份**: 2016 | **DOI**: [10.1177/2378023116641388](https://doi.org/10.1177/2378023116641388)
-**摘要**: Liao, Tim Futing. 2016. “Evaluating Distributional Differences in Income Inequality.” Socius: Sociological Research for a Dynamic World 2(1). (Original DOI: 10.1177/2378023115627462)
-
 ### “How Far Is Too Far?”
 **年份**: 2016 | **DOI**: [10.1177/2378023116669955](https://doi.org/10.1177/2378023116669955)
 **作者**: Parcel, Toby L.; Hendrix, Joshua A.; Taylor, Andrew J.
@@ -1469,8 +1449,3 @@
 **年份**: 2016 | **DOI**: [10.1177/2378023115625071](https://doi.org/10.1177/2378023115625071)
 **作者**: Peterson, David
 **摘要**: Science studies scholars have shown that the management of natural complexity in lab settings is accomplished through a mixture of technological standardization and tacit knowledge by lab workers. Yet these strategies are not available to researchers who study difficult research objects.…
-
-### Editorial
-**年份**: 2015 | **DOI**: [10.1177/2378023115596525](https://doi.org/10.1177/2378023115596525)
-**作者**: Keister, Lisa A.; Moody, James W.
-**摘要**: （暂无）
