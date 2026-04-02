@@ -1,11 +1,11 @@
 # Gender & Society
 ## 2000–2009 年文章（含摘要）
 
-共 **743** 篇
+共 **737** 篇
 
 ---
 
-### Book Review: Adoption in a Color-Blind Society. By Pamela Anne Quiroz. Lanham, MD: Rowman &amp; Littlefield, 2007, 144 pp., $60.00 (cloth); $19.95 (paper)
+### Book Review: Adoption in a Color-Blind Society. By Pamela Anne Quiroz. Lanham, MD: Rowman & Littlefield, 2007, 144 pp., $60.00 (cloth); $19.95 (paper)
 **年份**: 2009 | **DOI**: [10.1177/0891243209340035](https://doi.org/10.1177/0891243209340035)
 **作者**: Roschelle, Anne R.
 **摘要**: （暂无）
@@ -145,7 +145,7 @@
 **作者**: Kitzinger, Celia
 **摘要**: R e-reading Doing Gender has confirmed its status for me both as a landmark publication and as a missed opportunity. Its achievement was to build on, develop, and promote Garfinkel's (1967) focus on the mundane production of in interaction.…
 
-### Book Review: Intimate Partner Violence. By Angela J. Hattery. New York: Rowman &amp; Littlefield Publishers, Inc., 2008, 222 pp., $75.00 (cloth); $28.95 (paper)
+### Book Review: Intimate Partner Violence. By Angela J. Hattery. New York: Rowman & Littlefield Publishers, Inc., 2008, 222 pp., $75.00 (cloth); $28.95 (paper)
 **年份**: 2009 | **DOI**: [10.1177/0891243209341186](https://doi.org/10.1177/0891243209341186)
 **作者**: Coston, Bethany
 **摘要**: （暂无）
@@ -403,12 +403,12 @@
 **作者**: Korteweg, Anna C.
 **摘要**: In late 2003, the Canadian media reported that the Islamic Institute of Civil Justice would start offering arbitration in family disputes in accordance with both Islamic legal principles and Ontario's Arbitration Act of 1991.…
 
-### Book Review: Race, Work, and Family in the Lives of African Americans. Edited by Marlese Durr and Shirley A. Hill. Lanham, MD: Rowman &amp; Littlefield, 2006, 256 pp., $32.95 (paper)
+### Book Review: Race, Work, and Family in the Lives of African Americans. Edited by Marlese Durr and Shirley A. Hill. Lanham, MD: Rowman & Littlefield, 2006, 256 pp., $32.95 (paper)
 **年份**: 2008 | **DOI**: [10.1177/0891243207313081](https://doi.org/10.1177/0891243207313081)
 **作者**: Jones, Andrew W.
 **摘要**: （暂无）
 
-### Book Review: Gendering Bodies. By Sara L. Crawley, Lara J. Foley, and Constance L. Shehan. New York: Rowman &amp; Littlefield, 2008, 304 pp., $80.00 (cloth), $29.95 (paper)
+### Book Review: Gendering Bodies. By Sara L. Crawley, Lara J. Foley, and Constance L. Shehan. New York: Rowman & Littlefield, 2008, 304 pp., $80.00 (cloth), $29.95 (paper)
 **年份**: 2008 | **DOI**: [10.1177/0891243209332740](https://doi.org/10.1177/0891243209332740)
 **作者**: Boyd, Emily M.
 **摘要**: （暂无）
@@ -427,10 +427,6 @@
 **年份**: 2008 | **DOI**: [10.1177/0891243207311593](https://doi.org/10.1177/0891243207311593)
 **作者**: Glauber, Rebecca
 **摘要**: This study uses data from the National Longitudinal Survey of Youth to explore the intersections of gender and race on fathers' labor market outcomes. Fixed-effects models reveal that for married whites and Latinos, the birth of a child is associated with an increase in hourly wages, annual earnings…
-
-### Erratum
-**年份**: 2008 | **DOI**: [10.1177/0891243208321029](https://doi.org/10.1177/0891243208321029)
-**摘要**: Steinbugler, A. C., Press, J. E., and Johnson Dias, J. 2006. Gender, Race, and Affirmative Action: Operationalizing Intersectionality in Survey Research. Gender & Society, 20(6): 805-25. Original DOI:10.1177/ 0891243206293299
 
 ### Fathering, Class, and Gender
 **年份**: 2008 | **DOI**: [10.1177/0891243209333872](https://doi.org/10.1177/0891243209333872)
@@ -495,10 +491,6 @@
 ### Book Review: Laboring On: Birth in Transition in the United States. By Wendy Simonds, Barbara Katz Rothman, and Bari Meltzer Norman. New York: Routledge, 2006, 320 pp., $105.00 (cloth); $29.95 (paper)
 **年份**: 2008 | **DOI**: [10.1177/0891243208318821](https://doi.org/10.1177/0891243208318821)
 **作者**: Omori, Megumi
-**摘要**: （暂无）
-
-### Erratum
-**年份**: 2008 | **DOI**: [10.1177/0891243207312959](https://doi.org/10.1177/0891243207312959)
 **摘要**: （暂无）
 
 ### Book Review: The Purchase of Intimacy. By Viviana A. Zelizer. Princeton, NJ: Princeton University Press, 2005, 356 pp., $47.50 (cloth), $19.95 (paper)
@@ -881,7 +873,7 @@
 **作者**: Herzog, Hanna; Yahia-Younis, Taghreed
 **摘要**: This article expands Kandiyoti's concept of patriarchal bargaining to include men's negotiations. It analyzes how marginalized groups within a dominant sociocultural knowledge regime strategize to advance change while trying to maximize security and optimize their life options.…
 
-### Book Reviews: Age Matters: Realigning Feminist Thinking. Edited by Toni M. Calasanti and Kathleen F. Slevin. New York: Taylor &amp; Francis, 2006, 355 pp., $135.00 (cloth), $34.95 (paper)
+### Book Reviews: Age Matters: Realigning Feminist Thinking. Edited by Toni M. Calasanti and Kathleen F. Slevin. New York: Taylor & Francis, 2006, 355 pp., $135.00 (cloth), $34.95 (paper)
 **年份**: 2007 | **DOI**: [10.1177/0891243207306387](https://doi.org/10.1177/0891243207306387)
 **作者**: Winterich, Julie A.
 **摘要**: （暂无）
@@ -911,7 +903,7 @@
 **作者**: Bridges, Tristan S.
 **摘要**: （暂无）
 
-### Class Questions, Feminist Answers. By Joan Acker. Lanham, MA: Rowman &amp; Littlefield, 2006, 219 pp., $24.94 (paper), $70.00 (hardback)
+### Class Questions, Feminist Answers. By Joan Acker. Lanham, MA: Rowman & Littlefield, 2006, 219 pp., $24.94 (paper), $70.00 (hardback)
 **年份**: 2007 | **DOI**: [10.1177/0891243206295784](https://doi.org/10.1177/0891243206295784)
 **作者**: Williams, Christine L.
 **摘要**: （暂无）
@@ -1021,7 +1013,7 @@
 **作者**: Anderson, Kristin L.
 **摘要**: This article applies a structuralist perspective on gender to investigate predictors of marital dissolution among men and women who are victimized by partner violence. Using panel data from the first and second waves of the National Survey of Families and Households, the study investigates the quest…
 
-### Gender, Race, Class &amp; Health: Intersectional Approaches. Edited by Amy J. Schulz and Leith Mullings. San Francisco: Jossey-Bass, 2006, 423 pp., $60.00 (paper)
+### Gender, Race, Class & Health: Intersectional Approaches. Edited by Amy J. Schulz and Leith Mullings. San Francisco: Jossey-Bass, 2006, 423 pp., $60.00 (paper)
 **年份**: 2007 | **DOI**: [10.1177/0891243206297800](https://doi.org/10.1177/0891243206297800)
 **作者**: Nack, Adina
 **摘要**: （暂无）
@@ -1081,7 +1073,7 @@
 **作者**: Ellis, Kate
 **摘要**: （暂无）
 
-### Book Reviews: Changing Gender Relations, Changing Families: Tracing the Pace of Change over Time. By Oriel Sullivan. Lanham, MD: Rowman &amp; Littlefield, 2006, 141 pp., $19.95 (paper)
+### Book Reviews: Changing Gender Relations, Changing Families: Tracing the Pace of Change over Time. By Oriel Sullivan. Lanham, MD: Rowman & Littlefield, 2006, 141 pp., $19.95 (paper)
 **年份**: 2007 | **DOI**: [10.1177/0891243207306389](https://doi.org/10.1177/0891243207306389)
 **作者**: Hill, Shirley A.
 **摘要**: （暂无）
@@ -1131,7 +1123,7 @@
 **作者**: Beauboeuf-Lafontant, Tamara
 **摘要**: Investigating the possible overlap between depressed and presumably strong Black women, this article maintains that women's experiences of depression are both gendered and raced. A review of clinical and popular literatures examining Black women's experiences of depression as well as findings from a…
 
-### Book Reviews: The Career Mystique: Cracks in the American Dream. By Phyllis Moen and Patricia Roehling. Lanham, MD: Rowman &amp; Littlefield, 2005, 304 pp., $72.00 (cloth), $24.95 (paper)
+### Book Reviews: The Career Mystique: Cracks in the American Dream. By Phyllis Moen and Patricia Roehling. Lanham, MD: Rowman & Littlefield, 2005, 304 pp., $72.00 (cloth), $24.95 (paper)
 **年份**: 2007 | **DOI**: [10.1177/0891243207306390](https://doi.org/10.1177/0891243207306390)
 **作者**: Winslow-Bowe, Sarah
 **摘要**: （暂无）
@@ -1275,10 +1267,6 @@
 **年份**: 2006 | **DOI**: [10.1177/0891243206293299](https://doi.org/10.1177/0891243206293299)
 **作者**: Steinbugler, Amy C.; Press, Julie E.; Dias, Janice Johnson
 **摘要**: In this article, the authors operationalize the intersection of gender and race in survey research. Using quantitative data from the Multi-City Study of Urban Inequality, they investigate how gender/racial stereotypes about African Americans affect Whites’ attitudes about two types of affirmative ac…
-
-### Index to Gender &amp; Society
-**年份**: 2006 | **DOI**: [10.1177/089124320602000611](https://doi.org/10.1177/089124320602000611)
-**摘要**: （暂无）
 
 ### Book Review: Pobladoras, Indígenas, and the State: Conflicts over Women’s Rights in Chile
 **年份**: 2006 | **DOI**: [10.1177/0891243205281839](https://doi.org/10.1177/0891243205281839)
@@ -1529,7 +1517,7 @@
 **作者**: Norgaard, Kari; York, Richard
 **摘要**: There are several compelling reasons to expect that gender equality may serve to foster state environmentalism. However, most previous research on environmental politics has neglected gender.…
 
-### Book Review: Prostitution, Race &amp; Politics: Policing Venereal Disease in the British Empire
+### Book Review: Prostitution, Race & Politics: Policing Venereal Disease in the British Empire
 **年份**: 2005 | **DOI**: [10.1177/0891243204269509](https://doi.org/10.1177/0891243204269509)
 **作者**: Kuo, Lenore
 **摘要**: （暂无）
@@ -1579,10 +1567,6 @@
 **作者**: Trautner, Mary Nell
 **摘要**: Organizations are not only gendered; they are also classed—that is, they articulate ideas and presentations of gender that are mediated by class position. This article pursues the idea of organizations as gendered and classed by means of a comparative ethnographic analysis of the performance of sexu…
 
-### Index to Gender &amp; Society Volume 19
-**年份**: 2005 | **DOI**: [10.1177/089124320501900616](https://doi.org/10.1177/089124320501900616)
-**摘要**: （暂无）
-
 ### Book Review: “A Roof over My Head”: Homeless Women and the Shelter Industry
 **年份**: 2005 | **DOI**: [10.1177/0891243204268840](https://doi.org/10.1177/0891243204268840)
 **作者**: Simonds, Wendy
@@ -1593,7 +1577,7 @@
 **作者**: Huisman, Kimberly; Hondagneu-Sotelo, Pierrette
 **摘要**: Dress serves as a discursive daily practice of gender, and this article explains the dress practices of Bosnian Muslim refugee women living in Vermont. These dress practices tend toward elaborate, carefully cultivated styles for hair, makeup, and dress.…
 
-### Book Reviews: Dubious Equalities &amp; Embodied Differences: Cultural Studies on Cosmetic Surgery; Flesh Wounds: The Culture of Cosmetic Surgery
+### Book Reviews: Dubious Equalities & Embodied Differences: Cultural Studies on Cosmetic Surgery; Flesh Wounds: The Culture of Cosmetic Surgery
 **年份**: 2005 | **DOI**: [10.1177/0891243204269155](https://doi.org/10.1177/0891243204269155)
 **作者**: Kim, Minjeong
 **摘要**: （暂无）
@@ -1957,10 +1941,6 @@
 **作者**: Ostrander, Susan A.
 **摘要**: Philanthropy is typically hierarchically constructed with an imbalance of power between funders and grantees. While this seems inherent in philanthropic relationships where funders inevitably control resources that grantees need, some women’s funds have sought to construct less hierarchical and thus…
 
-### Index to Gender &amp; Society Volume 18
-**年份**: 2004 | **DOI**: [10.1177/089124320401800613](https://doi.org/10.1177/089124320401800613)
-**摘要**: （暂无）
-
 ### Book Reviews
 **年份**: 2004 | **DOI**: [10.1177/0891243204265555](https://doi.org/10.1177/0891243204265555)
 **作者**: Warren, Elizabeth Watts
@@ -2093,11 +2073,6 @@
 ### Book Reviews
 **年份**: 2004 | **DOI**: [10.1177/0891243203262100](https://doi.org/10.1177/0891243203262100)
 **作者**: Kennelly, Ivy
-**摘要**: （暂无）
-
-### Four Years of Books Reviewed in Gender &amp; Society
-**年份**: 2004 | **DOI**: [10.1177/0891243204265570](https://doi.org/10.1177/0891243204265570)
-**作者**: Beoku-Betts, Josephine; Grant, Linda
 **摘要**: （暂无）
 
 ### Men in Crisis in Russia

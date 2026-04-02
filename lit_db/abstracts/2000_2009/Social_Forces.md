@@ -1,7 +1,7 @@
 # Social Forces
 ## 2000–2009 年文章（含摘要）
 
-共 **1249** 篇
+共 **1241** 篇
 
 ---
 
@@ -140,7 +140,7 @@
 **作者**: Trinitapoli, J.
 **摘要**: （暂无）
 
-### Forbidden Fruit: Sex &amp; Religion in the Lives of American Teenagers By Mark D. Regnerus Oxford University Press. 2007. 290 pages. $24 paper
+### Forbidden Fruit: Sex & Religion in the Lives of American Teenagers By Mark D. Regnerus Oxford University Press. 2007. 290 pages. $24 paper
 **年份**: 2009 | **DOI**: [10.1353/sof.0.0180](https://doi.org/10.1353/sof.0.0180)
 **作者**: Clydesdale, T.
 **摘要**: Journal Article Forbidden Fruit: Sex & Religion in the Lives of American Teenagers By Mark D. Regnerus Oxford University Press. 2007. 290 pages. $24 paper Get access Tim Clydesdale Tim Clydesdale College of New Jersey Search for other works by this author on: Oxford Academic Google Scholar Social Fo…
@@ -440,7 +440,7 @@
 **作者**: Zonderman, D. A.
 **摘要**: Journal Article Labor's Time: Shorter Hours, the UAW, and the Struggle for American Unionism By Jonathan Cutler Temple University Press. 2004. 236 pages. $74.50 cloth, $24.95 paper Get access David A. Zonderman David A.…
 
-### Critics, Ratings, and Society: The Sociology of Reviews By Grant Blank Rowan &amp; Littlefield. 2007. 245 pages. $20.65 paper
+### Critics, Ratings, and Society: The Sociology of Reviews By Grant Blank Rowan & Littlefield. 2007. 245 pages. $20.65 paper
 **年份**: 2009 | **DOI**: [10.1353/sof.0.0213](https://doi.org/10.1353/sof.0.0213)
 **作者**: Baumann, S.
 **摘要**: （暂无）
@@ -585,7 +585,7 @@
 **作者**: Lo, M.-C. M.
 **摘要**: The Devil's Handwriting: Precoloniality and the German Colonial State in Qingdao, Samoa, and Southwest Africa By George Steinmetz University of Chicago Press. 2007. 640 pages. $90 cloth, $33 paper Get access Ming-Cheng Miriam Lo Ming-Cheng Miriam Lo University of California-Davis Search for other wo…
 
-### The Face of Discrimination: How Race and Gender Impact Work and Home Lives By Vincent J. Roscigno Rowman &amp; Littlefield, 2007. 242 pages. $25.95 paper
+### The Face of Discrimination: How Race and Gender Impact Work and Home Lives By Vincent J. Roscigno Rowman & Littlefield, 2007. 242 pages. $25.95 paper
 **年份**: 2009 | **DOI**: [10.1353/sof.0.0199](https://doi.org/10.1353/sof.0.0199)
 **作者**: Madden, J. F.
 **摘要**: Journal Article The Face of Discrimination: How Race and Gender Impact Work and Home Lives By Vincent J. Roscigno Rowman & Littlefield, 2007. 242 pages. $25.95 paper Get access Janice Fanning Madden Janice Fanning Madden University of Pennsylvania Search for other works by this author on: Oxford Aca…
@@ -804,7 +804,7 @@
 **作者**: Whooley, O.
 **摘要**: The sociology of knowledge, derived from research on the hard sciences, overlooks the potential for outsiders to determine the content of knowledge within professional disciplines. Using the case of the Sally Hemings affair, I introduce the concept of “knowledge advocacy” to analyze how outside grou…
 
-### Latent Curve Models: A Structural Equation Perspective By Kenneth A. Bollen and Patrick J. Curran John Wiley &amp; Sons. 2006. 285 pages. $94.95 cloth
+### Latent Curve Models: A Structural Equation Perspective By Kenneth A. Bollen and Patrick J. Curran John Wiley & Sons. 2006. 285 pages. $94.95 cloth
 **年份**: 2008 | **DOI**: [10.1353/sof.0.0084](https://doi.org/10.1353/sof.0.0084)
 **作者**: Farkas, G.
 **摘要**: Latent Curve Models: A Structural Equation Perspective By Kenneth A. Bollen and Patrick J. Curran John Wiley & Sons. 2006. 285 pages. $94.95 cloth George Farkas George Farkas Pennsylvania State University Search for other works by this author on: Oxford Academic Google Scholar Social Forces, Volume …
@@ -824,7 +824,7 @@
 **作者**: Brand, J. E.; Burgard, S. A.
 **摘要**: We examine the effects of job displacement, an involuntary event associated with socioeconomic and psychological decline, on social participation. Using more than 45 years of panel data from the Wisconsin Longitudinal Study, we find that job displacement is associated with significant, long-term low…
 
-### Framing Class: Media Representations of Wealth and Poverty in America By Diana Kendall Rowman &amp; Littlefield, 2005. 288 pages. $75 (cloth), $24.95 (paper)
+### Framing Class: Media Representations of Wealth and Poverty in America By Diana Kendall Rowman & Littlefield, 2005. 288 pages. $75 (cloth), $24.95 (paper)
 **年份**: 2008 | **DOI**: [10.1353/sof.0.0016](https://doi.org/10.1353/sof.0.0016)
 **作者**: Moller, S.
 **摘要**: Journal Article Framing Class: Media Representations of Wealth and Poverty in America By Diana Kendall Rowman & Littlefield, 2005. 288 pages. $75 (cloth), $24.95 (paper) Get access Stephanie Moller Stephanie Moller University of North Carolina at Charlotte Search for other works by this author on: O…
@@ -874,12 +874,12 @@
 **作者**: Olneck, M.
 **摘要**: An Unexpected Minority: White Kids in an Urban School By Edward Morris Rutgers University Press. 2006. 165 pages. $59.95 cloth, $23.95 paper Get access Michael Olneck Michael Olneck University of Wisconsin-Madison Search for other works by this author on: Oxford Academic Google Scholar Social Forces…
 
-### Public Sociologies Reader Edited by Judith Blau and Keri E. Iyall Smith Rowman &amp; Littlefield, 2006. 355 pages. $80 cloth, $29.95 paper
+### Public Sociologies Reader Edited by Judith Blau and Keri E. Iyall Smith Rowman & Littlefield, 2006. 355 pages. $80 cloth, $29.95 paper
 **年份**: 2008 | **DOI**: [10.1353/sof.0.0046](https://doi.org/10.1353/sof.0.0046)
 **作者**: Goldman, M.
 **摘要**: Public Sociologies Reader Edited by Judith Blau and Keri E. Iyall Smith Rowman & Littlefield, 2006. 355 pages. $80 cloth, $29.95 paper Michael Goldman Michael Goldman University of Minnesota-Twin Cities Search for other works by this author on: Oxford Academic Google Scholar Social Forces, Volume 86…
 
-### The Path of the Devil: Early Modern Witch Hunts By Gary Jensen Rowman &amp; Littlefield Publishers. 281 pages. $75 cloth, $26.95 paper
+### The Path of the Devil: Early Modern Witch Hunts By Gary Jensen Rowman & Littlefield Publishers. 281 pages. $75 cloth, $26.95 paper
 **年份**: 2008 | **DOI**: [10.1353/sof.0.0053](https://doi.org/10.1353/sof.0.0053)
 **作者**: Ben-Yehuda, N.
 **摘要**: Journal Article The Path of the Devil: Early Modern Witch Hunts By Gary Jensen Rowman & Littlefield Publishers. 281 pages. $75 cloth, $26.95 paper Get access Nachman Ben-Yehuda Nachman Ben-Yehuda Hebrew University Search for other works by this author on: Oxford Academic Google Scholar Social Forces…
@@ -994,7 +994,7 @@
 **作者**: Williams, S.
 **摘要**: Recent disasters have been of such scale and complexity that both the common assumptions made about learning from them, and the traditional approaches distinguishing natural from technological disasters (and now terrorism) are thus challenged.…
 
-### Desegregating the City: Ghettos, Enclaves, &amp; Inequality Edited by David P. Varady State University of New York Press. 2005. 310 pages. $75 cloth, $25.95 paper
+### Desegregating the City: Ghettos, Enclaves, & Inequality Edited by David P. Varady State University of New York Press. 2005. 310 pages. $75 cloth, $25.95 paper
 **年份**: 2008 | **DOI**: [10.1353/sof.0.0089](https://doi.org/10.1353/sof.0.0089)
 **作者**: Smith, S. S.
 **摘要**: Desegregating the City: Ghettos, Enclaves, & Inequality Edited by David P. Varady State University of New York Press. 2005. 310 pages. $75 cloth, $25.95 paper Sandra Susan Smith Sandra Susan Smith University of California, Berkeley Search for other works by this author on: Oxford Academic Google Sch…
@@ -1319,7 +1319,7 @@
 **作者**: Outhwaite, W.
 **摘要**: Journal Article A Realist Philosophy of Social Science, ExpIanation and Understanding By Peter Manicas Cambridge University Press, 2006. 225 pages. $24.99 (paper) Get access William Outhwaite William Outhwaite University of Newcastle Search for other works by this author on: Oxford Academic Google S…
 
-### Human Rights: Beyond the Liberal Vision By Judith Blau and Alberto Moncada Rowman &amp; Littlefield, 2005. 205 pages. $72 (cloth), $22.95 (paper)
+### Human Rights: Beyond the Liberal Vision By Judith Blau and Alberto Moncada Rowman & Littlefield, 2005. 205 pages. $72 (cloth), $22.95 (paper)
 **年份**: 2007 | **DOI**: [10.1353/sof.2007.0082](https://doi.org/10.1353/sof.2007.0082)
 **作者**: Turner, B. S.
 **摘要**: Journal Article Human Rights: Beyond the Liberal Vision By Judith Blau and Alberto Moncada Rowman & Littlefield, 2005. 205 pages. $72 (cloth), $22.95 (paper) Get access Bryan S. Turner Bryan S.…
@@ -1369,7 +1369,7 @@
 **作者**: Nepstad, S. E.
 **摘要**: Journal Article The Art of Protest: Culture and Activism from the Civil Rights Movement to the Streets of Seattle By T.V. Reed University of Minnesota Press, 2005. 362 pages. $74.95 (cloth), $24.95 (paper) Get access Sharon Erickson Nepstad Sharon Erickson Nepstad University of Southern Maine Search…
 
-### Insiders &amp; Outsiders: Citizenship and Xenophobia in Contemporary Southern Africa By Francis B. Nyamnjoh UNISA, CODESRIA and Zed Books, 2006. 273 pages. $29.95 (paper)
+### Insiders & Outsiders: Citizenship and Xenophobia in Contemporary Southern Africa By Francis B. Nyamnjoh UNISA, CODESRIA and Zed Books, 2006. 273 pages. $29.95 (paper)
 **年份**: 2007 | **DOI**: [10.1353/sof.2007.0074](https://doi.org/10.1353/sof.2007.0074)
 **作者**: Lindeke, B.
 **摘要**: （暂无）
@@ -1642,7 +1642,7 @@
 **作者**: Van Dyke, N.; Dixon, M.; Carlon, H.
 **摘要**: Journal Article Manufacturing Dissent: Labor Revitalization, Union Summer and Student Protest Get access Nella Van Dyke, Nella Van Dyke Washington State University Direct correspondence to Nella Van Dyke, Department of Sociology, Washington State University, 204 Wilson Hall, Pullman WA 99164.…
 
-### Grounds for Agreement: The Political Economy of the Coffee Commodity Chain By John M. Talbot Rowman &amp; Littlefield, 2004. 238 pages. $77 (cloth), $29.95 (paper)
+### Grounds for Agreement: The Political Economy of the Coffee Commodity Chain By John M. Talbot Rowman & Littlefield, 2004. 238 pages. $77 (cloth), $29.95 (paper)
 **年份**: 2007 | **DOI**: [10.1353/sof.2007.0031](https://doi.org/10.1353/sof.2007.0031)
 **作者**: Bair, J.
 **摘要**: Journal Article Grounds for Agreement: The Political Economy of the Coffee Commodity Chain By John M. Talbot Rowman & Littlefield, 2004. 238 pages. $77 (cloth), $29.95 (paper) Get access Jennifer Bair Jennifer Bair Yale University Search for other works by this author on: Oxford Academic Google Scho…
@@ -1812,7 +1812,7 @@
 **作者**: Beckfield, J.
 **摘要**: Journal Article Working Mothers and the Welfare State By Kimberly J. Morgan Stanford University Press, 2006. 250 pages. $55 (cloth), $21.95 (paper) Get access Jason Beckfield Jason Beckfield Harvard University Search for other works by this author on: Oxford Academic Google Scholar Social Forces, Vo…
 
-### The Catholic Church in State Politics: Negotiating Prophetic Demands and Political Realities By David Yamane Rowman &amp; Littlefield Publishers, Inc., 2005. 187 pages. $65 (cloth), $24.95 (paper)
+### The Catholic Church in State Politics: Negotiating Prophetic Demands and Political Realities By David Yamane Rowman & Littlefield Publishers, Inc., 2005. 187 pages. $65 (cloth), $24.95 (paper)
 **年份**: 2007 | **DOI**: [10.1353/sof.2007.0085](https://doi.org/10.1353/sof.2007.0085)
 **作者**: Wilde, M. J.
 **摘要**: Journal Article The Catholic Church in State Politics: Negotiating Prophetic Demands and Political Realities By David Yamane Rowman & Littlefield Publishers, Inc., 2005. 187 pages. $65 (cloth), $24.95 (paper) Get access Melissa J. Wilde Melissa J.…
@@ -2047,7 +2047,7 @@
 **作者**: Hardie, J. H.
 **摘要**: （暂无）
 
-### Rape Work: Victims, Gender, and Emotions in Organization and Community Context By Patricia Yancey Martin Routledge, Taylor &amp; Francis Group, 2005. 280 pages. $85 (cloth), $24.95 (paper)
+### Rape Work: Victims, Gender, and Emotions in Organization and Community Context By Patricia Yancey Martin Routledge, Taylor & Francis Group, 2005. 280 pages. $85 (cloth), $24.95 (paper)
 **年份**: 2006 | **DOI**: [10.1353/sof.2006.0092](https://doi.org/10.1353/sof.2006.0092)
 **作者**: Hamlin, J.
 **摘要**: Journal Article Rape Work: Victims, Gender, and Emotions in Organization and Community Context By Patricia Yancey Martin Routledge, Taylor & Francis Group, 2005. 280 pages. $85 (cloth), $24.95 (paper) Get access John Hamlin John Hamlin University of Minnesota, Duluth Search for other works by this a…
@@ -2127,7 +2127,7 @@
 **作者**: Rank, M. R.
 **摘要**: Journal Article Putting Children First: How Low-Wage Working Mothers Manage Child Care By Ajay Chaudry Russell Sage Foundation, 2004. 341 pages. $39.95 (cloth); $19.95 (paper) Get access Mark R. Rank Mark R.…
 
-### Frames of Protest: Social Movements and the Framing Perspective Edited by Hank Johnston and John A. Noakes Rowman &amp; Littlefield, 2005. 269 pages. $80 (cloth); $32.95 (paper)
+### Frames of Protest: Social Movements and the Framing Perspective Edited by Hank Johnston and John A. Noakes Rowman & Littlefield, 2005. 269 pages. $80 (cloth); $32.95 (paper)
 **年份**: 2006 | **DOI**: [10.1353/sof.2007.0000](https://doi.org/10.1353/sof.2007.0000)
 **作者**: Bandy, J.
 **摘要**: Frames of Protest: Social Movements and the Framing Perspective Edited by Hank Johnston and John A. Noakes Rowman & Littlefield, 2005. 269 pages. $80 (cloth); $32.95 (paper) Get access Joe Bandy Joe Bandy Bowdoin College Search for other works by this author on: Oxford Academic Google Scholar Social…
@@ -2197,7 +2197,7 @@
 **作者**: Freese, J.
 **摘要**: Journal Article Ecological-Evolutionary Theory: Principles and Applications By Gerhard Lenski Paradigm Publishers, 2005. 251 pages. $67 (cloth); $28.95 (paper) Get access Jeremy Freese Jeremy Freese University of Wisconsin-Madison and Harvard University Search for other works by this author on: Oxfo…
 
-### The Poorhouse: America's Forgotten Institution By David Wagner Rowan &amp; Littlefield, 2005. 179 pages. $66 (cloth); $24.95 (paper)
+### The Poorhouse: America's Forgotten Institution By David Wagner Rowan & Littlefield, 2005. 179 pages. $66 (cloth); $24.95 (paper)
 **年份**: 2006 | **DOI**: [10.1353/sof.2007.0012](https://doi.org/10.1353/sof.2007.0012)
 **作者**: Katz, M. B.
 **摘要**: The Poorhouse: America's Forgotten Institution By David Wagner Rowan & Littlefield, 2005. 179 pages. $66 (cloth); $24.95 (paper) Get access Michael B. Katz Michael B. Katz University of Pennsylvania Search for other works by this author on: Oxford Academic Google Scholar Social Forces, Volume 85, Is…
@@ -2401,7 +2401,7 @@
 **作者**: Thebaud, S.; Weeden, K. A.
 **摘要**: Journal Article Fighting for Time: Shifting Boundaries of Work and Social Life Edited by Cynthia Fuchs Epstein and Arne L. Kalleberg Russell Sage Foundation, 2004. 354 pages. $39.95 (cloth) Get access Sarah Thébaud, Sarah Thébaud Cornell University Search for other works by this author on: Oxford Ac…
 
-### Methods for Testing and Evaluating Survey Questionnaires Edited by Stanley Presser, Jennifer M. Rothgeb, Mick P. Couper, Judith T. Lessler, Elizabeth Martin, Jean Martin and Eleanor Singer John Wiley &amp; Sons, 2004. 606 pages. $59.95 (cloth)
+### Methods for Testing and Evaluating Survey Questionnaires Edited by Stanley Presser, Jennifer M. Rothgeb, Mick P. Couper, Judith T. Lessler, Elizabeth Martin, Jean Martin and Eleanor Singer John Wiley & Sons, 2004. 606 pages. $59.95 (cloth)
 **年份**: 2006 | **DOI**: [10.1353/sof.2006.0122](https://doi.org/10.1353/sof.2006.0122)
 **作者**: Currivan, D. B.
 **摘要**: Journal Article Methods for Testing and Evaluating Survey Questionnaires Edited by Stanley Presser, Jennifer M. Rothgeb, Mick P. Couper, Judith T. Lessler, Elizabeth Martin, Jean Martin and Eleanor Singer John Wiley & Sons, 2004. 606 pages. $59.95 (cloth) Get access Douglas B. Currivan Douglas B.…
@@ -2441,7 +2441,7 @@
 **作者**: Williams, R. H.
 **摘要**: Journal Article America and the Challenges of Religious Diversity By Robert Wuthnow Princeton University Press, 2005. 391 pages. $29.95 (cloth) Get access Rhys H. Williams Rhys H. Williams University of Cincinnati Search for other works by this author on: Oxford Academic Google Scholar Social Forces…
 
-### Middle Eastern Lives in America By Amir Marvasti and Karyn D. McKinney Rowman &amp; Littlefield Publishers, Inc., 2004. 171 pages. $60 (cloth); $22.95 (paper)
+### Middle Eastern Lives in America By Amir Marvasti and Karyn D. McKinney Rowman & Littlefield Publishers, Inc., 2004. 171 pages. $60 (cloth); $22.95 (paper)
 **年份**: 2006 | **DOI**: [10.1353/sof.2006.0055](https://doi.org/10.1353/sof.2006.0055)
 **作者**: Leonard, K.
 **摘要**: Journal Article Middle Eastern Lives in America By Amir Marvasti and Karyn D. McKinney Rowman & Littlefield Publishers, Inc., 2004. 171 pages. $60 (cloth); $22.95 (paper) Get access Karen Leonard Karen Leonard University of California, Irvine Search for other works by this author on: Oxford Academic…
@@ -2605,10 +2605,6 @@
 **年份**: 2005 | **DOI**: [10.1353/sof.2006.0027](https://doi.org/10.1353/sof.2006.0027)
 **作者**: Pellerin, L. A.
 **摘要**: This paper advances a cross-contextual understanding of authoritative socialization, a concept developed by family researchers. Using data from the High School Effectiveness Study, I use multilevel modeling to test the effect of high school socialization style on student disengagement from 10th to 1…
-
-### Erratum to: Reynolds, Jeremy. "You Can't Always Get the Hours You Want: Mismatches between Actual and Preferred Work Hours in the U.S." Social Forces 81(4):1171-99
-**年份**: 2005 | **DOI**: [10.1353/sof.2005.0064](https://doi.org/10.1353/sof.2005.0064)
-**摘要**: （暂无）
 
 ### Families That Work: Policies for Reconciling Parenthood and Employment By Janet C. Gornick and Marcia K. Meyers Russell Sage Foundation, 2003. 392 pages. $39.95 (cloth), $19.95 (paper)
 **年份**: 2005 | **DOI**: [10.1353/sof.2005.0114](https://doi.org/10.1353/sof.2005.0114)
@@ -2788,10 +2784,6 @@
 **年份**: 2005 | **DOI**: [10.1353/sof.2006.0013](https://doi.org/10.1353/sof.2006.0013)
 **作者**: Edgell, P.
 **摘要**: Journal Article Heaven's Kitchen: Living Religion at God's Love We Deliver By Courtney Bender University of Chicago Press. 2003. 208 pages. $40 (hardcover); $16 (paperback) Get access Penny Edgell Penny Edgell University of Minnesota Search for other works by this author on: Oxford Academic Google S…
-
-### Erratum to: Fisher, Dana R., and William R. Freudenburg. 2004. "Post Industrialization and Environmental Quality: An Empirical Analysis of the Environmental State." Social Forces. Volume 83(1): 157-88
-**年份**: 2005 | **DOI**: [10.1093/sf/83.4.1793a](https://doi.org/10.1093/sf/83.4.1793a)
-**摘要**: （暂无）
 
 ### Better Late Than Never? Delayed Enrollment in the High School to College Transition
 **年份**: 2005 | **DOI**: [10.1353/sof.2005.0089](https://doi.org/10.1353/sof.2005.0089)
@@ -3368,7 +3360,7 @@
 **作者**: Lively, K. J.
 **摘要**: （暂无）
 
-### Human Institutions: A Theory of Societal Evolution. By Jonathan H. Turner. Rowman &amp; Littlefield, 2003. 309 pp. Cloth, $75.00; paper, $29.95
+### Human Institutions: A Theory of Societal Evolution. By Jonathan H. Turner. Rowman & Littlefield, 2003. 309 pp. Cloth, $75.00; paper, $29.95
 **年份**: 2004 | **DOI**: [10.1353/sof.2004.0129](https://doi.org/10.1353/sof.2004.0129)
 **作者**: Vaisey, S.
 **摘要**: Journal Article Human Institutions: A Theory of Societal Evolution.By Jonathan H. Turner. Rowman & Littlefield, 2003. 309 pp. Cloth, $75.00; paper, $29.95 Get access Stephen Vaisey Stephen Vaisey University of North Carolina at Chapel Hill Search for other works by this author on: Oxford Academic Go…
@@ -3468,10 +3460,6 @@
 **作者**: McVeigh, R.
 **摘要**: A theory of structured ignorance is developed and applied in an analysis of variation in the number of racist organizations in U.S. counties in 1997 and 2000. The theory identifies forms of structural differentiation that would make the worldview constructed within racist organizations seem plausibl…
 
-### Index to Volume 82
-**年份**: 2004 | **DOI**: [10.1353/sof.2004.0076](https://doi.org/10.1353/sof.2004.0076)
-**摘要**: Index to Volume 82 Get access Social Forces, Volume 82, Issue 4, June 2004, Pages 1681–1686, https://doi.org/10.1353/sof.2004.0076 Published: 01 June 2004
-
 ### Editor's Note
 **年份**: 2004 | **DOI**: [10.1353/sof.2004.0104](https://doi.org/10.1353/sof.2004.0104)
 **作者**: Blau, J.
@@ -3502,7 +3490,7 @@
 **作者**: Rodriguez, H.
 **摘要**: Journal Article A “Long Walk to Freedom” and Democracy: Human Rights, Globalization, and Social Injustice Get access Havidán Rodríguez Havidán Rodríguez University of Delaware Direct correspondence to Havidan Rodríguez, University of Delaware, 322 Smith Hall, Newark, DE 19716.…
 
-### Screen Saviors: Hollywood Fictions of Whiteness. By Hernan Vera and Andrew M. Gordon. Rowman &amp; Littlefield, 2003. 203 pp. $22.95
+### Screen Saviors: Hollywood Fictions of Whiteness. By Hernan Vera and Andrew M. Gordon. Rowman & Littlefield, 2003. 203 pp. $22.95
 **年份**: 2004 | **DOI**: [10.1353/sof.2004.0048](https://doi.org/10.1353/sof.2004.0048)
 **作者**: Perry, P.
 **摘要**: Journal Article Screen Saviors: Hollywood Fictions of Whiteness.By Hernán Vera and Andrew M. Gordon. Rowman & Littlefield, 2003. 203 pp. $22.95 Get access Pamela Perry Pamela Perry University of California, Santa Cruz Search for other works by this author on: Oxford Academic Google Scholar Social Fo…
@@ -3607,7 +3595,7 @@
 **作者**: Perrin, A. J.
 **摘要**: （暂无）
 
-### The Many Costs of Racism. By Joe R. Feagin and Karyn D. McKinney. Rowman &amp; Littlefield. $24.95
+### The Many Costs of Racism. By Joe R. Feagin and Karyn D. McKinney. Rowman & Littlefield. $24.95
 **年份**: 2004 | **DOI**: [10.1353/sof.2004.0031](https://doi.org/10.1353/sof.2004.0031)
 **作者**: Bonilla-Silva, E.
 **摘要**: Journal Article The Many Costs of Racism.By Joe R. Feagin and Karyn D. McKinney. Rowman & Littlefield. $24.95 Get access Eduardo Bonilla-Silva Eduardo Bonilla-Silva Texas A&M University Search for other works by this author on: Oxford Academic Google Scholar Social Forces, Volume 82, Issue 3, March …
@@ -4160,10 +4148,6 @@
 **作者**: Reynolds, J.
 **摘要**: Data from the 1997 International Social Survey Programme show that a majority of U.S. employees prefer to work a different number of hours than they actually work. Employees are divided in their preferences: many want to spend less time at work, but there are also many who want to increase their hou…
 
-### Index to Volume 81
-**年份**: 2003 | **DOI**: [10.1353/sof.2003.0060](https://doi.org/10.1353/sof.2003.0060)
-**摘要**: Index to Volume 81 Get access Social Forces, Volume 81, Issue 4, June 2003, Pages 1523–1527, https://doi.org/10.1353/sof.2003.0060 Published: 01 June 2003
-
 ### Fairer Sex or Fairer System? Gender and Corruption Revisited
 **年份**: 2003 | **DOI**: [10.1353/sof.2004.0028](https://doi.org/10.1353/sof.2004.0028)
 **作者**: Sung, H.-E.
@@ -4602,7 +4586,7 @@
 **年份**: 2002 | **DOI**: [10.1353/sof.2002.0005](https://doi.org/10.1353/sof.2002.0005)
 **摘要**: Dawn T. Robinson's article, “Getting a Laugh: Gender, Status, and Humor in Task Discussions,” (80[l]:123–58) contained incorrect symbols in the bottom paragraph on page 133. The paragraph, with correct symbols, is reprinted below.
 
-### Political Altruism? Solidarity Movements in International Perspective. Edited by Marco Giugni and Florence Passy. Rowman &amp; Littlefield, 2001. 283 pp. Cloth, $69.00; paper, $29.95
+### Political Altruism? Solidarity Movements in International Perspective. Edited by Marco Giugni and Florence Passy. Rowman & Littlefield, 2001. 283 pp. Cloth, $69.00; paper, $29.95
 **年份**: 2002 | **DOI**: [10.1353/sof.2002.0060](https://doi.org/10.1353/sof.2002.0060)
 **作者**: Seidman, G.
 **摘要**: Journal Article Political Altruism? Solidarity Movements in International Perspective.Edited by Marco Giugni and Florence Passy. Rowman & Littlefield, 2001. 283 pp. Cloth, $69.00; paper, $29.95 Get access Gay Seidman Gay Seidman University of Wisconsin—Madison Search for other works by this author o…
@@ -4671,10 +4655,6 @@
 **年份**: 2002 | **DOI**: [10.1353/sof.2002.0037](https://doi.org/10.1353/sof.2002.0037)
 **作者**: Yamanaka, K.
 **摘要**: Journal Article Multi-ethnic Japan.By John Lie. Harvard University Press, 2001. 248 pp. Cloth, $35.00 Get access Keiko Yamanaka Keiko Yamanaka University of California, Berkeley Search for other works by this author on: Oxford Academic Google Scholar Social Forces, Volume 80, Issue 4, June 2002, Pag…
-
-### Index to Volume 80
-**年份**: 2002 | **DOI**: [10.1093/sf/80.4.1427](https://doi.org/10.1093/sf/80.4.1427)
-**摘要**: Journal Article Index to Volume 80 Get access Social Forces, Volume 80, Issue 4, June 2002, Pages 1427–1431, https://doi.org/10.1093/sf/80.4.1427 Published: 01 June 2002
 
 ### Matching Youth and Jobs? Gender Dynamics in New Deal Job Training Programs
 **年份**: 2002 | **DOI**: [10.1353/sof.2003.0023](https://doi.org/10.1353/sof.2003.0023)
@@ -4915,10 +4895,6 @@
 **作者**: Stockard, J.; O'Brien, R. M.
 **摘要**: Dramatic changes in the age distribution of suicide in the U.S. are associated with variations in the demographic characteristics of birth cohorts. Using an age-period-cohort-characteristic model, we show that cohort characteristics theoretically linked to integration and regulation have substantive…
 
-### Erratum
-**年份**: 2002 | **DOI**: [10.1353/sof.2003.0008](https://doi.org/10.1353/sof.2003.0008)
-**摘要**: （暂无）
-
 ### Racial Threat and Social Control: A Test of The Political, Economic, and Threat of Black Crime Hypotheses
 **年份**: 2002 | **DOI**: [10.1353/sof.2003.0007](https://doi.org/10.1353/sof.2003.0007)
 **作者**: Eitle, D.; D'Alessio, S. J.; Stolzenberg, L.
@@ -5019,10 +4995,6 @@
 **作者**: Owens, T. J.
 **摘要**: Journal Article The Myth of Self-Esteem: Finding Happiness and Solving Problems in America.By John P. Hewitt. St. Martin's Press, 1998. 153 pp. Cloth, $29.95 Get access Timothy J. Owens Timothy J.…
 
-### Index to Volume 79
-**年份**: 2001 | **DOI**: [10.1093/sf/79.4.1557](https://doi.org/10.1093/sf/79.4.1557)
-**摘要**: Index to Volume 79 Get access Social Forces, Volume 79, Issue 4, June 2001, Pages 1557–1561, https://doi.org/10.1093/sf/79.4.1557 Published: 01 June 2001
-
 ### Theoretical Pluralism and Historical Complexity in the Development and Maintenance of Socially Imposed Monogamy: A Comment on Kanazawa and Still
 **年份**: 2001 | **DOI**: [10.1353/sof.2001.0080](https://doi.org/10.1353/sof.2001.0080)
 **作者**: MacDonald, K.
@@ -5053,7 +5025,7 @@
 **作者**: Simpson, I. H.
 **摘要**: Journal Article The Bottom Rung: African American Family Life on Southern Farms.By Stewart Tolnay. University of Illinois Press, 1999. 232 pp. Cloth $49.95; paper, $19.95 Get access Ida Harper Simpson Ida Harper Simpson Duke University Search for other works by this author on: Oxford Academic Google…
 
-### Provocateur: Images of Women and Minorities in Advertising. By Anthony J. Cortese. Rowman &amp; Littlefield Publishers, 1999. 161 pp. Cloth, $85.00; paper, $24.95
+### Provocateur: Images of Women and Minorities in Advertising. By Anthony J. Cortese. Rowman & Littlefield Publishers, 1999. 161 pp. Cloth, $85.00; paper, $24.95
 **年份**: 2001 | **DOI**: [10.1353/sof.2001.0111](https://doi.org/10.1353/sof.2001.0111)
 **作者**: Steiner, L.
 **摘要**: Journal Article Provocateur: Images of Women and Minorities in Advertising. By Anthony J. Cortese. Rowman & Littlefield Publishers, 1999. 161 pp. Cloth, $85.00; paper, $24.95 Get access Linda Steiner Linda Steiner Rutgers University Search for other works by this author on: Oxford Academic Google Sc…
@@ -5088,7 +5060,7 @@
 **作者**: Rosenfeld, R.; Baumer, E. P.; Messner, S. F.
 **摘要**: Despite recent theoretical attention to and its impact on a range of public problems, including crime, few studies have evaluated the relationship between crime rates and levels of social capital across populations.…
 
-### New Forms of Consumption: Consumers, Culture, and Commodification. Edited by Mark Gottdiener. Rowman &amp; Littlefield Publishers, 2000. 300 pp. Paper, $23.95
+### New Forms of Consumption: Consumers, Culture, and Commodification. Edited by Mark Gottdiener. Rowman & Littlefield Publishers, 2000. 300 pp. Paper, $23.95
 **年份**: 2001 | **DOI**: [10.1353/sof.2001.0095](https://doi.org/10.1353/sof.2001.0095)
 **作者**: Corrigan, P.
 **摘要**: Journal Article New Forms of Consumption: Consumers, Culture, and Commodification.Edited by Mark Gottdiener. Rowman & Littlefield Publishers, 2000. 300 pp. Paper, $23.95 Get access Peter Corrigan Peter Corrigan University of New England, Australia Search for other works by this author on: Oxford Aca…
@@ -5372,7 +5344,7 @@
 **作者**: Simpson, I. H.
 **摘要**: Journal Article The Bottom Rung: African American Family Life on Southern Farms.By Stewart Tolnay. University of Illinois Press, 1999. 232 pp. Cloth $; paper, $ Get access Ida Harper Simpson Ida Harper Simpson Duke University Search for other works by this author on: Oxford Academic Google Scholar S…
 
-### Public Sociology: From Social Facts to Literary Acts. By Ben Agger. Rowman &amp; Littlefield, 2000. 295 pp. Cloth, $65.00; paper, $19.95
+### Public Sociology: From Social Facts to Literary Acts. By Ben Agger. Rowman & Littlefield, 2000. 295 pp. Cloth, $65.00; paper, $19.95
 **年份**: 2001 | **DOI**: [10.1353/sof.2001.0069](https://doi.org/10.1353/sof.2001.0069)
 **作者**: Imber, J. B.
 **摘要**: Journal Article Public Sociology: From Social Facts to Literary Acts. By Ben Agger. Rowman & Littlefield, 2000. 295 pp. Cloth, $65.00; paper, $19.95 Get access Jonathan B. Imber Jonathan B.…
@@ -5627,7 +5599,7 @@
 **作者**: Janoski, Thomas; Alexander, Jeffrey C.
 **摘要**: （暂无）
 
-### Constructive Conflicts: From Escalation to Resolution. By Louis Kriesberg. Rowman &amp; Littlefield, 1998. 392 pp
+### Constructive Conflicts: From Escalation to Resolution. By Louis Kriesberg. Rowman & Littlefield, 1998. 392 pp
 **年份**: 2000 | **DOI**: [10.1093/sf/78.3.1181](https://doi.org/10.1093/sf/78.3.1181)
 **作者**: Maney, G. M.
 **摘要**: Constructive Conflicts: From Escalation to Resolution.By Louis Kriesberg. Rowman & Littlefield, 1998. 392 pp Gregory M. Maney Gregory M. Maney University of Wisconsin Search for other works by this author on: Oxford Academic Google Scholar Social Forces, Volume 78, Issue 3, March 2000, Pages 1181–11…
@@ -5694,10 +5666,6 @@
 **年份**: 2000 | **DOI**: [10.2307/2675505](https://doi.org/10.2307/2675505)
 **作者**: Schwalbe, Michael; Godwin, Sandra; Holden, Daphne 等6人
 **摘要**: Michael Schwalbe, Sandra Godwin, Daphne Holden, Douglas Schrock, Shealy Thompson, Michele Wolkomir, Generic Processes in the Reproduction of Inequality: An Interactionist Analysis, Social Forces, Vol. 79, No. 2 (Dec., 2000), pp. 419-452
-
-### Index to Volume 78
-**年份**: 2000 | **DOI**: [10.1093/sf/78.4.1592](https://doi.org/10.1093/sf/78.4.1592)
-**摘要**: Journal Article Index to Volume 78 Get access Social Forces, Volume 78, Issue 4, June 2000, Pages 1592–1597, https://doi.org/10.1093/sf/78.4.1592 Published: 01 June 2000
 
 ### Peer Power: Preadolescent Culture and Identity
 **年份**: 2000 | **DOI**: [10.2307/2675575](https://doi.org/10.2307/2675575)
@@ -5899,7 +5867,7 @@
 **作者**: Jr., James L. Nolan; Tucker, James
 **摘要**: A growing number of contemporary organizations have management structures that are less centralized and hierarchical than the traditional bureaucratic model. This book takes a close look inside one such organization: an employee-owned manufacturing corporation.…
 
-### Acts of Dissent: New Developments in the Study of Protest. Edited by Dieter Rucht, Ruud Koopmans, and Friedhelm Neidhardt. Rowman &amp; Littlefield, 1999. 348 pp. Cloth, $65.00; paper, $29.95
+### Acts of Dissent: New Developments in the Study of Protest. Edited by Dieter Rucht, Ruud Koopmans, and Friedhelm Neidhardt. Rowman & Littlefield, 1999. 348 pp. Cloth, $65.00; paper, $29.95
 **年份**: 2000 | **DOI**: [10.1093/sf/79.2.791](https://doi.org/10.1093/sf/79.2.791)
 **作者**: Meyer, D. S.
 **摘要**: Journal Article Acts of Dissent: New Developments in the Study of Protest.Edited by Dieter Rucht, Ruud Koopmans, and Friedhelm Neidhardt. Rowman & Littlefield, 1999. 348 pp. Cloth, $65.00; paper, $29.95 Get access David S. Meyer David S.…
@@ -5963,7 +5931,7 @@
 **作者**: Tittle, Charles R.; Rotolo, Thomas
 **摘要**: A state-level index of the conditions that Herrnstein and Murray suggest tightened the relationship between IQ and status in the past century as well as a measure of “credentialing by examination” are used to try to explain interstate variation in the association between IQ and status attainment cir…
 
-### The Handbook of Social Sciences in Health &amp; Medicine. Edited by Gary L. Albrecht, Ray Fitzpatrick, and Susan C. Scrimshaw. Sage Publications, 2000. 545 pp. Cloth, $124.00
+### The Handbook of Social Sciences in Health & Medicine. Edited by Gary L. Albrecht, Ray Fitzpatrick, and Susan C. Scrimshaw. Sage Publications, 2000. 545 pp. Cloth, $124.00
 **年份**: 2000 | **DOI**: [10.1093/sf/79.2.795](https://doi.org/10.1093/sf/79.2.795)
 **作者**: Matteo, R. A.
 **摘要**: The Handbook of Social Sciences in Health & Medicine.Edited by Gary L. Albrecht, Ray Fitzpatrick, and Susan C. Scrimshaw. Sage Publications, 2000. 545 pp. Cloth, $124.00 Rebecca A. Matteo Rebecca A.…

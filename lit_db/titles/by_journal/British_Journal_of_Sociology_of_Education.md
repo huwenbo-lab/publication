@@ -1,6 +1,6 @@
 # British Journal of Sociology of Education — 文章标题索引
 
-共 **1669** 篇 | 年份范围：2000–2026
+共 **1659** 篇 | 年份范围：2000–2026
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -718,7 +718,6 @@
 - Linguistic and cultural effects on the attainment of ethnic minority students: some methodological considerations · [DOI](https://doi.org/10.1080/01425692.2015.1044067)
 - The rise of the video-recorder teacher: the sociomaterial construction of an educational actor · [DOI](https://doi.org/10.1080/01425692.2015.1044068)
 - Mobility as becoming': a Bourdieuian analysis of the factors shaping international student mobility · [DOI](https://doi.org/10.1080/01425692.2015.1044070)
-- Editorial Board · [DOI](https://doi.org/10.1080/01425692.2016.1246231)
 - Biopower and school surveillance technologies 2.0 · [DOI](https://doi.org/10.1080/01425692.2014.1001060)
 - Seeking a critical mass': middle-class parents' collective engagement in city public schooling · [DOI](https://doi.org/10.1080/01425692.2014.986564)
 - Reproducing monocultural education: ethnic majority staff's discursive constructions of monocultural school practices · [DOI](https://doi.org/10.1080/01425692.2014.1001059)
@@ -851,8 +850,6 @@
 - Home education, school, Travellers and educational inclusion · [DOI](https://doi.org/10.1080/01425692.2014.919840)
 - Doctoral theses · [DOI](https://doi.org/10.1080/01425692.2014.931021)
 - Doctoral Theses · [DOI](https://doi.org/10.1080/01425692.2014.969525)
-- Editorial Board · [DOI](https://doi.org/10.1080/01425692.2014.969606)
-- Corrigendum · [DOI](https://doi.org/10.1080/01425692.2014.886856)
 - Urban education: strife and progress · [DOI](https://doi.org/10.1080/01425692.2014.918708)
 - Vygotsky and sociology · [DOI](https://doi.org/10.1080/01425692.2014.881050)
 - Educational inclusion: towards a social justice agenda? · [DOI](https://doi.org/10.1080/01425692.2014.938937)
@@ -889,7 +886,6 @@
 - Profitable portfolios: capital that counts in higher education · [DOI](https://doi.org/10.1080/01425692.2012.710005)
 - The role of the school curriculum in social mobility · [DOI](https://doi.org/10.1080/01425692.2013.816031)
 - ‘Class work’: producing privilege and social mobility in elite US secondary schools · [DOI](https://doi.org/10.1080/01425692.2013.816037)
-- Erratum · [DOI](https://doi.org/10.1080/01425692.2013.876195)
 - Lesbian and gay teachers’ experiences of ‘coming out’ in Irish schools · [DOI](https://doi.org/10.1080/01425692.2012.722281)
 - No Ivies, Oxbridge, or grandes écoles: constructing distinctions in university choice · [DOI](https://doi.org/10.1080/01425692.2013.814530)
 - Interrupted trajectories: the impact of academic failure on the social mobility of working-class students · [DOI](https://doi.org/10.1080/01425692.2013.816042)
@@ -987,7 +983,6 @@
 - Boys and their schooling: the experience of becoming someone else, by John Whelen, London, Routledge, 2011, 296 pp., £70.00 (hardback), ISBN 978-1-41-587917-0 · [DOI](https://doi.org/10.1080/01425692.2012.746259)
 - Attitudes and expectations: do attitudes towards education mediate the relationship between social networks and parental expectations? · [DOI](https://doi.org/10.1080/01425692.2012.668835)
 - Approaches to reflexivity: navigating educational and career pathways · [DOI](https://doi.org/10.1080/01425692.2012.686895)
-- Editorial Board · [DOI](https://doi.org/10.1080/01425692.2012.730809)
 - Making socialists: Mary Bridges Adams and the fight for knowledge and power, 1855–1939 · [DOI](https://doi.org/10.1080/01425692.2012.632872)
 - Critical dispositions: evidence and expertise in education, by Greg Dimitriadis, New York, Routledge, 2012, 144 pp., $44.95 (paperback), ISBN 978-0-41-588565-2 · [DOI](https://doi.org/10.1080/01425692.2012.746258)
 - Educational achievement in selective and comprehensive local education authorities: a configurational analysis · [DOI](https://doi.org/10.1080/01425692.2011.649833)
@@ -1047,7 +1042,6 @@
 - The global auction: the broken promises of education, jobs and incomes · [DOI](https://doi.org/10.1080/01425692.2011.547312)
 - A sociology of truth? · [DOI](https://doi.org/10.1080/01425692.2011.559346)
 - Ideal knowing: logics of knowledge in primary school curricula · [DOI](https://doi.org/10.1080/01425692.2011.596368)
-- Corrigendum · [DOI](https://doi.org/10.1080/01425692.2011.582679)
 - Enriching intimacy: the role of the emotional in the ‘resourcing’ of middle‐class children · [DOI](https://doi.org/10.1080/01425692.2011.559340)
 - Doctoral theses · [DOI](https://doi.org/10.1080/01425692.2011.527717)
 - Doctoral Theses · [DOI](https://doi.org/10.1080/01425692.2011.559348)
@@ -1080,7 +1074,6 @@
 - Radical education and the common school: a democratic alternative · [DOI](https://doi.org/10.1080/01425692.2011.614751)
 - Zafar , so good: middle‐class students, school habitus and secondary schooling in the city of Buenos Aires (Argentina) · [DOI](https://doi.org/10.1080/01425692.2011.559338)
 - Political socialization in the family and young people's educational achievement and ambition · [DOI](https://doi.org/10.1080/01425692.2011.527722)
-- Editorial Board · [DOI](https://doi.org/10.1080/01425692.2011.618673)
 - ‘Walking yourself around as a teacher’: gender and embodiment in student teachers’ working lives · [DOI](https://doi.org/10.1080/01425692.2011.547311)
 - Cultural capital and agency: connecting critique and curriculum in higher education · [DOI](https://doi.org/10.1080/01425692.2011.527723)
 - Education and social integration: comprehensive schooling in Europe · [DOI](https://doi.org/10.1080/01425692.2011.547313)
@@ -1100,7 +1093,7 @@
 - Producing knowledge and (de)constructing identities: a critical commentary on environmental education and its research · [DOI](https://doi.org/10.1080/01425692.2011.527729)
 - Dress rehearsal: a Bourdieusian analysis of body work in career portfolio programs · [DOI](https://doi.org/10.1080/01425692.2011.596378)
 - Schools and disadvantage · [DOI](https://doi.org/10.1080/01425692.2011.596393)
-- &gt;Islam in the school curriculum: symbolic pedagogy and cultural claims · [DOI](https://doi.org/10.1080/01425692.2011.578443)
+- >Islam in the school curriculum: symbolic pedagogy and cultural claims · [DOI](https://doi.org/10.1080/01425692.2011.578443)
 - The fourth way: the inspiring future for educational change · [DOI](https://doi.org/10.1080/01425692.2011.578442)
 - Imaginary subjects: school science, indigenous students, and knowledge–power relations · [DOI](https://doi.org/10.1080/01425692.2011.547306)
 - Engaging science policy: from the side of the messy · [DOI](https://doi.org/10.1080/01425692.2011.559345)
@@ -1148,7 +1141,6 @@
 - Hidden markets: the new education privatization · [DOI](https://doi.org/10.1080/01425690903541228)
 - Recognising and revealing knowers: an enhanced Bernsteinian analysis of masonic recruitment and apprenticeship · [DOI](https://doi.org/10.1080/01425692.2010.515112)
 - Doctoral theses · [DOI](https://doi.org/10.1080/01425692.2010.484915)
-- Editorial Board · [DOI](https://doi.org/10.1080/01425692.2010.523933)
 - Peer review, Bourdieu and honour: connecting Chinese and Australian intellectual projects · [DOI](https://doi.org/10.1080/01425690903539107)
 - The bubble of privilege. Young, privately educated women talk about social class · [DOI](https://doi.org/10.1080/01425690903385329)
 - The ‘collateral impact’ of pupil behaviour and geographically concentrated socio‐economic disadvantage · [DOI](https://doi.org/10.1080/01425691003700508)
@@ -1168,7 +1160,6 @@
 - Animmanentsocial class effect on participation in higher education? A rejoinder to Harrison and Waller · [DOI](https://doi.org/10.1080/01425692.2010.484923)
 - Globalizing education policy · [DOI](https://doi.org/10.1080/01425691003700904)
 - Literacy‐lite inBarbieGirls™ · [DOI](https://doi.org/10.1080/01425692.2010.515109)
-- Corrigendum · [DOI](https://doi.org/10.1080/01425692.2010.533476)
 - Cultural capital and intellectual ability as predictors of scholastic achievement: a study of Slovenian secondary school students · [DOI](https://doi.org/10.1080/01425690903385428)
 - Researching social capital in education: some conceptual considerations relating to the contribution of network analysis · [DOI](https://doi.org/10.1080/01425692.2010.515111)
 - Canonical moments and disruptive moves in youth studies research · [DOI](https://doi.org/10.1080/01425690903573551)
@@ -1440,7 +1431,7 @@
 - Miners, diggers, ferals and show‐men: school–community projects that affirm and unsettle identities and place? · [DOI](https://doi.org/10.1080/01425690500376408)
 - Girls of the Future? · [DOI](https://doi.org/10.1080/01425690600753944)
 - Middle‐class struggle? Identity‐work and leisure among sixth formers in the United Kingdom · [DOI](https://doi.org/10.1080/01425690500376721)
-- Alternative identities in multicultural schools in Israel: emancipatory identity, mixed identity and transnational identity1 · [DOI](https://doi.org/10.1080/01425690600958782)
+- Alternative identities in multicultural schools in Israel: emancipatory identity, mixed identity and transnational identity · [DOI](https://doi.org/10.1080/01425690600958782)
 
 ## 2005
 
@@ -1513,7 +1504,7 @@
 - The Awful Truth:1 a microhistory of teacher stress atWestwood High · [DOI](https://doi.org/10.1080/0142569042000252071)
 - The transcultural transferability of Bourdieu's sociology of education · [DOI](https://doi.org/10.1080/0142569042000236925)
 - Social anxiety, sex, surveillance, and the ‘safe’ teacher · [DOI](https://doi.org/10.1080/0142569032000155935)
-- From the Crick Report to the Parekh Report: multiculturalism, cultural difference, and democracy—the re‐visioning of citizenship education1 · [DOI](https://doi.org/10.1080/0142569042000205127)
+- From the Crick Report to the Parekh Report: multiculturalism, cultural difference, and democracy—the re‐visioning of citizenship education · [DOI](https://doi.org/10.1080/0142569042000205127)
 - REVIEW ESSAY · [DOI](https://doi.org/10.1080/0142569032000155980)
 - Bourdieu's reflexive sociology and ‘spaces of points of view’: whose reflexivity, which perspective? · [DOI](https://doi.org/10.1080/0142569042000236998)
 - Review Symposium · [DOI](https://doi.org/10.1080/0142569042000217007)
@@ -1538,7 +1529,6 @@
 - New times? New learners? New voices? Towards a contemporary social theory of learning · [DOI](https://doi.org/10.1080/0142569042000217025)
 - Placing cybereducation in the UK classroom · [DOI](https://doi.org/10.1080/0142569042000205118)
 - EXTENDED REVIEW · [DOI](https://doi.org/10.1080/0142569032000155971)
-- EDITORIAL · [DOI](https://doi.org/10.1080/0142569042000237005)
 - Texts and literacies of the Shi Jinrui · [DOI](https://doi.org/10.1080/0142569042000205109)
 - Supporting the educational career of children from divorced families: parents' experiences and the role of the school · [DOI](https://doi.org/10.1080/0142569042000216945)
 - Attracting, recruiting and retaining male teachers: policy issues in the male teacher debate · [DOI](https://doi.org/10.1080/0142569042000216990)

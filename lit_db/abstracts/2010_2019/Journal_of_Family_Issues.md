@@ -1,7 +1,7 @@
 # Journal of Family Issues
 ## 2010–2019 年文章（含摘要）
 
-共 **918** 篇
+共 **917** 篇
 
 ---
 
@@ -1270,7 +1270,7 @@
 **作者**: Nixon, Elizabeth; Hadfield, Kristin
 **摘要**: This study explores single mothers' roles as gatekeepers in the relationship between children and nonresident fathers in families, where fathers do not have a history of shared residence with their children.…
 
-### Incapacitated Involvement: Incarceration and Fatherhood in Fragile Families at Age 9
+### Incapacitated Involvement: Incarceration and Fatherhood in Fragile Families at Age
 **年份**: 2018 | **DOI**: [10.1177/0192513X18783225](https://doi.org/10.1177/0192513X18783225)
 **作者**: Washington, Heather M.; Juan, Shao-Chiu; Haskins, Anna R.
 **摘要**: We use data from the Fragile Families and Child Wellbeing Study to expand knowledge about the impact of paternal incarceration on fathering in three specific ways: (a) we explore fathers' involvement with children in middle childhood, (b) we examine the extent to which we observe similar reports of …
@@ -2201,7 +2201,7 @@
 **作者**: Nikbakht Nasrabadi, Alireza; Montazeri, Ali; Eftekhar Ardebili, Hasan 等8人
 **摘要**: Siblings are often the main social partners in people’s lives and thus play important roles. In comparison with other family members, siblings are likely to remain in our lives for longer and play more roles. Previous studies suggest that gender can influence these roles.…
 
-### Studies of Men’s Involvement in the Family—Part 1
+### Studies of Men’s Involvement in the Family—Part
 **年份**: 2014 | **DOI**: [10.1177/0192513x14522237](https://doi.org/10.1177/0192513x14522237)
 **作者**: Goldscheider, Frances; Bernhardt, Eva; Lappegård, Trude
 **摘要**: This special issue (like the one to follow) is designed to highlight research on men’s increased involvement in their families, focusing both on the antecedents that are linked with their involvement and on the consequences that may follow.…
@@ -2496,7 +2496,7 @@
 **作者**: Granja, Rafaela; da Cunha, Manuela Ivone P.; Machado, Helena
 **摘要**: “Intensive parenting” ideologies have been increasingly disseminated in popular culture, expert discourses, and social policy. These have impacted particularly mothers owing to their actual or presumed central role in child rearing.…
 
-### Studies of Men’s Involvement in the Family—Part 2
+### Studies of Men’s Involvement in the Family—Part
 **年份**: 2014 | **DOI**: [10.1177/0192513x14522238](https://doi.org/10.1177/0192513x14522238)
 **作者**: Goldscheider, Frances; Bernhardt, Eva; Lappegård, Trude
 **摘要**: This special issue (like the preceding one) is designed to highlight research on men’s increased involvement in their families, focusing both on the antecedents that are linked with their involvement and on the consequences that may follow, and to show that such research is consistent with our theor…
@@ -2823,10 +2823,6 @@
 **年份**: 2013 | **DOI**: [10.1177/0192513x13481439](https://doi.org/10.1177/0192513x13481439)
 **作者**: Harris-McKoy, DeAnna; Meyer, Andrea S.; McWey, Lenore M. 等4人
 **摘要**: The Adoption and Safe Families Act (ASFA) may have an impact on parents struggling with alcohol or other drug (AOD) problems, who are appealing the termination of their parental rights.…
-
-### Erratum
-**年份**: 2013 | **DOI**: [10.1177/0192513x13495624](https://doi.org/10.1177/0192513x13495624)
-**摘要**: Heflin, H. C., & Butler, S. J.( 2012). Why Do Women Enter and Exit From Material Hardship? Journal of Family Issues 34(5), 631–660. Original DOI: 10.1177/0192513X12442822
 
 ### Framing Adoption
 **年份**: 2013 | **DOI**: [10.1177/0192513x13479333](https://doi.org/10.1177/0192513x13479333)

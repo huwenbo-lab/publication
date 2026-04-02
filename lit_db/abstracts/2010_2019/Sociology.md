@@ -1,7 +1,7 @@
 # Sociology
 ## 2010–2019 年文章（含摘要）
 
-共 **1141** 篇
+共 **1132** 篇
 
 ---
 
@@ -63,11 +63,6 @@
 ### Book Review: Dan Allen, Margaret Greenfields and David Smith (eds), Transnational Resilience and Change: Gypsy, Roma and Traveller Strategies of Survival and Adaptation
 **年份**: 2019 | **DOI**: [10.1177/0038038519860713](https://doi.org/10.1177/0038038519860713)
 **作者**: Fiałkowska, Kamila
-**摘要**: （暂无）
-
-### Editorial Foreword
-**年份**: 2019 | **DOI**: [10.1177/0038038519829364](https://doi.org/10.1177/0038038519829364)
-**作者**: May, Vanessa; Warde, Alan; Balmer, Andrew 等7人
 **摘要**: （暂无）
 
 ### Valuing Care and Support in an Era of Celebrating Independence: Disabled Young People’s Reflections on Their Meaning and Role in Their Lives
@@ -672,10 +667,6 @@
 **年份**: 2018 | **DOI**: [10.1177/0038038518765559](https://doi.org/10.1177/0038038518765559)
 **作者**: Lafazani, Olga
 **摘要**: In this essay I outline the ways in which κρίση ( krísi – crisis) and μετανάστευση ( metanástefsi – migration) have been interrelated during the last decade in Greece. By being grounded in concrete times and places, I argue that these interrelations, far from being stable and fixed, take their form …
-
-### Corrigendum
-**年份**: 2018 | **DOI**: [10.1177/0038038518795370](https://doi.org/10.1177/0038038518795370)
-**摘要**: （暂无）
 
 ### Beyond Crisis Talk: Interrogating Migration and Crises in Europe
 **年份**: 2018 | **DOI**: [10.1177/0038038518767372](https://doi.org/10.1177/0038038518767372)
@@ -1300,10 +1291,6 @@
 **年份**: 2016 | **DOI**: [10.1177/0038038515604566](https://doi.org/10.1177/0038038515604566)
 **作者**: Offer, John
 **摘要**: （暂无）
-
-### Corrigendum
-**年份**: 2016 | **DOI**: [10.1177/0038038516637020](https://doi.org/10.1177/0038038516637020)
-**摘要**: Sociology 2015; 49(5): 937–954 Gareth M Thomas and Joanna Latimer In/Exclusion in the Clinic: Down’s Syndrome, Dysmorphology and the Ethics of Everyday Medical Work 10.1177/0038038515588470 The authors submitted the article with an incorrect author order, and have requested a corrigendum to correct …
 
 ### You Have to be Normal to be Abnormal: An Empirically Grounded Exploration of the Intersection of Asexuality and Disability
 **年份**: 2016 | **DOI**: [10.1177/0038038515587639](https://doi.org/10.1177/0038038515587639)
@@ -2183,7 +2170,7 @@
 **作者**: Guzman-Concha, Cesar
 **摘要**: The most significant progress in the study of political conflict has been related to turmoil, insurrections and rebellions. Revolts against colonial powers in Africa, Asia o the Middle East, transitions to democracy and the struggles against dictatorships in Latin America or Southern Europe, guerril…
 
-### Book Review: George Steinmetz (ed), Sociology &amp; Empire: The Imperial Entanglements of a Discipline
+### Book Review: George Steinmetz (ed), Sociology & Empire: The Imperial Entanglements of a Discipline
 **年份**: 2015 | **DOI**: [10.1177/0038038515577759](https://doi.org/10.1177/0038038515577759)
 **作者**: Wong, Yoke-Sum
 **摘要**: （暂无）
@@ -3777,7 +3764,7 @@
 **作者**: Clucas, Rob
 **摘要**: A sophisticated understanding of human rights must look at ways in which conflicts between competing rights are negotiated. This article undertakes a case study of the interrelationship of rights related to religion and sexuality in societies, in the context of inequality between heterosexual and ho…
 
-### What One Sees and How One Files Seeing: Human Rights Reporting, Representation and Action1
+### What One Sees and How One Files Seeing: Human Rights Reporting, Representation and Action
 **年份**: 2012 | **DOI**: [10.1177/0038038512451530](https://doi.org/10.1177/0038038512451530)
 **作者**: Moon, Claire
 **摘要**: This article argues that the forms through which violence and atrocity are expressed – legal, statistical and testimonial – are important objects of analysis because credo is manifest in form, and an examination of form reveals something about the relationship between the ‘world view’ of human right…
@@ -3914,11 +3901,6 @@
 ### Book Review: J Timo Weishaupt From the Manpower Revolution to the Activation Paradigm: Explaining Institutional Continuity and Change in an Integrating Europe
 **年份**: 2012 | **DOI**: [10.1177/0038038512458380](https://doi.org/10.1177/0038038512458380)
 **作者**: Salmenhaara, Perttu
-**摘要**: （暂无）
-
-### Editorial Foreword
-**年份**: 2012 | **DOI**: [10.1177/0038038512455996](https://doi.org/10.1177/0038038512455996)
-**作者**: Hynes, Patricia; Lamb, Michele; Short, Damien 等4人
 **摘要**: （暂无）
 
 ### Taking the Bundle Apart: Some Reflections on the Significance of Edward Thompson’s Work for the Practice of Sociology
@@ -4720,10 +4702,6 @@
 **作者**: Evans, David
 **摘要**: （暂无）
 
-### Erratum
-**年份**: 2011 | **DOI**: [10.1177/0038038511403540](https://doi.org/10.1177/0038038511403540)
-**摘要**: （暂无）
-
 ### Book Review: Andrea Fontana and Jennifer Reid Keene, Death and Dying in America
 **年份**: 2011 | **DOI**: [10.1177/0038038511419184](https://doi.org/10.1177/0038038511419184)
 **作者**: Caswell, Glenys
@@ -5285,10 +5263,6 @@
 **作者**: Adams, Matthew
 **摘要**: （暂无）
 
-### Erratum
-**年份**: 2010 | **DOI**: [10.1177/0038038510387570](https://doi.org/10.1177/0038038510387570)
-**摘要**: （暂无）
-
 ### Editors’ report
 **年份**: 2010 | **DOI**: [10.1177/0038038509358383](https://doi.org/10.1177/0038038509358383)
 **作者**: Coffey, Amanda; Hall, Tom; Power, Sally 等4人
@@ -5344,10 +5318,6 @@
 **作者**: Skinner, James
 **摘要**: （暂无）
 
-### Books Received
-**年份**: 2010 | **DOI**: [10.1177/0038038510363218](https://doi.org/10.1177/0038038510363218)
-**摘要**: （暂无）
-
 ### Difference and Distinction?
 **年份**: 2010 | **DOI**: [10.1177/0038038510369360](https://doi.org/10.1177/0038038510369360)
 **作者**: Raghuram, Parvati; Henry, Leroi; Bornat, Joanna
@@ -5363,7 +5333,7 @@
 **作者**: Garner, Steve
 **摘要**: （暂无）
 
-### Book Review: Anthony Elliott (ed.) The Contemporary Bauman Abington: Routledge Taylor &amp; Francis, 2007, £90.00 hbk, £23.99 pbk (ISBN: 9780415409681), ix+275 pp
+### Book Review: Anthony Elliott (ed.) The Contemporary Bauman Abington: Routledge Taylor & Francis, 2007, £90.00 hbk, £23.99 pbk (ISBN: 9780415409681), ix+275 pp
 **年份**: 2010 | **DOI**: [10.1177/00380385100440031202](https://doi.org/10.1177/00380385100440031202)
 **作者**: Laberge, Yves
 **摘要**: （暂无）
@@ -5418,10 +5388,6 @@
 **作者**: Faas, Daniel
 **摘要**: （暂无）
 
-### Books Received
-**年份**: 2010 | **DOI**: [10.1177/0038038509357990](https://doi.org/10.1177/0038038509357990)
-**摘要**: （暂无）
-
 ### Exploring the Impact of Sexual Orientation on Experiences and Concerns about End of Life Care and on Bereavement for Lesbian, Gay and Bisexual Older People
 **年份**: 2010 | **DOI**: [10.1177/0038038510375739](https://doi.org/10.1177/0038038510375739)
 **作者**: Almack, Kathryn; Seymour, Jane; Bellamy, Gary
@@ -5472,10 +5438,6 @@
 **作者**: Turner, Charles
 **摘要**: （暂无）
 
-### Books Received
-**年份**: 2010 | **DOI**: [10.1177/0038038509359491](https://doi.org/10.1177/0038038509359491)
-**摘要**: （暂无）
-
 ### Conceiving and Negotiating Reproductive Relationships: Lesbians and Gay Men Forming Families with Children
 **年份**: 2010 | **DOI**: [10.1177/0038038510381607](https://doi.org/10.1177/0038038510381607)
 **作者**: Dempsey, Deborah
@@ -5524,7 +5486,7 @@
 ### RETRACTED: Visual Research Methods: Using Cameras to Empower Socially Excluded Black Youth
 **年份**: 2010 | **DOI**: [10.1177/0038038510362483](https://doi.org/10.1177/0038038510362483)
 **作者**: Wright, Cecile Yvonne; Darko, Natalie; Standen, P.J. 等4人
-**摘要**: RETRACTED
+**摘要**: （暂无）
 
 ### Book Review: Chris Rojek Brit-Myth: Who Do the British Think They Are? London: Reaktion Books, 2007, £12.95 pbk (ISBN: 978-1-86189-336-9), 213 pp
 **年份**: 2010 | **DOI**: [10.1177/00380385100440021107](https://doi.org/10.1177/00380385100440021107)

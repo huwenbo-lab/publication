@@ -1,7 +1,7 @@
 # Sociology
 ## 2000–2009 年文章（含摘要）
 
-共 **1211** 篇
+共 **1143** 篇
 
 ---
 
@@ -80,10 +80,6 @@
 **作者**: Pickard, Susan
 **摘要**: This article critically examines the professionalization of General Practitioners with Special Interests (GPSIs) in the UK. Drawing on empirical research it examines the rationale for the establishment of this professional grouping; the construction of the field of expertise; the negotiation of boun…
 
-### Books Received
-**年份**: 2009 | **DOI**: [10.1177/0038038509103221](https://doi.org/10.1177/0038038509103221)
-**摘要**: （暂无）
-
 ### Book Review: John A. Vincent, Chris R. Phillipson and Murna Downs (eds) The Futures of Old Age London: SAGE, in association with BSG, 2006, £60 hbk, £19.99 pbk (ISBN: 1 4129 0108 1), xv+255 pp
 **年份**: 2009 | **DOI**: [10.1177/00380385090430021408](https://doi.org/10.1177/00380385090430021408)
 **作者**: Tulle, Emmanuelle
@@ -136,10 +132,6 @@
 ### Book Review: Naomi Roht-Arriaza and Javier Mariezcurrena (eds) Transitional Justice in the Twenty-First Century: Beyond Truth versus Justice Cambridge: Cambridge University Press, 2006, £19.99 pbk (ISBN: 9780521677509), 358 pp
 **年份**: 2009 | **DOI**: [10.1177/00380385090430021406](https://doi.org/10.1177/00380385090430021406)
 **作者**: McConnachie, Kirsten
-**摘要**: （暂无）
-
-### Books Received
-**年份**: 2009 | **DOI**: [10.1177/0038038508101175](https://doi.org/10.1177/0038038508101175)
 **摘要**: （暂无）
 
 ### Exploring Reflective Subjectivity through the Construction of the `Ethical Other' in Interview Transcripts
@@ -296,24 +288,10 @@
 **作者**: Huppatz, Kate
 **摘要**: Bourdieu overlooked the possibility of gendered capital. A number of feminists have taken issue with this and have claimed that uniquely feminine forms of capital exist.This article takes up this proposal and explores two forms of gendered capital — feminine capital and female capital.…
 
-### Editorial Foreword
-**年份**: 2009 | **DOI**: [10.1177/0038038508101161](https://doi.org/10.1177/0038038508101161)
-**作者**: Coffey, Amanda; Hall, Tom; Power, Sally 等4人
-**摘要**: （暂无）
-
-### Books Received
-**年份**: 2009 | **DOI**: [10.1177/0038038508099108](https://doi.org/10.1177/0038038508099108)
-**摘要**: （暂无）
-
 ### Rethinking the Work—Class Nexus: Theoretical Foundations for Recent Trends
 **年份**: 2009 | **DOI**: [10.1177/0038038509340718](https://doi.org/10.1177/0038038509340718)
 **作者**: Atkinson, Will
 **摘要**: The sociology of class and the sociology of work have, historically, occupied two sides of the same coin, sharing foundational studies such as the Affluent Worker series and Braverman’s vivisection of the labour process. Recently, however, the par tnership has been questioned.…
-
-### Editorial Foreword
-**年份**: 2009 | **DOI**: [10.1177/0038038508099094](https://doi.org/10.1177/0038038508099094)
-**作者**: Bottero, Wendy; Crow, Graham; McGhee, Derek 等4人
-**摘要**: （暂无）
 
 ### Book Review: S. Halford and P. Leonard Negotiating Gendered Identities at Work
 **年份**: 2009 | **DOI**: [10.1177/00380385090430031006](https://doi.org/10.1177/00380385090430031006)
@@ -370,7 +348,7 @@
 **作者**: Glucksmann, Miriam A.
 **摘要**: The division of labour, an enduring concept of the sociology of work, has yet to receive fundamental critical re-evaluation. The need for this is exposed especially by developments in global work and employment, and the ensuing complexity and variety of contemporary connections and divisions of labo…
 
-### Joint Reviews: Oriel Sullivan Changing Gender Relations, Changing Families Oxford: Rowman &amp; Littlefield, 2006, no price stated hbk, £12.99 pbk (ISBN: 0 7425 4623 3), x+142 pp. Susan Thistle From Marriage to the Market: The Transformation of Women's Lives and Work Berkeley: California University Press, 2006, no price stated hbk, £12.95 pbk (ISBN: 0 520 246446 2), xiv+298 pp
+### Joint Reviews: Oriel Sullivan Changing Gender Relations, Changing Families Oxford: Rowman & Littlefield, 2006, no price stated hbk, £12.99 pbk (ISBN: 0 7425 4623 3), x+142 pp. Susan Thistle From Marriage to the Market: The Transformation of Women's Lives and Work Berkeley: California University Press, 2006, no price stated hbk, £12.95 pbk (ISBN: 0 520 246446 2), xiv+298 pp
 **年份**: 2009 | **DOI**: [10.1177/00380385090430010102](https://doi.org/10.1177/00380385090430010102)
 **作者**: Silva, Elizabeth B.
 **摘要**: （暂无）
@@ -430,10 +408,6 @@
 **作者**: Watson, Tony J.
 **摘要**: Alongside many significant changes, there are considerable continuities between the work activities and work institutions of the 21st century and those of earlier periods studied by the sociology of work.…
 
-### Books Received
-**年份**: 2009 | **DOI**: [10.1177/0038038509346779](https://doi.org/10.1177/0038038509346779)
-**摘要**: （暂无）
-
 ### Book Review: Heinz Steinert and Arno Pilgram Welfare Policy from Below: Struggles against Social Exclusion in Europe
 **年份**: 2009 | **DOI**: [10.1177/00380385090430031008](https://doi.org/10.1177/00380385090430031008)
 **作者**: Stitt, Seán
@@ -468,10 +442,6 @@
 **年份**: 2009 | **DOI**: [10.1177/0038038508101170](https://doi.org/10.1177/0038038508101170)
 **作者**: Riach, Kathleen
 **摘要**: The increasing importance of reflexivity within social research highlights the importance of the construction of knowledge in relation to the research endeavour. However, researcher-orientated notions of reflexivity can often relegate a discussion of participant reflexivity.…
-
-### Books Received
-**年份**: 2009 | **DOI**: [10.1177/0038038509105429](https://doi.org/10.1177/0038038509105429)
-**摘要**: （暂无）
 
 ### Joint Review: Gary Bouma Australian Soul: Religion and Spirituality in the Twenty-first Century Cambridge: Cambridge University Press, 2006, £19.99 pbk (ISBN: 978 0 52167389 1), xviii+236 pp. Grace Davie The Sociology of Religion London: SAGE, £65.00 hbk, £22.99 pbk (ISBN: 0 7619 4892 9), xii+283 pp
 **年份**: 2009 | **DOI**: [10.1177/0038038508101173](https://doi.org/10.1177/0038038508101173)
@@ -688,17 +658,12 @@
 **作者**: Butler, Catherine
 **摘要**: （暂无）
 
-### Editorial Foreword: Sociology and Gender
-**年份**: 2008 | **DOI**: [10.1177/0038038507089542](https://doi.org/10.1177/0038038507089542)
-**作者**: Crow, Graham; Pope, Catherine
-**摘要**: （暂无）
-
 ### Review Essay: Working Lives: Cultural Control, Collectivism, Karoshi
 **年份**: 2008 | **DOI**: [10.1177/0038038507084831](https://doi.org/10.1177/0038038507084831)
 **作者**: Smith, Andrew
 **摘要**: （暂无）
 
-### Book Review: Charles F. Gattone The Social Scientist as Public Intellectual Oxford: Rowman &amp; Littlefield, 2006, £13.99 pbk (ISBN: 0742537935), xv+170 pp
+### Book Review: Charles F. Gattone The Social Scientist as Public Intellectual Oxford: Rowman & Littlefield, 2006, £13.99 pbk (ISBN: 0742537935), xv+170 pp
 **年份**: 2008 | **DOI**: [10.1177/00380385080420011203](https://doi.org/10.1177/00380385080420011203)
 **作者**: Mellor, David James
 **摘要**: （暂无）
@@ -763,11 +728,6 @@
 **作者**: Housley, William; Wahl-Jorgensen, Karin
 **摘要**: This article, based on an interview study of public engagement with the new Welsh Assembly building — the Senedd — theorizes the limits and opportunities of `political tourism', or visits to sites of political importance.…
 
-### Editorial Foreword: Sociology and Everyday Life
-**年份**: 2008 | **DOI**: [10.1177/0038038508094929](https://doi.org/10.1177/0038038508094929)
-**作者**: Crow, Graham; Pope, Catherine
-**摘要**: （暂无）
-
 ### Book Review: Stephen Driver and Luke Martell New Labour, Second Edition Cambridge: Polity Press, 2006, £15.99 pbk (ISBN 0 7456 3331 5), vi+242 pp
 **年份**: 2008 | **DOI**: [10.1177/00380385080420041203](https://doi.org/10.1177/00380385080420041203)
 **作者**: Warwick-Booth, Louise
@@ -793,14 +753,6 @@
 **作者**: Purcell, Kate
 **摘要**: （暂无）
 
-### Books Received
-**年份**: 2008 | **DOI**: [10.1177/0038038507087364](https://doi.org/10.1177/0038038507087364)
-**摘要**: （暂无）
-
-### Books Received
-**年份**: 2008 | **DOI**: [10.1177/0038038508094933](https://doi.org/10.1177/0038038508094933)
-**摘要**: （暂无）
-
 ### Research Ethics Review and the Sociological Research Relationship
 **年份**: 2008 | **DOI**: [10.1177/0038038508094567](https://doi.org/10.1177/0038038508094567)
 **作者**: Hedgecoe, Adam
@@ -810,11 +762,6 @@
 **年份**: 2008 | **DOI**: [10.1177/0038038507087357](https://doi.org/10.1177/0038038507087357)
 **作者**: Donoghue, Jane
 **摘要**: This article proposes a (re)consideration of antisocial behaviour control informed by an analysis of the seminal work of sociologists of `reflexive modernity' (Beck, 1992, 1994; Giddens, 1990, 1991; Lash, 1994).…
-
-### Editorial Foreword
-**年份**: 2008 | **DOI**: [10.1177/0038038507084822](https://doi.org/10.1177/0038038507084822)
-**作者**: Crow, Graham; Pope, Catherine
-**摘要**: （暂无）
 
 ### Book Review: Colin Hay. Why We Hate Politics Cambridge: Polity, 2007, no price stated hbk, £ 14.99 pbk (ISBN 978 07456 3099 1), ix + 187 pp
 **年份**: 2008 | **DOI**: [10.1177/00380385080420021102](https://doi.org/10.1177/00380385080420021102)
@@ -951,10 +898,6 @@
 **作者**: Fincham, Ben
 **摘要**: The conceptual separation of `work' and `life', as distinct elements of social activity, has become established as shorthand for the social and psychological dislocation felt by being at work and not being at work.There is a literature on the work/life balance driven by governmental rhetoric, based …
 
-### Books Received
-**年份**: 2008 | **DOI**: [10.1177/0038038507084836](https://doi.org/10.1177/0038038507084836)
-**摘要**: （暂无）
-
 ### Book Review: J. Clarke, J. Newman, N. Smith, E.Vidler and L. Westmarland. Creating Citizen-Consumers: Changing Publics and Changing Public Services London: SAGE, 2007, £65.00 hbk, £21.99 pbk (ISBN 9781412921336), viii + 183 pp
 **年份**: 2008 | **DOI**: [10.1177/00380385080420021103](https://doi.org/10.1177/00380385080420021103)
 **作者**: Shirley, Tom
@@ -969,10 +912,6 @@
 **年份**: 2008 | **DOI**: [10.1177/0038038508096940](https://doi.org/10.1177/0038038508096940)
 **作者**: Almack, Kathryn
 **摘要**: This article examines neglected aspects of coming out that arise for lesbian parents and for their families of origin and considers the ways in which these forms of coming out resonate with the concept of display work.…
-
-### Erratum
-**年份**: 2008 | **DOI**: [10.1177/0038038508095905](https://doi.org/10.1177/0038038508095905)
-**摘要**: （暂无）
 
 ### The National Minimum Wage, Low Pay and the UK Hotel Industry
 **年份**: 2008 | **DOI**: [10.1177/0038038508096943](https://doi.org/10.1177/0038038508096943)
@@ -1164,11 +1103,6 @@
 **作者**: Gruszczynska, Anna
 **摘要**: （暂无）
 
-### Editorial Foreword: The Future of the Research Relationship
-**年份**: 2008 | **DOI**: [10.1177/0038038508094594](https://doi.org/10.1177/0038038508094594)
-**作者**: Crow, Graham; Pope, Catherine
-**摘要**: （暂无）
-
 ### Book Review: Mark Petticrew and Helen Roberts. Systematic Reviews in the Social Sciences: A Practical Guide. Oxford: Blackwell, 2006, £29.99 hbk (ISBN: 1 4051 2110 6), xii+336 pp
 **年份**: 2008 | **DOI**: [10.1177/00380385080420051403](https://doi.org/10.1177/00380385080420051403)
 **作者**: Auger, Jean-François
@@ -1183,15 +1117,6 @@
 **年份**: 2008 | **DOI**: [10.1177/0038038508096935](https://doi.org/10.1177/0038038508096935)
 **作者**: Weenink, Don
 **摘要**: This article evaluates cosmopolitan theory by exploring how parents perceive cosmopolitanism. Interviews with parents whose children attend an internationalized form of education revealed that parents viewed cosmopolitanism as a form of cultural and social capital, rather than feelings of global con…
-
-### Books Received
-**年份**: 2008 | **DOI**: [10.1177/0038038508094629](https://doi.org/10.1177/0038038508094629)
-**摘要**: （暂无）
-
-### Editorial Foreword: Theory in Sociological Analysis
-**年份**: 2008 | **DOI**: [10.1177/0038038507087350](https://doi.org/10.1177/0038038507087350)
-**作者**: Crow, Graham; Pope, Catherine
-**摘要**: （暂无）
 
 ### Anglican Clergy as Victims of Routinized Violent Activities in Urban and Rural Localities
 **年份**: 2008 | **DOI**: [10.1177/0038038507084826](https://doi.org/10.1177/0038038507084826)
@@ -1233,11 +1158,6 @@
 **作者**: Lee, Raymond L.M.
 **摘要**: The death taboo has been depicted as modernity's burial of the question of human mortality. Death is prejudged as a `pornographic' event that should be veiled. Critics argue that this taboo has been exaggerated and the sequestration of death reflects a crisis of meaning in modernity.…
 
-### Editorial Foreword
-**年份**: 2007 | **DOI**: [10.1177/0038038507078914](https://doi.org/10.1177/0038038507078914)
-**作者**: Crow, Graham; Pope, Catherine
-**摘要**: （暂无）
-
 ### The Heart of the Problem
 **年份**: 2007 | **DOI**: [10.1177/0038038507072281](https://doi.org/10.1177/0038038507072281)
 **作者**: Connell, Raewyn
@@ -1278,11 +1198,6 @@
 **作者**: Reay, Diane
 **摘要**: （暂无）
 
-### Editorial Foreword: What Use is an Editor?
-**年份**: 2007 | **DOI**: [10.1177/0038038507076613](https://doi.org/10.1177/0038038507076613)
-**作者**: Pope, Catherine; Crow, Graham
-**摘要**: （暂无）
-
 ### Book Review: Extreme Killing: Understanding Serial and Mass Murder
 **年份**: 2007 | **DOI**: [10.1177/003803850704100112](https://doi.org/10.1177/003803850704100112)
 **作者**: Soothill, Keith
@@ -1312,11 +1227,6 @@
 **年份**: 2007 | **DOI**: [10.1177/0038038507074721](https://doi.org/10.1177/0038038507074721)
 **作者**: Gorringe, Hugo; Rafanell, Irene
 **摘要**: Caste is often presented as a stable or fixed form of social stratification that conditions the behaviour of its members.This occludes the micro-structural process by which caste is embodied.This article uses empirical work on caste protest to discuss the fluid nature of embodied activity, and the a…
-
-### Editorial Foreword: Sociology and its Public Face(s)
-**年份**: 2007 | **DOI**: [10.1177/0038038507080435](https://doi.org/10.1177/0038038507080435)
-**作者**: Holmwood, John; Scott, Sue
-**摘要**: （暂无）
 
 ### Book Reviews: S. Nettleton The Sociology of Health and Illness
 **年份**: 2007 | **DOI**: [10.1177/00380385070410021404](https://doi.org/10.1177/00380385070410021404)
@@ -1373,10 +1283,6 @@
 **作者**: Archer, Louise; Hollingworth, Sumi; Halsall, Anna
 **摘要**: This ar ticle explores how urban working-class young people's performances of embodied identities — as enacted through practices of `taste' and style — are played out within the educational field.The ar ticle considers how such practices may contribute to shaping young people's post-16 `choices' and…
 
-### Books Received
-**年份**: 2007 | **DOI**: [10.1177/0038038507084178](https://doi.org/10.1177/0038038507084178)
-**摘要**: （暂无）
-
 ### Joint Review: M. Gillespie (ed.) Media Audiences Maidenhead: Open University Press, 2005, £18.99 pbk (ISBN: 0—335—21882—2), viii+250 pp. Marie Gillespie and Jason Toynbee (eds) Analysing Media Texts Berkshire: McGraw-Hill Education, 2006, £21.99 pbk (ISBN: 0—335—21886—5), viii+208 pp
 **年份**: 2007 | **DOI**: [10.1177/0038038507082322](https://doi.org/10.1177/0038038507082322)
 **作者**: Gibbons, Tom; McDonald, Philip
@@ -1412,10 +1318,6 @@
 **作者**: Weaver, Simon
 **摘要**: （暂无）
 
-### Books Received January — February 2007
-**年份**: 2007 | **DOI**: [10.1177/0038038507078937](https://doi.org/10.1177/0038038507078937)
-**摘要**: （暂无）
-
 ### The Women's Movement and British Journal Articles, 1950—2004
 **年份**: 2007 | **DOI**: [10.1177/0038038507080448](https://doi.org/10.1177/0038038507080448)
 **作者**: Platt, Jennifer
@@ -1434,10 +1336,6 @@
 ### Joint Review
 **年份**: 2007 | **DOI**: [10.1177/00380385070766241](https://doi.org/10.1177/00380385070766241)
 **作者**: Davidson, Kate
-**摘要**: （暂无）
-
-### Books Received
-**年份**: 2007 | **DOI**: [10.1177/0038038507074990](https://doi.org/10.1177/0038038507074990)
 **摘要**: （暂无）
 
 ### Writing Diaspora: South Asian Women, Culture and Ethnicity; Domicile and Diaspora:Anglo-Indian Women and the Politics of Home
@@ -1570,7 +1468,7 @@
 **作者**: Davis, Mark
 **摘要**: Using qualitative interviews with gay men with HIV and with reference to identity, expertise and HIV medical technologies, this article contributes to debate concerning the concept of risk reflexivity.…
 
-### Book Review: Harvie Ferguson Phenomenological Sociology: Experience &amp; Insight in Modern Society London, Sage, 2006, £70.00 hbk, £21.99 pbk (ISBN: 0—7619—5987—4), 248 pp
+### Book Review: Harvie Ferguson Phenomenological Sociology: Experience & Insight in Modern Society London, Sage, 2006, £70.00 hbk, £21.99 pbk (ISBN: 0—7619—5987—4), 248 pp
 **年份**: 2007 | **DOI**: [10.1177/00380385070410031204](https://doi.org/10.1177/00380385070410031204)
 **作者**: Gibson, Will
 **摘要**: （暂无）
@@ -1610,16 +1508,7 @@
 **作者**: Savage, Mike; Burrows, Roger
 **摘要**: This ar ticle argues that in an age of knowing capitalism, sociologists have not adequately thought about the challenges posed to their expertise by the proliferation of `social' transactional data which are now routinely collected, processed and analysed by a wide variety of private and public inst…
 
-### Editorial Foreword: Valuing Sociology
-**年份**: 2007 | **DOI**: [10.1177/0038038507082310](https://doi.org/10.1177/0038038507082310)
-**作者**: Pope, Catherine; Crow, Graham
-**摘要**: （暂无）
-
-### Books Received
-**年份**: 2007 | **DOI**: [10.1177/0038038507076682](https://doi.org/10.1177/0038038507076682)
-**摘要**: （暂无）
-
-### Book Review: Guy Hawkins The Ethics of Waste: How We Relate to Rubbish Lanham, Boulder, New York, Toronto, Oxford: Rowman &amp; Littlefield, 2006, no price stated pbk (ISBN: 0—7425—3012—4), xii+151 pp
+### Book Review: Guy Hawkins The Ethics of Waste: How We Relate to Rubbish Lanham, Boulder, New York, Toronto, Oxford: Rowman & Littlefield, 2006, no price stated pbk (ISBN: 0—7425—3012—4), xii+151 pp
 **年份**: 2007 | **DOI**: [10.1177/00380385070410061407](https://doi.org/10.1177/00380385070410061407)
 **作者**: Castán Broto, Vanesa
 **摘要**: （暂无）
@@ -1739,11 +1628,6 @@
 **作者**: valentine, kylie
 **摘要**: This ar ticle considers the operations of methadone maintenance treatment through the use of concepts proposed by actor-network theor y and historical ontology. The former provokes a concern with the co-constitution of treatment regimes by various actors, including non-human actants.The latter provo…
 
-### Editorial Foreword
-**年份**: 2007 | **DOI**: [10.1177/0038038507072277](https://doi.org/10.1177/0038038507072277)
-**作者**: Crow, Graham; Pope, Catherine
-**摘要**: （暂无）
-
 ### Book Review: M. Kaldor, M. Albrow, H.Anheier and M. Glasius (eds)
 **年份**: 2007 | **DOI**: [10.1177/00380385070410041209](https://doi.org/10.1177/00380385070410041209)
 **作者**: Collins, Richard
@@ -1784,11 +1668,6 @@
 **作者**: Khodyakov, Dmitry
 **摘要**: What is trust? Should trust be used as a variable or as a process? Is trust in people similar in nature to trust in institutions? These are three main questions I address in this article.…
 
-### Editorial Foreword
-**年份**: 2007 | **DOI**: [10.1177/0038038507074796](https://doi.org/10.1177/0038038507074796)
-**作者**: Crow, Graham; Pope, Catherine
-**摘要**: （暂无）
-
 ### Sex Work Stigma: Opportunist Migrants in London
 **年份**: 2007 | **DOI**: [10.1177/0038038507082316](https://doi.org/10.1177/0038038507082316)
 **作者**: Scambler, Graham
@@ -1807,10 +1686,6 @@
 ### Book Review: The Era of Choice: The Ability to Choose and its Transformation of Contemporary Life
 **年份**: 2007 | **DOI**: [10.1177/003803850704100118](https://doi.org/10.1177/003803850704100118)
 **作者**: Tonner, Andrea
-**摘要**: （暂无）
-
-### Books Received
-**年份**: 2007 | **DOI**: [10.1177/0038038507072325](https://doi.org/10.1177/0038038507072325)
 **摘要**: （暂无）
 
 ### Treating the Hotel Like a Home: The Contribution of Studying the Single Location Home/Workplace
@@ -1848,10 +1723,6 @@
 **作者**: Giulianotti, Richard; Robertson, Roland
 **摘要**: The concept of glocalization has the potential to advance sociological understanding of globalization with reference to social agency and cultural differentiation. In this article, we develop a four-fold typology of glocalization projects, with reference to relativization, accommodation, hybridizati…
 
-### Books Received
-**年份**: 2006 | **DOI**: [10.1177/0038038506063690](https://doi.org/10.1177/0038038506063690)
-**摘要**: （暂无）
-
 ### Book Review: Poverty
 **年份**: 2006 | **DOI**: [10.1177/0038038506067535](https://doi.org/10.1177/0038038506067535)
 **作者**: Beresford, Peter
@@ -1875,11 +1746,6 @@
 ### Book Review: Uncertain Vision: Birt, Dyke and the Reinvention of the BBC
 **年份**: 2006 | **DOI**: [10.1177/003803850604000416](https://doi.org/10.1177/003803850604000416)
 **作者**: Jones, Paul
-**摘要**: （暂无）
-
-### Editorial Foreword
-**年份**: 2006 | **DOI**: [10.1177/0038038506062028](https://doi.org/10.1177/0038038506062028)
-**作者**: Crow, Graham; Pope, Catherine
 **摘要**: （暂无）
 
 ### The Sociology of Architecture and the Politics of Building:
@@ -1947,10 +1813,6 @@
 **作者**: Matthewman, Steve; Hoey, Douglas
 **摘要**: Some things never made it into the 21st century. Postmodern social theory seems to be one of them. In this article we ask the all important questions: what was it and what happened to it? We argue that postmodernism existed in the plural and in many of its forms as proxy.…
 
-### Books Received
-**年份**: 2006 | **DOI**: [10.1177/0038038506058467](https://doi.org/10.1177/0038038506058467)
-**摘要**: （暂无）
-
 ### Book Review: Caribbean Drugs
 **年份**: 2006 | **DOI**: [10.1177/0038038506063675](https://doi.org/10.1177/0038038506063675)
 **作者**: Calvey, David
@@ -2014,11 +1876,6 @@
 ### Book Review: Making History
 **年份**: 2006 | **DOI**: [10.1177/003803850604000315](https://doi.org/10.1177/003803850604000315)
 **作者**: Dearey, Melissa
-**摘要**: （暂无）
-
-### Editorial Foreword
-**年份**: 2006 | **DOI**: [10.1177/0038038506063666](https://doi.org/10.1177/0038038506063666)
-**作者**: Crow, Graham; Pope, Catherine
 **摘要**: （暂无）
 
 ### Identity in Focus
@@ -2121,11 +1978,6 @@
 **作者**: Garner, Steve
 **摘要**: Whiteness studies are trans-disciplinary, but here the focus is principally on sociology and social history. Firstly, I identify, elucidate and synthesize the major ways in which whiteness in this literature has hitherto been problematized, to provide a sociological view of the multidisciplinary wor…
 
-### Editorial Foreword
-**年份**: 2006 | **DOI**: [10.1177/0038038506058429](https://doi.org/10.1177/0038038506058429)
-**作者**: Lawler, Stephanie
-**摘要**: （暂无）
-
 ### Book Review: Youth Crime and Youth Culture in the Inner City
 **年份**: 2006 | **DOI**: [10.1177/0038038506069864](https://doi.org/10.1177/0038038506069864)
 **作者**: Rogers, Peter
@@ -2174,14 +2026,6 @@
 ### Book Review: Making Sense of Social Theory: A Practical Introduction
 **年份**: 2006 | **DOI**: [10.1177/0038038506067537](https://doi.org/10.1177/0038038506067537)
 **作者**: Chatterjee, Deba Prashad
-**摘要**: （暂无）
-
-### Index to Volume 40, 2006
-**年份**: 2006 | **DOI**: [10.1177/0038038506069868](https://doi.org/10.1177/0038038506069868)
-**摘要**: （暂无）
-
-### Books Received
-**年份**: 2006 | **DOI**: [10.1177/0038038506062051](https://doi.org/10.1177/0038038506062051)
 **摘要**: （暂无）
 
 ### Introducing Sociology’s New Editors
@@ -2258,19 +2102,10 @@
 **作者**: Winlow, Simon
 **摘要**: （暂无）
 
-### Books Received
-**年份**: 2006 | **DOI**: [10.1177/0038038506067541](https://doi.org/10.1177/0038038506067541)
-**摘要**: （暂无）
-
 ### Rethinking Social Movement Theories in the Twenty-first Century
 **年份**: 2006 | **DOI**: [10.1177/0038038506058442](https://doi.org/10.1177/0038038506058442)
 **作者**: Ryan, Louise
 **摘要**: Dans cet article, l'A s'interesse a l'evolution des etudes sur les theories des mouvements sociaux. A travers l'analyse de trois ouvrages, l'Amet en lumiere les nouvelles formes de protestation: Rethinking Social Movements: Structure, Meaning and Emotion (Jeff Goodwin et James Jasper); Escaping the …
-
-### Editorial Foreword
-**年份**: 2006 | **DOI**: [10.1177/0038038506067506](https://doi.org/10.1177/0038038506067506)
-**作者**: Pope, Catherine; Crow, Graham
-**摘要**: （暂无）
 
 ### Pills, Power, People: Sociological Understandings of the Pharmaceutical Industry
 **年份**: 2006 | **DOI**: [10.1177/0038038506062034](https://doi.org/10.1177/0038038506062034)
@@ -2281,10 +2116,6 @@
 **年份**: 2006 | **DOI**: [10.1177/003803850663672](https://doi.org/10.1177/003803850663672)
 **作者**: Adams, Matthew
 **摘要**: This article initially summarizes two dominant tropes in the sociology of identity in recent years, centred on the concepts of self-reflexivity and habitus, followed by an overview of extensive critical debate to which both have been subjected.…
-
-### Books Received
-**年份**: 2006 | **DOI**: [10.1177/0038038506069867](https://doi.org/10.1177/0038038506069867)
-**摘要**: （暂无）
 
 ### Race and Social Analysis; Race:The Reality of Human Differences
 **年份**: 2006 | **DOI**: [10.1177/0038038506058455](https://doi.org/10.1177/0038038506058455)
@@ -2396,11 +2227,6 @@
 **作者**: Lindsay, Jo; Perlesz, Amaryll; Brown, Rhonda 等6人
 **摘要**: This article explores the interface between lesbian-parented families and mainstream society through the example of schools. Lesbian-parented families are an increasingly visible family form; they are diverse and complex and raise challenges for heteronormative social institutions.…
 
-### Editorial Foreword
-**年份**: 2006 | **DOI**: [10.1177/0038038506065148](https://doi.org/10.1177/0038038506065148)
-**作者**: Crow, Graham; Pope, Catherine
-**摘要**: （暂无）
-
 ### Unequalizing Citizenship: The Politics of Poland’s Health Care Change
 **年份**: 2006 | **DOI**: [10.1177/0038038506069848](https://doi.org/10.1177/0038038506069848)
 **作者**: Watson, Peggy
@@ -2441,10 +2267,6 @@
 **作者**: Stevenson, Nick
 **摘要**: （暂无）
 
-### Books Received
-**年份**: 2006 | **DOI**: [10.1177/0038038506065179](https://doi.org/10.1177/0038038506065179)
-**摘要**: （暂无）
-
 ### Thirty Years of Keywords
 **年份**: 2006 | **DOI**: [10.1177/0038038506069857](https://doi.org/10.1177/0038038506069857)
 **作者**: Jones, Paul
@@ -2465,14 +2287,9 @@
 **作者**: Clarke, Simon
 **摘要**: Over the past few years there has been an increasing interest in the use of psychoanalytic ideas within a sociological framework. These ideas have been largely developed within sociological theory rather than practice.…
 
-### Book Review: Body &amp; Soul: Notebooks of an Apprentice Boxer
+### Book Review: Body & Soul: Notebooks of an Apprentice Boxer
 **年份**: 2005 | **DOI**: [10.1177/003803850503900317](https://doi.org/10.1177/003803850503900317)
 **作者**: Hills, Laura
-**摘要**: （暂无）
-
-### Editorial Foreword
-**年份**: 2005 | **DOI**: [10.1177/0038038505048997](https://doi.org/10.1177/0038038505048997)
-**作者**: Lawler, Stephanie
 **摘要**: （暂无）
 
 ### Methodological Pluralism, British Sociology and the Evidence-based State
@@ -2539,10 +2356,6 @@
 **作者**: Brown, Gavin
 **摘要**: （暂无）
 
-### Books Received November 1st - December 31st 2004
-**年份**: 2005 | **DOI**: [10.1177/0038038505050561](https://doi.org/10.1177/0038038505050561)
-**摘要**: （暂无）
-
 ### Book Review: Science, Social Theory and Knowledge
 **年份**: 2005 | **DOI**: [10.1177/0038038505052497](https://doi.org/10.1177/0038038505052497)
 **作者**: May, Tim
@@ -2593,19 +2406,10 @@
 **作者**: Marinetto, Mike
 **摘要**: （暂无）
 
-### Editorial Foreword
-**年份**: 2005 | **DOI**: [10.1177/0038038505056020](https://doi.org/10.1177/0038038505056020)
-**作者**: Byrne, David
-**摘要**: （暂无）
-
 ### Finding, and Correcting, My Mistakes
 **年份**: 2005 | **DOI**: [10.1177/0038038505052488](https://doi.org/10.1177/0038038505052488)
 **作者**: Banton, Michael
 **摘要**: Mistakes are inherent in the process of research but can illuminate it. Some of the author’s mistakes have been false assumptions shared with others of his generation. His early work lacked a sufficiently sharp focus for him to be able to make any interesting mistakes.…
-
-### Index to Volume 39, 2005
-**年份**: 2005 | **DOI**: [10.1177/0038038505058391](https://doi.org/10.1177/0038038505058391)
-**摘要**: （暂无）
 
 ### ‘Leaps of Faith’ and MMR: An Empirical Study of Trust
 **年份**: 2005 | **DOI**: [10.1177/0038038505050536](https://doi.org/10.1177/0038038505050536)
@@ -2615,10 +2419,6 @@
 ### Book Review: Medicine and the Body
 **年份**: 2005 | **DOI**: [10.1177/003803850503900115](https://doi.org/10.1177/003803850503900115)
 **作者**: Nettleton, Sarah
-**摘要**: （暂无）
-
-### Books Received
-**年份**: 2005 | **DOI**: [10.1177/0038038505049025](https://doi.org/10.1177/0038038505049025)
 **摘要**: （暂无）
 
 ### Introduction: Class, Culture and Identity
@@ -2660,10 +2460,6 @@
 **年份**: 2005 | **DOI**: [10.1177/0038038505049003](https://doi.org/10.1177/0038038505049003)
 **作者**: Jagger, Elizabeth
 **摘要**: Based on a content analysis of 1094 advertisements, the article extends the author’s previous research on dating by examining how age and gender intersect to influence the age at which people advertise, their choice of partner and how they manage aspects of their age identity.…
-
-### Books Received
-**年份**: 2005 | **DOI**: [10.1177/0038038505058325](https://doi.org/10.1177/0038038505058325)
-**摘要**: （暂无）
 
 ### Book Review: Black and Asian Athletes in British Sport and Society: A Sporting Chance?
 **年份**: 2005 | **DOI**: [10.1177/003803850503900216](https://doi.org/10.1177/003803850503900216)
@@ -2830,10 +2626,6 @@
 **作者**: Beer, David
 **摘要**: （暂无）
 
-### Books Received
-**年份**: 2005 | **DOI**: [10.1177/0038038505053162](https://doi.org/10.1177/0038038505053162)
-**摘要**: （暂无）
-
 ### Distributed Decisions: The Example of Child Access to Primary Health Care
 **年份**: 2005 | **DOI**: [10.1177/0038038505049004](https://doi.org/10.1177/0038038505049004)
 **作者**: Buetow, Stephen
@@ -2853,11 +2645,6 @@
 **年份**: 2005 | **DOI**: [10.1177/0038038505058384](https://doi.org/10.1177/0038038505058384)
 **作者**: Woodin, Tom
 **摘要**: This article charts and analyses the debates and discussions about class and identity over the last 30 years in the Federation of Worker Writers and Community Publishers (Fed).The Fed fostered a class identity that was sharpened through discussions about the role of middle-class sympathizers.…
-
-### Editorial Foreword
-**年份**: 2005 | **DOI**: [10.1177/0038038505050534](https://doi.org/10.1177/0038038505050534)
-**作者**: Byrne, David
-**摘要**: （暂无）
 
 ### Public Religion and Political Change in Wales
 **年份**: 2005 | **DOI**: [10.1177/0038038505048999](https://doi.org/10.1177/0038038505048999)
@@ -2913,11 +2700,6 @@
 **年份**: 2005 | **DOI**: [10.1177/0038038505058370](https://doi.org/10.1177/0038038505058370)
 **作者**: MacDonald, Robert; Shildrick, Tracy; Webster, Colin 等4人
 **摘要**: Drawing upon qualitative, longitudinal research with ‘socially excluded’ young adults from some of England’s poorest neighbourhoods, the article explores how locally-embedded, social networks become part of the process whereby poverty and class inequalities are reproduced.…
-
-### Editorial Foreword
-**年份**: 2005 | **DOI**: [10.1177/0038038505052487](https://doi.org/10.1177/0038038505052487)
-**作者**: Lawler, Stephanie
-**摘要**: （暂无）
 
 ### Book Review: Advancing Strong Programmes
 **年份**: 2005 | **DOI**: [10.1177/0038038505049007](https://doi.org/10.1177/0038038505049007)
@@ -2983,10 +2765,6 @@
 **作者**: Lau, Raymond W.K.
 **摘要**: Bourdieu confuses himself and others by calling his project a ‘transcendence’ of the objectivist–subjectivist antinomy. Contrary to claims, Bourdieu’s methodology and theoretical premises are directly opposed to phenomenological social constructivism, though he makes use of several key phenomenologi…
 
-### Books Received
-**年份**: 2004 | **DOI**: [10.1177/0038038504041592](https://doi.org/10.1177/0038038504041592)
-**摘要**: （暂无）
-
 ### Joint Review
 **年份**: 2004 | **DOI**: [10.1177/0038038504047193](https://doi.org/10.1177/0038038504047193)
 **作者**: Mellor, Jody
@@ -3022,10 +2800,6 @@
 **作者**: Bryant, Christopher G.A.
 **摘要**: （暂无）
 
-### Books Received
-**年份**: 2004 | **DOI**: [10.1177/0038038504040882](https://doi.org/10.1177/0038038504040882)
-**摘要**: （暂无）
-
 ### The Social Differentiation of the Educational System
 **年份**: 2004 | **DOI**: [10.1177/0038038504040863](https://doi.org/10.1177/0038038504040863)
 **作者**: Vanderstraeten, Raf
@@ -3035,10 +2809,6 @@
 **年份**: 2004 | **DOI**: [10.1177/0038038504045865](https://doi.org/10.1177/0038038504045865)
 **作者**: Britton, Nadia Joanne; Halfpenny, Peter; Devine, Fiona 等4人
 **摘要**: Castells identifies two potential consequences of the introduction of information technology into the workplace: dispersal of the workforce and individualization of work, including the spread of teleworking.…
-
-### Books Received
-**年份**: 2004 | **DOI**: [10.1177/0038038504043234](https://doi.org/10.1177/0038038504043234)
-**摘要**: （暂无）
 
 ### Response to Quoting and Counting
 **年份**: 2004 | **DOI**: [10.1177/0038038504039375](https://doi.org/10.1177/0038038504039375)
@@ -3120,10 +2890,6 @@
 ### Joint Review
 **年份**: 2004 | **DOI**: [10.1177/0038038504047192](https://doi.org/10.1177/0038038504047192)
 **作者**: Calvey, David
-**摘要**: （暂无）
-
-### Books Received
-**年份**: 2004 | **DOI**: [10.1177/0038038504048620](https://doi.org/10.1177/0038038504048620)
 **摘要**: （暂无）
 
 ### Starting Well
@@ -3327,10 +3093,6 @@
 ### Book Review: Thinking Past Terror: Islamism and Critical Theory on the Left
 **年份**: 2004 | **DOI**: [10.1177/003803850403800520](https://doi.org/10.1177/003803850403800520)
 **作者**: Stevenson, Nick
-**摘要**: （暂无）
-
-### Books Received
-**年份**: 2004 | **DOI**: [10.1177/0038038504050783](https://doi.org/10.1177/0038038504050783)
 **摘要**: （暂无）
 
 ### Reading Bourdieu with Adorno
@@ -3678,10 +3440,6 @@
 **作者**: Breen, Richard
 **摘要**: In all developed societies the class position that individuals come to occupy depends, inter alia, on their class origins, gender and ethnic group membership. It might be argued that these inequalities had ‘meritocratic legitimation’ if it transpired that they were largely the result of the differen…
 
-### Books Received
-**年份**: 2003 | **DOI**: [10.1177/0038038503037001332](https://doi.org/10.1177/0038038503037001332)
-**摘要**: （暂无）
-
 ### Book Reviews
 **年份**: 2003 | **DOI**: [10.1177/00380385030373019](https://doi.org/10.1177/00380385030373019)
 **作者**: Trigg, Andrew B.
@@ -3836,10 +3594,6 @@
 **作者**: Shaw, Martin
 **摘要**: （暂无）
 
-### Books Received
-**年份**: 2002 | **DOI**: [10.1177/0038038502036001012](https://doi.org/10.1177/0038038502036001012)
-**摘要**: （暂无）
-
 ### Social Theory, the Civic Imagination and Documentary Film: A Past-modern Critique of the `Bloody Bosnia' Season's the Roots of War
 **年份**: 2002 | **DOI**: [10.1177/0038038502036002007](https://doi.org/10.1177/0038038502036002007)
 **作者**: Stones, Rob
@@ -3915,10 +3669,6 @@
 **作者**: Wallace, Claire
 **摘要**: The article considers the idea of `household strategies' as a concept that takes into account the motivations and agency of actors in society, as a method of analysis through looking at the intersection of different economies in household behaviour and as a unit of analysis, with a focus on househol…
 
-### Books Received
-**年份**: 2002 | **DOI**: [10.1177/003803850203600317](https://doi.org/10.1177/003803850203600317)
-**摘要**: （暂无）
-
 ### Social Capital and Political Sociology: Re-imagining Politics?
 **年份**: 2002 | **DOI**: [10.1177/0038038502036002008](https://doi.org/10.1177/0038038502036002008)
 **作者**: Walters, William
@@ -3967,10 +3717,6 @@
 **年份**: 2002 | **DOI**: [10.1177/003803850203600414](https://doi.org/10.1177/003803850203600414)
 **摘要**: （暂无）
 
-### Books Received
-**年份**: 2002 | **DOI**: [10.1177/003803850203600214](https://doi.org/10.1177/003803850203600214)
-**摘要**: （暂无）
-
 ### Beck's Sociology of Risk: A Critical Assessment
 **年份**: 2002 | **DOI**: [10.1177/0038038502036002004](https://doi.org/10.1177/0038038502036002004)
 **作者**: Elliott, Anthony
@@ -3985,10 +3731,6 @@
 **年份**: 2002 | **DOI**: [10.1177/003803850203600401](https://doi.org/10.1177/003803850203600401)
 **作者**: Aspinall, Peter J.
 **摘要**: A wide range of terminology is used, often interchangeably, to describe the minority ethnic group population as a whole and major segments of it.While some terms have been extended to give clarity, as in ‘Asian, Black and other minority ethnic’, much in this lexicon remains cumbersome or ambiguous i…
-
-### Books Received
-**年份**: 2002 | **DOI**: [10.1177/003803850203600413](https://doi.org/10.1177/003803850203600413)
-**摘要**: （暂无）
 
 ### Masculinities
 **年份**: 2002 | **DOI**: [10.1177/0038038502036003013](https://doi.org/10.1177/0038038502036003013)
@@ -4284,10 +4026,6 @@
 **作者**: PETLEY, JULIAN
 **摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
-### Correction
-**年份**: 2001 | **DOI**: [10.1177/0038038501035003025](https://doi.org/10.1177/0038038501035003025)
-**摘要**: （暂无）
-
 ### Reflective Authenticity: Rethinking the Project of Modernity, Alessandro Ferrara, London: Routledge, 1998, £14.99, 187 pp. (ISBN: 0-715-13062-X)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501280158](https://doi.org/10.1017/s0038038501280158)
 **作者**: KUNNEMAN, HARRY; VANDENBERGHE, FRÉDÉRIC
@@ -4427,10 +4165,6 @@
 **作者**: Holmwood, John
 **摘要**: In a recent article in this journal, Andrew Sayer has argued that much feminist research on the gendered nature of organisations, such as bureaucracy and the market, confuses a contingent association of gender and organisational forms with a stronger claim that they are intrinsically gendered.…
 
-### Books Received
-**年份**: 2001 | **DOI**: [10.1017/s0038038501010094](https://doi.org/10.1017/s0038038501010094)
-**摘要**: （暂无）
-
 ### ‘No One Likes Us, We Don't Care’: The Myth and Reality of Millwall Fandom, Garry Robson, Oxford: Berg, 2000, £14.99 paperback, xi+203 pp. (ISBN 1-85973-372-7)
 **年份**: 2001 | **DOI**: [10.1017/s003803850129991x](https://doi.org/10.1017/s003803850129991x)
 **作者**: Redhead, Steve
@@ -4565,10 +4299,6 @@
 **年份**: 2001 | **DOI**: [10.1177/s0038038501000219](https://doi.org/10.1177/s0038038501000219)
 **作者**: Hutchby, Ian
 **摘要**: In contrast to recent sociological emphases on the social shaping of technology, this article proposes and illustrates a way of analysing the technological shaping of sociality. Drawing on the concept of affordances (Gibson 1979), the article argues for a recognition of the constraining, as well as …
-
-### Books Received
-**年份**: 2001 | **DOI**: [10.1017/s003803850100030x](https://doi.org/10.1017/s003803850100030x)
-**摘要**: （暂无）
 
 ### Introducing Narrative Psychology: Self, Trauma and the Construction of Meaning, Michele Crossley, Buckingham: Open University Press, 2000, £50.00 (£16.99 pbk), 200 pp. (ISBN: 0-335-20290-X)
 **年份**: 2001 | **DOI**: [10.1017/s0038038501260155](https://doi.org/10.1017/s0038038501260155)
@@ -4913,10 +4643,6 @@
 **作者**: CROCKETT, ALASDAIR
 **摘要**: （暂无）
 
-### Books Received
-**年份**: 2001 | **DOI**: [10.1017/s0038038501000165](https://doi.org/10.1017/s0038038501000165)
-**摘要**: （暂无）
-
 ### Books Reviewed
 **年份**: 2001 | **DOI**: [10.1177/0038038501035001039](https://doi.org/10.1177/0038038501035001039)
 **作者**: EADIE, JO
@@ -4935,10 +4661,6 @@
 ### The Cybercultures Reader, David Bell and Barbara Kennedy (eds.), London: Routledge, 2000, £17.99, xxv+768 pp. (ISBN: 0-415-18379-0)
 **年份**: 2001 | **DOI**: [10.1017/s003803850122015x](https://doi.org/10.1017/s003803850122015x)
 **作者**: TAYLOR, PAUL A.
-**摘要**: （暂无）
-
-### Books Received
-**年份**: 2001 | **DOI**: [10.1017/s0038038501000426](https://doi.org/10.1017/s0038038501000426)
 **摘要**: （暂无）
 
 ### Books Reviewed
@@ -5145,10 +4867,6 @@
 **年份**: 2000 | **DOI**: [10.1017/s0038038500000225](https://doi.org/10.1017/s0038038500000225)
 **作者**: Williams, Malcolm
 **摘要**: David Byrne, Complexity Theory and the Social Sciences: An Introduction. London: Routledge, 1999, £45.00 (£:15.99 paperback), viii+206 pp. (ISBN 0-415-16296-3)Raymond A. Eve, Sara Horsfall and Mary E. Lee (eds.), Chaos, Complexity and Sociology: Myths, Models and Theories).…
-
-### BOOKS RECEIVED
-**年份**: 2000 | **DOI**: [10.1017/s0038038500000249](https://doi.org/10.1017/s0038038500000249)
-**摘要**: （暂无）
 
 ### Moral Tales of the Child and the Adult: Narratives of Contemporary Family Lives under Changing Circumstances
 **年份**: 2000 | **DOI**: [10.1017/s003803850000047x](https://doi.org/10.1017/s003803850000047x)
@@ -5538,10 +5256,6 @@
 **作者**: Baxter, Janeen
 **摘要**: This paper investigates husbands' and wives' perceptions of fairness of the domestic division of labour. Using data from a recent national Australian survey, the paper shows that 59 per cent of women report that the division of labour in the home is fair even though they also report responsibility f…
 
-### Books Received
-**年份**: 2000 | **DOI**: [10.1017/s0038038500000134](https://doi.org/10.1017/s0038038500000134)
-**摘要**: （暂无）
-
 ### Pat O'Connor, Emerging Voices: Women in Contemporary Irish Society, Dublin: Institute of Public Administration, 1998, £IR18.95 paperback, x+308 pp. (ISBN 1-872002-74-9)
 **年份**: 2000 | **DOI**: [10.1017/s0038038500320235](https://doi.org/10.1017/s0038038500320235)
 **作者**: Smyth, Lisa
@@ -5591,10 +5305,6 @@
 **年份**: 2000 | **DOI**: [10.1177/s0038038500000456](https://doi.org/10.1177/s0038038500000456)
 **作者**: Mouzelis, Nicos
 **摘要**: On the basis of a fourfold typology referring to different definitions of the social-structure concept, and of a critique of Giddens's and Bourdieu's strategies for transcending the divide between objectivist and subjectivist sociologies, this paper argues that rapprochement rather than transcendenc…
-
-### BOOKS RECEIVED
-**年份**: 2000 | **DOI**: [10.1017/s0038038500000377](https://doi.org/10.1017/s0038038500000377)
-**摘要**: （暂无）
 
 ### Crime and Social Exclusion, Catherine Jones Finer and Mike Nellis (eds.), London: Blackwell, 1998, £34.95 (£13.99 paperback), vi+175 pp. (ISBN 0-631-20912-3) Understanding Crime Prevention: Social Control, Risk and Late Modernity, Gordon Hughes, Buckingham: Open University Press, 1998, £50.00 (£15.99 paperback), xi+179 pp. (ISBN 0-335-19940-2)
 **年份**: 2000 | **DOI**: [10.1017/s003803850028036x](https://doi.org/10.1017/s003803850028036x)
@@ -5890,10 +5600,6 @@
 **年份**: 2000 | **DOI**: [10.1017/s003803850033036x](https://doi.org/10.1017/s003803850033036x)
 **作者**: CHANDRA, VINOD
 **摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
-
-### BOOKS RECEIVED
-**年份**: 2000 | **DOI**: [10.1017/s0038038500000511](https://doi.org/10.1017/s0038038500000511)
-**摘要**: （暂无）
 
 ### Sokal, Chaos and the Way Forward?
 **年份**: 2000 | **DOI**: [10.1177/s0038038500000225](https://doi.org/10.1177/s0038038500000225)

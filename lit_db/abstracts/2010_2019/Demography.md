@@ -1,7 +1,7 @@
 # Demography
 ## 2010–2019 年文章（含摘要）
 
-共 **869** 篇
+共 **863** 篇
 
 ---
 
@@ -2773,11 +2773,6 @@
 **作者**: van Raalte, Alyson A.; Caswell, Hal
 **摘要**: AbstractA number of indices exist to calculate lifespan variation, each with different underlying properties. Here, we present new formulae for the response of seven of these indices to changes in the underlying mortality schedule (life disparity, Gini coefficient, standard deviation, variance, Thei…
 
-### Erratum to: Multidimensional Life Table Estimation of the Total Fertility Rate and Its Components
-**年份**: 2013 | **DOI**: [10.1007/s13524-013-0206-4](https://doi.org/10.1007/s13524-013-0206-4)
-**作者**: Retherford, Robert D.; Eini-Zinab, Hassan; Choe, Minja Kim 等5人
-**摘要**: （暂无）
-
 ### Microcredit and Domestic Violence in Bangladesh: An Exploration of Selection Bias Influences
 **年份**: 2013 | **DOI**: [10.1007/s13524-013-0226-0](https://doi.org/10.1007/s13524-013-0226-0)
 **作者**: Bajracharya, Ashish; Amin, Sajeda
@@ -2857,16 +2852,6 @@
 **年份**: 2013 | **DOI**: [10.1007/s13524-013-0215-3](https://doi.org/10.1007/s13524-013-0215-3)
 **作者**: Hayford, Sarah R.
 **摘要**: Childlessness in the United States nearly doubled between 1980 and 2000. Other dramatic changes in the U.S. population also took place over this period-notably, women's average educational attainment increased, and the proportion marrying declined-but the impact of these changes on childlessness has…
-
-### Erratum to: Why Is Infant Mortality Higher in Boys Than in Girls? A New Hypothesis Based on Preconception Environment and Evidence From a Large Sample of Twins
-**年份**: 2013 | **DOI**: [10.1007/s13524-012-0183-z](https://doi.org/10.1007/s13524-012-0183-z)
-**作者**: Pongou, Roland
-**摘要**: （暂无）
-
-### Erratum to: Trends in Occupational Segregation by Gender 1970–2009: Adjusting for the Impact of Changes in the Occupational Coding System
-**年份**: 2013 | **DOI**: [10.1007/s13524-013-0198-0](https://doi.org/10.1007/s13524-013-0198-0)
-**作者**: Blau, Francine D.; Brummund, Peter; Liu, Albert Yung-Hsu
-**摘要**: （暂无）
 
 ### The Compositional and Institutional Sources of Union Dissolution for Married and Unmarried Parents in the United States
 **年份**: 2013 | **DOI**: [10.1007/s13524-013-0203-7](https://doi.org/10.1007/s13524-013-0203-7)
@@ -3149,11 +3134,6 @@
 
 ### Acknowledgment of Reviewers
 **年份**: 2012 | **DOI**: [10.1007/s13524-012-0163-3](https://doi.org/10.1007/s13524-012-0163-3)
-**摘要**: （暂无）
-
-### Erratum to: Educational Inequality by Race in Brazil, 1982–2007: Structural Changes and Shifts in Racial Classification
-**年份**: 2012 | **DOI**: [10.1007/s13524-012-0109-9](https://doi.org/10.1007/s13524-012-0109-9)
-**作者**: Marteleto, Leticia J.
 **摘要**: （暂无）
 
 ### Population Trends as a Counterweight to Central City Decline, 1950–2000
@@ -3938,11 +3918,6 @@
 **作者**: Filmer, Deon; Scott, Kinnon
 **摘要**: Abstract The use of asset indices in welfare analysis and poverty targeting is increasing, especially in cases in which data on expenditures are unavailable or hard to collect. We compare alternative approaches to welfare measurement.…
 
-### Erratum to: Immigration, Crime, and Incarceration in Early Twentieth-Century America
-**年份**: 2011 | **DOI**: [10.1007/s13524-011-0038-z](https://doi.org/10.1007/s13524-011-0038-z)
-**作者**: Moehling, Carolyn; Piehl, Anne Morrison
-**摘要**: （暂无）
-
 ### Migration, Marital Change, and HIV Infection in Malawi
 **年份**: 2011 | **DOI**: [10.1007/s13524-011-0072-x](https://doi.org/10.1007/s13524-011-0072-x)
 **作者**: Anglewicz, Philip
@@ -4326,11 +4301,6 @@
 **年份**: 2010 | **DOI**: [10.1353/dem.0.0101](https://doi.org/10.1353/dem.0.0101)
 **作者**: Liu, Kayuet; Zerubavel, Noam; Bearman, Peter
 **摘要**: Abstract Parental age at child’s birth—which has increased for U.S. children in the 1992–2000 birth cohorts—is strongly associated with an increased risk of autism. By turning a social demographic lens on the historical patterning of concordance among twin pairs, we identify a central mechanism for …
-
-### Erratum to: How does the age gap between partners affect their survival?
-**年份**: 2010 | **DOI**: [10.1007/bf03213768](https://doi.org/10.1007/bf03213768)
-**作者**: Drefahl, Sven
-**摘要**: （暂无）
 
 ### An integrative approach to health
 **年份**: 2010 | **DOI**: [10.1353/dem.0.0091](https://doi.org/10.1353/dem.0.0091)

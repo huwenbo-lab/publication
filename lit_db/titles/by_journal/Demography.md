@@ -1,6 +1,6 @@
 # Demography — 文章标题索引
 
-共 **1931** 篇 | 年份范围：2000–2025
+共 **1920** 篇 | 年份范围：2000–2025
 
 > 使用方法：浏览标题初步筛选相关文章，记下标题和年份，
 > 再到对应年份段的 `abstracts/` 文件中查看摘要。
@@ -1130,7 +1130,6 @@
 - Skewed Sex Ratios in India: “Physician, Heal Thyself” · [DOI](https://doi.org/10.1007/s13524-012-0194-9)
 - Including the Smoking Epidemic in Internationally Coherent Mortality Projections · [DOI](https://doi.org/10.1007/s13524-012-0185-x)
 - Perturbation Analysis of Indices of Lifespan Variability · [DOI](https://doi.org/10.1007/s13524-013-0223-3)
-- Erratum to: Multidimensional Life Table Estimation of the Total Fertility Rate and Its Components · [DOI](https://doi.org/10.1007/s13524-013-0206-4)
 - Microcredit and Domestic Violence in Bangladesh: An Exploration of Selection Bias Influences · [DOI](https://doi.org/10.1007/s13524-013-0226-0)
 - Projecting the Effect of Changes in Smoking and Obesity on Future Life Expectancy in the United States · [DOI](https://doi.org/10.1007/s13524-013-0246-9)
 - Examining the Antecedents of U.S. Nonmarital Fatherhood · [DOI](https://doi.org/10.1007/s13524-013-0201-9)
@@ -1147,8 +1146,6 @@
 - Does Culture Affect Divorce? Evidence From European Immigrants in the United States · [DOI](https://doi.org/10.1007/s13524-012-0180-2)
 - The Impact of Migration and Remittances on Wealth Accumulation and Distribution in Rural Thailand · [DOI](https://doi.org/10.1007/s13524-013-0260-y)
 - Marriage (Still) Matters: The Contribution of Demographic Change to Trends in Childlessness in the United States · [DOI](https://doi.org/10.1007/s13524-013-0215-3)
-- Erratum to: Why Is Infant Mortality Higher in Boys Than in Girls? A New Hypothesis Based on Preconception Environment and Evidence From a Large Sample of Twins · [DOI](https://doi.org/10.1007/s13524-012-0183-z)
-- Erratum to: Trends in Occupational Segregation by Gender 1970–2009: Adjusting for the Impact of Changes in the Occupational Coding System · [DOI](https://doi.org/10.1007/s13524-013-0198-0)
 - The Compositional and Institutional Sources of Union Dissolution for Married and Unmarried Parents in the United States · [DOI](https://doi.org/10.1007/s13524-013-0203-7)
 - Has the World Really Survived the Population Bomb? (Commentary on “How the World Survived the Population Bomb: Lessons From 50 Years of Extraordinary Demographic History”) · [DOI](https://doi.org/10.1007/s13524-013-0236-y)
 - When Immigration Policies Affect Immigrants’ Lives: Commentary · [DOI](https://doi.org/10.1007/s13524-013-0205-5)
@@ -1209,7 +1206,6 @@
 - Family Instability and Early Initiation of Sexual Activity in Western Kenya · [DOI](https://doi.org/10.1007/s13524-012-0150-8)
 - The Proximate Determinants of Educational Homogamy: The Effects of First Marriage, Marital Dissolution, Remarriage, and Educational Upgrading · [DOI](https://doi.org/10.1007/s13524-012-0093-0)
 - Acknowledgment of Reviewers · [DOI](https://doi.org/10.1007/s13524-012-0163-3)
-- Erratum to: Educational Inequality by Race in Brazil, 1982–2007: Structural Changes and Shifts in Racial Classification · [DOI](https://doi.org/10.1007/s13524-012-0109-9)
 - Population Trends as a Counterweight to Central City Decline, 1950–2000 · [DOI](https://doi.org/10.1007/s13524-012-0137-5)
 - Education and the Gender Gaps in Health and Mortality · [DOI](https://doi.org/10.1007/s13524-012-0130-z)
 - Reply to Allen et al. · [DOI](https://doi.org/10.1007/s13524-012-0170-4)
@@ -1370,7 +1366,6 @@
 - Cross-National Sources of Health Inequality: Education and Tobacco Use in the World Health Survey · [DOI](https://doi.org/10.1007/s13524-011-0027-2)
 - Estimating the Effect of the One-Child Policy on the Sex Ratio Imbalance in China: Identification Based on the Difference-in-Differences · [DOI](https://doi.org/10.1007/s13524-011-0055-y)
 - Assessing Asset Indices · [DOI](https://doi.org/10.1007/s13524-011-0077-5)
-- Erratum to: Immigration, Crime, and Incarceration in Early Twentieth-Century America · [DOI](https://doi.org/10.1007/s13524-011-0038-z)
 - Migration, Marital Change, and HIV Infection in Malawi · [DOI](https://doi.org/10.1007/s13524-011-0072-x)
 - Children’s Experiences After the Unintended Birth of a Sibling · [DOI](https://doi.org/10.1007/s13524-010-0011-2)
 - Estimating a Dynamic Model of Sex Selection in China · [DOI](https://doi.org/10.1007/s13524-011-0030-7)
@@ -1451,7 +1446,6 @@
 - Immigrants and natives in U.S. science and engineering occupations, 1994–2006 · [DOI](https://doi.org/10.1353/dem.0.0117)
 - Families, social life, and well-being at older ages · [DOI](https://doi.org/10.1353/dem.2010.0009)
 - Social demographic change and autism · [DOI](https://doi.org/10.1353/dem.0.0101)
-- Erratum to: How does the age gap between partners affect their survival? · [DOI](https://doi.org/10.1007/bf03213768)
 - An integrative approach to health · [DOI](https://doi.org/10.1353/dem.0.0091)
 - Nontraditional families and childhood progress through school · [DOI](https://doi.org/10.1353/dem.0.0112)
 
@@ -1522,7 +1516,6 @@
 - The neighborhood context of racial and ethnic disparities in arrest · [DOI](https://doi.org/10.1353/dem.2008.0011)
 - An assessment of China’s fertility level using the variable-r method · [DOI](https://doi.org/10.1353/dem.0.0003)
 - Neighborhood selection and the social reproduction of concentrated racial inequality · [DOI](https://doi.org/10.1353/dem.2008.0012)
-- Erratum to: Retrospective information and health status and its application for population health measures · [DOI](https://doi.org/10.1007/bf03214586)
 - Macroeconomic fluctuations and mortality in postwar Japan · [DOI](https://doi.org/10.1353/dem.0.0008)
 - Technological innovation and inequality in health · [DOI](https://doi.org/10.1353/dem.0.0017)
 - Prenatal health investment decisions: Does the child’s sex matter? · [DOI](https://doi.org/10.1353/dem.0.0032)
@@ -1556,7 +1549,6 @@
 
 - Child support and father-child contact: Testing reciprocal pathways · [DOI](https://doi.org/10.1353/dem.2007.0008)
 - A fixed-effects multilevel analysis of how community family structure affects individual mortality in Norway · [DOI](https://doi.org/10.1353/dem.2007.0029)
-- Erratum to: The association of childhood socioeconomic conditions with healthy longevity at the oldest-old ages in China · [DOI](https://doi.org/10.1353/dem.2007.0042)
 - The effects of maternal employment on child injuries and infectious disease · [DOI](https://doi.org/10.1353/dem.2007.0011)
 - Child care availability and first-birth timing in Norway · [DOI](https://doi.org/10.1353/dem.2007.0017)
 - The long-term effects of poor childhood health: An assessment and application of retrospective reports · [DOI](https://doi.org/10.1353/dem.2007.0003)
@@ -1578,7 +1570,6 @@
 - The demography of disability and the effects of immigrant history: Older Asians in the United States · [DOI](https://doi.org/10.1353/dem.2007.0015)
 - Was there compression of disability for older Americans from 1992 to 2003? · [DOI](https://doi.org/10.1353/dem.2007.0022)
 - Child gender and father involvement in fragile families · [DOI](https://doi.org/10.1353/dem.2007.0007)
-- Erratum to: “Effects of Child Health on Parents’ Relationship Status.” · [DOI](https://doi.org/10.1353/dem.2007.0025)
 - Elderly parent health and the migration decisions of adult children: Evidence from rural China · [DOI](https://doi.org/10.1353/dem.2007.0010)
 - The political ecology of disaster: An analysis of factors influencing U.S. tornado fatalities and injuries, 1998–2000 · [DOI](https://doi.org/10.1353/dem.2007.0024)
 - Using age and spatial flow structures in the indirect estimation of migration streams · [DOI](https://doi.org/10.1353/dem.2007.0016)
@@ -1754,7 +1745,6 @@
 - Cohort and life-course patterns in the relationship between education and health: A hierarchical approach · [DOI](https://doi.org/10.1353/dem.2003.0016)
 - Verification of the ages of supercentenarians in the United States: Results of a matching study · [DOI](https://doi.org/10.1353/dem.2003.0038)
 - Family size and support of older adults in urban and rural China: Current effects and future implications · [DOI](https://doi.org/10.1353/dem.2003.0010)
-- Erratum to: “Economic Potential and Entry Into Marriage and Cohabitation” · [DOI](https://doi.org/10.1007/bf03208772)
 - Rethinking the “early” decline of marital fertility in the united states · [DOI](https://doi.org/10.1353/dem.2003.0035)
 - Fertility decline and gender bias in northern India · [DOI](https://doi.org/10.2307/1515201)
 - Engendering migrant networks: The case of Mexican migration · [DOI](https://doi.org/10.1353/dem.2003.0011)
@@ -1926,7 +1916,6 @@
 - Life expectancies in specific health states: Results from a joint model of health status and mortality of older persons · [DOI](https://doi.org/10.1353/dem.2001.0038)
 - How Do Family Planning Workers' Visits Affect Women's Contraceptive Behavior in Bangladesh? · [DOI](https://doi.org/10.2307/3088313)
 - The Influence of Remarriage on the Racial Difference in Mother-Only Families in 1910 · [DOI](https://doi.org/10.2307/3088306)
-- Erratum: Increasing Fertility in Cohabiting Unions: Evidence for the Second Demographic Transition in the United States? · [DOI](https://doi.org/10.2307/3088296)
 - Reconsidering Mortality Compression and Deceleration: An Alternative Model of Mortality Rates · [DOI](https://doi.org/10.2307/3088290)
 - The Misuse of Biology in Demographic Research on Racial/Ethnic Differences: A Reply to Van Den Oord and Rowe · [DOI](https://doi.org/10.2307/3088319)
 - The Educational Enrollment of Immigrant Youth: A Test of the Segmented-Assimilation Hypothesis · [DOI](https://doi.org/10.2307/3088348)

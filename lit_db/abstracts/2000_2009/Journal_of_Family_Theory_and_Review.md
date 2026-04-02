@@ -1,7 +1,7 @@
 # Journal of Family Theory & Review
 ## 2000–2009 年文章（含摘要）
 
-共 **35** 篇
+共 **34** 篇
 
 ---
 
@@ -40,7 +40,7 @@
 **作者**: Johnson, Michael P.
 **摘要**: （暂无）
 
-### Strengths and Challenges of New Immigrant Families: Implications for Research, Education, Policy and Service ‐ edited by Douglas Charles Abbott, Julie Johnson, Rochelle L. Dalla, &amp; John Defrain
+### Strengths and Challenges of New Immigrant Families: Implications for Research, Education, Policy and Service ‐ edited by Douglas Charles Abbott, Julie Johnson, Rochelle L. Dalla, & John Defrain
 **年份**: 2009 | **DOI**: [10.1111/j.1756-2589.2009.00030.x](https://doi.org/10.1111/j.1756-2589.2009.00030.x)
 **作者**: Koepke, Leslie Ann
 **摘要**: （暂无）
@@ -118,13 +118,9 @@
 **作者**: Sprey, Jetse
 **摘要**: （暂无）
 
-### Family Theories (3rd ed.). James M. White &amp; David M. Klein.
+### Family Theories (3rd ed.). James M. White & David M. Klein.
 **年份**: 2009 | **DOI**: [10.1111/j.1756-2589.2009.00007.x](https://doi.org/10.1111/j.1756-2589.2009.00007.x)
 **作者**: Rose, Hilary A.
-**摘要**: （暂无）
-
-### INDEX TO VOLUME 1, 2009 Cumulative Table of Contents
-**年份**: 2009 | **DOI**: [10.1111/j.1756-2589.2009.volcontents_1.x](https://doi.org/10.1111/j.1756-2589.2009.volcontents_1.x)
 **摘要**: （暂无）
 
 ### Perspectives on New Research From the Sloan Early Career Work‐Family Scholars: Introduction to a Book Review Symposium on Work‐Family Scholarship

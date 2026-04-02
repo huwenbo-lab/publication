@@ -1,7 +1,7 @@
 # Chinese Journal of Sociology
 ## 2010–2019 年文章（含摘要）
 
-共 **119** 篇
+共 **116** 篇
 
 ---
 
@@ -115,10 +115,6 @@
 **作者**: Gan, Yiqing; Fong, Eric
 **摘要**: China has been experiencing large-scale internal migration since the 1980s. Existing research studies have paid great attention to the migrant’s adaptation process in large cities and the issue of left-behind children in rural areas, while the demographic consequences of internal migration to small-…
 
-### Call for Papers
-**年份**: 2018 | **DOI**: [10.1177/2057150x18793045](https://doi.org/10.1177/2057150x18793045)
-**摘要**: （暂无）
-
 ### When do literacy skills begin to decline among Chinese adults?
 **年份**: 2018 | **DOI**: [10.1177/2057150x18775874](https://doi.org/10.1177/2057150x18775874)
 **作者**: Wu, Qiong
@@ -173,10 +169,6 @@
 **年份**: 2018 | **DOI**: [10.1177/2057150x18782053](https://doi.org/10.1177/2057150x18782053)
 **作者**: Li, Zupei
 **摘要**: The program ‘Projects to Villages’ ( xiangmu jincun) is an important means by which the Chinese government distributes resources to grassroots villages, and it has gained popularity in recent years.…
-
-### Call for Papers
-**年份**: 2018 | **DOI**: [10.1177/2057150x18793278](https://doi.org/10.1177/2057150x18793278)
-**摘要**: （暂无）
 
 ### Constructing the idea of organization: Thought self-checks and the organizational review of cadres (1952–1960)
 **年份**: 2018 | **DOI**: [10.1177/2057150x18803581](https://doi.org/10.1177/2057150x18803581)
@@ -402,10 +394,6 @@
 **年份**: 2016 | **DOI**: [10.1177/2057150x16670836](https://doi.org/10.1177/2057150x16670836)
 **作者**: Melegh, Attila; Kiss, Tamás; Csánóová, Sabina 等5人
 **摘要**: In this paper we examine the views of ordinary people in Hungary and Romania about developmental trajectories and developmental hierarchies. Our work extends research on perception of global hierarchies as we include the views of ordinary people in the countries of Hungary and Romania.…
-
-### Corrigendum
-**年份**: 2016 | **DOI**: [10.1177/2057150x15625564](https://doi.org/10.1177/2057150x15625564)
-**摘要**: Household context and individual departure: The case of escape in three ‘unfree’ East Asian populations, 1700–1900 Chinese Journal of Sociology December 2015 1(4): 515–539 DOI: 10.1177/2057150X15614547
 
 ### The separation of officials from local staff: The logic of the Empire and personnel management in the Chinese bureaucracy
 **年份**: 2016 | **DOI**: [10.1177/2057150x16639194](https://doi.org/10.1177/2057150x16639194)

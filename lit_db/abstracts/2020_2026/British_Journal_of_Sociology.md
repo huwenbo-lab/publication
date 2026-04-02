@@ -1540,7 +1540,7 @@
 **作者**: Carrabine, Eamonn
 **摘要**: This paper is an effort to understand Hogarth's unique position in early eighteenth century London, so as to grasp the rich complexity of his work. It begins by tracing two rival competing positions in the sociology of art, derived from Becker and Bourdieu, before taking a closer look at how Hogarth…
 
-### How happenings do (not) turn into events: A typology and an application to the case of 9/11 in the American and Dutch public spheres1
+### How happenings do (not) turn into events: A typology and an application to the case of 9/11 in the American and Dutch public spheres
 **年份**: 2021 | **DOI**: [10.1111/1468-4446.12847](https://doi.org/10.1111/1468-4446.12847)
 **作者**: van Dooremalen, Thijs
 **摘要**: Why do some happenings become incentives for cultural or political transformation (that is: turn into events), whereas others remain ordinary occurrences? The theoretical perspectives of cultural repertoires, cleavage structures, and discursive opportunities are prominent and fruitful approaches for…
@@ -1790,7 +1790,7 @@
 **作者**: Sullivan, Alice; Parsons, Samantha; Ploubidis, George 等5人
 **摘要**: While much attention has been devoted to measuring levels of social mobility over time, less attention has been given to the possibility of changing pathways to social mobility. This paper examines pathways from social origins to socio-economic destinations in midlife for two British cohorts, born i…
 
-### Belonging, believing, behaving, and Brexit: Channels of religiosity and religious identity in support for leaving the European Union1
+### Belonging, believing, behaving, and Brexit: Channels of religiosity and religious identity in support for leaving the European Union
 **年份**: 2020 | **DOI**: [10.1111/1468-4446.12793](https://doi.org/10.1111/1468-4446.12793)
 **作者**: McAndrew, Siobhan
 **摘要**: Having an Anglican affiliation is known to be associated with support for leaving the European Union (EU) in Britain. Religiosity, conceived as strength of religious attachment, has received comparatively little treatment.…

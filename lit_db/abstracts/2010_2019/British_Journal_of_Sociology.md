@@ -1,7 +1,7 @@
 # British Journal of Sociology
 ## 2010–2019 年文章（含摘要）
 
-共 **591** 篇
+共 **587** 篇
 
 ---
 
@@ -1270,7 +1270,7 @@
 **作者**: Hammersley, Martyn
 **摘要**: AbstractThis paper is a response to a recent article dealing with the concept of value‐free sociology by Donald Black. It argues that while a defence of Weber's position on the role of values in sociological research is necessary and important, what is offered by Black is counter‐productive in impor…
 
-### Pink, SarahSituating Everyday Life: Practices and PlacesLos Angeles &amp; London: Sage Publications Ltd2012 166 pp. £68.00 (hardback) £22.99 (paperback).
+### Pink, SarahSituating Everyday Life: Practices and PlacesLos Angeles & London: Sage Publications Ltd2012 166 pp. £68.00 (hardback) £22.99 (paperback).
 **年份**: 2014 | **DOI**: [10.1111/1468-4446.12079](https://doi.org/10.1111/1468-4446.12079)
 **作者**: Shotter, John
 **摘要**: （暂无）
@@ -1340,10 +1340,6 @@
 **作者**: Mewes, Jan
 **摘要**: （暂无）
 
-### Corrigendum
-**年份**: 2014 | **DOI**: [10.1111/1468-4446.12116](https://doi.org/10.1111/1468-4446.12116)
-**摘要**: Weenink, D 2014 Frenzied attacks. A micro–sociological analysis of the emotional dynamics of extreme youth violence. British Journal of Sociology 65(3): 411‐433.The author's affiliation was wrongly published as Rural Sociology Group, Wageningen University and should be rightly Department of Sociolog…
-
 ### Swader, ChrisThe Capitalist Personality: Face‐to‐Face Sociality and Economic Change in the Post‐Communist World2013Routledge 238 pp. £80 (hardback)
 **年份**: 2014 | **DOI**: [10.1111/1468-4446.12078](https://doi.org/10.1111/1468-4446.12078)
 **作者**: Ross, Sandy
@@ -1396,10 +1392,6 @@
 ### LillieChouliarakiThe Ironic Spectator – Solidarity in the Age of Post‐Humanitarianism. Polity Press2013 238 pp. £55.00 (hardback) £16.99 (paperback)
 **年份**: 2014 | **DOI**: [10.1111/1468-4446.12061](https://doi.org/10.1111/1468-4446.12061)
 **作者**: Ray, Larry
-**摘要**: （暂无）
-
-### Editorial announcement
-**年份**: 2014 | **DOI**: [10.1111/1468-4446.12081](https://doi.org/10.1111/1468-4446.12081)
 **摘要**: （暂无）
 
 ### Towards intensive parenting? Changes in the composition and determinants of mothers' and fathers' time with children 1992–2006
@@ -1842,17 +1834,12 @@
 **作者**: Manning, Peter
 **摘要**: （暂无）
 
-### Note from the Editor
-**年份**: 2012 | **DOI**: [10.1111/j.1468-4446.2012.01427.x](https://doi.org/10.1111/j.1468-4446.2012.01427.x)
-**作者**: Wright, Richard
-**摘要**: I joined the British Journal of Sociology as North American-based Editor nearly six years ago, becoming Editor-in-Chief in 2008. This will be my last issue, ending a bold experiment during which an American-based academic edited the Journal.…
-
 ### Community organization moderates the effect of alcohol outlet density on violence
 **年份**: 2012 | **DOI**: [10.1111/j.1468-4446.2012.01432.x](https://doi.org/10.1111/j.1468-4446.2012.01432.x)
 **作者**: Pridemore, William Alex; Grubesic, Tony H.
 **摘要**: AbstractThere is growing evidence from multiple disciplines that alcohol outlet density is associated with community levels of assault. Based on the theoretical and empirical literatures on social organization and crime, we tested the hypothesis that the association between alcohol outlet density an…
 
-### Contemporary Anglo‐Jewish community leadership: coping with multiculturalism1
+### Contemporary Anglo‐Jewish community leadership: coping with multiculturalism
 **年份**: 2012 | **DOI**: [10.1111/j.1468-4446.2011.01398.x](https://doi.org/10.1111/j.1468-4446.2011.01398.x)
 **作者**: Gidley, Ben; Kahn‐Harris, Keith
 **摘要**: AbstractIn this article, drawing on qualitative interviews and documentary analysis, we argue that the Jewish community in Britain has undergone a fundamental shift since 1990 from a ‘strategy of security’, a strategy of communal leadership based on emphasizing the secure British citizenship and bel…
@@ -1897,7 +1884,7 @@
 **作者**: Rowe, David
 **摘要**: AbstractHosting mega sport events, especially the Olympics, demands an extensive engagement with global civil society given the voluntary, highly mediated exposure of host cities and nations to the world.…
 
-### The regeneration games: purity and security in the Olympic city1
+### The regeneration games: purity and security in the Olympic city
 **年份**: 2012 | **DOI**: [10.1111/j.1468-4446.2012.01409.x](https://doi.org/10.1111/j.1468-4446.2012.01409.x)
 **作者**: Fussey, Pete; Coaffee, Jon; Armstrong, Gary 等4人
 **摘要**: AbstractThis paper examines the wider social impacts of hosting the London 2012 Olympic Games and its ‘legacy’ ambitions in East London, emphasizing securitization as an inbuilt feature of the urban regeneration project.…
@@ -1940,7 +1927,7 @@
 **作者**: Smångs, Mattias
 **摘要**: （暂无）
 
-### The relationship between education and levels of trust and tolerance in Europe1
+### The relationship between education and levels of trust and tolerance in Europe
 **年份**: 2012 | **DOI**: [10.1111/j.1468-4446.2011.01397.x](https://doi.org/10.1111/j.1468-4446.2011.01397.x)
 **作者**: Borgonovi, Francesca
 **摘要**: AbstractIn this article we explore the relationship between education and levels of trust and tolerance in Europe. More specifically we assess whether the relationship between years of schooling and the extent to which individuals trust others in their communities and are tolerant towards immigrants…
@@ -2009,7 +1996,7 @@
 **作者**: de Leon, Cedric
 **摘要**: （暂无）
 
-### Why different countries manage death differently: a comparative analysis of modern urban societies1
+### Why different countries manage death differently: a comparative analysis of modern urban societies
 **年份**: 2012 | **DOI**: [10.1111/j.1468-4446.2011.01396.x](https://doi.org/10.1111/j.1468-4446.2011.01396.x)
 **作者**: Walter, Tony
 **摘要**: AbstractThe sociology of death, dying and bereavement tends to take as its implicit frame either the nation state or a homogenous modernity. Between‐nation differences in the management of death and dying are either ignored or untheorized.…
@@ -2029,7 +2016,7 @@
 **作者**: Jabbar, Naheem
 **摘要**: AbstractThe moral modality of colonial power is still with us when it comes to the recreation of sexual norms of traditional or feudal society. We can examine the emergent properties of colonial knowledge anew by exploring how the colonial regime's strategic attention of regulating brothels in India…
 
-### Human rights and the Beijing Olympics: imagined global community and the transnational public sphere1
+### Human rights and the Beijing Olympics: imagined global community and the transnational public sphere
 **年份**: 2012 | **DOI**: [10.1111/j.1468-4446.2012.01411.x](https://doi.org/10.1111/j.1468-4446.2012.01411.x)
 **作者**: Brownell, Susan
 **摘要**: AbstractThe Olympic Games are increasingly used by non‐governmental organizations to demand transnational forms of accountability from public authorities. This article assesses the effectiveness of transnational public opinion surrounding the Beijing 2008 Olympics, when the pressure of Western publi…
@@ -2049,7 +2036,7 @@
 **作者**: Pierides, Dean; Woodman, Dan
 **摘要**: AbstractThis paper explores the material turn in sociology and the tools it provides for understanding organizational problems highlighted by theRoyalCommission into the 2009 ‘BlackSaturday’ bushfires during which 173 people died in theAustralianState ofVictoria.…
 
-### Culture, state and varieties of capitalism: a comparative study of life insurance markets in Hong Kong and Taiwan1
+### Culture, state and varieties of capitalism: a comparative study of life insurance markets in Hong Kong and Taiwan
 **年份**: 2012 | **DOI**: [10.1111/j.1468-4446.2011.01395.x](https://doi.org/10.1111/j.1468-4446.2011.01395.x)
 **作者**: Chan, Cheris Shun‐ching
 **摘要**: AbstractThis article examines the interplay between local culture, the state, and economic actors' agency in producing variation across markets. I adopt a political–cultural approach to examining why life insurance has been far more popular in Taiwan than Hong Kong, despite the presence of a cultura…
@@ -2069,7 +2056,7 @@
 **作者**: Morris, Lydia
 **摘要**: In her Debate article (Soysal 2012), Yasemin Soysal outlines a now familiar argument. As Jessop (1999) cogently puts it, challenges to the Keynesian Welfare National State model driven by a changing global division of labour have produced a Schumpeterian Workfare Postnational Regime of permanent inn…
 
-### ‘Our struggles are bigger than the World Cup’: civic activism, state‐society relations and the socio‐political legacies of the 2010 FIFA World Cup1
+### ‘Our struggles are bigger than the World Cup’: civic activism, state‐society relations and the socio‐political legacies of the 2010 FIFA World Cup
 **年份**: 2012 | **DOI**: [10.1111/j.1468-4446.2012.01412.x](https://doi.org/10.1111/j.1468-4446.2012.01412.x)
 **作者**: Cornelissen, Scarlett
 **摘要**: AbstractSouth Africa's hosting of the 2010 FIFA World Cup saw a large number of public demonstrations, strikes and other forms of civic campaigning. World Cup activism was both preceded and followed by extensive and intensifying public unrest and industrial action that in the period before the tourn…
@@ -2099,7 +2086,7 @@
 **作者**: Koehler, Johann
 **摘要**: （暂无）
 
-### The post‐nationalization of immigrant rights: a theory in search of evidence1
+### The post‐nationalization of immigrant rights: a theory in search of evidence
 **年份**: 2012 | **DOI**: [10.1111/j.1468-4446.2011.01401.x](https://doi.org/10.1111/j.1468-4446.2011.01401.x)
 **作者**: Koopmans, Ruud
 **摘要**: In her contribution to this issue, Yasemin Soysal makes a brave stand for her theory of post-national rights, even in the face of changed circumstances. Originally (Soysal 1994), the theory was designed to account for the extension of all kinds of civic and social rights to immigrants in Western Eur…
@@ -2128,21 +2115,17 @@
 **作者**: O'Brien, Thomas
 **摘要**: AbstractProtest actions are an important indicator of public concern, raising awareness and highlighting perceived failings in administrative practices. With increasing prominence of environmental challenges there has been a move for states to incorporate stakeholders, potentially reducing the need …
 
-### Tightening the focus: moral panic, moral regulation and liberal government1
+### Tightening the focus: moral panic, moral regulation and liberal government
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01377.x](https://doi.org/10.1111/j.1468-4446.2011.01377.x)
 **作者**: Hier, Sean P.
 **摘要**: AbstractThe purpose of this article is to tighten the focus of moral panic studies by clarifying and elaborating on an analytical framework that conceptualizes moral panic as a form of moral regulation.…
 
-### Erratum
-**年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01391.x](https://doi.org/10.1111/j.1468-4446.2011.01391.x)
-**摘要**: （暂无）
-
-### Vegaphobia: derogatory discourses of veganism and the reproduction of speciesism in UK national newspapers1
+### Vegaphobia: derogatory discourses of veganism and the reproduction of speciesism in UK national newspapers
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2010.01348.x](https://doi.org/10.1111/j.1468-4446.2010.01348.x)
 **作者**: Cole, Matthew; Morgan, Karen
 **摘要**: AbstractThis paper critically examines discourses of veganism in UK national newspapers in 2007. In setting parameters for what can and cannot easily be discussed, dominant discourses also help frame understanding.…
 
-### The sociology of popular music, interdisciplinarity and aesthetic autonomy1
+### The sociology of popular music, interdisciplinarity and aesthetic autonomy
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2010.01353.x](https://doi.org/10.1111/j.1468-4446.2010.01353.x)
 **作者**: Marshall, Lee
 **摘要**: AbstractThis paper considers the impact of interdisciplinarity upon sociological research, focusing on one particular case: the academic study of popular music. ‘Popular music studies’ is an area of research characterized by interdisciplinarity and, in keeping with broader intellectual trends, this …
@@ -2157,12 +2140,12 @@
 **作者**: Hall, John A.
 **摘要**: AbstractThis essay drews attention to two books on empires by historians which deserve the attention of sociologists. Bang's model of the workings of the Roman economy powerfully demonstrates the tributary nature of per‐industrial tributary empires.…
 
-### ‘Being there’: multidimensionality, reflexivity and the study of emotional lives1
+### ‘Being there’: multidimensionality, reflexivity and the study of emotional lives
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01374.x](https://doi.org/10.1111/j.1468-4446.2011.01374.x)
 **作者**: Brownlie, Julie
 **摘要**: AbstractEmotional lives tend to be untidy. Yet despite a growing recognition of this, sociological research designs rarely mirror the multidimensionality they are striving to represent.…
 
-### State carnivals and the subvention of multiculturalism in Singapore1
+### State carnivals and the subvention of multiculturalism in Singapore
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2010.01347.x](https://doi.org/10.1111/j.1468-4446.2010.01347.x)
 **作者**: Goh, Daniel P.S.
 **摘要**: AbstractIncreasing attention is being paid to the specificities of Asian multiculturalism in relation to ethnic pluralism, citizenship and developmental state formation. This article examines these relationships by analysing three carnival events in colonial and postcolonial Singapore that were orga…
@@ -2171,7 +2154,7 @@
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01392.x](https://doi.org/10.1111/j.1468-4446.2011.01392.x)
 **摘要**: （暂无）
 
-### Homeless identities: enacted and ascribed1
+### Homeless identities: enacted and ascribed
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01373.x](https://doi.org/10.1111/j.1468-4446.2011.01373.x)
 **作者**: Parsell, Cameron
 **摘要**: AbstractHomelessness has been a perennial concern for sociologists. It is a confronting phenomenon that can challenge western notions of home, a discrete family unit and the ascetics and order of public space.…
@@ -2235,7 +2218,7 @@
 **作者**: Moon, Claire
 **摘要**: Blight of the last century and inauspicious marker of this one, genocide is frequently referred to as the ‘crime of crimes’. As such, it is extraordinary that Anglo-American criminology has not properly applied itself to its study.…
 
-### Cosmopolitan communication online: YouTube responses to the anti‐Islam film Fitna1
+### Cosmopolitan communication online: YouTube responses to the anti‐Islam film Fitna
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01383.x](https://doi.org/10.1111/j.1468-4446.2011.01383.x)
 **作者**: Mihelj, Sabina; van Zoonen, Liesbet; Vis, Farida
 **摘要**: AbstractIn 2008, a Dutch member of parliament released a short anti‐Islamic film entitled Fitna, which stirred a huge public controversy and provoked public condemnations around the world.…
@@ -2260,7 +2243,7 @@
 **作者**: Llewellyn, Nick
 **摘要**: AbstractThis paper analyses the phenomenon of ‘picking up the bill’, thereby contributing to a resurgence of sociological interest in gift exchange. Drawing on ethnomethodology, it describes and locates a distinctive theoretical approach.…
 
-### Rational choice and the political bases of changing Israeli counterinsurgency strategy1
+### Rational choice and the political bases of changing Israeli counterinsurgency strategy
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01375.x](https://doi.org/10.1111/j.1468-4446.2011.01375.x)
 **作者**: Brym, Robert J.; Andersen, Robert
 **摘要**: AbstractIsraeli counterinsurgency doctrine holds that the persistent use of credible threat and disproportionate military force results in repeated victories that eventually teach the enemy the futility of aggression.…
@@ -2285,12 +2268,12 @@
 **作者**: Friedman, Sam
 **摘要**: Traditionally considered lowbrow art par excellence, British comedy has grown steadily in legitimacy since the 'Alternative Comedy Movement' of the early 1980s. Yet while there might be evidence of a transformation in British comic production, there is little understanding of how this has been refle…
 
-### Laughing it off? Humour, affect and emotion work in communities living with nuclear risk1
+### Laughing it off? Humour, affect and emotion work in communities living with nuclear risk
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01367.x](https://doi.org/10.1111/j.1468-4446.2011.01367.x)
 **作者**: Parkhill, K.A.; Henwood, K.L.; Pidgeon, N.F. 等4人
 **摘要**: Over the past two decades, an increasing number of risk researchers have recognized that risks are not simply objective hazards but that the meanings of risk are discursively negotiated, dynamic and embedded within the wider social relations that constitute everyday life.…
 
-### Genocide as a matter of degree1
+### Genocide as a matter of degree
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01382.x](https://doi.org/10.1111/j.1468-4446.2011.01382.x)
 **作者**: Campbell, Bradley
 **摘要**: This article employs Max Weber's ideal-type method to classify genocides based on their degree of mass killing, unilateralism, and ethnic liability. The identification of the elements of genocide draws from a general theory of genocide (Campbell 2009, 2010) and from theories of social control employ…
@@ -2319,7 +2302,7 @@
 **作者**: Walsh, Philip
 **摘要**: （暂无）
 
-### Interdisciplinarity and the social sciences: capital, institutions and autonomy1
+### Interdisciplinarity and the social sciences: capital, institutions and autonomy
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01385.x](https://doi.org/10.1111/j.1468-4446.2011.01385.x)
 **作者**: Garforth, Lisa; Kerr, Anne
 **摘要**: AbstractRecent discussions about disciplinarity and interdisciplinarity in the social sciences have tended to map and critique methods, theories and approaches to knowledge production, but spend less time exploring the ways in which institutional constraints and personal trajectories produce differe…
@@ -2359,7 +2342,7 @@
 **作者**: Dodd, Nigel
 **摘要**: AbstractThis paper explores an essential but neglected aspect of recent discussions of the banking and financial system, namely money itself. Specifically, I take up a distinction drawn by Susan Strange which has never been fully elaborated: between a financial system that is global, and an internat…
 
-### Boat race: rhythm and the possibility of collective performance1
+### Boat race: rhythm and the possibility of collective performance
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01381.x](https://doi.org/10.1111/j.1468-4446.2011.01381.x)
 **作者**: King, Anthony; de Rond, Mark
 **摘要**: AbstractMany sociologists have observed the close connection between coordination and rhythm. In order to accomplish a communal task, participants need to develop a common rhythm if they are to coordinate their actions.…
@@ -2428,12 +2411,12 @@
 **作者**: Mann, Michael
 **摘要**: （暂无）
 
-### Coming of age in Spain: the self‐identification, beliefs and self‐esteem of the second generation1
+### Coming of age in Spain: the self‐identification, beliefs and self‐esteem of the second generation
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01371.x](https://doi.org/10.1111/j.1468-4446.2011.01371.x)
 **作者**: Portes, Alejandro; Vickstrom, Erik; Aparicio, Rosa
 **摘要**: AbstractWe review the literature on determinants of ethnic/national self‐identities and self‐esteem as a prelude to examining these outcomes among a large, statistically representative sample of second generation adolescents in Madrid and Barcelona.…
 
-### A tainted trade? Moral ambivalence and legitimation work in the private security industry1
+### A tainted trade? Moral ambivalence and legitimation work in the private security industry
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01365.x](https://doi.org/10.1111/j.1468-4446.2011.01365.x)
 **作者**: Thumala, Angélica; Goold, Benjamin; Loader, Ian
 **摘要**: The private security industry is often represented - and typically represents itself - as an expanding business, confident of its place in the world and sure of its ability to meet a rising demand for security.…
@@ -2443,12 +2426,12 @@
 **作者**: McGovern, Patrick
 **摘要**: （暂无）
 
-### Dissenting families and social movement abeyance: the transmission of neo-fascist frames in postwar Italy1
+### Dissenting families and social movement abeyance: the transmission of neo-fascist frames in postwar Italy
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01363.x](https://doi.org/10.1111/j.1468-4446.2011.01363.x)
 **作者**: Veugelers, John W.P.
 **摘要**: What explains the re-emergence of social movements after abeyance? Based on interviews with activists who belonged to the Italian neo-fascist movement of the late 1960s to early 1980s, this article documents the preservation of a neo-fascist mobilization potential after 1945 through the parent-child…
 
-### Hazards of neoliberalism: delayed electric power restoration after Hurricane Ike1
+### Hazards of neoliberalism: delayed electric power restoration after Hurricane Ike
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01376.x](https://doi.org/10.1111/j.1468-4446.2011.01376.x)
 **作者**: Miller, Lee M.; Antonio, Robert J.; Bonanno, Alessandro
 **摘要**: AbstractThis case study explores how neoliberal policies shape the impacts of a natural disaster. We investigate the reactions to major damages to the electric power system and the restoration of power in the wake of Hurricane Ike, which devastated the Houston, Texas, metropolitan area in September …
@@ -2488,12 +2471,12 @@
 **作者**: Manning, Peter K.
 **摘要**: （暂无）
 
-### ‘The meaning of poverty' and contemporary quantitative poverty research1
+### ‘The meaning of poverty' and contemporary quantitative poverty research
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01267.x](https://doi.org/10.1111/j.1468-4446.2009.01267.x)
 **作者**: Rosenfeld, Jake
 **摘要**: ‘. . . the study of poverty has not developed theoretically during the course of this century’ (Townsend 2010 [1962]: 93 [218]). During the postwar period, policymakers and social scientists alike began to believe that the problem of poverty was nearly solved (Bradshaw 2000).…
 
-### The Afghan War and ‘postmodern’ memory: commemoration and the dead of Helmand1
+### The Afghan War and ‘postmodern’ memory: commemoration and the dead of Helmand
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01299.x](https://doi.org/10.1111/j.1468-4446.2009.01299.x)
 **作者**: King, Anthony
 **摘要**: AbstractSince 2006, Britain has been fighting an intense military campaign in Helmand in which over 200 soldiers have been killed. The article examines the way in which twentieth‐century commemorative rituals, which mourned the sacrifice of anonymous individual soldiers for the nation, have been sup…
@@ -2553,7 +2536,7 @@
 **作者**: Savage, Mike
 **摘要**: （暂无）
 
-### Seymour Martin Lipset and political sociology1
+### Seymour Martin Lipset and political sociology
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01298.x](https://doi.org/10.1111/j.1468-4446.2009.01298.x)
 **作者**: Archer, Robin
 **摘要**: In the English speaking world, Seymour Martin Lipset was arguably the most important political sociologist of the second half of the twentieth century. Certainly he was one of them. Claims such as these are always invidious, but it is clear that Lipset's work stands out in a number of respects.…
@@ -2608,7 +2591,7 @@
 **作者**: Mann, Michael
 **摘要**: The first volume of Immanuel Wallerstein's magnum opus, The Modern World System (1974a), hit the bookstalls in 1974, alongside a summarizing journal article in Comparative Studies in Society and History (1974b).…
 
-### Morphogenesis versus structuration: on combining structure and action1
+### Morphogenesis versus structuration: on combining structure and action
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01245.x](https://doi.org/10.1111/j.1468-4446.2009.01245.x)
 **作者**: Archer, Margaret S.
 **摘要**: The fundamental problem of linking human agency and social structure stalks through the history of sociological theory. Basically it concerns how to develop an adequate theoretical account which deals simultaneously with men constituting society and the social formation of human agents.…
@@ -2623,17 +2606,17 @@
 **作者**: Joyce, Patrick
 **摘要**: Rose and Miller write in the conclusion to their article that the central point is a simple one.They phrase it
 
-### When was secularization? Dating the decline of the British churches and locating its cause1
+### When was secularization? Dating the decline of the British churches and locating its cause
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01304.x](https://doi.org/10.1111/j.1468-4446.2009.01304.x)
 **作者**: Bruce, Steve; Glendinning, Tony
 **摘要**: AbstractDating the decline of Christianity in Britain has a vital bearing on its explanation. Recent work by social historians has challenged the sociological view that secularization is due to long‐term diffuse social processes by asserting that the churches remained stable and popular until the la…
 
-### Intergenerational class mobility and the convergence thesis: England, France and Sweden1
+### Intergenerational class mobility and the convergence thesis: England, France and Sweden
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01246.x](https://doi.org/10.1111/j.1468-4446.2009.01246.x)
 **作者**: Erikson, Robert; Goldthorpe, John H.; Portocarero, Lucienne
 **摘要**: In two papers previously published, we have compared rates of intergenerational class mobility among the adult male populations of England, France and Sweden (Erikson, Goldthorpe and Portocarero 1979, 1982).…
 
-### Class analysis and the reorientation of class theory: the case of persisting differentials in educational attainment1
+### Class analysis and the reorientation of class theory: the case of persisting differentials in educational attainment
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01248.x](https://doi.org/10.1111/j.1468-4446.2009.01248.x)
 **作者**: Goldthorpe, John H.
 **摘要**: AbstractIn class analysis the main regularities that have been established by empirical research are not ones of long‐term class formation or decomposition, as envisaged in Marxist or liberal theory, but rather ones that exhibit the powerful resistance to change of class relations and associated lif…
@@ -2648,7 +2631,7 @@
 **作者**: Scott, Susie
 **摘要**: （暂无）
 
-### Research, policy and funding – academic treadmills and the squeeze on intellectual spaces1
+### Research, policy and funding – academic treadmills and the squeeze on intellectual spaces
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01307.x](https://doi.org/10.1111/j.1468-4446.2009.01307.x)
 **作者**: Smith, Katherine
 **摘要**: Abstract:In recent years, there has been a great deal of collective rumination about social scientists' role in society. In the post‐1997 UK context, public policy commitments to ‘evidence‐based policy’ and ‘knowledge transfer’ have further stimulated such reflections.…
@@ -2800,7 +2783,7 @@
 **作者**: Bernstein, Basil
 **摘要**: In an earlier paper an attempt was made to show a relationship between two forms of linguistic expression and the way relationships to objects were established (Bernstein 1958: 159–74).…
 
-### Mobile sociology1
+### Mobile sociology
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01249.x](https://doi.org/10.1111/j.1468-4446.2009.01249.x)
 **作者**: Urry, John
 **摘要**: AbstractThis article seeks to develop a manifesto for a sociology concerned with the diverse mobilities of peoples, objects, images, information, and wastes; and of the complex interdependencies between, and social consequences of, such diverse mobilities.…
@@ -2904,7 +2887,7 @@
 **作者**: Rivers‐Moore, Megan
 **摘要**: AbstractAlthough sex work remains highly stigmatized around the world, its relatively high value (when compared to other kinds of work available for low‐income women) allows sex workers to attain some level of economic, if not social, mobility.…
 
-### The young Lipset on the iron law of oligarchy: a taste of things to come1
+### The young Lipset on the iron law of oligarchy: a taste of things to come
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01283.x](https://doi.org/10.1111/j.1468-4446.2009.01283.x)
 **作者**: McGovern, Patrick
 **摘要**: AbstractLipset's ‘Democracy in Private Government’ was a remarkable publication for three reasons. It was his first attempt to challenge Michels' ‘iron law of oligarchy’ and would lead to a programme of research that that would culminate with the publication of the widely admired classic study Union…

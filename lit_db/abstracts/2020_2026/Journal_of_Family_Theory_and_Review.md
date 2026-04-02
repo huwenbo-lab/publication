@@ -1,7 +1,7 @@
 # Journal of Family Theory & Review
 ## 2020–2026 年文章（含摘要）
 
-共 **337** 篇
+共 **336** 篇
 
 ---
 
@@ -740,7 +740,7 @@
 **年份**: 2023 | **DOI**: [10.1111/jftr.12463](https://doi.org/10.1111/jftr.12463)
 **摘要**: （暂无）
 
-### The secret history of home economics: How trailblazing women harnessed the power of home and changed the way we live. DanielleDreilinger. 2021. New York: W. W. Norton &amp; Co. 348 pp.ISBN: 978‐1324004493. $13.99 Paperback. $9.99 e‐book.
+### The secret history of home economics: How trailblazing women harnessed the power of home and changed the way we live. DanielleDreilinger. 2021. New York: W. W. Norton & Co. 348 pp.ISBN: 978‐1324004493. $13.99 Paperback. $9.99 e‐book.
 **年份**: 2023 | **DOI**: [10.1111/jftr.12505](https://doi.org/10.1111/jftr.12505)
 **作者**: Ermer, Ashley; Roach, Andrea
 **摘要**: （暂无）
@@ -1046,10 +1046,6 @@
 **作者**: Li, Lijun; Zhang, Jingchen; Rudi, Jessie H. 等4人
 **摘要**: AbstractGene by Intervention (GxI) interaction studies examine how a person's genotype may moderate (i.e., increase or decrease benefit from) an intervention's impact, typically in the context of randomized controlled trials.…
 
-### Erratum to “Queering family trees: Race, reproductive justice, and lesbian motherhood by Patton‐Imani, Sandra”
-**年份**: 2022 | **DOI**: [10.1111/jftr.12491](https://doi.org/10.1111/jftr.12491)
-**摘要**: （暂无）
-
 ### Toward an integrative framework of intergenerational coparenting within family systems: A scoping review
 **年份**: 2022 | **DOI**: [10.1111/jftr.12478](https://doi.org/10.1111/jftr.12478)
 **作者**: Bai, Xue; Chen, Mengtong; He, Ranran 等4人
@@ -1188,7 +1184,7 @@
 **作者**: Masarik, April S.; Fritz, Hailey; Lazarevic, Vanja
 **摘要**: AbstractSome of the world's 84 million forcibly displaced persons (approximately half are youth under the age of 18) obtain legal refugee status, which allows them passage to resettle in new communities.…
 
-### Hui Liu, Corinne Reczek, &amp; Lindsey Wilkinson. 2020. Marriage and health: The well‐being of same‐sex couples. Rutgers University Press. $34.95. Paperback. 280 pp. ISBN: 9781978803480
+### Hui Liu, Corinne Reczek, & Lindsey Wilkinson. 2020. Marriage and health: The well‐being of same‐sex couples. Rutgers University Press. $34.95. Paperback. 280 pp. ISBN: 9781978803480
 **年份**: 2022 | **DOI**: [10.1111/jftr.12475](https://doi.org/10.1111/jftr.12475)
 **作者**: Davis, Bryce K.; Heiden‐Rootes, Katie
 **摘要**: （暂无）
@@ -1267,7 +1263,7 @@
 **作者**: Li, Xuan; Hu, Yang; Huang, Ching‐Yu Soar 等4人
 **摘要**: AbstractFatherhood scholarship has made much theoretical progress over the past decades, yet existing models and concepts continue to draw primarily on western, educated, industrialized, rich, and democratic (WEIRD)‐centric assumptions.…
 
-### Imagining LatinX intimacies: Connecting queer stories, spaces, and sexualities, Edward A.ChamberlainLondon, UK: Rowman &amp; Littlefield Publishers/Rowman &amp; Littlefield International, 2020. 220 pp. ISBN: 978‐1‐78661‐432‐2
+### Imagining LatinX intimacies: Connecting queer stories, spaces, and sexualities, Edward A.ChamberlainLondon, UK: Rowman & Littlefield Publishers/Rowman & Littlefield International, 2020. 220 pp. ISBN: 978‐1‐78661‐432‐2
 **年份**: 2021 | **DOI**: [10.1111/jftr.12438](https://doi.org/10.1111/jftr.12438)
 **作者**: Bermea, Autumn M.
 **摘要**: （暂无）
@@ -1624,7 +1620,7 @@
 **作者**: Murphy, Laila
 **摘要**: （暂无）
 
-### Family Ties and Aging, 3rd Edition; A Review and Call to Action for Family Science Scholars. Ingrid ArnetConnidis &amp; Amanda E.Barnett. 2019. Thousand Oaks, CA: Sage. $60. Paperback. ISBN : 978‐1‐4129‐5957‐5.
+### Family Ties and Aging, 3rd Edition; A Review and Call to Action for Family Science Scholars. Ingrid ArnetConnidis & Amanda E.Barnett. 2019. Thousand Oaks, CA: Sage. $60. Paperback. ISBN : 978‐1‐4129‐5957‐5.
 **年份**: 2020 | **DOI**: [10.1111/jftr.12371](https://doi.org/10.1111/jftr.12371)
 **作者**: E. Ermer, Ashley
 **摘要**: （暂无）
@@ -1634,7 +1630,7 @@
 **作者**: Hamilton, J. Christopher; Roy, Donovan R.
 **摘要**: （暂无）
 
-### Grandparents in Cultural Context. David W.Shwalb &amp; ZiaratHossain (Eds.). 2017. New York, NY: Routledge. ISBN 978‐1‐138‐18850‐1.
+### Grandparents in Cultural Context. David W.Shwalb & ZiaratHossain (Eds.). 2017. New York, NY: Routledge. ISBN 978‐1‐138‐18850‐1.
 **年份**: 2020 | **DOI**: [10.1111/jftr.12374](https://doi.org/10.1111/jftr.12374)
 **作者**: Marshall, Mary
 **摘要**: （暂无）

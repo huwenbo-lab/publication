@@ -1,7 +1,7 @@
 # Socius
 ## 2020–2026 年文章（含摘要）
 
-共 **744** 篇
+共 **725** 篇
 
 ---
 
@@ -220,10 +220,6 @@
 **作者**: Mireles, Amanda
 **摘要**: As women earn an increasing share of college degrees, what happens to the labor market value of degrees from institutions where women predominate? The author investigates how the gender composition of degree-granting institutions, termed college feminization , shapes job applicant evaluations in the…
 
-### Corrigendum to “Who’s Doing the Housework and Childcare in America Now? Differential Convergence in Twenty-First-Century Gender Gaps in Home Tasks”
-**年份**: 2025 | **DOI**: [10.1177/23780231251363230](https://doi.org/10.1177/23780231251363230)
-**摘要**: （暂无）
-
 ### Tracing Income Inequality Trends in Germany from 2010 to 2022: Dynamics across Industries, Occupations, and Firms
 **年份**: 2025 | **DOI**: [10.1177/23780231251331402](https://doi.org/10.1177/23780231251331402)
 **作者**: Valet, Peter; Böger, Patricia; Lübker, Jonas
@@ -354,7 +350,7 @@
 **作者**: Nennstiel, Richard; Möser, Sara
 **摘要**: This study examines societal rejection of the rape myth that a woman’s “no” to sex often means “yes” using Flash Eurobarometer 544 data (N = 25,824) across EU member states. Our visualization reveals that women more strongly reject this myth than men in all countries, with significant cross-national…
 
-### Effects of the President’s Party on Infant Health Across Racial &amp; Ethnic Groups in the United States
+### Effects of the President’s Party on Infant Health Across Racial & Ethnic Groups in the United States
 **年份**: 2025 | **DOI**: [10.1177/23780231251400112](https://doi.org/10.1177/23780231251400112)
 **作者**: Torche, Florencia; Rauf, Tamkinat
 **摘要**: This visualization extends previous research reporting a positive effect of prenatal exposure of Democratic presidencies on the health outcomes of Black and White infants in the United States between 1971 and 2018.…
@@ -759,10 +755,6 @@
 **作者**: Domingos, Taylor; Smith, Chris M.
 **摘要**: Research finds racial disparities in the frequency and severity of police violence. Police violence research has not interrogated gender to the same effect. We build on theories of “gender irrelevance” to argue that violent incidents between police and civilians cannot be extricated from masculinity…
 
-### Corrigendum to “Feminism and Support for the Transgender Movement in Britain”
-**年份**: 2024 | **DOI**: [10.1177/23780231241252378](https://doi.org/10.1177/23780231241252378)
-**摘要**: （暂无）
-
 ### A Sociology of Artificial Intelligence: Inequalities, Power, and Data Justice
 **年份**: 2024 | **DOI**: [10.1177/23780231241275393](https://doi.org/10.1177/23780231241275393)
 **作者**: Joyce, Kelly; Cruz, Taylor M.
@@ -968,10 +960,6 @@
 **作者**: Kovács, Balázs
 **摘要**: Whenever someone posts an online review of a restaurant, museum, or barbershop, they also leave a trace of where they traveled. The author visualizes travel patterns in 11 North American metropolitan areas using geolocated review data.…
 
-### Corrigendum to “Visualizing Daily Time Use on Housework in Canada: Persistence and Patterns”
-**年份**: 2024 | **DOI**: [10.1177/23780231241264158](https://doi.org/10.1177/23780231241264158)
-**摘要**: （暂无）
-
 ### Latinx Blue Wave or Religious Red Shift? The Relationship between Evangelicalism, Church Attendance, and President Trump among Latinx Americans
 **年份**: 2024 | **DOI**: [10.1177/23780231241259673](https://doi.org/10.1177/23780231241259673)
 **作者**: Martinez, Brandon C.; Martí, Gerardo
@@ -1061,10 +1049,6 @@
 **年份**: 2024 | **DOI**: [10.1177/23780231241266500](https://doi.org/10.1177/23780231241266500)
 **作者**: Loe, Meika
 **摘要**: This study focuses on young adults as they navigated work, relationships, and health disruptions during 21 months of “amplified uncertainty” in the United States. Using a longitudinal approach, I interviewed 20 diverse college graduates from seven selective four-year universities across the United S…
-
-### Corrigendum to “Quality Trumps Quantity: Exploring Relationships between Job Quality, Job Quantity, and Sleep”
-**年份**: 2024 | **DOI**: [10.1177/23780231241252353](https://doi.org/10.1177/23780231241252353)
-**摘要**: （暂无）
 
 ### Politics of Boundary Consolidation: Income Inequality, Ethnonationalism, and Radical-Right Voting
 **年份**: 2024 | **DOI**: [10.1177/23780231241251714](https://doi.org/10.1177/23780231241251714)
@@ -1391,10 +1375,6 @@
 **作者**: Pickett, Justin T.; Sola, Justin L.; Bushway, Shawn D.
 **摘要**: Discrimination based on gender identity is unjust and wreaks havoc on individuals’ lives. Nonbinary Americans report experiencing extensive and daily experiences with discriminatory events.…
 
-### Corrigendum to “What Is the Effect of an Inferred Mental Illness Label on Stigma? Theoretical and Empirical Challenges”
-**年份**: 2024 | **DOI**: [10.1177/23780231241294066](https://doi.org/10.1177/23780231241294066)
-**摘要**: （暂无）
-
 ### When Being a Data Annotator Was Not Yet a Job: The Laboratory Origins of Dispersible Labor in Computer Vision Research
 **年份**: 2024 | **DOI**: [10.1177/23780231241259617](https://doi.org/10.1177/23780231241259617)
 **作者**: Li, Zhuofan
@@ -1684,10 +1664,6 @@
 **年份**: 2023 | **DOI**: [10.1177/23780231231212374](https://doi.org/10.1177/23780231231212374)
 **作者**: Furl, Katherine; Lu, Todd; Vo, Austin Hoang-Nam 等4人
 **摘要**: How do U.S. voters view the disruptiveness and effectiveness of social movement tactics? Strategically-used assertive tactics can enable movement success, though tactics considered too disruptive or violent may reduce public support. The authors investigate how U.S.…
-
-### Corrigendum to “Venus, Mars, and Math: Gender, Societal Affluence, and Eighth Graders’ Aspirations for STEM”
-**年份**: 2023 | **DOI**: [10.1177/23780231231213354](https://doi.org/10.1177/23780231231213354)
-**摘要**: （暂无）
 
 ### Don’t You Be My Neighbor! Perceptions of Homosexuality in Global Cross-Cultural Perspective, 1990 to 2019
 **年份**: 2023 | **DOI**: [10.1177/23780231231178426](https://doi.org/10.1177/23780231231178426)
@@ -2034,10 +2010,6 @@
 **作者**: Vachuska, Karl
 **摘要**: Sociological research has investigated neighborhood inequality across various consequential events. Crime and violence continue to be dominant phenomena examined. Less sociological attention has been given to other types of adverse incidents involving emergency services responses.…
 
-### Corrigendum to “Unjust Income Inequality Prevails Across 29 Countries”
-**年份**: 2023 | **DOI**: [10.1177/23780231231176483](https://doi.org/10.1177/23780231231176483)
-**摘要**: （暂无）
-
 ### The Impact of the Pandemic on Poor Urban Neighborhoods: A Participatory Action Research Study of a “Favela” in Rio de Janeiro
 **年份**: 2023 | **DOI**: [10.1177/23780231221137139](https://doi.org/10.1177/23780231221137139)
 **作者**: Fahlberg, Anjuli; Martins, Cristiane; de Andrade, Mirian 等5人
@@ -2368,10 +2340,6 @@
 **作者**: Waldman, Kyle E.
 **摘要**: Although immigration enforcement has been linked to poor health outcomes among Latinx populations in the United States, little is known about how interpersonal interactions between immigrants and immigration enforcement agents potentially influence Latinx immigrant health.…
 
-### Erratum to “Are U.S. Professionals and Managers More Left Than Blue-Collar Workers? An Analysis of the General Social Survey, 1974 to 2018”
-**年份**: 2022 | **DOI**: [10.1177/23780231221112049](https://doi.org/10.1177/23780231221112049)
-**摘要**: （暂无）
-
 ### When Environmental Inequality Racialized: Historical Evidence from Providence, Rhode Island
 **年份**: 2022 | **DOI**: [10.1177/23780231221127541](https://doi.org/10.1177/23780231221127541)
 **作者**: Frickel, Scott; Tollefson, Jonathan
@@ -2527,10 +2495,6 @@
 **作者**: Pessin, Léa; Pojman, Elena Maria
 **摘要**: Recent research shows important racial/ethnic differences in how individuals spend time in housework. Yet our understanding of how the racial/ethnic makeup of couples shapes gender equality in the division of housework remains limited.…
 
-### Erratum to “Parental Investments of Money for White, Black, and Hispanic Children in the United States”
-**年份**: 2022 | **DOI**: [10.1177/23780231221111385](https://doi.org/10.1177/23780231221111385)
-**摘要**: （暂无）
-
 ### Can Universities Counteract Immigrant Illegality? Examining the Impact of University-Based Institutional Support on Undocumented College Students
 **年份**: 2022 | **DOI**: [10.1177/23780231221089390](https://doi.org/10.1177/23780231221089390)
 **作者**: Delgado, Vanessa
@@ -2585,10 +2549,6 @@
 **年份**: 2022 | **DOI**: [10.1177/23780231221084774](https://doi.org/10.1177/23780231221084774)
 **作者**: Henricks, Kasey; Ortiz, Ruben
 **摘要**: “The Irrelevance of Innocence” is a case study of Chicago that focuses on parking tickets that are written under false pretenses. We leverage multiple data sets against one another to demonstrate that more than one in eight tickets over a six-year span were written under conditions when restrictions…
-
-### Corrigendum to “Community Effectiveness of Masks and Vaccines”
-**年份**: 2022 | **DOI**: [10.1177/23780231221111394](https://doi.org/10.1177/23780231221111394)
-**摘要**: （暂无）
 
 ### Remaking Research Tools: Toward Transforming Systems of Inequality through Social Science Research
 **年份**: 2022 | **DOI**: [10.1177/23780231221081694](https://doi.org/10.1177/23780231221081694)
@@ -2670,14 +2630,6 @@
 **作者**: Goldsmith, Pat Rubio; Abel, Richard
 **摘要**: Research shows that social class differences in high school sports participation are large and growing. However, focusing on sports participation may obfuscate large social class differences in sports performance among participants.…
 
-### Erratum to “The Dice Are Loaded: Schools’ Social Class Composition and Athletic Contests”
-**年份**: 2022 | **DOI**: [10.1177/23780231221084286](https://doi.org/10.1177/23780231221084286)
-**摘要**: （暂无）
-
-### Corrigendum to “Net Worth Poverty and Child Development”
-**年份**: 2022 | **DOI**: [10.1177/23780231221134543](https://doi.org/10.1177/23780231221134543)
-**摘要**: （暂无）
-
 ### U.S. State Policy Contexts and Physical Health among Midlife Adults
 **年份**: 2022 | **DOI**: [10.1177/23780231221091324](https://doi.org/10.1177/23780231221091324)
 **作者**: Kemp, Blakelee R.; Grumbach, Jacob M.; Montez, Jennifer Karas
@@ -2743,10 +2695,6 @@
 **作者**: Jackson, Michelle
 **摘要**: The science of inequality has delivered robust evidence on the depth and severity of inequality in the contemporary United States. Yet despite the accumulation of evidence highlighting the consequences of profound inequality for individuals and communities, our inequality policy is largely focused o…
 
-### Corrigendum to “Visualizing Intergenerational Immigrant Assimilation at Work”
-**年份**: 2022 | **DOI**: [10.1177/23780231221111387](https://doi.org/10.1177/23780231221111387)
-**摘要**: （暂无）
-
 ### Income Inequality in College Enrollment and Degree Attainment During and After the Great Recession Years
 **年份**: 2022 | **DOI**: [10.1177/23780231221117659](https://doi.org/10.1177/23780231221117659)
 **作者**: Klugman, Joshua; Arteta, Genesis D.; Lee, Jennifer C.
@@ -2776,14 +2724,6 @@
 **年份**: 2021 | **DOI**: [10.1177/23780231211032028](https://doi.org/10.1177/23780231211032028)
 **作者**: Lee, Emma K.; Parolin, Zachary
 **摘要**: Access to child care centers reduces the care burden of parents, promotes child development, and creates employment opportunities. During the coronavirus disease 2019 pandemic, however, many child care centers closed or reduced capacity because of restrictions and declining demand for in-person care…
-
-### Erratum to “A Growing Educational Divide in the COVID-19 Economy Is Especially Pronounced among Parents”
-**年份**: 2021 | **DOI**: [10.1177/23780231211002813](https://doi.org/10.1177/23780231211002813)
-**摘要**: （暂无）
-
-### Corrigendum to “Online or in Person? Examining College Decisions to Reopen during the COVID-19 Pandemic in Fall 2020”
-**年份**: 2021 | **DOI**: [10.1177/23780231211002825](https://doi.org/10.1177/23780231211002825)
-**摘要**: （暂无）
 
 ### The Pandemic Penalty: The Gendered Effects of COVID-19 on Scientific Productivity
 **年份**: 2021 | **DOI**: [10.1177/23780231211006977](https://doi.org/10.1177/23780231211006977)
@@ -3049,14 +2989,6 @@
 **年份**: 2021 | **DOI**: [10.1177/23780231211020201](https://doi.org/10.1177/23780231211020201)
 **作者**: Gamoran, Adam
 **摘要**: Inequality has long been a central focus of sociological research, but some argue that sociology as a discipline has actually done little to reduce inequality in society. This special collection asks whether sociology, and the social sciences generally, have more to offer.…
-
-### Corrigendum to “Textual Spanning: Finding Discursive Holes in Text Networks”
-**年份**: 2021 | **DOI**: [10.1177/23780231211013022](https://doi.org/10.1177/23780231211013022)
-**摘要**: （暂无）
-
-### Erratum to “Civic Engagement, Legal Status, and the Context of Reception: Participation in Voluntary Associations among Undocumented Immigrants in California”
-**年份**: 2021 | **DOI**: [10.1177/23780231211017104](https://doi.org/10.1177/23780231211017104)
-**摘要**: （暂无）
 
 ### Social Autonomy among Married Men and Women
 **年份**: 2021 | **DOI**: [10.1177/23780231211043630](https://doi.org/10.1177/23780231211043630)
@@ -3508,10 +3440,6 @@
 **作者**: Heisig, Jan Paul; Schaeffer, Merlin
 **摘要**: Research shows that children of immigrants, the “second generation,” have comparatively high educational aspirations. This “immigrant optimism” translates into ambitious educational choices, given the second generation’s level of academic performance.…
 
-### Corrigendum to “Unemployment, Trust in Government, and Satisfaction with Democracy: An Empirical Investigation”
-**年份**: 2020 | **DOI**: [10.1177/2378023120946768](https://doi.org/10.1177/2378023120946768)
-**摘要**: （暂无）
-
 ### The Complexities of Race and Place: Childhood Neighborhood Disadvantage and Adult Incarceration for Whites, Blacks, and Latinos
 **年份**: 2020 | **DOI**: [10.1177/2378023120927154](https://doi.org/10.1177/2378023120927154)
 **作者**: Alvarado, Steven Elías
@@ -3666,10 +3594,6 @@
 **年份**: 2020 | **DOI**: [10.1177/2378023120920059](https://doi.org/10.1177/2378023120920059)
 **作者**: Downey, Liam; Lawrence, Elizabeth; Pyles, Micah 等4人
 **摘要**: World society theory has been one of the better published theoretical paradigms of the past 30 to 40 years. But despite its publishing successes, world society theory and research are beset by a number of theoretical and empirical problems that call into question the theory’s ability to accurately d…
-
-### Corrigendum to “Tournament Mobility in Mathematics Course-Taking Pathways”
-**年份**: 2020 | **DOI**: [10.1177/2378023120979318](https://doi.org/10.1177/2378023120979318)
-**摘要**: （暂无）
 
 ### Trends and Disparities in Subjective Upward Mobility since 1940
 **年份**: 2020 | **DOI**: [10.1177/2378023120951139](https://doi.org/10.1177/2378023120951139)

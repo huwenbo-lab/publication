@@ -1,7 +1,7 @@
 # 社会学与人口学文献数据库概览
 
 > 生成时间：2026-04-03  
-> 总计：**34,105** 篇 | **24** 本期刊 | 2000–2026
+> 总计：**33,771** 篇 | **24** 本期刊 | 2000–2026
 
 ## 数据字段
 
@@ -30,27 +30,27 @@
 | American Journal of Sociology | 799 | 2000–2025 | 185 |
 | American Sociological Review | 986 | 2000–2025 | 225 |
 | Annual Review of Sociology | 428 | 2000–2025 | 97 |
-| British Journal of Sociology | 1,739 | 2000–2025 | 415 |
-| British Journal of Sociology of Education | 1,669 | 2000–2026 | 459 |
-| Chinese Journal of Sociology | 254 | 2015–2025 | 135 |
+| British Journal of Sociology | 1,727 | 2000–2025 | 415 |
+| British Journal of Sociology of Education | 1,659 | 2000–2026 | 459 |
+| Chinese Journal of Sociology | 250 | 2015–2025 | 134 |
 | Chinese Sociological Review | 268 | 2011–2025 | 138 |
-| Demographic Research | 1,833 | 2000–2025 | 501 |
-| Demography | 1,931 | 2000–2025 | 533 |
-| European Journal of Population | 850 | 2000–2026 | 219 |
+| Demographic Research | 1,831 | 2000–2025 | 501 |
+| Demography | 1,920 | 2000–2025 | 533 |
+| European Journal of Population | 834 | 2000–2026 | 210 |
 | European Sociological Review | 1,543 | 2000–2025 | 401 |
-| Gender & Society | 2,190 | 2000–2026 | 519 |
-| Journal of Family Issues | 2,255 | 2000–2026 | 725 |
-| Journal of Family Theory & Review | 842 | 2009–2026 | 337 |
-| Journal of Marriage and Family | 2,467 | 2000–2025 | 531 |
-| Population and Development Review | 932 | 2000–2025 | 269 |
-| Research in Social Stratification and Mobility | 855 | 2001–2025 | 350 |
-| Social Forces | 2,800 | 2000–2025 | 488 |
-| Social Science Research | 2,259 | 2000–2026 | 524 |
+| Gender & Society | 2,175 | 2000–2026 | 518 |
+| Journal of Family Issues | 2,244 | 2000–2026 | 725 |
+| Journal of Family Theory & Review | 835 | 2009–2026 | 336 |
+| Journal of Marriage and Family | 2,453 | 2000–2025 | 531 |
+| Population and Development Review | 931 | 2000–2025 | 268 |
+| Research in Social Stratification and Mobility | 846 | 2001–2025 | 350 |
+| Social Forces | 2,778 | 2000–2025 | 488 |
+| Social Science Research | 2,220 | 2000–2026 | 524 |
 | Sociological Science | 392 | 2014–2026 | 198 |
-| Sociology | 2,931 | 2000–2026 | 579 |
+| Sociology | 2,850 | 2000–2026 | 575 |
 | Sociology of Education | 457 | 2000–2026 | 113 |
-| Socius | 1,039 | 2015–2026 | 744 |
-| Work, Employment and Society | 2,386 | 2000–2026 | 525 |
+| Socius | 1,014 | 2016–2026 | 725 |
+| Work, Employment and Society | 2,331 | 2000–2026 | 522 |
 
 ## 如何查阅文献
 

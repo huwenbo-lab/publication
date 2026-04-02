@@ -1,7 +1,7 @@
 # British Journal of Sociology of Education
 ## 2010–2019 年文章（含摘要）
 
-共 **658** 篇
+共 **649** 篇
 
 ---
 
@@ -1115,11 +1115,6 @@
 **作者**: Ly Thi Tran
 **摘要**: This paper unpacks the meanings and implications of the mobility of international students in vocational education - an under-researched group in the field of international education.…
 
-### Editorial Board
-**年份**: 2016 | **DOI**: [10.1080/01425692.2016.1246231](https://doi.org/10.1080/01425692.2016.1246231)
-**作者**: [Anonymous]
-**摘要**: （暂无）
-
 ### Biopower and school surveillance technologies 2.0
 **年份**: 2016 | **DOI**: [10.1080/01425692.2014.1001060](https://doi.org/10.1080/01425692.2014.1001060)
 **作者**: Hope, Andrew
@@ -1745,14 +1740,6 @@
 **年份**: 2014 | **DOI**: [10.1080/01425692.2014.969525](https://doi.org/10.1080/01425692.2014.969525)
 **摘要**: （暂无）
 
-### Editorial Board
-**年份**: 2014 | **DOI**: [10.1080/01425692.2014.969606](https://doi.org/10.1080/01425692.2014.969606)
-**摘要**: （暂无）
-
-### Corrigendum
-**年份**: 2014 | **DOI**: [10.1080/01425692.2014.886856](https://doi.org/10.1080/01425692.2014.886856)
-**摘要**: （暂无）
-
 ### Urban education: strife and progress
 **年份**: 2014 | **DOI**: [10.1080/01425692.2014.918708](https://doi.org/10.1080/01425692.2014.918708)
 **作者**: McGimpsey, Ian
@@ -1915,10 +1902,6 @@
 **年份**: 2013 | **DOI**: [10.1080/01425692.2013.816037](https://doi.org/10.1080/01425692.2013.816037)
 **作者**: Weis, Lois; Cipollone, Kristin
 **摘要**: Drawing upon two ethnographic studies of affluent and elite co-educational secondary schools in the United States, Weis and Cipollone spotlight the explicit ‘class work’ of a now highly insecure middle/upper middle class, as they attempt to maintain advantage via entrance to particularly located pos…
-
-### Erratum
-**年份**: 2013 | **DOI**: [10.1080/01425692.2013.876195](https://doi.org/10.1080/01425692.2013.876195)
-**摘要**: （暂无）
 
 ### Lesbian and gay teachers’ experiences of ‘coming out’ in Irish schools
 **年份**: 2013 | **DOI**: [10.1080/01425692.2012.722281](https://doi.org/10.1080/01425692.2012.722281)
@@ -2382,10 +2365,6 @@
 **作者**: Dyke, Martin; Johnston, Brenda; Fuller, Alison
 **摘要**: This paper provides a critical appraisal of approaches to reflexivity in sociology. It uses data from social network research to argue that Archer’s approach to reflexivity provides a valuable lens with which to understand how people navigate their education and career pathways.…
 
-### Editorial Board
-**年份**: 2012 | **DOI**: [10.1080/01425692.2012.730809](https://doi.org/10.1080/01425692.2012.730809)
-**摘要**: （暂无）
-
 ### Making socialists: Mary Bridges Adams and the fight for knowledge and power, 1855–1939
 **年份**: 2012 | **DOI**: [10.1080/01425692.2012.632872](https://doi.org/10.1080/01425692.2012.632872)
 **作者**: Weiler, Kathleen
@@ -2663,10 +2642,6 @@
 **作者**: Macknight, Vicki
 **摘要**: This paper is written to draw attention to the ideal knower and the logic of knowledge embedded in curricula. New logics and new knowers, I argue, are conjured with the hope they will be capable of succeeding in curriculum designers’ imagined future.…
 
-### Corrigendum
-**年份**: 2011 | **DOI**: [10.1080/01425692.2011.582679](https://doi.org/10.1080/01425692.2011.582679)
-**摘要**: （暂无）
-
 ### Enriching intimacy: the role of the emotional in the ‘resourcing’ of middle‐class children
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.559340](https://doi.org/10.1080/01425692.2011.559340)
 **作者**: Stefansen, Kari; Aarseth, Helene
@@ -2823,10 +2798,6 @@
 **作者**: Lauglo, Jon
 **摘要**: Using data from a large‐scale survey of Norwegian youth, the study examines the relationships that the performance in key academic subjects and aiming for higher education have with political socialization at home.…
 
-### Editorial Board
-**年份**: 2011 | **DOI**: [10.1080/01425692.2011.618673](https://doi.org/10.1080/01425692.2011.618673)
-**摘要**: （暂无）
-
 ### ‘Walking yourself around as a teacher’: gender and embodiment in student teachers’ working lives
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.547311](https://doi.org/10.1080/01425692.2011.547311)
 **作者**: Braun, Annette
@@ -2920,7 +2891,7 @@
 **作者**: Smith, Emma
 **摘要**: by Elizabeth Leo, David Galloway and Phi Hearne, Bristol, Multilingual Matters, 2010, 240 pp., £55.96, ISBN 978-1847693150 by Trevor Gale, Robert Hattam, Barbara Comber, Deborah Tranter, Dianne Bil...
 
-### &gt;Islam in the school curriculum: symbolic pedagogy and cultural claims
+### >Islam in the school curriculum: symbolic pedagogy and cultural claims
 **年份**: 2011 | **DOI**: [10.1080/01425692.2011.578443](https://doi.org/10.1080/01425692.2011.578443)
 **作者**: Bhopal, Kalwant
 **摘要**: （暂无）
@@ -3140,10 +3111,6 @@
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.484915](https://doi.org/10.1080/01425692.2010.484915)
 **摘要**: （暂无）
 
-### Editorial Board
-**年份**: 2010 | **DOI**: [10.1080/01425692.2010.523933](https://doi.org/10.1080/01425692.2010.523933)
-**摘要**: （暂无）
-
 ### Peer review, Bourdieu and honour: connecting Chinese and Australian intellectual projects
 **年份**: 2010 | **DOI**: [10.1080/01425690903539107](https://doi.org/10.1080/01425690903539107)
 **作者**: Singh, Michael; Han, Jinghe
@@ -3238,10 +3205,6 @@
 **年份**: 2010 | **DOI**: [10.1080/01425692.2010.515109](https://doi.org/10.1080/01425692.2010.515109)
 **作者**: Carrington, Victoria; Hodgetts, Katherine
 **摘要**: While the attention of researchers has focused on video games, texting and, more recently, the growth of social networking sites such as Bebo.com and Facebook, virtual worlds have emerged as a site of significant cultural and textual relevance for young people.…
-
-### Corrigendum
-**年份**: 2010 | **DOI**: [10.1080/01425692.2010.533476](https://doi.org/10.1080/01425692.2010.533476)
-**摘要**: （暂无）
 
 ### Cultural capital and intellectual ability as predictors of scholastic achievement: a study of Slovenian secondary school students
 **年份**: 2010 | **DOI**: [10.1080/01425690903385428](https://doi.org/10.1080/01425690903385428)

@@ -1,7 +1,7 @@
 # Work, Employment and Society
 ## 2020–2026 年文章（含摘要）
 
-共 **525** 篇
+共 **522** 篇
 
 ---
 
@@ -74,10 +74,6 @@
 **年份**: 2026 | **DOI**: [10.1177/09500170251404819](https://doi.org/10.1177/09500170251404819)
 **作者**: Bayurgil, Ladin; Pulignano, Valeria; Kirchner, Stefan
 **摘要**: Scholarly work on labour platforms has primarily examined labour governance in relation to the role of algorithmic management in labour control. This article instead argues that platform labour governance involves organising and structuring the broader market environment to ensure a continuous and a…
-
-### Retraction
-**年份**: 2026 | **DOI**: [10.1177/09500170261419696](https://doi.org/10.1177/09500170261419696)
-**摘要**: （暂无）
 
 ### The Political Dynamics of Inclusion: Noncitizen Workers in Ethnocratic States
 **年份**: 2026 | **DOI**: [10.1177/09500170261424126](https://doi.org/10.1177/09500170261424126)
@@ -432,11 +428,6 @@
 **年份**: 2025 | **DOI**: [10.1177/09500170251344717](https://doi.org/10.1177/09500170251344717)
 **作者**: Aubry, Agnès
 **摘要**: Drawing on ethnographic research, this article explores the daily implementation and lived experiences of workfare-inspired programmes designed for migrants seeking protection, who are living in Swiss reception centres.…
-
-### RETRACTION: Book Review: Jan Drahokoupil and Kurt Vandaele (eds), A Modern Guide to Labour and the Platform Economy DrahokoupilJanVandaeleKurt (eds) A Modern Guide to Labour and the Platform EconomyCheltenham: Edward Elgar Publishing, 2021, £146 hbk, (ISBN: 9781788975094), 384 pp.
-**年份**: 2025 | **DOI**: [10.1177/09500170251376252](https://doi.org/10.1177/09500170251376252)
-**作者**: López-Andreu, Martí
-**摘要**: （暂无）
 
 ### Content Creation within the Algorithmic Environment: A Systematic Review
 **年份**: 2025 | **DOI**: [10.1177/09500170251325784](https://doi.org/10.1177/09500170251325784)
@@ -2068,10 +2059,6 @@
 **年份**: 2021 | **DOI**: [10.1177/0950017021997370](https://doi.org/10.1177/0950017021997370)
 **作者**: Jana, Madhusree; Hammer, Anita
 **摘要**: This article investigates reproductive work in the Global South which thrives on the commodification of women’s reproductive bodies under local-global reproductive hierarchies, appropriating the process of reproduction for production.…
-
-### Correction Notice: Doing Double Time: Women, Incarceration and Employment Discrimination
-**年份**: 2021 | **DOI**: [10.1177/09500170211026868](https://doi.org/10.1177/09500170211026868)
-**摘要**: （暂无）
 
 ### ‘This Is the End’? An Ethnographic Study of Management Control and a New Management Initiative
 **年份**: 2021 | **DOI**: [10.1177/09500170211022272](https://doi.org/10.1177/09500170211022272)

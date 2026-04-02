@@ -1,7 +1,7 @@
 # Social Science Research
 ## 2000–2009 年文章（含摘要）
 
-共 **489** 篇
+共 **466** 篇
 
 ---
 
@@ -420,7 +420,7 @@
 **作者**: Tillman, Kathryn Harker
 **摘要**: （暂无）
 
-### Facts &amp; artifacts in research: The case of communication medium, gender, and influence
+### Facts & artifacts in research: The case of communication medium, gender, and influence
 **年份**: 2008 | **DOI**: [10.1016/j.ssresearch.2007.08.005](https://doi.org/10.1016/j.ssresearch.2007.08.005)
 **作者**: Kalkhoff, Will; Younts, C. Wesley; Troyer, Lisa
 **摘要**: （暂无）
@@ -817,10 +817,6 @@
 **作者**: Sacker, Amanda; Schoon, Ingrid
 **摘要**: （暂无）
 
-### Editorial Board/Cover 2
-**年份**: 2007 | **DOI**: [10.1016/s0049-089x(07)00081-6](https://doi.org/10.1016/s0049-089x(07)00081-6)
-**摘要**: （暂无）
-
 ### “Broken windows” and Self-Esteem: Subjective understandings of neighborhood poverty and disorder
 **年份**: 2007 | **DOI**: [10.1016/j.ssresearch.2006.07.003](https://doi.org/10.1016/j.ssresearch.2006.07.003)
 **作者**: Haney, Timothy J.
@@ -941,10 +937,6 @@
 **作者**: Fuwa, Makiko; Cohen, Philip N.
 **摘要**: （暂无）
 
-### Editorial Board/Cover 2
-**年份**: 2007 | **DOI**: [10.1016/s0049-089x(07)00047-6](https://doi.org/10.1016/s0049-089x(07)00047-6)
-**摘要**: （暂无）
-
 ### Culture and behavior: Applying log-linear models for transitions between offices in a Mexican festival system
 **年份**: 2007 | **DOI**: [10.1016/j.ssresearch.2005.12.001](https://doi.org/10.1016/j.ssresearch.2005.12.001)
 **作者**: Roberts, John M.; Chick, Garry
@@ -972,10 +964,6 @@
 ### School segregation and academic achievement among Hispanic children
 **年份**: 2007 | **DOI**: [10.1016/j.ssresearch.2006.04.002](https://doi.org/10.1016/j.ssresearch.2006.04.002)
 **作者**: Ryabov, Igor; Van Hook, Jennifer
-**摘要**: （暂无）
-
-### Editorial Board/Cover 2
-**年份**: 2007 | **DOI**: [10.1016/s0049-089x(07)00020-8](https://doi.org/10.1016/s0049-089x(07)00020-8)
 **摘要**: （暂无）
 
 ### Do job characteristics mediate the relationship between SES and health? Evidence from sibling models
@@ -1036,10 +1024,6 @@
 ### Noncoverage and nonresponse in an Internet survey
 **年份**: 2007 | **DOI**: [10.1016/j.ssresearch.2005.10.002](https://doi.org/10.1016/j.ssresearch.2005.10.002)
 **作者**: Couper, Mick P.; Kapteyn, Arie; Schonlau, Matthias 等4人
-**摘要**: （暂无）
-
-### Editorial Board/Cover 2
-**年份**: 2007 | **DOI**: [10.1016/s0049-089x(06)00098-6](https://doi.org/10.1016/s0049-089x(06)00098-6)
 **摘要**: （暂无）
 
 ### Demographic trends and energy consumption in European Union Nations, 1960–2025
@@ -1142,10 +1126,6 @@
 **作者**: Shauman, Kimberlee A.
 **摘要**: Abstract A significant proportion of the earnings gap between men and women is attributable to occupational sex segregation and the concentration of women in relatively low-paying occupations, but we do not yet know why women continue to be employed disproportionately in lesser-paying occupations.…
 
-### Editorial Board
-**年份**: 2006 | **DOI**: [10.1016/s0049-089x(05)00061-x](https://doi.org/10.1016/s0049-089x(05)00061-x)
-**摘要**: （暂无）
-
 ### Family dynamics through childhood: A sibling model of behavior problems
 **年份**: 2006 | **DOI**: [10.1016/j.ssresearch.2004.10.003](https://doi.org/10.1016/j.ssresearch.2004.10.003)
 **作者**: Hao, Lingxin; Matsueda, Ross L.
@@ -1176,10 +1156,6 @@
 **作者**: Musick, Kelly; Mare, Robert D.
 **摘要**: （暂无）
 
-### Editorial Board
-**年份**: 2006 | **DOI**: [10.1016/s0049-089x(06)00060-3](https://doi.org/10.1016/s0049-089x(06)00060-3)
-**摘要**: （暂无）
-
 ### How do marriage market conditions affect entrance into cohabitation vs. marriage?
 **年份**: 2006 | **DOI**: [10.1016/j.ssresearch.2004.05.005](https://doi.org/10.1016/j.ssresearch.2004.05.005)
 **作者**: Guzzo, Karen Benjamin
@@ -1188,10 +1164,6 @@
 ### Cleavage-based voting behavior in cross-national perspective: evidence from six postwar democracies
 **年份**: 2006 | **DOI**: [10.1016/j.ssresearch.2004.06.005](https://doi.org/10.1016/j.ssresearch.2004.06.005)
 **作者**: Brooks, Clem; Nieuwbeerta, Paul; Manza, Jeff
-**摘要**: （暂无）
-
-### Editorial Board/Cover 2
-**年份**: 2006 | **DOI**: [10.1016/s0049-089x(06)00085-8](https://doi.org/10.1016/s0049-089x(06)00085-8)
 **摘要**: （暂无）
 
 ### A dynamic model of friendly association networks
@@ -1285,10 +1257,6 @@
 ### Race, class, and Hurricane Katrina: Social differences in human responses to disaster
 **年份**: 2006 | **DOI**: [10.1016/j.ssresearch.2006.02.003](https://doi.org/10.1016/j.ssresearch.2006.02.003)
 **作者**: Elliott, James R.; Pais, Jeremy
-**摘要**: （暂无）
-
-### Editorial Board
-**年份**: 2006 | **DOI**: [10.1016/s0049-089x(06)00028-7](https://doi.org/10.1016/s0049-089x(06)00028-7)
 **摘要**: （暂无）
 
 ### Parental gender, single-parent families, and delinquency: Exploring the moderating influence of race/ethnicity
@@ -1391,10 +1359,6 @@
 **作者**: Reid, Lesley Williams; Weiss, Harald E.; Adelman, Robert M. 等4人
 **摘要**: （暂无）
 
-### Editorial Board
-**年份**: 2005 | **DOI**: [10.1016/s0049-089x(05)00049-9](https://doi.org/10.1016/s0049-089x(05)00049-9)
-**摘要**: （暂无）
-
 ### Is there a flexiglass ceiling? Flexible work arrangements and wages in the United States
 **年份**: 2005 | **DOI**: [10.1016/j.ssresearch.2004.04.006](https://doi.org/10.1016/j.ssresearch.2004.04.006)
 **作者**: Weeden, Kim A.
@@ -1418,10 +1382,6 @@
 ### Applying Baumrind's parenting typology to high schools: toward a middle-range theory of authoritative socialization
 **年份**: 2005 | **DOI**: [10.1016/j.ssresearch.2004.02.003](https://doi.org/10.1016/j.ssresearch.2004.02.003)
 **作者**: Pellerin, Lisa A.
-**摘要**: （暂无）
-
-### Editorial Board/Cover 2
-**年份**: 2005 | **DOI**: [10.1016/s0049-089x(04)00091-2](https://doi.org/10.1016/s0049-089x(04)00091-2)
 **摘要**: （暂无）
 
 ### The labor-market effects of an anti-poverty program: results from hierarchical linear modeling
@@ -1471,10 +1431,6 @@
 ### Racial similarity in the relationship between poverty and homicide rates: Comparing retransformed coefficients
 **年份**: 2005 | **DOI**: [10.1016/j.ssresearch.2005.01.004](https://doi.org/10.1016/j.ssresearch.2005.01.004)
 **作者**: Hannon, Lance; Knapp, Peter; DeFina, Robert
-**摘要**: （暂无）
-
-### Editorial board
-**年份**: 2005 | **DOI**: [10.1016/s0049-089x(04)00110-3](https://doi.org/10.1016/s0049-089x(04)00110-3)
 **摘要**: （暂无）
 
 ### Temporal and regional variation in earnings inequality: urban China in transition between 1988 and 1995
@@ -1586,10 +1542,6 @@
 **作者**: Xu, Jun
 **摘要**: （暂无）
 
-### Editorial Board
-**年份**: 2005 | **DOI**: [10.1016/s0049-089x(05)00034-7](https://doi.org/10.1016/s0049-089x(05)00034-7)
-**摘要**: （暂无）
-
 ### The determinants of jail use across large US cities: an assessment of racial, ethnic, and economic threat explanations
 **年份**: 2005 | **DOI**: [10.1016/j.ssresearch.2004.05.001](https://doi.org/10.1016/j.ssresearch.2004.05.001)
 **作者**: Carmichael, Jason T.
@@ -1670,14 +1622,6 @@
 **作者**: Jacobs, David
 **摘要**: （暂无）
 
-### Editorial Board/Cover 2
-**年份**: 2004 | **DOI**: [10.1016/s0049-089x(04)00005-5](https://doi.org/10.1016/s0049-089x(04)00005-5)
-**摘要**: （暂无）
-
-### Editorial Board/Cover 2
-**年份**: 2004 | **DOI**: [10.1016/s0049-089x(04)00028-6](https://doi.org/10.1016/s0049-089x(04)00028-6)
-**摘要**: （暂无）
-
 ### The division of labor between generations of women in rural China
 **年份**: 2004 | **DOI**: [10.1016/j.ssresearch.2003.09.005](https://doi.org/10.1016/j.ssresearch.2003.09.005)
 **作者**: Chen, Feinian
@@ -1712,10 +1656,6 @@
 **作者**: Huffman, Matt L
 **摘要**: （暂无）
 
-### Editorial Board/Cover 2
-**年份**: 2004 | **DOI**: [10.1016/s0049-089x(04)00053-5](https://doi.org/10.1016/s0049-089x(04)00053-5)
-**摘要**: （暂无）
-
 ### Social structural position and prejudice: an exploration of cross-national differences in regression slopes
 **年份**: 2004 | **DOI**: [10.1016/s0049-089x(03)00037-1](https://doi.org/10.1016/s0049-089x(03)00037-1)
 **作者**: Kunovich, Robert M
@@ -1724,10 +1664,6 @@
 ### Population size, perceived threat, and exclusion: a multiple-indicators analysis of attitudes toward foreigners in Germany
 **年份**: 2004 | **DOI**: [10.1016/j.ssresearch.2003.11.003](https://doi.org/10.1016/j.ssresearch.2003.11.003)
 **作者**: Semyonov, Moshe; Raijman, Rebeca; Tov, Anat Yom 等4人
-**摘要**: （暂无）
-
-### Editorial Board/Cover 2
-**年份**: 2004 | **DOI**: [10.1016/s0049-089x(04)00066-3](https://doi.org/10.1016/s0049-089x(04)00066-3)
 **摘要**: （暂无）
 
 ### Religious intermarriage in the United States: trends, patterns, and predictors
@@ -1809,10 +1745,6 @@
 **年份**: 2003 | **DOI**: [10.1016/s0049-089x(03)00006-1](https://doi.org/10.1016/s0049-089x(03)00006-1)
 **摘要**: （暂无）
 
-### Editorial Board/Cover 2
-**年份**: 2003 | **DOI**: [10.1016/s0049-089x(03)00022-x](https://doi.org/10.1016/s0049-089x(03)00022-x)
-**摘要**: （暂无）
-
 ### Externalizing employment: flexible staffing arrangements in US organizations
 **年份**: 2003 | **DOI**: [10.1016/s0049-089x(03)00013-9](https://doi.org/10.1016/s0049-089x(03)00013-9)
 **作者**: Kalleberg, Arne L; Reynolds, Jeremy; Marsden, Peter V
@@ -1820,11 +1752,6 @@
 
 ### Acknowledgment
 **年份**: 2003 | **DOI**: [10.1016/s0049-089x(02)00059-5](https://doi.org/10.1016/s0049-089x(02)00059-5)
-**摘要**: （暂无）
-
-### Erratum to “Post-industrial transformations and cyber-space: a cross-national analysis of Internet development [Social Science Research 31 (2002) 334–363]”
-**年份**: 2003 | **DOI**: [10.1016/s0049-089x(03)00034-6](https://doi.org/10.1016/s0049-089x(03)00034-6)
-**作者**: Robison, Kristopher Kyle; Crenshaw, Edward M
 **摘要**: （暂无）
 
 ### Endogenous social effects on intimate partner violence in Colombia
@@ -1869,10 +1796,6 @@
 ### When do neighborhoods matter? The role of race and neighborhood peers
 **年份**: 2003 | **DOI**: [10.1016/s0049-089x(02)00013-3](https://doi.org/10.1016/s0049-089x(02)00013-3)
 **作者**: López Turley, Ruth N.
-**摘要**: （暂无）
-
-### Editorial Board/Cover 2
-**年份**: 2003 | **DOI**: [10.1016/s0049-089x(03)00066-8](https://doi.org/10.1016/s0049-089x(03)00066-8)
 **摘要**: （暂无）
 
 ### Period and duration effects on the value of housing among immigrants
@@ -1923,10 +1846,6 @@
 **作者**: Gordon, Rachel A; Savage, Courtenay; Lahey, Benjamin B 等7人
 **摘要**: （暂无）
 
-### Editorial Board/Cover 2
-**年份**: 2003 | **DOI**: [10.1016/s0049-089x(03)00047-4](https://doi.org/10.1016/s0049-089x(03)00047-4)
-**摘要**: （暂无）
-
 ### Racial/ethnic differences in voluntary and involuntary job mobility among young men
 **年份**: 2003 | **DOI**: [10.1016/s0049-089x(02)00063-7](https://doi.org/10.1016/s0049-089x(02)00063-7)
 **作者**: Park, Hyunjoon; Sandefur, Gary D.
@@ -1940,10 +1859,6 @@
 ### The impact of adolescent employment on high school dropout: Differences by individual and labor-market characteristics
 **年份**: 2003 | **DOI**: [10.1016/s0049-089x(02)00021-2](https://doi.org/10.1016/s0049-089x(02)00021-2)
 **作者**: Robert Warren, John; Lee, Jennifer C
-**摘要**: （暂无）
-
-### Editorial Board/Cover 2
-**年份**: 2003 | **DOI**: [10.1016/s0049-089x(03)00003-6](https://doi.org/10.1016/s0049-089x(03)00003-6)
 **摘要**: （暂无）
 
 ### Seeing their surroundings: the effects of neighborhood setting and race on maternal distress
@@ -1972,10 +1887,6 @@
 
 ### Author Index
 **年份**: 2002 | **DOI**: [10.1016/s0049-089x(02)00041-8](https://doi.org/10.1016/s0049-089x(02)00041-8)
-**摘要**: （暂无）
-
-### Editorial Board
-**年份**: 2002 | **DOI**: [10.1016/s0049-089x(02)00038-8](https://doi.org/10.1016/s0049-089x(02)00038-8)
 **摘要**: （暂无）
 
 ### Post-industrial transformations and cyber-space: a cross-national analysis of Internet development
@@ -2036,10 +1947,6 @@
 ### Measuring inter-racial friendships
 **年份**: 2002 | **DOI**: [10.1016/s0049-089x(02)00015-7](https://doi.org/10.1016/s0049-089x(02)00015-7)
 **作者**: Smith, Tom W.
-**摘要**: （暂无）
-
-### Editorial Board/Cover 2
-**年份**: 2002 | **DOI**: [10.1016/s0049-089x(02)00025-x](https://doi.org/10.1016/s0049-089x(02)00025-x)
 **摘要**: （暂无）
 
 ### Variations in Age-Specific Homicide Death Rates: A Cohort Explanation for Changes in the Age Distribution of Homicide Deaths

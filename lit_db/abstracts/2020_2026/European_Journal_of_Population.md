@@ -1,7 +1,7 @@
 # European Journal of Population
 ## 2020–2026 年文章（含摘要）
 
-共 **219** 篇
+共 **210** 篇
 
 ---
 
@@ -99,11 +99,6 @@
 **年份**: 2025 | **DOI**: [10.1007/s10680-025-09739-5](https://doi.org/10.1007/s10680-025-09739-5)
 **作者**: Kravdal, Øystein; Flatø, Martin; Torvik, Fartein A.
 **摘要**: Abstract We analysed the associations between mental disorders and women’s and men’s first-, second- and third-birth rates in 2010–2018, using register data for the full Norwegian population.…
-
-### Correction: Does Ethnicity Moderate the Union Dissolution Penalty for Women? A Register-based Analysis of Changes in Income Components
-**年份**: 2025 | **DOI**: [10.1007/s10680-025-09731-z](https://doi.org/10.1007/s10680-025-09731-z)
-**作者**: Hogendoorn, Bram; Kalmijn, Matthijs
-**摘要**: In Appendix Table A1 of this article, the data in the column 'M' headed 'Personal earnings' were mistakenly listed under heading 'Personal benefits'. As a result, all columns 'M' have erroneously shifted one column to the right.…
 
 ### Swedish Fertility Developments Before, During and After the COVID-19 Pandemic
 **年份**: 2025 | **DOI**: [10.1007/s10680-025-09744-8](https://doi.org/10.1007/s10680-025-09744-8)
@@ -395,11 +390,6 @@
 **作者**: Bohr, Jeanette; Lengerer, Andrea
 **摘要**: Abstract In this study we examine partnership dynamics among people with different sexual orientations in Germany. More specifically, we explore the process of first partnership formation and first cohabitation among men and women who self-identify as heterosexual, homosexual or bisexual.…
 
-### Correction: Cross-sectional Average Length of Life Entropy $$({\mathcal{H}}_{{{\text{CAL}}}} )$$: International Comparisons and Decompositions
-**年份**: 2024 | **DOI**: [10.1007/s10680-024-09715-5](https://doi.org/10.1007/s10680-024-09715-5)
-**作者**: Su, Wen; Canudas-Romo, Vladimir
-**摘要**: In this article, published online 7 June 2024, the label in Figure 1 read ‘Chohort Entropy (1907)’, but should have read ‘Cohort Entropy (1907)’. The original article has been corrected.
-
 ### Residential Mobility in Childhood and Union Dissolution Later in Life
 **年份**: 2024 | **DOI**: [10.1007/s10680-024-09717-3](https://doi.org/10.1007/s10680-024-09717-3)
 **作者**: Pertzikovitz, Alon; Vidal, Sergi; de Valk, Helga A. G.
@@ -445,11 +435,6 @@
 **作者**: Pelikh, Alina
 **摘要**: （暂无）
 
-### Correction: The Well-Being of Adolescents Conceived Through Medically Assisted Reproduction: A Population-Level and Within-Family Analysis
-**年份**: 2023 | **DOI**: [10.1007/s10680-023-09663-6](https://doi.org/10.1007/s10680-023-09663-6)
-**作者**: Remes, Hanna; Palma Carvajal, Maria; Peltonen, Riina 等5人
-**摘要**: （暂无）
-
 ### Does Caring for Parents Take Its Toll? Gender Differences in Caregiving Intensity, Coresidence, and Psychological Well-Being Across Europe
 **年份**: 2023 | **DOI**: [10.1007/s10680-023-09666-3](https://doi.org/10.1007/s10680-023-09666-3)
 **作者**: Labbas, Elisa; Stanfors, Maria
@@ -459,11 +444,6 @@
 **年份**: 2023 | **DOI**: [10.1007/s10680-023-09685-0](https://doi.org/10.1007/s10680-023-09685-0)
 **作者**: Waldfogel, Jane; Kwon, Sarah Jiyoon; Wang, Yi 等17人
 **摘要**: AbstractThis paper provides new evidence on inequalities in resources for children age 3–4 by parental education using harmonized data from six advanced industrialized countries—United States, United Kingdom, France, Germany, Netherlands, and Japan—that represent different social welfare regime type…
-
-### Correction to: Understanding Diversity in the Meaning of Cohabitation Across Europe
-**年份**: 2023 | **DOI**: [10.1007/s10680-023-09688-x](https://doi.org/10.1007/s10680-023-09688-x)
-**作者**: Hiekel, Nicole; Liefbroer, Aart C.; Portman, Anne-Rigt
-**摘要**: （暂无）
 
 ### Industrial Robots and Regional Fertility in European Countries
 **年份**: 2023 | **DOI**: [10.1007/s10680-023-09657-4](https://doi.org/10.1007/s10680-023-09657-4)
@@ -609,11 +589,6 @@
 **年份**: 2023 | **DOI**: [10.1007/s10680-023-09674-3](https://doi.org/10.1007/s10680-023-09674-3)
 **作者**: Zilincikova, Zuzana; Schnor, Christine
 **摘要**: AbstractGeographic distance between a child and their non-resident parent is a key aspect of the reorganization of the family following parental separation. The increasingly equal involvement of both parents in the upbringing of their children is expected to translate into increasing geographic prox…
-
-### Correction: Well-Being Adjusted Health Expectancy: A New Summary Measure of Population Health
-**年份**: 2023 | **DOI**: [10.1007/s10680-023-09648-5](https://doi.org/10.1007/s10680-023-09648-5)
-**作者**: Muszyńska-Spielauer, Magdalena; Luy, Marc
-**摘要**: （暂无）
 
 ### Jakub Bijak (ed.): Towards Bayesian Model-Based Demography: Agency, Complexity and Uncertainty in Migration Studies
 **年份**: 2022 | **DOI**: [10.1007/s10680-022-09635-2](https://doi.org/10.1007/s10680-022-09635-2)
@@ -775,11 +750,6 @@
 **作者**: Frémeaux, Nicolas; Leturcq, Marion
 **摘要**: AbstractThis paper examines wealth accumulation among couple-headed households and investigates changes in within-household inequality over time and across couple statuses. Going beyond previous research that mostly studies wealth accumulation within marriages by comparing married with unmarried ind…
 
-### Correction to: Joint Family and Work Trajectories and Multidimensional Wellbeing
-**年份**: 2022 | **DOI**: [10.1007/s10680-022-09615-6](https://doi.org/10.1007/s10680-022-09615-6)
-**作者**: Comolli, C. L.; Bernardi, L.; Voorpostel, M.
-**摘要**: （暂无）
-
 ### Mortality Advantage Reversed: The Causes of Death Driving All-Cause Mortality Differentials Between Immigrants, the Descendants of Immigrants and Ancestral Natives in Sweden, 1997–2016
 **年份**: 2022 | **DOI**: [10.1007/s10680-022-09637-0](https://doi.org/10.1007/s10680-022-09637-0)
 **作者**: Wallace, Matthew
@@ -930,11 +900,6 @@
 **作者**: Koster, Tara; Castro-Martín, Teresa
 **摘要**: AbstractSeparated fathers are generally assumed to be less involved with their children than partnered fathers. Yet, extant research on separated fathers has mainly focused on nonresident fathers without taking into consideration the existing diversity in post-separation residence arrangements.…
 
-### Correction to: Beyond the Economic Gaze: Childbearing During and After Recessions in the Nordic Countries
-**年份**: 2021 | **DOI**: [10.1007/s10680-021-09579-z](https://doi.org/10.1007/s10680-021-09579-z)
-**作者**: Comolli, C. L.; Neyer, G.; Andersson, G. 等9人
-**摘要**: （暂无）
-
 ### Socio-Economic Differences in the Prevalence of Single Motherhood in North America and Europe
 **年份**: 2021 | **DOI**: [10.1007/s10680-021-09591-3](https://doi.org/10.1007/s10680-021-09591-3)
 **作者**: Koops, Judith C.; Liefbroer, Aart C.; Gauthier, Anne H.
@@ -954,11 +919,6 @@
 **年份**: 2021 | **DOI**: [10.1007/s10680-021-09598-w](https://doi.org/10.1007/s10680-021-09598-w)
 **作者**: de Jong, Petra Wieke
 **摘要**: AbstractUsing unique longitudinal data from the Dutch population registers, this study investigates the patterns and drivers of emigration of the Turkish second generation born in the Netherlands between 1983 and 1992.…
-
-### Correction to: Housing Affordability, Housing Tenure Status and Household Density: Are Housing Characteristics Associated with Union Dissolution?
-**年份**: 2021 | **DOI**: [10.1007/s10680-021-09587-z](https://doi.org/10.1007/s10680-021-09587-z)
-**作者**: Krapf, Sandra; Wagner, Michael
-**摘要**: A correction to this paper has been published: https://doi.org/10.1007/s10680-021-09587-z
 
 ### Male–Female Fertility Differentials Across 17 High-Income Countries: Insights From A New Data Resource
 **年份**: 2021 | **DOI**: [10.1007/s10680-020-09575-9](https://doi.org/10.1007/s10680-020-09575-9)
@@ -1084,11 +1044,6 @@
 **年份**: 2020 | **DOI**: [10.1007/s10680-020-09557-x](https://doi.org/10.1007/s10680-020-09557-x)
 **作者**: Olofsson, Jenny; Sandow, Erika; Findlay, Allan 等4人
 **摘要**: AbstractThis paper makes two original contributions to research on young adults’ boomerang mobility. First, it reveals the magnitude and complexity of return moves by young people to their parental home and neighbourhood.…
-
-### Correction to: A Research Note on the Convergence of Childlessness Rates Between Women with Secondary and Tertiary Education in the United States
-**年份**: 2020 | **DOI**: [10.1007/s10680-020-09554-0](https://doi.org/10.1007/s10680-020-09554-0)
-**作者**: Rybińska, Anna
-**摘要**: （暂无）
 
 ### Are the Sick Left Behind at the Peripheries? Health Selection in Migration to Growing Urban Centres in Finland
 **年份**: 2020 | **DOI**: [10.1007/s10680-020-09568-8](https://doi.org/10.1007/s10680-020-09568-8)

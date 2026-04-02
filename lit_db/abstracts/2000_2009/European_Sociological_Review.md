@@ -1435,7 +1435,7 @@
 **作者**: Courgeau, D.
 **摘要**: Journal Article Jan O. Jonsson and Colin Mills (Eds): Cradle to Grave. Life-course Change in Modern Sweden. Durham: Sociology Press, 2001. XXIX + 244 pp. Get access Daniel Courgeau Daniel Courgeau Institut National d'Etudes Démographiques, 133 boulevard Davout, 75980 Paris Cedex 20, France Search fo…
 
-### Jurgen H. P. Hoffmeyer-Zlotnik and Christof Wolf (Eds): Advances in Cross-National Comparison: A European Working Book for Demographic and Socio-Economic Variables New York: Kluwer &amp; Plenum, 2003. 419 pp.
+### Jurgen H. P. Hoffmeyer-Zlotnik and Christof Wolf (Eds): Advances in Cross-National Comparison: A European Working Book for Demographic and Socio-Economic Variables New York: Kluwer & Plenum, 2003. 419 pp.
 **年份**: 2004 | **DOI**: [10.1093/esr/jch023](https://doi.org/10.1093/esr/jch023)
 **作者**: Rijken, S.
 **摘要**: Journal Article Jürgen H. P. Hoffmeyer-Zlotnik and Christof Wolf (Eds): Advances in Cross-National Comparison: A European Working Book for Demographic and Socio-Economic Variables New York: Kluwer & Plenum, 2003. 419 pp.…
@@ -1851,7 +1851,7 @@
 
 ### List of Reviewers for ESR 2000-2001
 **年份**: 2002 | **DOI**: [10.1093/esr/18.3.379](https://doi.org/10.1093/esr/18.3.379)
-**摘要**: List of Reviewers for ESR 2000–2001 Get access European Sociological Review, Volume 18, Issue 3, 1 September 2002, Pages 379–380, https://doi.org/10.1093/esr/18.3.379 Published: 01 September 2002
+**摘要**: （暂无）
 
 ### Hans-Peter Blossfeld and Gerald Prein (eds): Rational Choice Theory and LargeScale Data Analysis. Boulder, Colo.: Westview Press, 1998, 322pp.
 **年份**: 2002 | **DOI**: [10.1093/esr/18.1.121](https://doi.org/10.1093/esr/18.1.121)

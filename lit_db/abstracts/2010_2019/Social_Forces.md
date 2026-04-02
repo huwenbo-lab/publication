@@ -1,7 +1,7 @@
 # Social Forces
 ## 2010–2019 年文章（含摘要）
 
-共 **1063** 篇
+共 **1049** 篇
 
 ---
 
@@ -1605,10 +1605,6 @@
 **作者**: Spencer, Dale C.
 **摘要**: Journal Article Come Out Swinging: The Changing World of Boxing in Gleason's Gym By Lucia Trimbur Princeton University Press. 2013. 224 pages. $27.95 cloth Get access Come Out Swinging: The Changing World of Boxing in Gleason's Gym By Lucia Trimbur Princeton University Press. 2013. 224 pages.…
 
-### Editorial board and Members
-**年份**: 2014 | **DOI**: [10.1093/sf/sot141](https://doi.org/10.1093/sf/sot141)
-**摘要**: Journal Article Editorial board and Members Get access Social Forces, Volume 93, Issue 1, September 2014, Page NP, https://doi.org/10.1093/sf/sot141 Published: 01 September 2014
-
 ### Testing the Oppositional Culture Explanation in Desegregated Schools: The Impact of Racial Differences in Academic Orientations on School Performance
 **年份**: 2014 | **DOI**: [10.1093/sf/sou093](https://doi.org/10.1093/sf/sou093)
 **作者**: Diamond, J. B.; Huguley, J. P.
@@ -1647,10 +1643,6 @@
 ### Front Cover
 **年份**: 2014 | **DOI**: [10.1093/sf/sot145](https://doi.org/10.1093/sf/sot145)
 **摘要**: Journal Article Front Cover Get access Social Forces, Volume 93, Issue 1, September 2014, Page NP, https://doi.org/10.1093/sf/sot145 Published: 01 September 2014
-
-### Editorial board and Members
-**年份**: 2014 | **DOI**: [10.1093/sf/sot139](https://doi.org/10.1093/sf/sot139)
-**摘要**: （暂无）
 
 ### Latinos Facing Racism: Discrimination, Resistance, and Endurance By Joe R. Feagin and José A. Cobas Paradigm Publishers. 2014. 188 pages. $24.61 paperback, $109.65 hardcover
 **年份**: 2014 | **DOI**: [10.1093/sf/sou058](https://doi.org/10.1093/sf/sou058)
@@ -1755,10 +1747,6 @@
 **年份**: 2014 | **DOI**: [10.1093/sf/sou051](https://doi.org/10.1093/sf/sou051)
 **作者**: Polavieja, J. G.; Platt, L.
 **摘要**: Boys and girls with sex-typical aspirations are significantly more likely to end up in sex-typical jobs as adults. Preference formation among children is therefore relevan for subsequent occupational outcomes.…
-
-### Editorial board and Members
-**年份**: 2014 | **DOI**: [10.1093/sf/sot140](https://doi.org/10.1093/sf/sot140)
-**摘要**: Journal Article Editorial board and Members Get access Social Forces, Volume 92, Issue 4, June 2014, Page NP, https://doi.org/10.1093/sf/sot140 Published: 01 June 2014
 
 ### Toxic Communities: Environmental Racism, Industrial Pollution and Residential Mobility By Dorceta E. Taylor NYU Press. 2014. 352 pages. $79 cloth
 **年份**: 2014 | **DOI**: [10.1093/sf/sou114](https://doi.org/10.1093/sf/sou114)
@@ -2089,10 +2077,6 @@
 **作者**: Crawford, Seth S.
 **摘要**: （暂无）
 
-### Editorial board and Members
-**年份**: 2014 | **DOI**: [10.1093/sf/sot142](https://doi.org/10.1093/sf/sot142)
-**摘要**: Journal Article Editorial board and Members Get access Social Forces, Volume 93, Issue 2, December 2014, Page NP, https://doi.org/10.1093/sf/sot142 Published: 01 December 2014
-
 ### Savage Portrayals: Race, Media, and the Central Park Jogger Story By Natalie Byfield Temple University Press. 2014. 242 pages. $29.95 paper, $94.50 cloth
 **年份**: 2014 | **DOI**: [10.1093/sf/sou123](https://doi.org/10.1093/sf/sou123)
 **作者**: Thomas, James M.
@@ -2356,7 +2340,7 @@
 **作者**: Irwin, K.; Simpson, B.
 **摘要**: Collective action researchers have focused on injunctive norms that specify approved behavior as a panacea for collective action problems. We investigate whether descriptive norms (similar behavior) can also solve these problems.…
 
-### White Parents, Black Children: Experiencing Transracial Adoption By Darron T. Smith, Cardell K. Jacobson and Brenda G. Juarez Rowman &amp; Littlefield Publishers. 2011. 184 pages. $34.95 (cloth)
+### White Parents, Black Children: Experiencing Transracial Adoption By Darron T. Smith, Cardell K. Jacobson and Brenda G. Juarez Rowman & Littlefield Publishers. 2011. 184 pages. $34.95 (cloth)
 **年份**: 2013 | **DOI**: [10.1093/sf/sos153](https://doi.org/10.1093/sf/sos153)
 **作者**: Raleigh, E.
 **摘要**: Whereas social scientists have long studied the prospects of racial and ethnic assimilation through intermarriage, transracial adoption also serves as a valuable lens for studying families across the color line.…
@@ -2370,10 +2354,6 @@
 **年份**: 2013 | **DOI**: [10.1093/sf/sot037](https://doi.org/10.1093/sf/sot037)
 **作者**: Morgan, S. L.; Leenman, T. S.; Todd, J. J. 等5人
 **摘要**: To evaluate a stutter-step model of academic performance in high school, this article adopts a unique measure of the beliefs of 12,591 high school sophomores from the Education Longitudinal Study, 2002-2006.…
-
-### Editorial Board
-**年份**: 2013 | **DOI**: [10.1093/sf/sos208](https://doi.org/10.1093/sf/sos208)
-**摘要**: （暂无）
 
 ### Patterns of Protest: Trajectories of Participation in Social Movements By Catherine Corrigall-Brown Stanford University Press. 2012. 192 pages. $45.00 cloth
 **年份**: 2013 | **DOI**: [10.1093/sf/sot034](https://doi.org/10.1093/sf/sot034)
@@ -2505,7 +2485,7 @@
 **年份**: 2013 | **DOI**: [10.1093/sf/sos219](https://doi.org/10.1093/sf/sos219)
 **摘要**: Journal Article Contents Page Get access Social Forces, Volume 91, Issue 3, March 2013, Page NP, https://doi.org/10.1093/sf/sos219 Published: 01 March 2013
 
-### Life After Death Row: Exonerees' Search for Community and Identity By Saundra D. Westervelt &amp; Kimberly J. Cook. Rutgers University Press. 2012. 280 pages. $25.95 paper
+### Life After Death Row: Exonerees' Search for Community and Identity By Saundra D. Westervelt & Kimberly J. Cook. Rutgers University Press. 2012. 280 pages. $25.95 paper
 **年份**: 2013 | **DOI**: [10.1093/sf/sot035](https://doi.org/10.1093/sf/sot035)
 **作者**: Acker, James R.
 **摘要**: Justice systems are imperfect. The guilty sometimes elude conviction and punishment, while innocents do not. The latter type of error is the more serious, and wrongful convictions in capital cases certainly represent the greatest of all miscarriages of justice.…
@@ -2563,10 +2543,6 @@
 **年份**: 2013 | **DOI**: [10.1093/sf/sos215](https://doi.org/10.1093/sf/sos215)
 **摘要**: Subscription Page Social Forces, Volume 91, Issue 3, March 2013, Page NP, https://doi.org/10.1093/sf/sos215 Published: 01 March 2013
 
-### Editorial Board
-**年份**: 2013 | **DOI**: [10.1093/sf/sos207](https://doi.org/10.1093/sf/sos207)
-**摘要**: （暂无）
-
 ### Adult Supervision Required: Private Freedom and Public Constraints for Parents and Children By Markella B. Rutherford Rutgers University Press. 2011. 208 pages. $45.95 cloth
 **年份**: 2013 | **DOI**: [10.1093/sf/sot031](https://doi.org/10.1093/sf/sot031)
 **作者**: Silva, J. M.
@@ -2576,10 +2552,6 @@
 **年份**: 2013 | **DOI**: [10.1093/sf/sot056](https://doi.org/10.1093/sf/sot056)
 **作者**: Bryant-Anderson, Rachel
 **摘要**: Emily Kane begins this book with a reflection on her attempt at gender-neutral parenting in the midst of “traps” that make this effort daunting: our social world is structured to highlight the differences between girls and boys, as Kane saw in such mundane experiences as the narrow selection of “pri…
-
-### Editorial Board
-**年份**: 2013 | **DOI**: [10.1093/sf/sos210](https://doi.org/10.1093/sf/sos210)
-**摘要**: （暂无）
 
 ### The Managed Hand: Race, Gender, and the Body in Beauty Service Work By Miliann Kang University of California Press. 2010. 328 pages. $27.60 paper
 **年份**: 2013 | **DOI**: [10.1093/sf/sos198](https://doi.org/10.1093/sf/sos198)
@@ -2752,7 +2724,7 @@
 **作者**: Glanville, J. L.; Andersson, M. A.; Paxton, P.
 **摘要**: The origins of generalized trust remain unclear despite its importance to social, political, and economic functioning. Social capital theory and previous cross-sectional research suggest that informal social ties may be a source of trust.…
 
-### Claiming Society for God: Religious Movements &amp; Social Welfare By Nancy J. Davis and Robert V. Robinson Indiana University Press. 2012. 234 pages. $70 cloth
+### Claiming Society for God: Religious Movements & Social Welfare By Nancy J. Davis and Robert V. Robinson Indiana University Press. 2012. 234 pages. $70 cloth
 **年份**: 2013 | **DOI**: [10.1093/sf/sot105](https://doi.org/10.1093/sf/sot105)
 **作者**: Munson, Ziad
 **摘要**: Claiming Society for God is a comparative analysis of the Muslim Brotherhood in Egypt, Shas in Israel, Comunione e Liberazione in Italy, and the Salvation Army in the United States. The main argument of the book is that these religiously orthodox movements have been successful—in each case against l…
@@ -2858,10 +2830,6 @@
 **年份**: 2013 | **DOI**: [10.1093/sf/sot114](https://doi.org/10.1093/sf/sot114)
 **作者**: Johnston, Erin F.
 **摘要**: Journal Article Celebrating Debutantes and Quinceañeras: Coming of Age in American Ethnic Communities By Evelyn Ibatan Rodriguez Temple University Press. 2013. 226 pages. $29.95 paper Get access Celebrating Debutantes and Quinceañeras: Coming of Age in American Ethnic Communities By Evelyn Ibatan Ro…
-
-### Editorial Board
-**年份**: 2013 | **DOI**: [10.1093/sf/sos209](https://doi.org/10.1093/sf/sos209)
-**摘要**: （暂无）
 
 ### Not My Kid: What Parents Believe about the Sex Lives of Their Teenagers By Sinikka Elliott New York University Press. 2012. 224 pages. $22 paper
 **年份**: 2013 | **DOI**: [10.1093/sf/sot088](https://doi.org/10.1093/sf/sot088)
@@ -3079,10 +3047,6 @@
 **年份**: 2013 | **DOI**: [10.1093/sf/sos147](https://doi.org/10.1093/sf/sos147)
 **作者**: White, J.
 **摘要**: Journal Article Suicide Movies: Social Patterns 1900-2009 By Steven Stack and Barbara Bowman Hogrefe Publishing. 2011. 298 pages. $59.00 (cloth) Get access Suicide Movies: Social Patterns 1900-2009 By Steven Stack and Barbara Bowman Hogrefe Publishing. 2011. 298 pages. $59.00 (cloth).…
-
-### Erratum to: Mayrl, Damon, and Jeremy E. Uecker. “Higher Education and Religious Liberalization among Young Adults.” Social Forces 90(1):181-208.
-**年份**: 2013 | **DOI**: [10.1093/sf/sos011](https://doi.org/10.1093/sf/sos011)
-**摘要**: （暂无）
 
 ### Capitalism from Below: Markets and Institutional Change in China By Victor Nee and Sonja Opper. Harvard University Press. 2012. 431 pages. $45 cloth
 **年份**: 2013 | **DOI**: [10.1093/sf/sot072](https://doi.org/10.1093/sf/sot072)
@@ -3331,10 +3295,6 @@
 **作者**: Faris, R.
 **摘要**: This paper engages two core ideas: first, that status mobility is facilitated through connectivity, or having a large number of ties to others, as suggested by theories of social capital and social networks; and second, that aggression is an expressive or irrational reaction to frustrations, humilia…
 
-### Editorial Board
-**年份**: 2012 | **DOI**: [10.1093/sf/sos021](https://doi.org/10.1093/sf/sos021)
-**摘要**: Journal Article Editorial Board Get access Social Forces, Volume 91, Issue 1, September 2012, Page NP, https://doi.org/10.1093/sf/sos021 Published: 01 September 2012
-
 ### How Class and Gender Shape Women's Work By Sarah Damaske Oxford University Press, 2011, 228pp. $24.95 paper, $99.00 cloth
 **年份**: 2012 | **DOI**: [10.1093/sf/sos047](https://doi.org/10.1093/sf/sos047)
 **作者**: Higginbotham, E.
@@ -3353,10 +3313,6 @@
 ### Masthead
 **年份**: 2012 | **DOI**: [10.1093/sf/sos027](https://doi.org/10.1093/sf/sos027)
 **摘要**: Masthead Get access Social Forces, Volume 91, Issue 1, September 2012, Page NP, https://doi.org/10.1093/sf/sos027 Published: 01 September 2012
-
-### Editorial Board
-**年份**: 2012 | **DOI**: [10.1093/sf/sos138](https://doi.org/10.1093/sf/sos138)
-**摘要**: Journal Article Editorial Board Get access Social Forces, Volume 90, Issue 4, June 2012, Page NP, https://doi.org/10.1093/sf/sos138 Published: 01 June 2012
 
 ### Do Survey Data Estimate Earnings Inequality Correctly? Measurement Errors Among Black and White Male Workers
 **年份**: 2012 | **DOI**: [10.1093/sf/sor042](https://doi.org/10.1093/sf/sor042)
@@ -3515,7 +3471,7 @@
 **年份**: 2012 | **DOI**: [10.1093/sf/sos136](https://doi.org/10.1093/sf/sos136)
 **摘要**: Journal Article Author Guidelines Get access Social Forces, Volume 90, Issue 4, June 2012, Page NP, https://doi.org/10.1093/sf/sos136 Published: 01 June 2012
 
-### Ranking Faiths: Religious Stratification in America By James D. Davidson and Ralph E. Pyle Rowman &amp; Littlefield Publishers. 2011. 230 pages. $49.95 cloth
+### Ranking Faiths: Religious Stratification in America By James D. Davidson and Ralph E. Pyle Rowman & Littlefield Publishers. 2011. 230 pages. $49.95 cloth
 **年份**: 2012 | **DOI**: [10.1093/sf/sos148](https://doi.org/10.1093/sf/sos148)
 **作者**: Koch, J. R.
 **摘要**: Journal Article Ranking Faiths: Religious Stratification in America By James D. Davidson and Ralph E. Pyle Rowman & Littlefield Publishers. 2011. 230 pages. $49.95 cloth Get access Ranking Faiths: Religious Stratification in America By James D. Davidson and Ralph E.…
@@ -3547,10 +3503,6 @@
 **年份**: 2012 | **DOI**: [10.1093/sf/sos190](https://doi.org/10.1093/sf/sos190)
 **作者**: Marler, P. L.
 **摘要**: This compact volume on contemporary trends in American religion by Mark Chaves may be an interesting place to start with students in sociology, history or political science. Against a backdrop of media hype about religious resurgence after 9/11 or religious decline on the heels of works like the Bar…
-
-### Editorial Board
-**年份**: 2012 | **DOI**: [10.1093/sf/sos022](https://doi.org/10.1093/sf/sos022)
-**摘要**: （暂无）
 
 ### Challenging Neoliberalism in Latin America By Eduardo Silva Cambridge University Press. 2009. 336 pages. $89 cloth, $28.99 paper
 **年份**: 2012 | **DOI**: [10.1093/sf/sos179](https://doi.org/10.1093/sf/sos179)
@@ -3819,10 +3771,6 @@
 **年份**: 2012 | **DOI**: [10.1093/sf/sos173](https://doi.org/10.1093/sf/sos173)
 **作者**: Gummerson, E.; Schneider, D.
 **摘要**: This study examines how gendered household bargaining occurs in non-nuclear family households. We employ two South African data sets and use linear regression and household fixed effects to investigate the relationship between women's income shares and household expenditures.…
-
-### Editorial Board
-**年份**: 2012 | **DOI**: [10.1093/sf/sos020](https://doi.org/10.1093/sf/sos020)
-**摘要**: Journal Article Editorial Board Get access Social Forces, Volume 90, Issue 3, March 2012, Page NP, https://doi.org/10.1093/sf/sos020 Published: 01 March 2012
 
 ### NAFTA and the Politics of Labor Transnationalism By Tamara Kay Cambridge University Press. 2011. 310 pages. $84 cloth, $31.99 paper
 **年份**: 2012 | **DOI**: [10.1093/sf/sos091](https://doi.org/10.1093/sf/sos091)
@@ -4366,10 +4314,6 @@
 **年份**: 2011 | **DOI**: [10.1093/sf/sor011](https://doi.org/10.1093/sf/sor011)
 **作者**: Hamilton, E. R.; Villarreal, A.
 **摘要**: Past research on international migration from Mexico to the United States uses geographically-limited data and analyzes emigrant-sending communities in isolation. Theories supported by this research may not explain urban emigration, and this research does not consider connections between rural and u…
-
-### Editorial Board
-**年份**: 2011 | **DOI**: [10.1093/sf/sos007](https://doi.org/10.1093/sf/sos007)
-**摘要**: Editorial Board Get access Social Forces, Volume 90, Issue 2, December 2011, Page NP, https://doi.org/10.1093/sf/sos007 Published: 01 December 2011
 
 ### (Re)Integrating Simmel in Contemporary Social Exchange: The Effect of Nonpartisans on Relational Outcomes
 **年份**: 2011 | **DOI**: [10.1093/sf/sor029](https://doi.org/10.1093/sf/sor029)
@@ -5014,7 +4958,7 @@
 **作者**: Nyden, P.
 **摘要**: （暂无）
 
-### No Safe Place: Environmental Hazards &amp; Injustice along Mexico's Northern Border
+### No Safe Place: Environmental Hazards & Injustice along Mexico's Northern Border
 **年份**: 2010 | **DOI**: [10.1353/sof.2010.0036](https://doi.org/10.1353/sof.2010.0036)
 **作者**: Grineski, S. E.; Collins, T. W.; Romo Aguilar, M. d. L. 等4人
 **摘要**: This article examines spatial relationships between environmental hazards (i.e., pork feed lots, brick kilns, final assembly plants and a rail line) and markers of social marginality in Ciudad Juárez, Mexico.…
@@ -5189,7 +5133,7 @@
 **作者**: Grodsky, E.
 **摘要**: （暂无）
 
-### The Mismatched Worker By Arne L. Kalleberg W.W. Norton &amp; Company. 2006. 322 pages. $18.12 paper
+### The Mismatched Worker By Arne L. Kalleberg W.W. Norton & Company. 2006. 322 pages. $18.12 paper
 **年份**: 2010 | **DOI**: [10.1353/sof.2010.0075](https://doi.org/10.1353/sof.2010.0075)
 **作者**: O'Riain, S.
 **摘要**: Journal Article The Mismatched Worker By Arne L. Kalleberg W.W. Norton & Company. 2006. 322 pages. $18.12 paper Get access Sean O'Riain Sean O'Riain National University of Ireland-Maynooth Search for other works by this author on: Oxford Academic Google Scholar Social Forces, Volume 89, Issue 1, Sep…

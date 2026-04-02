@@ -1400,7 +1400,7 @@
 **作者**: Shkolnikov, Vladimir; Deev, Alexander D.; Kravdal, Øystein 等4人
 **摘要**: Background: Prior estimates of the Russian mortality by socio-demographic group revealed significant differentials around the censuses of 1979 and 1989, but these studies were based on different sources of information on education for the deceased
 
-### A summary of Special Collection 2
+### A summary of Special Collection
 **年份**: 2004 | **DOI**: [10.4054/demres.2004.10.12](https://doi.org/10.4054/demres.2004.10.12)
 **作者**: Shkolnikov, Vladimir
 **摘要**: Special Collection 2: Determinants of Diverging Trends in Mortality is a set of papers stemming from the first seminar of the Committee on Emerging Health Threats (CEHT) of the International Union for the Scientific Study of Population (IUSSP), "Determ
@@ -1485,7 +1485,7 @@
 **作者**: Wilson, Tom; Bell, Martin
 **摘要**: The techniques of probabilistic population forecasting are increasingly being recognised as a profitable means of overcoming many of the limitations of conventional deterministic variant population forecasts. This paper applies these techniques to pres
 
-### A summary of Special Collection 3
+### A summary of Special Collection
 **年份**: 2004 | **DOI**: [10.4054/demres.2004.10.13](https://doi.org/10.4054/demres.2004.10.13)
 **作者**: Andersson, Gunnar; Neyer, Gerda
 **摘要**: Special Collection 3: Contemporary Research on European Fertility: Perspectives and Developments was produced as a surprise in honor of Jan M. Hoem on his 65th birthday. The authors who have contributed to this special Volume presented their pape
@@ -1735,7 +1735,7 @@
 **作者**: Tölke, Angelika; Diewald, Martin
 **摘要**: This paper examines the relationship between work and family among men in Western Germany. We investigate the extent to which a difficult start in working life and insecurities during the working life affect menâs transition to fatherhood, and how this
 
-### A summary of Special Collection 1
+### A summary of Special Collection
 **年份**: 2003 | **DOI**: [10.4054/demres.2003.9.12](https://doi.org/10.4054/demres.2003.9.12)
 **作者**: Watkins, Susan; Zulu, Eliya Msiyaphazi; Kohler, Hans-Peter 等4人
 **摘要**: Special Collection 1: Social Interactions and HIV/AIDS in Rural Africa is a set of papers stemming from the conference "Research on Demographic Aspects of HIV/AIDS in Rural Africa", held at the Population Studies Center, University of Pennsylvania, Oct

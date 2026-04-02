@@ -1,7 +1,7 @@
 # Chinese Journal of Sociology
 ## 2020–2026 年文章（含摘要）
 
-共 **135** 篇
+共 **134** 篇
 
 ---
 
@@ -444,11 +444,6 @@
 **年份**: 2022 | **DOI**: [10.1177/2057150X221123622](https://doi.org/10.1177/2057150X221123622)
 **作者**: Li, Jie; Batamuliza, Mireille; Karangwa, Evariste
 **摘要**: The labor arrangement of industrial society makes production and reproduction a contradiction that is both separate and interdependent. One of the significant consequences is the re-establishment of the responsibilities and boundaries of production and reproduction between the modern state, market, …
-
-### Social class differentials in marital sex in China (2000-2015)
-**年份**: 2022 | **DOI**: [10.1177/2057150X221107958](https://doi.org/10.1177/2057150X221107958)
-**作者**: Zhang, Yueyun; Wang, Xin; Pan, Suiming
-**摘要**: This study examines whether and how social class matters for marital sex in China since the beginning of the 21st century. We utilize data from a national sexuality survey that has been administered at four time points: 2000, 2006, 2010, and 2015.…
 
 ### Women's perceived support of parents and parents-in-law in China: Socioeconomic resources, reciprocity, and family context
 **年份**: 2021 | **DOI**: [10.1177/2057150X211007225](https://doi.org/10.1177/2057150X211007225)

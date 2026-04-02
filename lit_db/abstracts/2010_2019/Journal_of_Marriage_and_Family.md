@@ -1,7 +1,7 @@
 # Journal of Marriage and Family
 ## 2010–2019 年文章（含摘要）
 
-共 **847** 篇
+共 **840** 篇
 
 ---
 
@@ -2174,10 +2174,6 @@
 **作者**: Sechrist, Jori; Jill Suitor, J.; Howard, Abigail R. 等4人
 **摘要**: Equity theory suggests that relationships are more harmonious when both members of a dyad believe that their exchanges are fair. However, the level and frequency of exchange, rather than perceptions of equity, have been the focus of most research on support and the quality of intergenerational relat…
 
-### Erratum
-**年份**: 2014 | **DOI**: [10.1111/jomf.12088](https://doi.org/10.1111/jomf.12088)
-**摘要**: （暂无）
-
 ### Identity Versus Identification: How LGBTQ Parents Identify Their Children on Census Surveys
 **年份**: 2014 | **DOI**: [10.1111/jomf.12076](https://doi.org/10.1111/jomf.12076)
 **作者**: Baumle, Amanda K.; Compton, D'Lane R.
@@ -2598,7 +2594,7 @@
 **作者**: Lee, Jaerim; Bauer, Jean W.
 **摘要**: The purpose of this study was to construct a conceptual understanding of the motivations of grandmothers and mothers to provide and utilize child care by grandmothers in Korea. Grounded theory methods were used to collect and analyze interview data with 21 matched pairs of caregiving grandmothers an…
 
-### Families Created by Donor Insemination: Father–Child Relationships at Age 7
+### Families Created by Donor Insemination: Father–Child Relationships at Age
 **年份**: 2013 | **DOI**: [10.1111/jomf.12043](https://doi.org/10.1111/jomf.12043)
 **作者**: Casey, Polly; Jadva, Vasanti; Blake, Lucy 等4人
 **摘要**: This study examined the psychological well‐being of fathers and father–child relationships in families with a 7‐year‐old child conceived by donor insemination. Twenty‐four donor insemination families and comparison groups of 25 egg donation and 32 unassisted‐conception families were assessed using a…
@@ -2647,11 +2643,6 @@
 **年份**: 2013 | **DOI**: [10.1111/jomf.12032](https://doi.org/10.1111/jomf.12032)
 **作者**: Himmelweit, Susan; Santos, Cristina; Sevilla, Almudena 等4人
 **摘要**: Over the last 3 decades, economic models have been developed that recognize that potentially conflicting interests may shape household decisions and the sharing of resources within families.…
-
-### Erratum
-**年份**: 2013 | **DOI**: [10.1111/jomf.12069](https://doi.org/10.1111/jomf.12069)
-**作者**: Guo, M.; Chi, I.; Silverstein, M.
-**摘要**: （暂无）
 
 ### Misidentifying the Effects of Parental Incarceration? A Comment on Johnson and Easterling (2012)
 **年份**: 2013 | **DOI**: [10.1111/j.1741-3737.2012.01018.x](https://doi.org/10.1111/j.1741-3737.2012.01018.x)
@@ -2838,10 +2829,6 @@
 **作者**: DeMaris, Alfred; Sanchez, Laura A.; Krivickas, Kristi
 **摘要**: This study investigated differences in the trajectory of marital satisfaction in the first 7 years between couples in covenant versus standard marriages. The authors analyzed data on 707 Louisiana marriages from the Marriage Matters Panel Survey of Newlywed Couples, 1998–2004, using multivariate lon…
 
-### INDEX TO VOLUME 74, 2012 Cumulative Table of Contents
-**年份**: 2012 | **DOI**: [10.1111/j.1741-3737.2012.volcontents_1.x](https://doi.org/10.1111/j.1741-3737.2012.volcontents_1.x)
-**摘要**: （暂无）
-
 ### Impact of Widowhood on Parent–Child Relations: Does Parents' Personality Matter?
 **年份**: 2012 | **DOI**: [10.1111/j.1741-3737.2012.00975.x](https://doi.org/10.1111/j.1741-3737.2012.00975.x)
 **作者**: Pai, Manacy; Ha, Jung‐Hwa
@@ -2891,10 +2878,6 @@
 **年份**: 2012 | **DOI**: [10.1111/j.1741-3737.2012.01010.x](https://doi.org/10.1111/j.1741-3737.2012.01010.x)
 **作者**: Gustafsson, Hanna C.; Cox, Martha J.
 **摘要**: The authors examined the relations among intimate partner violence (IPV), maternal depressive symptoms, and maternal harsh intrusive parenting. Using a cross‐lagged, autoregressive path model, they sought to clarify the directionality of the relations among these 3 variables over the first 2 years o…
-
-### Erratum
-**年份**: 2012 | **DOI**: [10.1111/j.1741-3737.2012.00997.x](https://doi.org/10.1111/j.1741-3737.2012.00997.x)
-**摘要**: （暂无）
 
 ### Helicopter Parents and Landing Pad Kids: Intense Parental Support of Grown Children
 **年份**: 2012 | **DOI**: [10.1111/j.1741-3737.2012.00987.x](https://doi.org/10.1111/j.1741-3737.2012.00987.x)
@@ -3233,7 +3216,7 @@
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.kwindex_1.x](https://doi.org/10.1111/j.1741-3737.2011.kwindex_1.x)
 **摘要**: （暂无）
 
-### Studying Ethnic Minority and Economically Disadvantaged Populations: Methodological Challenges and Best Practices - by George P. Knight, Mark W. Roosa, &amp; Adriana J. Umaña-Taylor
+### Studying Ethnic Minority and Economically Disadvantaged Populations: Methodological Challenges and Best Practices - by George P. Knight, Mark W. Roosa, & Adriana J. Umaña-Taylor
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00822.x](https://doi.org/10.1111/j.1741-3737.2010.00822.x)
 **作者**: Johnson, Matthew D.
 **摘要**: （暂无）
@@ -3312,7 +3295,7 @@
 **作者**: Leopold, Thomas; Raab, Marcel
 **摘要**: Long-term concepts of parent-child reciprocity assume that the amount of support given and received is only balanced in a generalized fashion over the life course. We argue that reciprocity in parent-child relationships also operates in the short term.…
 
-### Strengthening Couple Relationships for Optimal Child Development: Lessons from Research and Intervention - edited by Marc S. Schulz, Marsha Kline Pruett, Patricia K. Kerig, &amp; Ross D. Parke
+### Strengthening Couple Relationships for Optimal Child Development: Lessons from Research and Intervention - edited by Marc S. Schulz, Marsha Kline Pruett, Patricia K. Kerig, & Ross D. Parke
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00830.x](https://doi.org/10.1111/j.1741-3737.2011.00830.x)
 **作者**: Goeke-Morey, Marcie C.
 **摘要**: （暂无）
@@ -3552,7 +3535,7 @@
 **作者**: Horwitz, Briana N.; Neiderhiser, Jenae M.
 **摘要**: （暂无）
 
-### The Myth of the Missing Black Father - edited by Roberta L. Coles &amp; Charles Green
+### The Myth of the Missing Black Father - edited by Roberta L. Coles & Charles Green
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00823.x](https://doi.org/10.1111/j.1741-3737.2010.00823.x)
 **作者**: Herring, Melvin H.
 **摘要**: （暂无）
@@ -3585,10 +3568,6 @@
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00861.x](https://doi.org/10.1111/j.1741-3737.2011.00861.x)
 **作者**: Johnson, David R.; Young, Rebekah
 **摘要**: Although several methods have been developed to allow for the analysis of data in the presence of missing values, no clear guide exists to help family researchers in choosing among the many options and procedures available.…
-
-### Erratum
-**年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00868.x](https://doi.org/10.1111/j.1741-3737.2011.00868.x)
-**摘要**: （暂无）
 
 ### Biopsychosocial Models and the Study of Family Processes and Child Adjustment
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.00847.x](https://doi.org/10.1111/j.1741-3737.2011.00847.x)
@@ -3683,10 +3662,6 @@
 ### Declines in Marital Satisfaction Among New Mothers: Broad Strokes Versus Fine Details
 **年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2010.00783.x](https://doi.org/10.1111/j.1741-3737.2010.00783.x)
 **作者**: Clements, Mari L.; Martin, Sarah E.; Cassil, Amanda K. 等4人
-**摘要**: （暂无）
-
-### INDEX TO VOLUME 73, 2011 Cumulative Table of Contents
-**年份**: 2011 | **DOI**: [10.1111/j.1741-3737.2011.volcontents_1.x](https://doi.org/10.1111/j.1741-3737.2011.volcontents_1.x)
 **摘要**: （暂无）
 
 ### Life-Course Pathways and the Psychosocial Adjustment of Young Adult Women
@@ -4047,10 +4022,6 @@
 **年份**: 2010 | **DOI**: [10.1111/j.1741-3737.2010.00696.x](https://doi.org/10.1111/j.1741-3737.2010.00696.x)
 **作者**: Fomby, Paula; Mollborn, Stefanie; Sennott, Christie A.
 **摘要**: We used data from the National Longitudinal Study of Adolescent Health (N = 7,686) to determine whether racial and ethnic differences in socioeconomic stress and social protection explained group differences in the association between family structure instability and three risk behaviors for White, …
-
-### INDEX TO VOLUME 72, 2010 Cumulative Table of Contents
-**年份**: 2010 | **DOI**: [10.1111/j.1741-3737.2010.volcontents_1.x](https://doi.org/10.1111/j.1741-3737.2010.volcontents_1.x)
-**摘要**: （暂无）
 
 ### Generating Heat or Light? The Challenge of Social Address Variables
 **年份**: 2010 | **DOI**: [10.1111/j.1741-3737.2009.00679.x](https://doi.org/10.1111/j.1741-3737.2009.00679.x)
