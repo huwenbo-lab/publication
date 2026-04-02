@@ -1,0 +1,553 @@
+{
+  "started_at": "2026-03-13T15:58:34",
+  "target_missing_count": 383,
+  "processed_count": 383,
+  "updated_count": 146,
+  "failed_count": 237,
+  "updated_examples": [
+    {
+      "index": 10540,
+      "title": "What I don't know about my field but wish I did",
+      "journal": "Annual Review Of Sociology",
+      "year": 2000,
+      "doi": "10.1146/annurev.soc.26.1.699",
+      "source_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1146%2Fannurev.soc.26.1.699",
+      "source_kind": "openalex_by_doi",
+      "score": 1.1
+    },
+    {
+      "index": 10541,
+      "title": "Family, state, and child well-being",
+      "journal": "Annual Review Of Sociology",
+      "year": 2000,
+      "doi": "10.1146/annurev.soc.26.1.703",
+      "source_url": "https://doi.org/10.1146/annurev.soc.26.1.703",
+      "source_kind": "journal_landing_page",
+      "score": 1.1
+    },
+    {
+      "index": 10593,
+      "title": "THE EVOLUTION OF NEW ORGANIZATIONAL FORMS",
+      "journal": "Annual Review Of Sociology",
+      "year": 1991,
+      "doi": "10.1146/annurev.so.17.080191.000455",
+      "source_url": "https://doi.org/10.1146/annurev.so.17.080191.000455",
+      "source_kind": "journal_landing_page",
+      "score": 1.1
+    },
+    {
+      "index": 10659,
+      "title": "PARENTHOOD AND PSYCHOLOGICAL WELL-BEING",
+      "journal": "Annual Review Of Sociology",
+      "year": 1987,
+      "doi": "10.1146/annurev.so.13.080187.001321",
+      "source_url": "https://doi.org/10.1146/annurev.so.13.080187.001321",
+      "source_kind": "journal_landing_page",
+      "score": 1.1
+    },
+    {
+      "index": 10660,
+      "title": "THE EFFECT OF WOMENS LABOR-FORCE PARTICIPATION ON THE DISTRIBUTION OF INCOME IN THE UNITED-STATES",
+      "journal": "Annual Review Of Sociology",
+      "year": 1987,
+      "doi": "10.1146/annurev.soc.13.1.259",
+      "source_url": "https://doi.org/10.1146/annurev.soc.13.1.259",
+      "source_kind": "journal_landing_page",
+      "score": 0.82
+    },
+    {
+      "index": 10662,
+      "title": "INCOME INEQUALITY AND ECONOMIC-DEVELOPMENT",
+      "journal": "Annual Review Of Sociology",
+      "year": 1987,
+      "doi": "10.1146/annurev.soc.13.1.313",
+      "source_url": "https://doi.org/10.1146/annurev.soc.13.1.313",
+      "source_kind": "journal_landing_page",
+      "score": 0.75
+    },
+    {
+      "index": 10663,
+      "title": "ORGANIZATIONAL GROWTH AND DECLINE PROCESSES",
+      "journal": "Annual Review Of Sociology",
+      "year": 1987,
+      "doi": "10.1146/annurev.soc.13.1.335",
+      "source_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1146%2Fannurev.soc.13.1.335",
+      "source_kind": "openalex_by_doi",
+      "score": 1.1
+    },
+    {
+      "index": 10664,
+      "title": "MAKING SENSE OF DIVERSITY - RECENT RESEARCH ON HISPANIC MINORITIES IN THE UNITED-STATES",
+      "journal": "Annual Review Of Sociology",
+      "year": 1987,
+      "doi": "10.1146/annurev.soc.13.1.359",
+      "source_url": "https://doi.org/10.1146/annurev.soc.13.1.359",
+      "source_kind": "journal_landing_page",
+      "score": 0.95
+    },
+    {
+      "index": 10665,
+      "title": "THE WELFARE-STATE, CITIZENSHIP, AND BUREAUCRATIC ENCOUNTERS",
+      "journal": "Annual Review Of Sociology",
+      "year": 1987,
+      "doi": "10.1146/annurev.soc.13.1.387",
+      "source_url": "https://doi.org/10.1146/annurev.soc.13.1.387",
+      "source_kind": "journal_landing_page",
+      "score": 0.837
+    },
+    {
+      "index": 10666,
+      "title": "CLASS MOBILITY IN THE INDUSTRIAL-WORLD",
+      "journal": "Annual Review Of Sociology",
+      "year": 1987,
+      "doi": "10.1146/annurev.soc.13.1.417",
+      "source_url": "https://doi.org/10.1146/annurev.soc.13.1.417",
+      "source_kind": "journal_landing_page",
+      "score": 0.8
+    },
+    {
+      "index": 10667,
+      "title": "INSTITUTIONAL THEORIES OF ORGANIZATION",
+      "journal": "Annual Review Of Sociology",
+      "year": 1987,
+      "doi": "10.1146/annurev.so.13.080187.002303",
+      "source_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1146%2Fannurev.so.13.080187.002303",
+      "source_kind": "openalex_by_doi",
+      "score": 1.1
+    },
+    {
+      "index": 10668,
+      "title": "NEW DIRECTIONS IN ENVIRONMENTAL SOCIOLOGY",
+      "journal": "Annual Review Of Sociology",
+      "year": 1987,
+      "doi": "10.1146/annurev.soc.13.1.465",
+      "source_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1146%2Fannurev.soc.13.1.465",
+      "source_kind": "openalex_by_doi",
+      "score": 1.1
+    },
+    {
+      "index": 10669,
+      "title": "CONTEXTUAL-EFFECTS MODELS - THEORETICAL AND METHODOLOGICAL ISSUES",
+      "journal": "Annual Review Of Sociology",
+      "year": 1984,
+      "doi": "10.1146/annurev.soc.10.1.353",
+      "source_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1146%2Fannurev.soc.10.1.353",
+      "source_kind": "openalex_by_doi",
+      "score": 1.1
+    },
+    {
+      "index": 10670,
+      "title": "THE SOCIOLOGY OF VALUES",
+      "journal": "Annual Review Of Sociology",
+      "year": 1983,
+      "doi": "10.1146/annurev.so.09.080183.000331",
+      "source_url": "https://doi.org/10.1146/annurev.so.09.080183.000331",
+      "source_kind": "journal_landing_page",
+      "score": 1.1
+    },
+    {
+      "index": 10671,
+      "title": "SUPPLY-SIDE SOCIOLOGY OF THE FAMILY - THE CHALLENGE OF THE NEW HOME ECONOMICS",
+      "journal": "Annual Review Of Sociology",
+      "year": 1983,
+      "doi": "10.1146/annurev.so.09.080183.002111",
+      "source_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1146%2Fannurev.so.09.080183.002111",
+      "source_kind": "openalex_by_doi",
+      "score": 1.1
+    },
+    {
+      "index": 10677,
+      "title": "Private Intergenerational Transfers, Family Structure, and Health in a sub-Saharan African Context",
+      "journal": "Population And Development Review",
+      "year": 2019,
+      "doi": "10.1111/padr.12225",
+      "source_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1111%2Fpadr.12225",
+      "source_kind": "openalex_by_doi",
+      "score": 1.1
+    },
+    {
+      "index": 10687,
+      "title": "Global demographic change: Dimensions and economic significance",
+      "journal": "Population And Development Review",
+      "year": 2008,
+      "doi": "10.3386/w10817",
+      "source_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.3386%2Fw10817",
+      "source_kind": "openalex_by_doi",
+      "score": 0.7
+    },
+    {
+      "index": 10688,
+      "title": "Sex, breastfeeding, and marital fertility in pretransition China",
+      "journal": "Population And Development Review",
+      "year": 2007,
+      "doi": "10.1111/j.1728-4457.2007.00170.x",
+      "source_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1111%2Fj.1728-4457.2007.00170.x",
+      "source_kind": "openalex_by_doi",
+      "score": 1.1
+    },
+    {
+      "index": 10751,
+      "title": "Trends in Age at Marriage and the Onset of Fertility Transition in sub-Saharan Africa",
+      "journal": "Population And Development Review",
+      "year": 2017,
+      "doi": "10.1111/padr.12043",
+      "source_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1111%2Fpadr.12043",
+      "source_kind": "openalex_by_doi",
+      "score": 1.1
+    },
+    {
+      "index": 10761,
+      "title": "The impact of global aging on labor, product, and capital markets",
+      "journal": "Population And Development Review",
+      "year": 2008,
+      "doi": "10.1007/978-3-540-68137-3_4",
+      "source_url": "https://doi.org/10.1007/978-3-540-68137-3_4",
+      "source_kind": "journal_landing_page",
+      "score": 0.525
+    },
+    {
+      "index": 10762,
+      "title": "Productivity consequences of workforce aging: Stagnation or Horndal effect?",
+      "journal": "Population And Development Review",
+      "year": 2008,
+      "doi": "10.1111/j.1728-4457.2008.00246.x",
+      "source_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1111%2Fj.1728-4457.2008.00246.x",
+      "source_kind": "openalex_by_doi",
+      "score": 0.531
+    },
+    {
+      "index": 10766,
+      "title": "Edward Alsworth Ross on western civilization and the birth rate",
+      "journal": "Population And Development Review",
+      "year": 2003,
+      "doi": "10.1111/j.1728-4457.2003.00709.x",
+      "source_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1111%2Fj.1728-4457.2003.00709.x",
+      "source_kind": "openalex_by_doi",
+      "score": 1.1
+    },
+    {
+      "index": 10769,
+      "title": "Managing population-environment systems: Problems of institutional design",
+      "journal": "Population And Development Review",
+      "year": 2002,
+      "doi": "10.31899/pgy1.1027",
+      "source_url": "https://doi.org/10.31899/pgy1.1027",
+      "source_kind": "journal_landing_page",
+      "score": 0.7
+    },
+    {
+      "index": 10771,
+      "title": "Demographic prospects 2000-2050 according to the 2000 revision of the United Nations Population Projections",
+      "journal": "Population And Development Review",
+      "year": 2001,
+      "doi": "10.1111/j.1728-4457.2001.00389.x",
+      "source_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1111%2Fj.1728-4457.2001.00389.x",
+      "source_kind": "openalex_by_doi",
+      "score": 1.1
+    },
+    {
+      "index": 10772,
+      "title": "The globalization of fertility behavior",
+      "journal": "Population And Development Review",
+      "year": 2001,
+      "doi": "10.1111/j.1728-4457.2001.00033.x",
+      "source_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1111%2Fj.1728-4457.2001.00033.x",
+      "source_kind": "openalex_by_doi",
+      "score": 0.464
+    },
+    {
+      "index": 10773,
+      "title": "Religion and child health in West and Central Africa",
+      "journal": "Population And Development Review",
+      "year": 2019,
+      "doi": "10.1111/padr.12296",
+      "source_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1111%2Fpadr.12296",
+      "source_kind": "openalex_by_doi",
+      "score": 1.1
+    },
+    {
+      "index": 10775,
+      "title": "Formal Education and Migration Aspirations in Ethiopia",
+      "journal": "Population And Development Review",
+      "year": 2018,
+      "doi": "10.1111/padr.12159",
+      "source_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1111%2Fpadr.12159",
+      "source_kind": "openalex_by_doi",
+      "score": 1.1
+    },
+    {
+      "index": 10777,
+      "title": "Contemporary Use of Traditional Contraception in sub-Saharan Africa",
+      "journal": "Population And Development Review",
+      "year": 2017,
+      "doi": "10.1111/padr.12008",
+      "source_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1111%2Fpadr.12008",
+      "source_kind": "openalex_by_doi",
+      "score": 1.1
+    },
+    {
+      "index": 10790,
+      "title": "Rescaling the life cycle: Longevity and proportionality",
+      "journal": "Population And Development Review",
+      "year": 2003,
+      "doi": "10.1111/j.1728-4457.2003.00113.x",
+      "source_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1111%2Fj.1728-4457.2003.00113.x",
+      "source_kind": "openalex_by_doi",
+      "score": 0.482
+    },
+    {
+      "index": 10806,
+      "title": "Patriarchal Demographics? China's Sex Ratio Reconsidered",
+      "journal": "Population And Development Review",
+      "year": 2013,
+      "doi": "10.1111/j.1728-4457.2013.00556.x",
+      "source_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1111%2Fj.1728-4457.2013.00556.x",
+      "source_kind": "openalex_by_doi",
+      "score": 1.1
+    }
+  ],
+  "failed_examples": [
+    {
+      "index": 140,
+      "title": "Breaking barriers: Robert Denis Mare and research on social stratification",
+      "journal": "Research In Social Stratification And Mobility",
+      "year": 2023,
+      "doi": "10.1016/j.rssm.2023.100799",
+      "reason": "官网落地页未提取到可用摘要"
+    },
+    {
+      "index": 452,
+      "title": "Organizations and stratification: Processes, mechanisms, and institutional contexts",
+      "journal": "Research In Social Stratification And Mobility",
+      "year": 2017,
+      "doi": "10.1016/j.rssm.2016.08.008",
+      "reason": "官网落地页未提取到可用摘要"
+    },
+    {
+      "index": 552,
+      "title": "Multigenerational approaches to social mobility. A multifaceted research agenda",
+      "journal": "Research In Social Stratification And Mobility",
+      "year": 2014,
+      "doi": "10.1016/j.rssm.2014.01.001",
+      "reason": "官网落地页未提取到可用摘要"
+    },
+    {
+      "index": 572,
+      "title": "Social mobility and inequality in the life course: Exploring the relevance of context",
+      "journal": "Research In Social Stratification And Mobility",
+      "year": 2013,
+      "doi": "10.1016/j.rssm.2013.03.002",
+      "reason": "官网落地页未提取到可用摘要"
+    },
+    {
+      "index": 1798,
+      "title": "Demagogues in action: the reputational rise and demise of Cotton Tom Heflin",
+      "journal": "Social Forces",
+      "year": 2024,
+      "doi": "10.1093/sf/soae096",
+      "reason": "官网落地页未提取到可用摘要"
+    },
+    {
+      "index": 2661,
+      "title": "Suspended by association: Does vicarious suspension increase the odds of adolescent school discipline?",
+      "journal": "Social Science Research",
+      "year": 2025,
+      "doi": "10.1016/j.ssresearch.2025.103175",
+      "reason": "官网落地页未提取到可用摘要"
+    },
+    {
+      "index": 2705,
+      "title": "The effects of world society on international poverty, 1990-2018",
+      "journal": "Social Science Research",
+      "year": 2025,
+      "doi": "10.1016/j.ssresearch.2024.103090",
+      "reason": "官网落地页未提取到可用摘要"
+    },
+    {
+      "index": 2746,
+      "title": "Gender attitudes and the new cultural divide in Europe",
+      "journal": "Social Science Research",
+      "year": 2024,
+      "doi": "10.1016/j.ssresearch.2024.103042",
+      "reason": "官网落地页未提取到可用摘要"
+    },
+    {
+      "index": 2790,
+      "title": "Sex differences in risk factors for mortality after release from prison",
+      "journal": "Social Science Research",
+      "year": 2024,
+      "doi": "10.1016/j.ssresearch.2023.102974",
+      "reason": "官网落地页未提取到可用摘要"
+    },
+    {
+      "index": 2846,
+      "title": "Jurisdictional context and the (over)use of pretrial detention",
+      "journal": "Social Science Research",
+      "year": 2023,
+      "doi": "10.1016/j.ssresearch.2023.102872",
+      "reason": "官网落地页未提取到可用摘要"
+    },
+    {
+      "index": 2905,
+      "title": "Fifty years of structural equation modeling: A history of generalization, unification, and diffusion",
+      "journal": "Social Science Research",
+      "year": 2022,
+      "doi": "10.1016/j.ssresearch.2022.102769",
+      "reason": "官网落地页未提取到可用摘要"
+    },
+    {
+      "index": 3173,
+      "title": "Exploring activation: A cross-country analysis of active labour market policies in Europe",
+      "journal": "Social Science Research",
+      "year": 2019,
+      "doi": "10.1016/j.ssresearch.2019.03.001",
+      "reason": "官网落地页未提取到可用摘要"
+    },
+    {
+      "index": 3198,
+      "title": "Socioeconomic status gaps in child cognitive development in Germany and the United States",
+      "journal": "Social Science Research",
+      "year": 2019,
+      "doi": "10.1016/j.ssresearch.2018.11.002",
+      "reason": "官网落地页未提取到可用摘要"
+    },
+    {
+      "index": 3252,
+      "title": "Payday loans and household spending: How access to payday lending shapes the racial consumption gap",
+      "journal": "Social Science Research",
+      "year": 2018,
+      "doi": "10.1016/j.ssresearch.2018.08.004",
+      "reason": "官网落地页未提取到可用摘要"
+    },
+    {
+      "index": 3286,
+      "title": "Measuring religiosity in a religiously diverse society: The China case",
+      "journal": "Social Science Research",
+      "year": 2018,
+      "doi": "10.1016/j.ssresearch.2018.04.001",
+      "reason": "官网落地页未提取到可用摘要"
+    },
+    {
+      "index": 3321,
+      "title": "Comment: On ignoring the literature and relevant tests in evaluating effectively maintained inequality",
+      "journal": "Social Science Research",
+      "year": 2018,
+      "doi": "10.1016/j.ssresearch.2017.08.012",
+      "reason": "官网落地页未提取到可用摘要"
+    },
+    {
+      "index": 3322,
+      "title": "Response: Issues surrounding Effectively Maintained Inequality and educational transitions",
+      "journal": "Social Science Research",
+      "year": 2018,
+      "doi": "10.1016/j.ssresearch.2017.08.013",
+      "reason": "官网落地页未提取到可用摘要"
+    },
+    {
+      "index": 3362,
+      "title": "Childhood social capital and postsecondary educational attainment",
+      "journal": "Social Science Research",
+      "year": 2017,
+      "doi": "10.1016/j.ssresearch.2017.09.002",
+      "reason": "官网落地页未提取到可用摘要"
+    },
+    {
+      "index": 3373,
+      "title": "Market transformation and the opportunity structure for gender inequality: A cohort analysis using linked employer-employee data from Slovenia",
+      "journal": "Social Science Research",
+      "year": 2017,
+      "doi": "10.1016/j.ssresearch.2017.07.002",
+      "reason": "官网落地页未提取到可用摘要"
+    },
+    {
+      "index": 3381,
+      "title": "The stratification of college-going Latinos' postsecondary destinations",
+      "journal": "Social Science Research",
+      "year": 2017,
+      "doi": "10.1016/j.ssresearch.2017.05.005",
+      "reason": "官网落地页未提取到可用摘要"
+    },
+    {
+      "index": 3397,
+      "title": "If they think I can: Teacher bias and youth of color expectations and achievement",
+      "journal": "Social Science Research",
+      "year": 2017,
+      "doi": "10.1016/j.ssresearch.2017.04.001",
+      "reason": "官网落地页未提取到可用摘要"
+    },
+    {
+      "index": 3408,
+      "title": "European top managers' support for work-life arrangements",
+      "journal": "Social Science Research",
+      "year": 2017,
+      "doi": "10.1016/j.ssresearch.2017.02.004",
+      "reason": "官网落地页未提取到可用摘要"
+    },
+    {
+      "index": 3440,
+      "title": "Making gains or falling behind? Changes and stability in school readiness",
+      "journal": "Social Science Research",
+      "year": 2017,
+      "doi": "10.1016/j.ssresearch.2016.09.028",
+      "reason": "官网落地页未提取到可用摘要"
+    },
+    {
+      "index": 3452,
+      "title": "The certification earnings premium: An examination of young workers",
+      "journal": "Social Science Research",
+      "year": 2017,
+      "doi": "10.1016/j.ssresearch.2016.09.022",
+      "reason": "官网落地页未提取到可用摘要"
+    },
+    {
+      "index": 3462,
+      "title": "Self-employment of immigrant women in the United States: The role of country-of-origin and family-related policies",
+      "journal": "Social Science Research",
+      "year": 2017,
+      "doi": "10.1016/j.ssresearch.2016.09.020",
+      "reason": "官网落地页未提取到可用摘要"
+    },
+    {
+      "index": 3473,
+      "title": "Income inequality probably has had little or no effect on subjective well-being",
+      "journal": "Social Science Research",
+      "year": 2017,
+      "doi": "10.1016/j.ssresearch.2016.12.008",
+      "reason": "官网落地页未提取到可用摘要"
+    },
+    {
+      "index": 3479,
+      "title": "Understanding the influence of stigma and discrimination for the functional limitation severity - psychological distress relationship: A stress and coping perspective",
+      "journal": "Social Science Research",
+      "year": 2017,
+      "doi": "10.1016/j.ssresearch.2016.08.002",
+      "reason": "官网落地页未提取到可用摘要"
+    },
+    {
+      "index": 3519,
+      "title": "Residential segregation: The mitigating effects of past military experience",
+      "journal": "Social Science Research",
+      "year": 2016,
+      "doi": "10.1016/j.ssresearch.2016.07.003",
+      "reason": "官网落地页未提取到可用摘要"
+    },
+    {
+      "index": 3568,
+      "title": "American football and national pride: Racial differences",
+      "journal": "Social Science Research",
+      "year": 2016,
+      "doi": "10.1016/j.ssresearch.2016.03.006",
+      "reason": "官网落地页未提取到可用摘要"
+    },
+    {
+      "index": 4445,
+      "title": "Understanding the Importance of Parental Time With Children: Comment on Milkie, Nomaguchi, and Denny (2015)",
+      "journal": "Journal Of Marriage And Family",
+      "year": 2016,
+      "doi": "10.1111/jomf.12261",
+      "reason": "官网落地页未提取到可用摘要"
+    }
+  ],
+  "finished_at": "2026-03-13T16:17:42",
+  "remaining_missing_count": 237
+}
