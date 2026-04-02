@@ -312,7 +312,7 @@
 ### Michael Banton and Sociology
 **年份**: 2019 | **DOI**: [10.1177/0038038519842467](https://doi.org/10.1177/0038038519842467)
 **作者**: Warde, Alan; May, Vanessa; Byrne, Bridget 等7人
-**摘要**: （暂无）
+**摘要**: Professor Michael Banton died in May 2018 aged 91. His long career involved a decade at the University of Edinburgh in the Department of Social Anthropology before spending the rest of his career at the University of Bristol.…
 
 ### Establishing a Disciplining Financial Disposition in the City of London: Resilience, Speed and Intelligence
 **年份**: 2019 | **DOI**: [10.1177/0038038519860402](https://doi.org/10.1177/0038038519860402)
@@ -407,7 +407,7 @@
 ### What Is Digital Society? Reflections on the Aims and Purpose of Digital Sociology
 **年份**: 2019 | **DOI**: [10.1177/0038038519880114](https://doi.org/10.1177/0038038519880114)
 **作者**: Redshaw, Tom
-**摘要**: （暂无）
+**摘要**: FinTech is the term used to refer to financial and technology convergence space solutions. It usually refers to new innovations that conduct or connect with financial services via the internet, smart devices, software applications, or cloud services and encompasses anything from mobile banking to cr…
 
 ### Book Review: Kinneret Lahad, A Table for One: A Critical Reading of Singlehood, Gender and Time
 **年份**: 2019 | **DOI**: [10.1177/0038038519860711](https://doi.org/10.1177/0038038519860711)
@@ -427,7 +427,7 @@
 ### Social Movements, Collective Action and Activism
 **年份**: 2019 | **DOI**: [10.1177/0038038518817287](https://doi.org/10.1177/0038038518817287)
 **作者**: Millward, Peter; Takhar, Shaminder
-**摘要**: （暂无）
+**摘要**: Collective action and oppositional political activism are firmly established features of any society and pose a challenge to inequality, exclusion and injustice rooted in the oppression of people.…
 
 ### Egg Donation Imaginaries: Embodiment, Ethics and Future Family Formation
 **年份**: 2019 | **DOI**: [10.1177/0038038519868625](https://doi.org/10.1177/0038038519868625)
@@ -591,7 +591,7 @@
 ### Migration Scholarship in Post-Soviet Russia: Between Western Approaches and Eurasian Geographies
 **年份**: 2018 | **DOI**: [10.1177/0038038518769525](https://doi.org/10.1177/0038038518769525)
 **作者**: Morrison, Claudio; Cretu, Olga
-**摘要**: （暂无）
+**摘要**: This review explores Russian academic debates around migration, highlighting theoretical, empirical and policy issues which are specific to the Former Soviet Union (FSU). In global terms, FSU migration volumes are high: the Ukraine-Russia migration corridors are second only to those straddling the b…
 
 ### Book Review Symposium: Maggie Berg and Barbara K Seeber, The Slow Professor: Challenging the Culture of Speed in the Academy by Jamie Barnes
 **年份**: 2018 | **DOI**: [10.1177/0038038518787972](https://doi.org/10.1177/0038038518787972)
@@ -700,7 +700,7 @@
 ### Moving across National-Linguistic Borders: The Migration–Crisis Nexus in Germany, Poland and Greece
 **年份**: 2018 | **DOI**: [10.1177/0038038518767375](https://doi.org/10.1177/0038038518767375)
 **作者**: Dines, Nick
-**摘要**: （暂无）
+**摘要**: The following section consists of three short essays that discuss the interconnections between crisis and migration in Germany, Poland and Greece. In each case, the commissioned authors were asked to pay particular attention to how the local terms of ‘crisis’ in their respective countries have infor…
 
 ### The UK Citizenship Process: Political Integration or Marginalization?
 **年份**: 2018 | **DOI**: [10.1177/0038038518813842](https://doi.org/10.1177/0038038518813842)
@@ -815,7 +815,7 @@
 ### AIDS, Activism and Altruism
 **年份**: 2018 | **DOI**: [10.1177/0038038518765577](https://doi.org/10.1177/0038038518765577)
 **作者**: Roth, Silke
-**摘要**: （暂无）
+**摘要**: Bookreview Essay of Benita Roth "The Life and Death of ACT/UP LA. Anti-AIDS Activism in Los Angeles from the 1980s to the 2000", Ann Swidler & Susan Cotts Watkins "A Fraught Embrace: The Romance and Reality of AIDS Altruism in Africa", and Sara de Jong "Complicit Sisters.…
 
 ### A New Age for Media Coverage of Women’s Sport? An Analysis of English Media Coverage of the 2015 FIFA Women’s World Cup
 **年份**: 2018 | **DOI**: [10.1177/0038038518797505](https://doi.org/10.1177/0038038518797505)
@@ -1323,7 +1323,7 @@
 ### Racism, Empire and Sociology
 **年份**: 2016 | **DOI**: [10.1177/0038038516641856](https://doi.org/10.1177/0038038516641856)
 **作者**: Smith, Andrew
-**摘要**: （暂无）
+**摘要**: Reviews of Gurminder K Bhambra, Connected Sociologies; Peo Hansen and Stefan Jonsson, Eurafrica: The Untold History of European Integration and Colonialism; Wulf D. Hund, Alana Lentin (eds) Racism and Sociology
 
 ### Framing Social Justice: The Ties That Bind a Multinational Occupational Community
 **年份**: 2016 | **DOI**: [10.1177/0038038516670111](https://doi.org/10.1177/0038038516670111)
@@ -1393,7 +1393,7 @@
 ### Sociology in the 21st Century: Reminiscence and Redefinition
 **年份**: 2016 | **DOI**: [10.1177/0038038515617685](https://doi.org/10.1177/0038038515617685)
 **作者**: Jawad, Rana; Dolan, Paddy; Skillington, Tracey
-**摘要**: （暂无）
+**摘要**: To celebrate the 50th anniversary of Sociology, the editorial board decided to produce four e-special issues reflecting the contributions of the journal across the decades. Each of the four e-specials focuses on a different theme: ‘1967–1979 Sociology and Social Class’ edited by Ryan and Maxwell; ‘S…
 
 ### Enjoyment, Exploration and Education: Understanding the Consumption of Pornography among Young Men with Non-Exclusive Sexual Orientations
 **年份**: 2016 | **DOI**: [10.1177/0038038516629909](https://doi.org/10.1177/0038038516629909)
@@ -1448,7 +1448,7 @@
 ### Editors’ Report 2016
 **年份**: 2016 | **DOI**: [10.1177/0038038516637795](https://doi.org/10.1177/0038038516637795)
 **作者**: King, Andrew; Neal, Sarah; Murji, Karim 等5人
-**摘要**: （暂无）
+**摘要**: This is our third year as the Editors of Sociology and we are especially pleased to be the editors in this very significant year in the journal’s history. We celebrate the journal’s continued presence at the forefront of British sociology, publishing outstanding and original peer-reviewed articles t…
 
 ### Teun Zuiderent-Jerak, Situated Intervention: Sociological Experiments in Health Care
 **年份**: 2016 | **DOI**: [10.1177/0038038516661265](https://doi.org/10.1177/0038038516661265)
@@ -2181,7 +2181,7 @@
 ### Understanding Conflict, Change and Power after the Financial Crisis
 **年份**: 2015 | **DOI**: [10.1177/0038038515570692](https://doi.org/10.1177/0038038515570692)
 **作者**: Guzman-Concha, Cesar
-**摘要**: （暂无）
+**摘要**: The most significant progress in the study of political conflict has been related to turmoil, insurrections and rebellions. Revolts against colonial powers in Africa, Asia o the Middle East, transitions to democracy and the struggles against dictatorships in Latin America or Southern Europe, guerril…
 
 ### Book Review: George Steinmetz (ed), Sociology &amp; Empire: The Imperial Entanglements of a Discipline
 **年份**: 2015 | **DOI**: [10.1177/0038038515577759](https://doi.org/10.1177/0038038515577759)
@@ -2785,7 +2785,7 @@
 ### Sociological Imagination as Social Critique: Interrogating the ‘Global Economic Crisis’
 **年份**: 2014 | **DOI**: [10.1177/0038038514548505](https://doi.org/10.1177/0038038514548505)
 **作者**: Dinerstein, Ana C; Schwartz, Gregory; Taylor, Graham
-**摘要**: （暂无）
+**摘要**: Why talk about the global economic crisis today? The topic no longer seems as relevant or fresh as it did two years ago when we issued the call for papers. At that time, the events following the implosion of Lehman Brothers in 2008 seemed to be at the centre of everyday and media discourse: we heard…
 
 ### Book Review: Matt Dawson, Late Modernity, Individualization and Socialism: An Associational Critique of Neoliberalism
 **年份**: 2014 | **DOI**: [10.1177/0038038514547800](https://doi.org/10.1177/0038038514547800)
@@ -3073,7 +3073,7 @@
 ### Sociology and Social Networks
 **年份**: 2014 | **DOI**: [10.1177/0038038513517319](https://doi.org/10.1177/0038038513517319)
 **作者**: Tubaro, Paola
-**摘要**: （暂无）
+**摘要**: Book Review essay on texts:&#13;\n&#13;\nChristina Prell&#13;\nSocial Network Analysis: History, Theory and Methodology&#13;\nLondon: SAGE, 2011, £26.99 pbk (ISBN: 9781412947152), 272 pp.&#13;\n&#13;\nThomas W Valente&#13;\nSocial Networks and Health: Models, Methods and Applications&#13;\nOxford: O…
 
 ### Spaces for Citizen Involvement in Healthcare: An Ethnographic Study
 **年份**: 2014 | **DOI**: [10.1177/0038038514544208](https://doi.org/10.1177/0038038514544208)
@@ -3650,7 +3650,7 @@
 ### Genetics and the Sociology of Identity
 **年份**: 2013 | **DOI**: [10.1177/0038038513505011](https://doi.org/10.1177/0038038513505011)
 **作者**: Hauskeller, Christine; Sturdy, Steve; Tutton, Richard
-**摘要**: （暂无）
+**摘要**: The editorial work for this Special Issue was funded by the ESRC grants to CESAGEN (RES-145- 28-0003), EGENIS (RES-145-28-0001), the Genomics Forum (RES-145-28-0005), and INNOGEN (RES-145-28-0002).
 
 ### ‘Backroom Boys’: Occupational Dynamics in Crime Scene Examination
 **年份**: 2013 | **DOI**: [10.1177/0038038513503741](https://doi.org/10.1177/0038038513503741)

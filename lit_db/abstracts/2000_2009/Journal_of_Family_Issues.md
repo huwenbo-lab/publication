@@ -2228,7 +2228,7 @@
 ### People's Reasons for Divorcing: Gender, Social Class, the Life Course, and Adjustment
 **年份**: 2003 | **DOI**: [10.1177/0192513x03254507](https://doi.org/10.1177/0192513x03254507)
 **作者**: Amato, Paul R.; Previti, Denise
-**摘要**: （暂无）
+**摘要**: We used national panel data collected between 1980 and 1997 to classify 208 people's open-ended responses to a question on why their marriages ended in divorce. Infidelity was the most commonly reported cause, followed by incompatibility, drinking or drug use, and growing apart.…
 
 ### The Sibling Relationship in Young Adulthood
 **年份**: 2003 | **DOI**: [10.1177/0192513x02250098](https://doi.org/10.1177/0192513x02250098)
@@ -2248,7 +2248,7 @@
 ### Attachment and Infant Difficultness in Postnatal Depression
 **年份**: 2003 | **DOI**: [10.1177/0192513x03024005005](https://doi.org/10.1177/0192513x03024005005)
 **作者**: MEREDITH, PAMELA; NOLLER, PATRICIA
-**摘要**: （暂无）
+**摘要**: This project investigated the relationship between attachment style and postnatal depression. In a sample of mothers with infants, those identifying themselves as depressed reported a more preoccupied attachment style by comparison with their nondepressed counterparts.…
 
 ### Divorce Among Moslem Arabs Living in Israel
 **年份**: 2003 | **DOI**: [10.1177/0192513x02250889](https://doi.org/10.1177/0192513x02250889)
@@ -2481,7 +2481,7 @@
 ### Aspects of Father Status and Postdivorce Father Involvement With Children
 **年份**: 2002 | **DOI**: [10.1177/23.5.601](https://doi.org/10.1177/23.5.601)
 **作者**: Leite, R. W.
-**摘要**: （暂无）
+**摘要**: As the number of fathers living separately from their children continues to rise, scholars, policy makers, and practitioners have devoted increasing attention to levels of nonresidential father involvement with children.…
 
 ### Care and Kinship
 **年份**: 2002 | **DOI**: [10.1177/0192513x02023006001](https://doi.org/10.1177/0192513x02023006001)

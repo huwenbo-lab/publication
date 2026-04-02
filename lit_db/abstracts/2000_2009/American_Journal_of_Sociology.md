@@ -1183,12 +1183,12 @@
 ### The utopia of postsocialist theory and the ironic view of history in neoclassical sociology
 **年份**: 2001 | **DOI**: [10.1086/320300](https://doi.org/10.1086/320300)
 **作者**: Eyal, G; Szelényi, I; Townsley, E
-**摘要**: （暂无）
+**摘要**: Michael Burawoy offers three thought-provoking criticisms of our book, Making Capitalism without Capitalists: Class Formation and Elite Struggles in Post-Communist Central Europe: (1) that we abandon class analysis, (2) that we do not suggest an alternative to the present capitalist order, and, ther…
 
 ### One way or multiple paths: For a comparative sociology of East European capitalism
 **年份**: 2001 | **DOI**: [10.1086/320301](https://doi.org/10.1086/320301)
 **作者**: Stark, D; Bruszt, L
-**摘要**: （暂无）
+**摘要**: While we were writing our book, Postsocialist Pathways, during the mid- 1990s, a friend in Budapest told us about a board game he had played as a child during the socialist period. Prior to the Second World War, Hungarians had played Monopoly, which they knew as Kapitaly.…
 
 ### Postcommunist capitalism, culture, and history
 **年份**: 2001 | **DOI**: [10.1086/320302](https://doi.org/10.1086/320302)

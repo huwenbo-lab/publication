@@ -264,7 +264,7 @@
 ### On the front line
 **年份**: 2009 | **DOI**: [10.1177/0950017008099774](https://doi.org/10.1177/0950017008099774)
 **作者**: Taylor, Phil; Warhurst, Chris; Thompson, Paul 等4人
-**摘要**: （暂无）
+**摘要**: Work, Employment and Society is inviting contributions to a new section of the journal entitled 'On the Front Line'. Submissions should ordinarily consist of first person narratives to a maximum of 4000 words and include a short explanation that situates the narrative in its most appropriate context…
 
 ### Book Review: K. Dale and Gibson Burrell The Spaces of Organization and the Organization of Space: Power Identity and Materiality at Work. Basingstoke: Palgrave Macmillan, 2008, £28.99 pbk (ISBN: 0230572685), xvi + 328 pp
 **年份**: 2009 | **DOI**: [10.1177/09500170090230021206](https://doi.org/10.1177/09500170090230021206)
@@ -473,7 +473,7 @@
 ### Organizing homeworkers: the use of mapping as an organizing tool
 **年份**: 2008 | **DOI**: [10.1177/0950017007087422](https://doi.org/10.1177/0950017007087422)
 **作者**: Burchielli, Rosaria; Buttigieg, Donna; Delaney, Annie
-**摘要**: （暂无）
+**摘要**: In this article we document and discuss homeworker ‘mapping’ as an emerging approach to organizing. Mapping was used by homeworker organizations to organize unprotected workers in the unregulated informal sector where there has been an exponential growth over the last two decades (Beneria, 2001; Bey…
 
 ### Book Review: Jieyu Liu Gender and Work in Urban China: Women Workers of the Unlucky Generation Oxford: Routledge Taylor &amp; Francis, 2007, £70.00 hbk, no price stated pbk, (ISBN: 978—0—415—39211—2), xiv + 178 pp
 **年份**: 2008 | **DOI**: [10.1177/09500170080220030903](https://doi.org/10.1177/09500170080220030903)
@@ -694,7 +694,7 @@
 ### Skill, education and credentials in the new economy: the case of information technology workers
 **年份**: 2008 | **DOI**: [10.1177/0950017008089109](https://doi.org/10.1177/0950017008089109)
 **作者**: Adams, Tracey L.; Demaiter, Erin I.
-**摘要**: （暂无）
+**摘要**: According to many social commentators, we live in a ‘new economy’ in which the nature of work is changing at a rapid pace. Technological change, organizational restructuring, and globalization appear to be having a dramatic impact on the nature and availability of work.…
 
 ### Role redesign in the National Health Service
 **年份**: 2008 | **DOI**: [10.1177/0950017008096743](https://doi.org/10.1177/0950017008096743)
@@ -842,7 +842,7 @@
 ### A new labour aristocracy? Aesthetic labour and routine interactive service
 **年份**: 2007 | **DOI**: [10.1177/0950017007082887](https://doi.org/10.1177/0950017007082887)
 **作者**: Warhurst, Chris; Nickson, Dennis
-**摘要**: （暂无）
+**摘要**: A re-conceptualization of the work and employment of interactive service and the workers who inhabit these jobs is required, not least because routine interactive services will provide most job growth in the UK for the foreseeable future (Wilson et al., 2004).…
 
 ### Putting transnational labour process in its place
 **年份**: 2007 | **DOI**: [10.1177/0950017007073611](https://doi.org/10.1177/0950017007073611)
@@ -1027,7 +1027,7 @@
 ### Pushing the envelope: the `informalization' of labour in post-communist new EU member states
 **年份**: 2007 | **DOI**: [10.1177/0950017007080016](https://doi.org/10.1177/0950017007080016)
 **作者**: Woolfson, Charles
-**摘要**: （暂无）
+**摘要**: This contribution to debate explores one aspect of the reconfiguration of power in the workplaces of post-communist Eastern Europe in which relations between employer and employee are informalized to the detriment of employees’ rights and decent labour standards.…
 
 ### Book Reviews: David M. Smith On the Margins of Inclusion: Changing Labour Markets and Social Exclusion in London Bristol: The Policy Press, 2005, £55.00 hbk, £21.99 pbk, x + 246 pp. ISBN: 1—86134—600-X
 **年份**: 2007 | **DOI**: [10.1177/09500170070210021206](https://doi.org/10.1177/09500170070210021206)
@@ -1042,7 +1042,7 @@
 ### Customer oriented militants? A critique of the `customer oriented bureaucracy' theory on front-line service worker collectivism
 **年份**: 2007 | **DOI**: [10.1177/0950017007076645](https://doi.org/10.1177/0950017007076645)
 **作者**: Brook, Paul
-**摘要**: （暂无）
+**摘要**: This critique challenges the Customer Oriented Bureaucracy (COB) theory’s argument that the experience of customer service is pivotal to the formation of front-line service worker collectivism.…
 
 ### Book Review: Luis Enrique Alonso and Miguel Martínez Lucio (eds) Employment Relations in a Changing Society: Assessing the Post-Fordist Paradigm Bakingstoke: Palgrave MacMillan, 2006, £58 hbk, xiii + 232 pp. ISBN: 0-333-97037-3
 **年份**: 2007 | **DOI**: [10.1177/0950017007080021](https://doi.org/10.1177/0950017007080021)
@@ -1116,7 +1116,7 @@
 ### The tyranny of corporate slenderness: `corporate anorexia' as a metaphor for our age
 **年份**: 2007 | **DOI**: [10.1177/0950017007080015](https://doi.org/10.1177/0950017007080015)
 **作者**: Tyler, Melissa; Wilkinson, Adrian
-**摘要**: （暂无）
+**摘要**: This paper reflects on the organizational pursuit of leanness as a corporate aesthetic.In contrast to more mainstream accounts of downsizing techniques and practices, its primary concern is with the symbolic and aesthetic aspects of downsizing.It focuses particularly o n ' c o r p o r a t e a n o r …
 
 ### Re-embedding the ethnic business agenda
 **年份**: 2007 | **DOI**: [10.1177/0950017007080007](https://doi.org/10.1177/0950017007080007)
@@ -1327,7 +1327,7 @@
 ### Mapping worker collectivism
 **年份**: 2006 | **DOI**: [10.1177/0950017006067002](https://doi.org/10.1177/0950017006067002)
 **作者**: McBride, Jo
-**摘要**: （暂无）
+**摘要**: Discussions relating to trade union decline since 1979 have been well rehearsed in the literature. An underlying theme in much of this dialogue is the supposedly corresponding decline of workplace collectivism due to a rise in individualism (Bacon and Storey, 1996; Bassett and Cave, 1993).…
 
 ### Book Review: Work-Life Balance in the 21st Century
 **年份**: 2006 | **DOI**: [10.1177/0950017006066899](https://doi.org/10.1177/0950017006066899)
@@ -1392,7 +1392,7 @@
 ### Employment and work conditions in home-based enterprises in four developing countries: do they constitute ‘decent work’?
 **年份**: 2006 | **DOI**: [10.1177/0950017006061280](https://doi.org/10.1177/0950017006061280)
 **作者**: Tipple, Graham
-**摘要**: （暂无）
+**摘要**: In a study undertaken from a context of urban plann ing policy, we have been able to gather support for the contention that home-based e nterprises (HBEs) represent a better picture in respect to the ILO concept of ‘de cent work’ than might be expected, especially from the literature on homeworkers.…
 
 ### Book Review: Made in China
 **年份**: 2006 | **DOI**: [10.1177/0950017006063699](https://doi.org/10.1177/0950017006063699)
@@ -1426,7 +1426,7 @@
 ### Retired members in a British union
 **年份**: 2006 | **DOI**: [10.1177/0950017006067004](https://doi.org/10.1177/0950017006067004)
 **作者**: Flynn, Matt; Croucher, Richard
-**摘要**: （暂无）
+**摘要**: This research note examines pensioner activism in a major British union, the Public and Commercial Services Union (PCS). The subject is an important one for unions’ future development: if they can become effective vehicles for pensioner activism, they may widen their social appeal beyond the employe…
 
 ### The double indeterminacy of labour power
 **年份**: 2006 | **DOI**: [10.1177/0950017006065109](https://doi.org/10.1177/0950017006065109)
@@ -1481,7 +1481,7 @@
 ### Mapping knowledge in work: proxies or practices?
 **年份**: 2006 | **DOI**: [10.1177/0950017006069815](https://doi.org/10.1177/0950017006069815)
 **作者**: Warhurst, Chris; Thompson, Paul
-**摘要**: （暂无）
+**摘要**: Governments and firms are exhorted, on pain of relegation to the lower divisions of (un)competitiveness, to embrace the idea of a knowledge economy (DTI, 1998; EC, 2004; Hamel and Prahalad, 1996; Nonaka and Takeuchi, 1995; OECD, 2001a; Reich, 1993; World Bank, 2002).…
 
 ### Index to Volume 20, 2006
 **年份**: 2006 | **DOI**: [10.1177/0950017006069836](https://doi.org/10.1177/0950017006069836)
@@ -1495,7 +1495,7 @@
 ### New connections: social studies of science and technology and studies of work
 **年份**: 2006 | **DOI**: [10.1177/0950017006069814](https://doi.org/10.1177/0950017006069814)
 **作者**: Wajcman, Judy
-**摘要**: （暂无）
+**摘要**: Debates about the role of information and communication technologies (ICTs) in transforming the economy and society are central to the sociology of work and employment.At their core, theories of the information society, post-Fordism and postmodernity, as well as more recent theories of globalization…
 
 ### Obscuring the costs of home care: restructuring at work
 **年份**: 2006 | **DOI**: [10.1177/0950017006061272](https://doi.org/10.1177/0950017006061272)
@@ -1554,7 +1554,7 @@
 ### Beating the ‘churning’ trap in the youth labour market
 **年份**: 2005 | **DOI**: [10.1177/0950017005053184](https://doi.org/10.1177/0950017005053184)
 **作者**: Worth, Sean
-**摘要**: （暂无）
+**摘要**: In this article, the author argues that young people who ‘churn’ between welfare and the ‘bottom step of the employment ladder’ are actually restricted by a welfare regime that is more attuned to meeting the short-term skill needs of employers in the more casualised job sectors.…
 
 ### Returning to work after maternity leave
 **年份**: 2005 | **DOI**: [10.1177/0950017005053176](https://doi.org/10.1177/0950017005053176)
@@ -1579,7 +1579,7 @@
 ### The shifting locations of work
 **年份**: 2005 | **DOI**: [10.1177/0950017005053186](https://doi.org/10.1177/0950017005053186)
 **作者**: Felstead, Alan; Jewson, Nick; Walters, Sally
-**摘要**: （暂无）
+**摘要**: Purpose - Examines the places where people work in the UK, pointing out that new technologies, such as mobile phones and laptop computers have made it possible to work in far more places than before.…
 
 ### ‘Partnership’ and new industrial relations in a risk society
 **年份**: 2005 | **DOI**: [10.1177/0950017005058068](https://doi.org/10.1177/0950017005058068)
@@ -1732,7 +1732,7 @@
 ### Workplace partnership and public service provision
 **年份**: 2005 | **DOI**: [10.1177/0950017005055677](https://doi.org/10.1177/0950017005055677)
 **作者**: Roper, Ian; James, Philip; Higgins, Paul
-**摘要**: （暂无）
+**摘要**: This article considers the extent to which partnership espoused in Best Value is likely to be compatible with the model of social partnership espoused for employment relations. More specifically, the article seeks to cast light, empirically, on the degree to which Best Value can support the series o…
 
 ### Recruiting a self
 **年份**: 2005 | **DOI**: [10.1177/0950017005058061](https://doi.org/10.1177/0950017005058061)
@@ -2055,7 +2055,7 @@
 ### The Office (27 November 2003–18 January 2004), the Photographers’ Gallery, London
 **年份**: 2004 | **DOI**: [10.1177/0950017004045554](https://doi.org/10.1177/0950017004045554)
 **作者**: Cohen, Laurie; Tyler, Melissa
-**摘要**: （暂无）
+**摘要**: This article is Restricted Access. It was published in the journal, Work, Employment & Society [Sage © BSA Publications Ltd]. The definitive version is available at: http://wes.sagepub.com/content/vol18/issue3/
 
 ### Factory regimes and the dismantling of established labour in Asia: a review of cases from large manufacturing plants in China, South Korea and Taiwan
 **年份**: 2004 | **DOI**: [10.1177/0950017004047958](https://doi.org/10.1177/0950017004047958)
@@ -2124,7 +2124,7 @@
 ### Self-Employed Workers: Calling the Shots or Hesitant Independents? A Consideration of the Trends
 **年份**: 2003 | **DOI**: [10.1177/0950017003017002008](https://doi.org/10.1177/0950017003017002008)
 **作者**: Smeaton, Deborah
-**摘要**: （暂无）
+**摘要**: he growth in self employment between the late 1970s and mid 1990s gave rise to a large multi-disciplinary body of research. More recently a number of theoretical perspectives have postulated a significant role for self employment in the new economic circumstances of the late 20th and early 21st cent…
 
 ### Book Reviews
 **年份**: 2003 | **DOI**: [10.1177/0950017003174015](https://doi.org/10.1177/0950017003174015)
@@ -2144,7 +2144,7 @@
 ### `We Could have had the Old Girl Out in the Paddock Years Ago'
 **年份**: 2003 | **DOI**: [10.1177/0950017003017001275](https://doi.org/10.1177/0950017003017001275)
 **作者**: Pini, Barbara
-**摘要**: （暂无）
+**摘要**: This article describes the experiences of 10 widowed women involved in the Australian sugar industry. These women- farming in their own right and involving themselves in the public world of agriculture – represent an anomaly.…
 
 ### Mental Health and Absence from Work: New Evidence from the UK Quarterly Labour Force Survey
 **年份**: 2003 | **DOI**: [10.1177/0950017003174007](https://doi.org/10.1177/0950017003174007)
@@ -2164,7 +2164,7 @@
 ### Praising Caesar Not Burying Him: What We Know about Employment Relations in Small Firms
 **年份**: 2003 | **DOI**: [10.1177/0950017003174006](https://doi.org/10.1177/0950017003174006)
 **作者**: Ram, Monder; Edwards, Paul
-**摘要**: （暂无）
+**摘要**: ike the central character, frozen in time, in the first ‘Austin Powers’ film, Barrett and Rainnie (2002) see little development in the field of small firm industrial relations since their earlier work (Rainnie, 1989).…
 
 ### Anatomy of a Care Manager
 **年份**: 2003 | **DOI**: [10.1177/0950017003017001266](https://doi.org/10.1177/0950017003017001266)
@@ -2198,7 +2198,7 @@
 ### Disconnected Capitalism: Or Why Employers Can't Keep Their Side of the Bargain
 **年份**: 2003 | **DOI**: [10.1177/0950017003017002007](https://doi.org/10.1177/0950017003017002007)
 **作者**: Thompson, Paul
-**摘要**: （暂无）
+**摘要**: Those who ply their trade by purveying ideas - academics, policy entrepreneurs, consultants and the like - have a vested interest in proclaiming the new. It is much harder to make a reputation or a splash in the ideas pool by arguing that nothing much has changed.…
 
 ### Women, Work and Equal Opportunities in Post-Communist Transition
 **年份**: 2003 | **DOI**: [10.1177/0950017003017002006](https://doi.org/10.1177/0950017003017002006)
@@ -2420,7 +2420,7 @@
 ### Changing Communities at Work in Academia
 **年份**: 2003 | **DOI**: [10.1177/09500170030173009](https://doi.org/10.1177/09500170030173009)
 **作者**: Morris, Huw
-**摘要**: （暂无）
+**摘要**: To determine the degree of diffuseness of a particular acoustic field, an oft-considered metric is the coherence between spaced pairs of measurement microphones. This is useful because the expected theoretical ‘sinc2’ trend for a diffuse field is well known from the literature.…
 
 ### Book Reviews
 **年份**: 2002 | **DOI**: [10.1177/095001702321587488](https://doi.org/10.1177/095001702321587488)
@@ -2485,7 +2485,7 @@
 ### Time and Emotion in Studies of Household Technologies
 **年份**: 2002 | **DOI**: [10.1177/095001702400426866](https://doi.org/10.1177/095001702400426866)
 **作者**: Silva, Elizabeth B.
-**摘要**: （暂无）
+**摘要**: In this article I situate studies of household technologies within the overall context of technological studies, in particular in relation to time and the significance of the labour of women in the home. I then discuss the classic studies of household technologies.…
 
 ### A Divided Working Class? Planning and Career Perception in the Service and Working Classes
 **年份**: 2002 | **DOI**: [10.1177/095001702321587398](https://doi.org/10.1177/095001702321587398)
@@ -2500,7 +2500,7 @@
 ### Attitudes Towards Work and Motherhood Held by Working and Non-working Mothers
 **年份**: 2002 | **DOI**: [10.1177/095001702762217470](https://doi.org/10.1177/095001702762217470)
 **作者**: Marks, Gillian; Houston, Diane M.
-**摘要**: （暂无）
+**摘要**: Attitudes Towards Work and Motherhood Held by Working and Nonworking MothersThis study explored the attitudes of mothers who worked full-time, those who worked part-time, and those who did no paid work.The aim was to examine whether these women formed a homogeneous group in terms of their attitudes …
 
 ### Unemployed Professionals, Stigma Management and Derivative Stigmata
 **年份**: 2002 | **DOI**: [10.1177/095001702762217461](https://doi.org/10.1177/095001702762217461)
@@ -2665,7 +2665,7 @@
 ### The migration of bureaucracy: contracting and the regulation of labour in the telecommunications industry
 **年份**: 2002 | **DOI**: [10.1177/095001702321587389](https://doi.org/10.1177/095001702321587389)
 **作者**: MacKenzie, R.J.
-**摘要**: （暂无）
+**摘要**: This is a study of the reconfiguration of bureaucracy based on a case study of subcontracting within BT plc, the UK’s largest telecommunications firm. The 1990s witnessed significant quantitative and qualitative changes n the utilization and management of subcontracting.…
 
 ### Book Reviews
 **年份**: 2002 | **DOI**: [10.1177/0950017002161013](https://doi.org/10.1177/0950017002161013)
@@ -2794,7 +2794,7 @@
 ### Gender, Work and Transitions in the Local State
 **年份**: 2001 | **DOI**: [10.1017/s095001700100825x](https://doi.org/10.1017/s095001700100825x)
 **作者**: Webb, Janette
-**摘要**: （暂无）
+**摘要**: The paper describes the current employment patterns of men and women in local government in Scotland, Wales and England, and examines the gender relations of work during a period of restructuring which is challenging the professionalised welfare bureaucracy and replacing it with a managerialised sta…
 
 ### Underemployment in the Netherlands: How the Dutch `Poldermodel' Failed to Close the Education-Jobs Gap
 **年份**: 2001 | **DOI**: [10.1177/09500170122118788](https://doi.org/10.1177/09500170122118788)
@@ -2828,12 +2828,12 @@
 ### Getting a Job in Europe: The Transition from Unemployment to Work among Young People in Nine European Countries
 **年份**: 2001 | **DOI**: [10.1017/s0950017001000010](https://doi.org/10.1017/s0950017001000010)
 **作者**: Russell, Helen; OÍConnell, Philip J.
-**摘要**: （暂无）
+**摘要**: Youth unemployment remains a significant problem in most EU countries. In this paper we explore the dynamics of this problem by comparing young people's transitions from unemployment to employment in nine member states.…
 
 ### Women in the Indian Informal Economy: Collective Strategies for Work Life Improvement and Development
 **年份**: 2001 | **DOI**: [10.1017/s0950017001000307](https://doi.org/10.1017/s0950017001000307)
 **作者**: Hill, Elizabeth
-**摘要**: （暂无）
+**摘要**: Strategies for work life reform amongs informal sector workers in developing countries are currently dominated by resource-based approaches such as the micro-credit movement. This policy framework is predicated upon certain liberal assumptions about individual human action and the relationship betwe…
 
 ### Temporary and Casual: A Rejoinder to Wooden
 **年份**: 2001 | **DOI**: [10.1177/095001701400438260](https://doi.org/10.1177/095001701400438260)
@@ -2858,7 +2858,7 @@
 ### Temporary and Casual: a Rejoinder to Wooden
 **年份**: 2001 | **DOI**: [10.1017/s0950017001008856](https://doi.org/10.1017/s0950017001008856)
 **作者**: Campbell, Iain; Burgess, John
-**摘要**: （暂无）
+**摘要**: In a recent article in Work, Employment 6Society (Campbell and Burgess 2001), we examine the position of Australia in cross-national comparisons of temporary employment. Conventional analyses join together data on 'temporary' employment from varied OECD countries with Australian data on 'casual' emp…
 
 ### The Future of Career, Audrey Collin and Richard A. Young (eds.), Cambridge: Cambridge University Press, 2000, £40.00, paper £14.95, xiii+321 pp.
 **年份**: 2001 | **DOI**: [10.1017/s0950017001220273](https://doi.org/10.1017/s0950017001220273)
@@ -2873,12 +2873,12 @@
 ### ‘Portfolio Workers’: Autonomy and Control amongst Freelance Translators
 **年份**: 2001 | **DOI**: [10.1017/s0950017001006791](https://doi.org/10.1017/s0950017001006791)
 **作者**: Fraser, Janet; Gold, Michael
-**摘要**: （暂无）
+**摘要**: Recent literature has begun to disaggregate groups of the `self-employed without employees' to examine in greater detail what determines their working conditions. This article continues this trend ...
 
 ### Nurses and Doctors at Work Rethinking Professional Boundaries, Deidre Wicks, Buckingham: Open University Press, 1998, paper, xvii+202 pp.
 **年份**: 2001 | **DOI**: [10.1017/s0950017001210447](https://doi.org/10.1017/s0950017001210447)
 **作者**: MELIA, KATH M.
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### The Brave New World of Work, Ulrich Beck, Cambridge: Polity Press, 2000 (first published in German 1999), paper, v+202 pp.
 **年份**: 2001 | **DOI**: [10.1017/s0950017001210277](https://doi.org/10.1017/s0950017001210277)
@@ -2888,7 +2888,7 @@
 ### The East German Labour Market After German Unification: A Study of Structural Change and Occupational Matching
 **年份**: 2001 | **DOI**: [10.1017/s0950017001000058](https://doi.org/10.1017/s0950017001000058)
 **作者**: Solga, Heike; Diewald, Martin
-**摘要**: （暂无）
+**摘要**: This article investigates the restructuring process of the East German employment system after German unification. It raises the question of whether and how job mobility has contributed to coping with rapid change in the occupational structure.…
 
 ### The Increased Labour Market Participation of Dutch Students
 **年份**: 2001 | **DOI**: [10.1177/09500170122118779](https://doi.org/10.1177/09500170122118779)
@@ -2903,7 +2903,7 @@
 ### Labour Market and Related Insecurities
 **年份**: 2001 | **DOI**: [10.1177/09500170122118887](https://doi.org/10.1177/09500170122118887)
 **作者**: Yeandle, Sue
-**摘要**: （暂无）
+**摘要**: Jane E. Ferrie, Michael G. Marmot, John Griffiths and Erio Ziglio (eds.J, Labour Market Changes and Job Insecurity: A Challenge For Social Welfare and Health Promotion, Copenhagen, Denmark: WHO Regional Publications, European Series, No. 81,1999, paper, Sw.fr. 52, xiii+252 pp.…
 
 ### The Increased Labour Market Participation of Dutch Students
 **年份**: 2001 | **DOI**: [10.1017/s0950017001000034](https://doi.org/10.1017/s0950017001000034)
@@ -2923,12 +2923,12 @@
 ### Age and Participation in Vocational Education and Training
 **年份**: 2001 | **DOI**: [10.1017/s0950017001007632](https://doi.org/10.1017/s0950017001007632)
 **作者**: Taylor, Philip; Urwin, Peter
-**摘要**: （暂无）
+**摘要**: In recent years increasing attention has been paid to the problems faced by older workers in the UK labour market. In this paper we examine the issue of older workers' participation in vocational training and education, drawing upon data from the Labour Force Survey.…
 
 ### The Myth of the Entrepreneurial Economy: Employment and Innovation in Small Firms
 **年份**: 2001 | **DOI**: [10.1017/s0950017001000204](https://doi.org/10.1017/s0950017001000204)
 **作者**: Parker, Rachel
-**摘要**: （暂无）
+**摘要**: Over the last three decades, modern capitalist economies have experienced significant changes in the structure of industry, the nature of production and the organisation of work. There has been a decline in traditional industries such as manufacturing, construction and mining and a growth in social,…
 
 ### Changes in Social Capital and School-to-Work Transitions
 **年份**: 2001 | **DOI**: [10.1177/09500170122118977](https://doi.org/10.1177/09500170122118977)
@@ -2938,7 +2938,7 @@
 ### Flexible Work and Flexible Fathers
 **年份**: 2001 | **DOI**: [10.1017/s0950017001000149](https://doi.org/10.1017/s0950017001000149)
 **作者**: Brandth, Berit; Kvande, Elin
-**摘要**: （暂无）
+**摘要**: The expansion of the parental leave scheme in Norway, which now grants extensive rights to employed fathers, has occured in a period of great changes in working life. The equality politics of the welfare state have been explicitly focussed on bringing reproduction more into the open in working life …
 
 ### Getting a Job in Europe: The Transition from Unemployment to Work among Young People in Nine European Countries
 **年份**: 2001 | **DOI**: [10.1177/09500170122118751](https://doi.org/10.1177/09500170122118751)
@@ -2953,7 +2953,7 @@
 ### I was a Docker, I was a Railwayman
 **年份**: 2001 | **DOI**: [10.1177/09500170122119048](https://doi.org/10.1177/09500170122119048)
 **作者**: Strangleman, Tim
-**摘要**: （暂无）
+**摘要**: Kenneth Lunn and Ann Day (eds.), History of Work and Labour Relations in the Royal Dockyards , London, Mansell, 1999, hardback £49.95, xxi+1200 pp. David Howell, Respectable Radicals: Studies in the Politics of Railway Trade Unionism, Aldershot, Ashgate, 1999, hardback £55, viii+1446 pp.…
 
 ### Books Received
 **年份**: 2001 | **DOI**: [10.1017/s0950017001009138](https://doi.org/10.1017/s0950017001009138)
@@ -2992,22 +2992,22 @@
 ### How Temporary are Australia's Casual Jobs?
 **年份**: 2001 | **DOI**: [10.1017/s0950017001008753](https://doi.org/10.1017/s0950017001008753)
 **作者**: Wooden, Mark
-**摘要**: （暂无）
+**摘要**: Many people in Australia are concerned with the apparent trend towards the increased casualisation of the Australian workforce. In a recent paper published in this journal, for example, Campbell and Burgess (2001) reported on survey-based figures on the extent of casualisation collected by the Austr…
 
 ### Closure in an Open Profession. The Impact of Social Origin on the Educational and Occupational Success of Graduates of Law in Norway
 **年份**: 2001 | **DOI**: [10.1017/s0950017001000320](https://doi.org/10.1017/s0950017001000320)
 **作者**: Hansen, Marianne Nordli
-**摘要**: （暂无）
+**摘要**: Education in law in Norway must be characterised as an open educational field, with lower entry requirements than other prestigious professional fields. Such an open system might be expected to lead to a high degree of equality by social class origin among the graduates.…
 
 ### Recasting Work: the Example of Local Exchange Trading Schemes
 **年份**: 2001 | **DOI**: [10.1017/s0950017001000356](https://doi.org/10.1017/s0950017001000356)
 **作者**: Aldridge, Theresa; Tooke, Jane; Lee, Roger 等6人
-**摘要**: （暂无）
+**摘要**: Local Exchange Trading Schemes (LETS) are networks for exchanging goods and services using a local currency. They are seen by some as providing an `alternative' way of negotiating changing and complex livelihoods.…
 
 ### Casual Employment in Australia and Temporary Employment in Europe: Developing a Cross-National Comparison
 **年份**: 2001 | **DOI**: [10.1177/09500170122118823](https://doi.org/10.1177/09500170122118823)
 **作者**: Campbell, Iain; Burgess, John
-**摘要**: （暂无）
+**摘要**: Labour market analysis conventionally distinguishes amongst employees according to whether their contract of employment is ‘permanent’ or ‘temporary’. The permanent contract of employment, best understood as a contract for an indefinite term, is the central form.…
 
 ### Book Reviews
 **年份**: 2001 | **DOI**: [10.1177/0950017001015004018](https://doi.org/10.1177/0950017001015004018)
@@ -3017,17 +3017,17 @@
 ### Young People in Rural Areas: Socially Excluded or Not?
 **年份**: 2001 | **DOI**: [10.1017/s0950017001000162](https://doi.org/10.1017/s0950017001000162)
 **作者**: Pavis, Stephen; Hubbard, Gill; Platt, Stephen
-**摘要**: （暂无）
+**摘要**: Tackling social exclusion is at the heart of current British social policy, yet the concept remains' essentially contested'. Here we report on the transitional experiences (school to work, parental home to independent household, family of origin to family of destination) of young people (eighteen to…
 
 ### Seeking the Balance between Flexibility and Security: A Rising Issue in the Low Countries
 **年份**: 2001 | **DOI**: [10.1017/s0950017001000186](https://doi.org/10.1017/s0950017001000186)
 **作者**: Sels, Luc; Van Hootegem, Geert
-**摘要**: （暂无）
+**摘要**: Belgian policy-makers are coming to regard the Netherlands as a ‘model’. Belgian observers commenting on the ‘Dutch miracle’ frequently refer to the greater flexibility of the deployment of labour. The share taken by temporary employment is indeed much lower in Belgium.…
 
 ### Worker Responses to Quality Organisation: Discourse and Materiality in Organisational Change
 **年份**: 2001 | **DOI**: [10.1017/s0950017001007437](https://doi.org/10.1017/s0950017001007437)
 **作者**: Rees, Chris
-**摘要**: （暂无）
+**摘要**: This paper explains varying degrees of employee commitment to organisational change across four organisations. Of the many workplace innovations in recent years, Quality Management (QM) is one of the most common and also, potentially, the most far-reaching.…
 
 ### Precarious Footing: Temporary Employment as a Stepping Stone out of Unemployment in Sweden
 **年份**: 2001 | **DOI**: [10.1017/s095001700100006x](https://doi.org/10.1017/s095001700100006x)
@@ -3037,7 +3037,7 @@
 ### Caste and Gender in the Organisation of Paid Domestic Work in India
 **年份**: 2001 | **DOI**: [10.1177/09500170122119011](https://doi.org/10.1177/09500170122119011)
 **作者**: Raghuram, Parvati
-**摘要**: （暂无）
+**摘要**: There is now a large literature documenting the significance of paid domestic work as a sector of employment for women (Gregson and Lowe 1994; England and Steill 1997). In this article I focus on the ways in which gender hierarchies intersect with those of caste in the organisation of paid domestic …
 
 ### Making Sense of Prostitution, Joanna Phoenix, Basingstoke: Macmillan, 1999, xi+200 pp.
 **年份**: 2001 | **DOI**: [10.1017/s0950017001290102](https://doi.org/10.1017/s0950017001290102)
@@ -3097,7 +3097,7 @@
 ### Minority Labour Force Participation in the Post-Fordist era: the case of the Arabs in Israeli
 **年份**: 2001 | **DOI**: [10.1017/s0950017001007814](https://doi.org/10.1017/s0950017001007814)
 **作者**: H. Sa'di, Ahmad; Lewin-Epstein, Noah
-**摘要**: （暂无）
+**摘要**: This study investigates the impact of economic restructuring on the labour force participation of subordinate minority men. Taking Israel as a case study, we review the trends of labour force parti...
 
 ### Book Reviews
 **年份**: 2001 | **DOI**: [10.1177/0950017001015002022](https://doi.org/10.1177/0950017001015002022)
@@ -3117,7 +3117,7 @@
 ### Researching the Changing World of Employment
 **年份**: 2001 | **DOI**: [10.1017/s0950017001000228](https://doi.org/10.1017/s0950017001000228)
 **作者**: Stephenson, Carol
-**摘要**: （暂无）
+**摘要**: Kate Purcell, Terence Hogarth and Claire Simm, Whose Flexibility?: The Costs and Benefits of ‘Non-Standard’ Working Arrangements and Contractual Relations, Joseph Rowntree Foundation, 1999, £13.95, 73 pp.…
 
 ### Book Reviews
 **年份**: 2001 | **DOI**: [10.1177/0950017001015002018](https://doi.org/10.1177/0950017001015002018)
@@ -3172,12 +3172,12 @@
 ### Imbalances in the GP Labour Market in the UK: Evidence from a Postal Survey and Interviews with GP Leavers
 **年份**: 2001 | **DOI**: [10.1017/s0950017001006997](https://doi.org/10.1017/s0950017001006997)
 **作者**: Young, Ruth; Leese, Brenda; Sibbald, Bonnie
-**摘要**: （暂无）
+**摘要**: There is concern that the UK general practitioner (GP) workforce has declined relative to the expanding needs of a primary care-led NHS. Much of the debate about possible solutions within the profession and amongst medical workforce planners has focused on the need to raise medical school intakes an…
 
 ### Homeworkers and the National Minimum Wage: Evidence from the Textiles and Clothing Industry
 **年份**: 2001 | **DOI**: [10.1177/095001701400438242](https://doi.org/10.1177/095001701400438242)
 **作者**: Heyes, Jason; Gray, Alex
-**摘要**: （暂无）
+**摘要**: The UK government presented the introduction of the National Minimum Wage in April 1999 as an attempt to limit the extent and degree of exploitation in the labour market. In its evidence for the Low Pay Commission's second report, the government expressed the hope that the new regulations would prev…
 
 ### Minority Labour Force Participation in the Post-Fordist Era: The Case of the Arabs in Israeli
 **年份**: 2001 | **DOI**: [10.1177/095001701400438206](https://doi.org/10.1177/095001701400438206)
@@ -3220,7 +3220,7 @@
 ### Changes in Social Capital and School-to-Work Transitions
 **年份**: 2001 | **DOI**: [10.1017/s0950017001000174](https://doi.org/10.1017/s0950017001000174)
 **作者**: Strathdee, Rob
-**摘要**: （暂无）
+**摘要**: This article draws on data generated in semi-structured interviews to describe changes in social capital in the form of social networks across two generations of male school leavers.…
 
 ### Social Partnership at Work. Workplace Relations in Post-Unification Germany, Carola Frege, London: Routledge, 1999, £55.00, xiv+256 pp.
 **年份**: 2001 | **DOI**: [10.1017/s0950017001220108](https://doi.org/10.1017/s0950017001220108)
@@ -3230,7 +3230,7 @@
 ### Inward Investment in a Cold Climate
 **年份**: 2001 | **DOI**: [10.1017/s0950017001000435](https://doi.org/10.1017/s0950017001000435)
 **作者**: Morris, Jonathan
-**摘要**: （暂无）
+**摘要**: A visitor touring in South Wales, by train or car, is quickly confronted by Wales' most easterly town, Newport. When arriving at Newport, the visitor passes one of the three integrated steel works of Corus Group (formerly British Steel).…
 
 ### Book Reviews
 **年份**: 2001 | **DOI**: [10.1177/0950017001015001019](https://doi.org/10.1177/0950017001015001019)
@@ -3270,7 +3270,7 @@
 ### Paradise Lost and Paradise Postponed: Vocational Education and Training Policy in Germany and England
 **年份**: 2001 | **DOI**: [10.1017/s0950017001000241](https://doi.org/10.1017/s0950017001000241)
 **作者**: Brown, Alan
-**摘要**: （暂无）
+**摘要**: These two books complement each other in their studies of vocational education and training (VET) policy. Current German policy debate, like English VET policy in the 1980s, is haunted by the ghost of the apparently perfect performance of German VET in the 1980s and its role in producing a high skil…
 
 ### Call Centre Employees' Responses to Electronic Monitoring: Some Research Findings
 **年份**: 2001 | **DOI**: [10.1017/s095001700100037x](https://doi.org/10.1017/s095001700100037x)
@@ -3305,7 +3305,7 @@
 ### Researching the Learning Society
 **年份**: 2001 | **DOI**: [10.1017/s0950017001000216](https://doi.org/10.1017/s0950017001000216)
 **作者**: Hodkinson, Phil
-**摘要**: （暂无）
+**摘要**: Frank Coffield (ed.), 1: Learning at Work, Bristol: Policy Press, 1998, paper £13.99, v+69 pp. Frank Coffield (ed.), 2: Why's the Beer always Stronger up North?: Studies in Lifelong Learning in Europe, Bristol: Policy Press, 1999, paper £13.99, v+81 PP Frank Coffield (ed.) 3: Speaking Truth to Power…
 
 ### Book Reviews
 **年份**: 2001 | **DOI**: [10.1177/0950017001015003018](https://doi.org/10.1177/0950017001015003018)
@@ -3320,12 +3320,12 @@
 ### Insecurity and Long-term Employment
 **年份**: 2001 | **DOI**: [10.1017/s0950017001000290](https://doi.org/10.1017/s0950017001000290)
 **作者**: Doogan, Kevin
-**摘要**: （暂无）
+**摘要**: There is a widespread view that `jobs for life' and stable employment have been consigned to the past. The impact of technological and institutional changes are said to have eradicated traditional labour market patterns, brought about the destandardisation and individualisation of work and ushered i…
 
 ### Call Centre Employees' Responses to Electronic Monitoring: Some Research Findings
 **年份**: 2001 | **DOI**: [10.1177/09500170122119174](https://doi.org/10.1177/09500170122119174)
 **作者**: Lankshear, Gloria; Cook, Peter; Mason, David 等5人
-**摘要**: （暂无）
+**摘要**: There is a growing literature on employment in call centres, much of which suggests that they are characterised by high levels of work intensification and surveillance. Recently, a debate has emerged about the nature of surveillance in such workplaces and the level and character of employee resistan…
 
 ### Paternalisms: New and Old
 **年份**: 2001 | **DOI**: [10.1177/09500170122118869](https://doi.org/10.1177/09500170122118869)
@@ -3349,7 +3349,7 @@
 ### Social Policy at Fifty: Postwar to Post Modern
 **年份**: 2001 | **DOI**: [10.1017/s0950017001000423](https://doi.org/10.1017/s0950017001000423)
 **作者**: Gladstone, David
-**摘要**: （暂无）
+**摘要**: Howard Glennerster, British Social Policy since 1945. Second edition. Oxford: Blackwell, 2000. Hardback £55.00, paperback £15.99, xi+260 pp.Janie Percy-Smith (ed.) Policy Responses to Social Exclusion. Buckingham: Open University Press, 2000.…
 
 ### Book Reviews
 **年份**: 2001 | **DOI**: [10.1177/0950017001015003017](https://doi.org/10.1177/0950017001015003017)
@@ -3369,7 +3369,7 @@
 ### Working at Home: Statistical Evidence for Seven Key Hypotheses
 **年份**: 2001 | **DOI**: [10.1017/s0950017001000125](https://doi.org/10.1017/s0950017001000125)
 **作者**: Felstead, Alan; Jewson, Nick; Phizacklea, Annie 等4人
-**摘要**: （暂无）
+**摘要**: It is frequently suggested that working at home will be the future of work for many people in the UK and that trends in this direction are already well underway. This paper examines these claims by analysing data from the Labour Force Survey which has, at various times, asked questions about the loc…
 
 ### Book Reviews
 **年份**: 2001 | **DOI**: [10.1177/0950017001015004016](https://doi.org/10.1177/0950017001015004016)
@@ -3398,12 +3398,12 @@
 ### Household Division of Labour: Generation, Gender, Age, Birth Order and Sibling Composition
 **年份**: 2001 | **DOI**: [10.1017/s0950017001008030](https://doi.org/10.1017/s0950017001008030)
 **作者**: Punch, Samantha
-**摘要**: （暂无）
+**摘要**: Many studies have examined the household division of labour from a gender perspective, but comparatively few have considered age and the intergenerational distribution of household work.…
 
 ### Temporary Arrangements: The Activities of Employment Agencies in the UK
 **年份**: 2001 | **DOI**: [10.1177/09500170122119039](https://doi.org/10.1177/09500170122119039)
 **作者**: Forde, Dr Chris
-**摘要**: （暂无）
+**摘要**: Temporary employment agency working has increased dramatically in recent years. Labour Force Survey figures reveal that the number of workers employed on a temporary basis through agencies increased in the UK from 50,000 in 1984 to 250,000 in 1999, by which point temporary agency staff (temps) const…
 
 ### Seeking the Balance between Flexibility and Security: A Rising Issue in the Low Countries
 **年份**: 2001 | **DOI**: [10.1177/09500170122118986](https://doi.org/10.1177/09500170122118986)
@@ -3418,7 +3418,7 @@
 ### Lessons from America: Changes in the US Trade Union Movement
 **年份**: 2001 | **DOI**: [10.1017/s0950017001000095](https://doi.org/10.1017/s0950017001000095)
 **作者**: Carter, Bob
-**摘要**: （暂无）
+**摘要**: S. Aronowitz, From the Ashes of the Old: American Labor and America's Future, New York: Houghton Mifflin, 1998, $25.00, 246 pp. K. Bronfenbrenner, S. Friedman, R. Hurd, R. Oswald and R. Seeber (eds.), Organizing To Win: New Research on Union Strategies, Ithaca: ILR Press, 1998, $19.95 xii+370 pp.…
 
 ### Becoming `Other': The Role of Family and Personal Ties
 **年份**: 2001 | **DOI**: [10.1177/09500170122118896](https://doi.org/10.1177/09500170122118896)
@@ -3433,7 +3433,7 @@
 ### Underemployment in the Netherlands: How the Dutch ‘Poldermodel’ Failed to Close the Education–Jobs Gap
 **年份**: 2001 | **DOI**: [10.1017/s0950017001000046](https://doi.org/10.1017/s0950017001000046)
 **作者**: Batenburg, Ronald; de Witte, Marco
-**摘要**: （暂无）
+**摘要**: Although the populations of the richest advanced industrial societies have achieved unprecedented levels of formal credentials, analysts report on the massive scale of underutilisation of knowledge and skills in current market economies.…
 
 ### Household Work in the UK: An Analysis of the British Household Panel Survey 1994
 **年份**: 2001 | **DOI**: [10.1017/s0950017001000137](https://doi.org/10.1017/s0950017001000137)
@@ -3443,7 +3443,7 @@
 ### Organisations and the Transformation of the Internal Labour Market
 **年份**: 2001 | **DOI**: [10.1017/s0950017001000022](https://doi.org/10.1017/s0950017001000022)
 **作者**: Grimshaw, Damian; Ward, Kevin G.; Rubery, Jill 等4人
-**摘要**: （暂无）
+**摘要**: This paper explores changes in employment policies and practices that are typically associated with the classical `model' of the internal labour market. Drawing on documentary information and interviews with managers in four large organisations in the UK, the evidence suggests that many of the `trad…
 
 ### Women and Labour in Late Colonial India: The Bengal Jute Industry, Samita Sen, Cambridge: Cambridge University Press, 1999, £30.00, xviii+265 pp.
 **年份**: 2001 | **DOI**: [10.1017/s0950017001300107](https://doi.org/10.1017/s0950017001300107)
@@ -3483,7 +3483,7 @@
 ### Organizing Bodies: Policy, Institutions and Work, Linda McKie and Nick Watson (eds.), London: Macmillan, 2000, £21.25, paper £12.79, xxiv+230 pp.
 **年份**: 2001 | **DOI**: [10.1017/s0950017001240446](https://doi.org/10.1017/s0950017001240446)
 **作者**: MONAGHAN, LEE F.
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Book Reviews
 **年份**: 2001 | **DOI**: [10.1177/0950017001015002017](https://doi.org/10.1177/0950017001015002017)
@@ -3493,12 +3493,12 @@
 ### Non-Meritocratic Job Requirements and the Reproduction of Class Inequality: An Investigation
 **年份**: 2001 | **DOI**: [10.1177/09500170122119020](https://doi.org/10.1177/09500170122119020)
 **作者**: Jackson, Michelle
-**摘要**: （暂无）
+**摘要**: Social mobility research has consistently demonstrated that a strong link exists between an individual's social class origins and their social class destination. Yet, in absolute terms, the relationship between class origins and destinations does appear to be weaker now than it was in the past.…
 
 ### Seven Years in the Lives of British Families, Richard Berthoud and Jonathan Gershuny (eds.), Bristol: Policy press, 2000, xii+243 pp.
 **年份**: 2001 | **DOI**: [10.1017/s0950017001220443](https://doi.org/10.1017/s0950017001220443)
 **作者**: PILCHER, JANE
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Books Received
 **年份**: 2001 | **DOI**: [10.1177/09500170122119084](https://doi.org/10.1177/09500170122119084)
@@ -3512,7 +3512,7 @@
 ### The Right to Learn: Educational Strategies for Socially Excluded Youth In Europe, Ides Nicaise (ed.), Bristol: Policy Press, 2000, £18.99, vii+424 pp.
 **年份**: 2001 | **DOI**: [10.1017/s0950017001250442](https://doi.org/10.1017/s0950017001250442)
 **作者**: WILLIAMSON, HOWARD
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Book Reviews
 **年份**: 2001 | **DOI**: [10.1177/0950017001015001013](https://doi.org/10.1177/0950017001015001013)
@@ -3542,7 +3542,7 @@
 ### The Myth of the Entrepreneurial Economy: Employment and Innovation in Small Firms
 **年份**: 2001 | **DOI**: [10.1177/09500170122119002](https://doi.org/10.1177/09500170122119002)
 **作者**: Parker, Rachel
-**摘要**: （暂无）
+**摘要**: The benefits and limitations of the entrepreneurial economy in six countries are examined. Data and other international research evidence on employment generation, conditions of work, and innovation in small enterprises in these countries (Australia, France, Germany, Sweden, UK, and USA) are present…
 
 ### Books Received
 **年份**: 2001 | **DOI**: [10.1177/09500170122118913](https://doi.org/10.1177/09500170122118913)
@@ -3560,12 +3560,12 @@
 ### Team Membership and the Experience of Work in Britain: an Analysis of the WERS98 Data
 **年份**: 2001 | **DOI**: [10.1017/s0950017001007218](https://doi.org/10.1017/s0950017001007218)
 **作者**: Harley, Bill
-**摘要**: （暂无）
+**摘要**: Positive accounts of teamwork emphasise its potential not just to improve organisational performance, but to transform employees' experience of work in overwhelmingly positive ways. The key outcome is said to be enhanced employee discretion, which in turn contributes to satisfaction, commitment and …
 
 ### Work and Pay in Japan, Robert A. Hart and Seiichi Kawasaki, Cambridge: Cambridge University Press, 1999, £40, paperback £14.95, xiv+188 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000260509](https://doi.org/10.1017/s0950017000260509)
 **作者**: FULCHER, JAMES
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Book Reviews
 **年份**: 2000 | **DOI**: [10.1177/0950017000014003024](https://doi.org/10.1177/0950017000014003024)
@@ -3580,17 +3580,17 @@
 ### EMOTIONAL LABOUR AND SEXUAL DIFFERENCE IN THE AIRLINE INDUSTRY
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000040](https://doi.org/10.1017/s0950017000000040)
 **作者**: Taylor, Steve; Tyler, Melissa
-**摘要**: （暂无）
+**摘要**: This paper examines service work within the contemporary airline industry which has recently been shaped by managerial initiatives aiming to deliver ‘quality service’. We focus upon the gendered consequences of this.…
 
 ### The Rise and Decline of the Male Breadwinner Family?, Angélique Janssens (ed.), Cambridge: Cambridge University Press, 1998, 196 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000300368](https://doi.org/10.1017/s0950017000300368)
 **作者**: SCHWARZKOPF, JUTTA
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### New Policies for the Contingent Workforce
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000349](https://doi.org/10.1017/s0950017000000349)
 **作者**: Theodore, Nikolas
-**摘要**: （暂无）
+**摘要**: Kathleen Barker and Kathleen Christensen (eds.), Contingent Work: American Employment Relations in Transition, Ithaca: Cornell University Press 1998, paper £14.95, viii+350 pp.S. A. Herzenberg, J. A. Alic and H.…
 
 ### Adoption of the Organising Model in British Trade Unions: Some Evidence from Manufacturing, Science and Finance (MSF)
 **年份**: 2000 | **DOI**: [10.1177/09500170022118293](https://doi.org/10.1177/09500170022118293)
@@ -3615,7 +3615,7 @@
 ### The Dynamics of Low Pay and Inequality
 **年份**: 2000 | **DOI**: [10.1177/09500170022118617](https://doi.org/10.1177/09500170022118617)
 **作者**: Gregg, Paul
-**摘要**: （暂无）
+**摘要**: These two studies bear a less close relationship to each other than might at first appear from having the words 'Low Pay' in both titles. The common ground is all about the dynamics of the labour market: it asks primarily about the persistence of low pay, where people have come from if not previousl…
 
 ### Book Reviews
 **年份**: 2000 | **DOI**: [10.1177/0950017000014003016](https://doi.org/10.1177/0950017000014003016)
@@ -3640,17 +3640,17 @@
 ### Organisation and Representation: Work and Organisations in Popular Culture, J. Hassard and Ruth Holliday (eds.), London: Sage 1998, x+271 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000270360](https://doi.org/10.1017/s0950017000270360)
 **作者**: CHANEY, DAVID
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Reworking Sex Work
 **年份**: 2000 | **DOI**: [10.1177/09500170022118347](https://doi.org/10.1177/09500170022118347)
 **作者**: West, Jackie
-**摘要**: （暂无）
+**摘要**: Julia O'Connell Davidson, Prostitution, Power and Freedom, Cambridge: Polity Press, 1998, £45, paper £13.95, viii+232 pp.Lin Lean Lim (ed.), The Sex Sector: the Economic and Social bases of Prostitution in Southeast Asia, Geneva: International Labour Organisation, 1998, £19.00 paper, xiii+232 pp.The…
 
 ### Challenging Medicine: The Case of Podiatric Surgery
 **年份**: 2000 | **DOI**: [10.1177/09500170022118455](https://doi.org/10.1177/09500170022118455)
 **作者**: Borthwick, Alan M.
-**摘要**: （暂无）
+**摘要**: This paper examines the establishment of National Health Service (NHS) podiatric surgery as a challenge to the dominance of medicine and its control over the provision of foot surgical services.…
 
 ### Freelance Workers and Contract Uncertainty: The Effects of Contractual Changes in the Television Industry
 **年份**: 2000 | **DOI**: [10.1177/09500170022118419](https://doi.org/10.1177/09500170022118419)
@@ -3665,12 +3665,12 @@
 ### Professional Work and Professional Careers in Manchester's Business and Financial Sector
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000301](https://doi.org/10.1017/s0950017000000301)
 **作者**: Devine, Fiona; Britton, Joanne; Mellor, Rosemary 等4人
-**摘要**: （暂无）
+**摘要**: This paper examines professional work and professional careers and the extent to which professionals face change, uncertainty and risk in their careers. The key issue is whether the power and privilege of the professions is being undermined.…
 
 ### Organizations in Action: Competition across Contexts, Peter Clark, London: Routledge, 1999, £60, paperback £19.99, x+354 pp.
 **年份**: 2000 | **DOI**: [10.1017/s095001700023050x](https://doi.org/10.1017/s095001700023050x)
 **作者**: CARTER, CHRIS
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Book Reviews
 **年份**: 2000 | **DOI**: [10.1177/0950017000014003028](https://doi.org/10.1177/0950017000014003028)
@@ -3705,7 +3705,7 @@
 ### The New Reality for UK Managers: Perpetual Change and Employment Instability
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000404](https://doi.org/10.1017/s0950017000000404)
 **作者**: Worrall, Les; Cooper, Cary; Campbell, Fiona
-**摘要**: （暂无）
+**摘要**: Redundancy, delayering and other forms of organisational change have become increasingly prevalent over the last ten years. Some of the worst-hit industries during the recent years have been the former public utilities, the financial services sector and manufacturing.…
 
 ### Books Received
 **年份**: 2000 | **DOI**: [10.1177/09500170022118365](https://doi.org/10.1177/09500170022118365)
@@ -3719,7 +3719,7 @@
 ### Domestic Divisions of Labour in the Twentieth Century: `Change Slow A-Coming'
 **年份**: 2000 | **DOI**: [10.1177/09500170022118590](https://doi.org/10.1177/09500170022118590)
 **作者**: Pilcher, Jane
-**摘要**: （暂无）
+**摘要**: Rosalind Barnett and Caryl Rivers, She Works, He Works. How Two-Income Families Are Happy, Healthy and Thriving, Cambridge, Mass.: Harvard University Press, 1998, paper £9.95, xii+260 pp. Francine Deutsch, Halving It All.…
 
 ### Employment and Caring in British and Norwegian Banking: An Exploration through Individual Careers
 **年份**: 2000 | **DOI**: [10.1177/09500170022118437](https://doi.org/10.1177/09500170022118437)
@@ -3729,17 +3729,17 @@
 ### Christine Cousins, Society, Work and Welfare in Europe, London: Macmillan Press, 1999, £42.50, paper £13.99, viii+210 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000240233](https://doi.org/10.1017/s0950017000240233)
 **作者**: Badia, Monica
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Challenging Medicine: the case of podiatric surgery
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000209](https://doi.org/10.1017/s0950017000000209)
 **作者**: Borthwick, Alan M.
-**摘要**: （暂无）
+**摘要**: This paper examines the establishment of National Health Service (NHS) podiatric surgery as a challenge to the dominance of medicine and its control over the provision of foot surgical services.…
 
 ### Telling Women's Lives: Narrative Inquiries in the History of Women's Education, Kathleen Weiler and Sue Middleton (eds.), Buckingham and Philadelphia: Open University Press, 1999, paper, x+166 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000380369](https://doi.org/10.1017/s0950017000380369)
 **作者**: BIRD, ELIZABETH
-**摘要**: （暂无）
+**摘要**: Telling Women's Lives: Narrative Inquiries in the History of Women's Education, Kathleen Weiler and Sue Middleton (eds.), Buckingham and Philadelphia: Open University Press, 1999, paper, x+166 pp. - Volume 14 Issue 3
 
 ### `No, We Don't Provide that Service': The Harassment of Hotel Employees by Customers
 **年份**: 2000 | **DOI**: [10.1177/09500170022118680](https://doi.org/10.1177/09500170022118680)
@@ -3749,7 +3749,7 @@
 ### Labour and Globalisation: Results and Prospects
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000210](https://doi.org/10.1017/s0950017000000210)
 **作者**: Munck, Ronaldo
-**摘要**: （暂无）
+**摘要**: Andrew Herod (ed.), Organizing the Landscape. Geographical Perspectives of Labor Unionism, Minneapolis: University of Minnesota Press, 1998, £15.95, xix+372 pp.Eric Lee, The Labour Movement and the Internet.…
 
 ### BOOKS RECEIVED
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000246](https://doi.org/10.1017/s0950017000000246)
@@ -3778,7 +3778,7 @@
 ### WORK ASPIRATIONS AND ATTITUDES IN AN ERA OF LABOUR MARKET RESTRUCTURING: A COMPARISON OF TWO CANADIAN YOUTH COHORTS
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000015](https://doi.org/10.1017/s0950017000000015)
 **作者**: Lowe, Graham S.; Krahn, Harvey
-**摘要**: （暂无）
+**摘要**: This article tests the assumption that youth's work attitudes are changing to reflect the restructured labour markets that often are taken as a characteristic of late-modernity. Comparing 1985 and 1996 cohorts of high school leavers in a Canadian city, we find that occupational aspirations increased…
 
 ### Service Work in Consumer Capitalism: Customers, Control and Contradictions
 **年份**: 2000 | **DOI**: [10.1177/09500170022118671](https://doi.org/10.1177/09500170022118671)
@@ -3788,22 +3788,22 @@
 ### Viviane Forrester, The Economic Horror, Cambridge: Polity Press, 1999, £39.50, paper £9.99, 144 pp.
 **年份**: 2000 | **DOI**: [10.1017/s095001700025023x](https://doi.org/10.1017/s095001700025023x)
 **作者**: Levitas, Ruth
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Different Exit Routes from Unemployment and their Impact on Mental Well-being: The Role of the Economic Situation and the Predictability of the Life Course
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000271](https://doi.org/10.1017/s0950017000000271)
 **作者**: Strandh, Mattias
-**摘要**: （暂无）
+**摘要**: The relationship between unemployment and mental well-being has been thoroughly researched. Longitudinal studies have shown unemployment to have negative impact on mental well-being, whereas re-employment has positive impact.…
 
 ### The Money or The Principle?
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000106](https://doi.org/10.1017/s0950017000000106)
 **作者**: Jones, Bryn
-**摘要**: （暂无）
+**摘要**: Christel Lane and Reinhard Bachmann (eds), Trust within and Between Organizations, Oxford: Oxford University Press 1998, £45.00, xiii+334 pp.Patrick Maclagan, Management and Morality.…
 
 ### Spinning for Labour: Trade Unions and the New Media Environment, Paul Manning, Aldershot: Ashgate, 1998, xii+401 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000320360](https://doi.org/10.1017/s0950017000320360)
 **作者**: WILLIAMS, STEVE
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Book Reviews
 **年份**: 2000 | **DOI**: [10.1177/0950017000014003029](https://doi.org/10.1177/0950017000014003029)
@@ -3818,17 +3818,17 @@
 ### CULTURAL CONTROL AND THE ‘CULTURE MANAGER’: EMPLOYMENT PRACTICES IN A CONSULTANCY
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000052](https://doi.org/10.1017/s0950017000000052)
 **作者**: Grugulis, Irena; Dundon, Tony; Wilkinson, Adrian
-**摘要**: （暂无）
+**摘要**: This article explores the use of 'company culture' as a means of management control. It reports on research conducted in a consultancy that aimed to secure loyalty from its employees through a conscious policy of organised 'play' at company socials.…
 
 ### ‘The Dream Factory’: VW's Modular Production System in Resende, Brazil
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000155](https://doi.org/10.1017/s0950017000000155)
 **作者**: de P. Abreu, Alice R.; Beynon, Huw; Ramalho, José Ricardo
-**摘要**: （暂无）
+**摘要**: This paper draws upon on-going research into the changes taking place in the Brazilian vehicle assembly industry with particular reference to the state of Rio de Janeiro. It focuses upon a case study of Volkswagen's bus and truck assembly plant at Resende.…
 
 ### Domestic Divisions of Labour in the Twentieth Century: ‘Change Slow A-Coming’
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000477](https://doi.org/10.1017/s0950017000000477)
 **作者**: Pilcher, Jane
-**摘要**: （暂无）
+**摘要**: Rosalind Barnett and Caryl Rivers, She Works, He Works. How Two-Income Families Are Happy, Healthy and Thriving, Cambridge, Mass.: Harvard University Press, 1998, paper £9.95, xii+260 pp.Francine Deutsch, Halving It All.…
 
 ### Braverman and the Contribution of Labour Process Analysis to the Critique of Capitalist Production - Twenty-Five Years on
 **年份**: 2000 | **DOI**: [10.1177/09500170022118383](https://doi.org/10.1177/09500170022118383)
@@ -3842,7 +3842,7 @@
 ### Interview on Postindustrialism and the future of the Welfare State
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000465](https://doi.org/10.1017/s0950017000000465)
 **作者**: Esping-Andersen, Gøsta
-**摘要**: （暂无）
+**摘要**: In The Social Foundations of Postindustrial Economies (Oxford University Press, 1999) Gøsta Esping-Andersen presents a classic example of an empirically grounded historically materialist analysis of welfare capitalism, in the tradition of Polanyi, Marshall and others.…
 
 ### `The Dream Factory': VW's Modular Production System in Resende, Brazil
 **年份**: 2000 | **DOI**: [10.1177/09500170022118400](https://doi.org/10.1177/09500170022118400)
@@ -3857,17 +3857,17 @@
 ### UNEMPLOYMENT AND UNEMPLOYMENT BENEFITS IN THE OECD 1960–1990 – AN EMPIRICAL TEST OF NEO-CLASSICAL ECONOMIC THEORY
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000039](https://doi.org/10.1017/s0950017000000039)
 **作者**: Sjöberg, Ola
-**摘要**: （暂无）
+**摘要**: The role of unemployment benefits in explaining the rise and apparent persistence of OECD unemployment has attracted a great deal of scholarly as well as political interest. The disincentive effect of unemployment benefits has mostly been studied with micro-level data, whereas the importance of diff…
 
 ### Subcontracting and the Reregulation of the Employment Relationship: A Case Study from the Telecommunications Industry
 **年份**: 2000 | **DOI**: [10.1017/s095001700000043x](https://doi.org/10.1017/s095001700000043x)
 **作者**: MacKenzie, Robert
-**摘要**: （暂无）
+**摘要**: This is a case study of the use of subcontracting within BT plc the UK's largest telecommunications firm. The 1990s have witnessed significant quantitative and qualitative changes in the utilisation and management of subcontracting within BT.…
 
 ### Restructuring the Professional Organization – Accounting, Health Care and Law, David Brock, Michael Powell and C. R. Hinings (eds.), London: Routledge, 1999, £20.99, x+259 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000220503](https://doi.org/10.1017/s0950017000220503)
 **作者**: HANLON, GERARD
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Book Reviews
 **年份**: 2000 | **DOI**: [10.1177/09500170022118482](https://doi.org/10.1177/09500170022118482)
@@ -3891,27 +3891,27 @@
 ### Studying State Employment Relations: A Maturing Discipline
 **年份**: 2000 | **DOI**: [10.1177/09500170022118473](https://doi.org/10.1177/09500170022118473)
 **作者**: Scott, Peter
-**摘要**: （暂无）
+**摘要**: Susan Corby and Geoff White (eds.), Employee Relations in the Public Services: Themes and Issues , London: Routledge 1999, £60.00, paper £19.99, x+238 pp. Stephen Bach, Lorenzo Bordogna, Guiseppe della Rocca and David Winchester (eds.), Public Service Employment Relations in Europe: Transformation, …
 
 ### The Corrosion of Character: The Personal Consequences of Work in the New Capitalism, Richard Sennett, New York: W. W. Norton &amp; Company, 1999, paperback £8.95, viii+271 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000290508](https://doi.org/10.1017/s0950017000290508)
 **作者**: FEVRE, RALPH
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Harvie E. Ramsay 1949‐2000
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000386](https://doi.org/10.1017/s0950017000000386)
 **作者**: Brown, Richard
-**摘要**: （暂无）
+**摘要**: The sudden death of Harvie Ramsay from a brain haemorrhage on 24 April this year at the age of fifty-one greatly shocked and saddened his many friends and colleagues in the academic world and elsewhere.…
 
 ### Management and Empowerment Programmes
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000295](https://doi.org/10.1017/s0950017000000295)
 **作者**: Hales, Colin
-**摘要**: （暂无）
+**摘要**: This paper addresses the divergence between the widespread rhetoric of empowerment and limited reality of empowerment programmes. Having demonstrated the ambiguities and contradictions in the concept of empowerment to be found in the management literature and, hence, the amenability of the concept t…
 
 ### Robert C. H. Chia (ed.), Organized Worlds: Explorations in technology and organization with Robert Cooper, London: Routledge, 1998, £50.00, vii+ 195 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000230237](https://doi.org/10.1017/s0950017000230237)
 **作者**: Munro, Rolland
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Derecognising Unions and Centralising Bargaining: Analysing Dualism in the Oil and Chemicals Industries
 **年份**: 2000 | **DOI**: [10.1177/09500170022118509](https://doi.org/10.1177/09500170022118509)
@@ -3936,12 +3936,12 @@
 ### The Human Firm: A Socio-Economic Analysis of its Behaviour and Potential in a New Economic Age, John F. Tomer, London and New York: Routledge, 1999.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000370362](https://doi.org/10.1017/s0950017000370362)
 **作者**: HODGSON, GEOFFREY M.
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Automation, Job content, and Underemployment
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000143](https://doi.org/10.1017/s0950017000000143)
 **作者**: de Witte, Marco; Steijn, Bram
-**摘要**: （暂无）
+**摘要**: The on-going skilling debate has already yielded an abundance of contradictory theories, interpretations and empirical contradictions. Based on previous qualitative research in the Netherlands (Steijn and De Witte 1992), we have contributed to this debate by introducing the internal differentiation …
 
 ### Subcontracting and the Reregulation of the Employment Relationship: A Case Study from the Telecommunications Industry
 **年份**: 2000 | **DOI**: [10.1177/09500170022118699](https://doi.org/10.1177/09500170022118699)
@@ -3951,27 +3951,27 @@
 ### Interview on Postindustrialism and the Future of the Welfare State
 **年份**: 2000 | **DOI**: [10.1177/09500170022118725](https://doi.org/10.1177/09500170022118725)
 **作者**: Esping-Andersen, Gøsta
-**摘要**: （暂无）
+**摘要**: In The Social Foundations of Postindustrial Economies (Oxford University Press, 1999) Gosta Esping-Andersen presents a classic example of an empirically grounded historically materialist analysis of welfare capitalism, in the tradition of Polanyi, Marshall and others.…
 
 ### Creative Technological Change: The Shaping of Technology and Organisations, Ian McLoughlin, London: Routledge, 1999, paper, xi+188 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000330367](https://doi.org/10.1017/s0950017000330367)
 **作者**: NOON, MIKE
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### The Realities of Teachers' Work, Sandra Acker, London: Cassell, 1999, xiii+242 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000210362](https://doi.org/10.1017/s0950017000210362)
 **作者**: SKELTON, CHRISTINE
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### The Dynamics of Low Pay and Inequality
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000490](https://doi.org/10.1017/s0950017000000490)
 **作者**: Gregg, Paul
-**摘要**: （暂无）
+**摘要**: R. Asplund, P. Sloane and I. Theodossiou (eds.), Low Pay and Earnings Mobility in Europe, Cheltenham and Northampton, Mass.: Edward Elgar, 1998, £55, xix+334 pp.Abigail McKnight, Peter Elias and Rob Wilson, Low Pay and the National Insurance System: A Statistical Picture, Manchester: EOC, 1998, no c…
 
 ### Work, Organisation and Industry: The Asian Experience, Ai-Yun Hing, C. T. Change and R. Lansbury (eds.),Singapore: Stamford, 1998, 303 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000270505](https://doi.org/10.1017/s0950017000270505)
 **作者**: WEN-CHI-CHOU
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### A Social Movement of the Mature Stage of Post-Industrial Society? The Internal Division of the Finish Trade Union Movement in the 1990s
 **年份**: 2000 | **DOI**: [10.1177/09500170022118301](https://doi.org/10.1177/09500170022118301)
@@ -3981,17 +3981,17 @@
 ### Joe L. Kincheloe, How Do We Tell the Workers?: The Socioeconomic Foundations of Work and Vocational Education, Boulder, Colorado: Westview Press, 1999, £50.00, paper £13.95, xiii+450 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000270232](https://doi.org/10.1017/s0950017000270232)
 **作者**: Taylor, Graham
-**摘要**: （暂无）
+**摘要**: Joe L. Kincheloe, How Do We Tell the Workers?: The Socioeconomic Foundations of Work and Vocational Education, Boulder, Colorado: Westview Press, 1999, £50.00, paper £13.95, xiii+450 pp. - Volume 14 Issue 2
 
 ### Education–Work Relations: Theoretical Reference Points for a Research Domain
 **年份**: 2000 | **DOI**: [10.1017/s095001700000009x](https://doi.org/10.1017/s095001700000009x)
 **作者**: Maroy, Christian; Doray, Pierre
-**摘要**: （暂无）
+**摘要**: The recent syntheses of research on training at work or the education-work relationship have underlined the difficulty of defining their boundaries (Tanguy 1986; Jobert et al. 1995; Raffe 1995).…
 
 ### Subcontracting in the Privatised Coal Industry
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000441](https://doi.org/10.1017/s0950017000000441)
 **作者**: Wallis, Emma; Winterton, Jonathan; Winterton, Ruth
-**摘要**: （暂无）
+**摘要**: Since the beginning of the 1980s significant academic interest has focused on the process of capitalist restructuring, although opinion is divided as to the nature of this. Some commentators have suggested that Fordism is being displaced as the dominant mode of production (Hirst and Zeitlin 1991) by…
 
 ### BOOKS RECEIVED
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000118](https://doi.org/10.1017/s0950017000000118)
@@ -4000,27 +4000,27 @@
 ### Child Employment Research in Britain
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000337](https://doi.org/10.1017/s0950017000000337)
 **作者**: McKechnie, Jim; Lavalette, Michael; Hobbs, Sandy
-**摘要**: （暂无）
+**摘要**: The recent article by Mizen, Bolton and Pole (1999) is a welcome addition to the literature on child labour in contemporary Britain. We agree with the authors that academics have neglected this issue for too long.…
 
 ### Gender and the Labour Market at the Turn of the Century: Complexity, Ambiguity and Change
 **年份**: 2000 | **DOI**: [10.1177/09500170022118608](https://doi.org/10.1177/09500170022118608)
 **作者**: Bottero, Wendy
-**摘要**: （暂无）
+**摘要**: Rosemary Crompton, Women and Work in Modern Britain, Oxford: Oxford University Press, 1997, paper £9.99, xi+155 pp. Sylvia Walby, Gender Transformations, London: Routledge, 1997, paper £13.99, x+245 pp.…
 
 ### The Money or the Principle?
 **年份**: 2000 | **DOI**: [10.1177/09500170022118220](https://doi.org/10.1177/09500170022118220)
 **作者**: Jones, Bryn
-**摘要**: （暂无）
+**摘要**: Christel Lane and Reinhard Bachmann (eds), Trust within and Between Organizations , Oxford: Oxford University Press 1998, £45.00, xiii+334 pp. Patrick Maclagan, Management and Morality. A Developmental Perspective , London: Sage, £45.00, paper £14.99, vii+212 pp.…
 
 ### Harvie E. Ramsay 1949-2000
 **年份**: 2000 | **DOI**: [10.1177/09500170022118644](https://doi.org/10.1177/09500170022118644)
 **作者**: Brown, Richard
-**摘要**: （暂无）
+**摘要**: The sudden death of Harvie Ramsay from a brain haemorrhage on 24 April this year at the age of fifty-one greatly shocked and saddened his many friends and colleagues in the academic world and elsewhere.…
 
 ### Freelance Workers and Contract Uncertainty: The effects of Contractual Changes in the Television Industry
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000167](https://doi.org/10.1017/s0950017000000167)
 **作者**: Dex, Shirley; Willis, Janet; Paterson, Richard 等4人
-**摘要**: （暂无）
+**摘要**: Changes in the competitive and regulative conditions of British television over the 1980s and 1990s make for an environment of increased uncertainty for those who work in television.…
 
 ### Book Reviews
 **年份**: 2000 | **DOI**: [10.1177/0950017000014004020](https://doi.org/10.1177/0950017000014004020)
@@ -4035,37 +4035,37 @@
 ### Subcontracting in the Privatised Coal Industry
 **年份**: 2000 | **DOI**: [10.1177/09500170022118707](https://doi.org/10.1177/09500170022118707)
 **作者**: Wallis, Emma; Winterton, Jonathan; Winterton, Ruth
-**摘要**: （暂无）
+**摘要**: Since the beginning of the 1980s significant academic interest has focused on the process of capitalist restructuring, although opinion is divided as to the nature of this. Some commentators have suggested that Fordism is being displaced as the dominant mode of production (Hirst and Zeitlin 1991) by…
 
 ### `Family Friendly' Policies and Practices in the Oil and Gas Industry: Employers' Perspectives
 **年份**: 2000 | **DOI**: [10.1177/09500170022118572](https://doi.org/10.1177/09500170022118572)
 **作者**: McKee, Lorna; Mauthner, Natasha; Maclean, Catherine
-**摘要**: （暂无）
+**摘要**: The paper explores whether key oil and gas companies are expressing awareness of the work–family debate and reports findings from an ongoing three-year study, funded by the ESRC, which provides an account of the work-family interface in relation to the oil and gas industry.…
 
 ### Post-Communist Workplace Relations in Hungary: Case Studies from the Clothing Industry
 **年份**: 2000 | **DOI**: [10.1177/09500170022118716](https://doi.org/10.1177/09500170022118716)
 **作者**: Frege, Carola M.
-**摘要**: （暂无）
+**摘要**: A decade after the fall of communism scholars widely agree that the transformation process of democratisation and marketisation in central eastern Europe (CEE) has left unions (new and independent and successors to the official communist unions alike) with little power to influence political and eco…
 
 ### Social Science Contract Researchers in Higher Education: Perceptions of Craft Knowledge
 **年份**: 2000 | **DOI**: [10.1177/09500170022118310](https://doi.org/10.1177/09500170022118310)
 **作者**: Collinson, Jacquelyn Allen
-**摘要**: （暂无）
+**摘要**: The past two decades have witnessed a trend towards the use of fixed-term and part-time contracts in higher education in the UK, where over a third of routine academic work is now carried out by staff on fixed-term contracts (Ainley 1994).…
 
 ### The Making of NIPSA: A History of the Northern Ireland Public Service Alliance: 1919–1974, Terry Cradden, Belfast: December Publications, 1998, paperback £9.99, xiv+215 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000240506](https://doi.org/10.1017/s0950017000240506)
 **作者**: SINCLAIR, JACKIE
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Music Genres and Corporate Cultures, Keith Negus, London: Routledge, 1999, ix+209 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000340363](https://doi.org/10.1017/s0950017000340363)
 **作者**: DITCHBURN, HELEN
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Transforming Managers: Gendering Change in the Public Sector, Stephen Whitehead and Roy Moodley (eds.), London: UCL Press, xiv+239 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000300502](https://doi.org/10.1017/s0950017000300502)
 **作者**: SAVAGE, MIKE
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Book Reviews
 **年份**: 2000 | **DOI**: [10.1177/0950017000014003014](https://doi.org/10.1177/0950017000014003014)
@@ -4075,37 +4075,37 @@
 ### The crucial aspects of class: An empirical assessment of the relevance of class analysis with Swedish data covering the late twentieth century
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000179](https://doi.org/10.1017/s0950017000000179)
 **作者**: Bihagen, Erik; Halleröd, Björn
-**摘要**: （暂无）
+**摘要**: Class structure and class formation are two crucial aspects of class. The former relates to differences in market positions and the latter concerns social factors such as interaction, mobility and class action. This paper is based on Swedish data covering the period from 1975 to 1995.…
 
 ### The Myth of the Urban Peasant
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000283](https://doi.org/10.1017/s0950017000000283)
 **作者**: Clarke, Simon; Varshavskaya, Lena; Alasheev, Sergei 等4人
-**摘要**: （暂无）
+**摘要**: This paper explores, the ‘myth of the urban peasant’, the widespread belief that urban Russian households are surviving the collapse of employment and money incomes by turning to subsistence agriculture.…
 
 ### Jan Holmer and Jan Ch. Karlsson (eds.), Work – Quo Vadis? Re-thinking the Question of Work, Aldershot: Ashgate, 1997, £42.50, viii+346 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000260236](https://doi.org/10.1017/s0950017000260236)
 **作者**: Strangleman, Tim
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### ‘Other Kinds of Dreams’: Black Women's Organisations and the Politics of Transformation, Julia Sudbury, London: Routledge, 1998, £50.00, paper £14.99, xv+282 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000360366](https://doi.org/10.1017/s0950017000360366)
 **作者**: IFEKWUNIGWE, JAYNE O.
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### A. S. Bhalla and Frédéric Lapeyre, Poverty and Exclusion in a Global World, London: Macmillan, 1999, £45.00, xvi+237 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000220230](https://doi.org/10.1017/s0950017000220230)
 **作者**: Clegg, Stewart
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Women and Trade Unions: A Comparative Perspective, Jennifer Curtin, Hampshire: Ashgate, 1999, £35.00, ix+189 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000250502](https://doi.org/10.1017/s0950017000250502)
 **作者**: HEALY, GERALDINE
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Divergent Capitalisms. The Social Structuring and Change of Business Systems, Richard Whitley, Oxford: Oxford University Press, 1999, 301 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000310509](https://doi.org/10.1017/s0950017000310509)
 **作者**: LANE, CHRISTEL
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Book Reviews
 **年份**: 2000 | **DOI**: [10.1177/0950017000014004017](https://doi.org/10.1177/0950017000014004017)
@@ -4115,7 +4115,7 @@
 ### Emerging Voices: Women in Contemporary Irish Society, Pat O'Connor, Dublin: Institute of Public Administration, 1998, paperback, IR 18.95, 307 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000280501](https://doi.org/10.1017/s0950017000280501)
 **作者**: WARD, MARGARET
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Book Reviews
 **年份**: 2000 | **DOI**: [10.1177/0950017000014003026](https://doi.org/10.1177/0950017000014003026)
@@ -4145,32 +4145,32 @@
 ### AGE STRATIFICATION AND CLASS FORMATION: A LONGITUDINAL STUDY OF THE SOCIAL MOBILITY OF YOUNG MEN AND WOMEN, 1971–1991
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000027](https://doi.org/10.1017/s0950017000000027)
 **作者**: Egerton, Muriel; Savage, Mike
-**摘要**: （暂无）
+**摘要**: This paper examines the relationship between processes of demographic class formation, gender inequality and age stratification in England and Wales between 1971 and 1991. Existing research shows that the complex process of class restructuring which took place in these years is linked to considerabl…
 
 ### The Role of Social Capital in Developing Czech Private Business
 **年份**: 2000 | **DOI**: [10.1017/s095001700000026x](https://doi.org/10.1017/s095001700000026x)
 **作者**: Clark, Ed
-**摘要**: （暂无）
+**摘要**: The development of new private business has both economic and social significance for the post-communist transition. New business firms offer industrial dynamism and flexibility to former command economies typically dominated by gigantic monopolies, while, unlike privatised enterprises, not reproduc…
 
 ### Child Employment Research in Britain
 **年份**: 2000 | **DOI**: [10.1177/09500170022118581](https://doi.org/10.1177/09500170022118581)
 **作者**: McKechnie, Jim; Lavalette, Michael; Hobbs, Sandy
-**摘要**: （暂无）
+**摘要**: The recent article by Mizen, Bolton and Pole (1999) is a welcome addition to the literature on child labour in contemporary Britain. We agree with the authors that academics have neglected this issue for too long.…
 
 ### Technical Labour in an Engineering Boutique: Interpretive Frameworks of Sales and R&amp;D Engineers
 **年份**: 2000 | **DOI**: [10.1017/s095001700000012x](https://doi.org/10.1017/s095001700000012x)
 **作者**: Darr, Asaf
-**摘要**: （暂无）
+**摘要**: This ethnographic study of engineers in action introduces an interpretive approach to the recent debate about the factors shaping the organisation of engineering labour within the firm.…
 
 ### Women's Health at Work, Åsa Kilbom, Karen Messing and Carina Bildt Thorbjörnsson (eds.), Solna: Arbetslivsinstitutet – National Institute for Working Life, 1998, 321 pp., paper.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000290363](https://doi.org/10.1017/s0950017000290363)
 **作者**: HARRISON, BARBARA
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Social Exclusion, David Byrne, Buckingham: Open University Press, 1999, paper, xi+158 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000230365](https://doi.org/10.1017/s0950017000230365)
 **作者**: CRAIG, GARY
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Book Reviews
 **年份**: 2000 | **DOI**: [10.1177/0950017000014004022](https://doi.org/10.1177/0950017000014004022)
@@ -4185,12 +4185,12 @@
 ### Production Supervisors in Britain, Germany and the United States: Back from the Dead Again?
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000398](https://doi.org/10.1017/s0950017000000398)
 **作者**: Mason, Geoff
-**摘要**: （暂无）
+**摘要**: The recent diffusion of ‘lean production’ work practices and various forms of team-working in manufacturing industry has revived old arguments about the likely decline of production supervisors.…
 
 ### Gender, Choice and Commitment: Women Solicitors in England and Wales and the Struggle for Equal Status, Hilary Sommerlad and Peter Sanderson, Aldershot: Ashgate, 1998, xii+348 pp.
 **年份**: 2000 | **DOI**: [10.1017/s095001700035036x](https://doi.org/10.1017/s095001700035036x)
 **作者**: EVETTS, JULIA
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Book Reviews
 **年份**: 2000 | **DOI**: [10.1177/0950017000014003015](https://doi.org/10.1177/0950017000014003015)
@@ -4210,27 +4210,27 @@
 ### Reclaiming Work: Beyond the Wage-Based Society, André Gorz, Cambridge: Polity Press, 1999, £13.99, 185 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000260364](https://doi.org/10.1017/s0950017000260364)
 **作者**: ERICKSON, MARK
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Attitudes, Expectations and Labour Market Behaviour: the Case of Self-Employment in the UK Construction Industry
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000192](https://doi.org/10.1017/s0950017000000192)
 **作者**: Nisbet, Peter; Thomas, Wayne
-**摘要**: （暂无）
+**摘要**: Why do labour market participants with similar capabilities hold different attitudes and perceptions about normal and atypical forms of employment? This is a particular problem for even the most appropriate models of labour market segmentation.…
 
 ### ‘No, We Don't Provide That Service’: The Harassment of Hotel Employees by Customers
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000428](https://doi.org/10.1017/s0950017000000428)
 **作者**: Guerrier, Yvonne; Adib, Amel S.
-**摘要**: （暂无）
+**摘要**: Whilst hotel management's rhetoric encourages staff to provide the best possible service by satisfying customers' needs, front line staff find themselves bearing the brunt of any abusive and sexual behaviour from customers.…
 
 ### Gender and Power in the Workplace: Analysing the Impact of Economic Change, Harriet Bradley, Basingstoke: Macmillan Press, 1999, paper £13.99, ix+250 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000220369](https://doi.org/10.1017/s0950017000220369)
 **作者**: MCDOWELL, LINDA
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### The Betrayal of Local 14, Julius Getman, Ithaca: Cornell University Press, 1998, £23.95, xiv+259 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000250368](https://doi.org/10.1017/s0950017000250368)
 **作者**: STIRLING, JOHN
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Book Reviews
 **年份**: 2000 | **DOI**: [10.1177/0950017000014004014](https://doi.org/10.1177/0950017000014004014)
@@ -4240,7 +4240,7 @@
 ### Service Work in Consumer Capitalism: Customers, Control and Contradictions
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000416](https://doi.org/10.1017/s0950017000000416)
 **作者**: Korczynski, Marek; Shire, Karen; Frenkel, Stephen 等4人
-**摘要**: （暂无）
+**摘要**: There is an important literature suggesting that the consumer has become a key focus of identity and figure of authority in contemporary society. Within this literature, however, there is little consideration of the role that the identification with the customer could play in management control with…
 
 ### Unemployment and Unemployment Benefits in the OECD 1960-1990 - An Empirical Test of Neo-Classical Economic Theory
 **年份**: 2000 | **DOI**: [10.1177/09500170022118266](https://doi.org/10.1177/09500170022118266)
@@ -4274,27 +4274,27 @@
 ### Studying state employment relations: a maturing discipline
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000350](https://doi.org/10.1017/s0950017000000350)
 **作者**: Scott, Peter
-**摘要**: （暂无）
+**摘要**: Susan Corby and Geoff White (eds.), Employee Relations in the Public Services: Themes and Issues, London: Routledge 1999, £60.00, paper £19.99, x+238 pp.Stephen Bach, Lorenzo Bordogna, Guiseppe della Rocca and David Winchester (eds.), Public Service Employment Relations in Europe: Transformation, Mo…
 
 ### Weaving Work and Motherhood, Anita Ilta Garey, Philadelphia: Temple University Press, 1999, $59.50, paper $19.95, xi+239 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000240361](https://doi.org/10.1017/s0950017000240361)
 **作者**: BAILEY, LUCY
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Post-Communist Workplace Relations in Hungary: Case Studies from the Clothing Industry
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000453](https://doi.org/10.1017/s0950017000000453)
 **作者**: Frege, Carola M.
-**摘要**: （暂无）
+**摘要**: A decade after the fall of communism scholars widely agree that the transformation process of democratisation and marketisation in central eastern Europe (CEE) has left unions (new and independent and successors to the official communist unions alike) with little power to influence political and eco…
 
 ### ADOPTION OF THE ORGANISING MODEL IN BRITISH TRADE UNIONS: SOME EVIDENCE FROM MANUFACTURING, SCIENCE AND FINANCE (MSF)
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000064](https://doi.org/10.1017/s0950017000000064)
 **作者**: Carter, Bob
-**摘要**: （暂无）
+**摘要**: There is increasing evidence of a widespread recognition within the British trade union movement of the need to change. Amongst the directions of change being considered is adoption of the ‘organising model’ borrowed from the United States.…
 
 ### ‘Family Friendly’ Policies and Practices in the Oil and Gas Industry: Employers' Perspectives
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000325](https://doi.org/10.1017/s0950017000000325)
 **作者**: McKee, Lorna; Mauthner, Natasha; Maclean, Catherine
-**摘要**: （暂无）
+**摘要**: The paper explores whether key oil and gas companies are expressing awareness of the work–family debate and reports findings from an ongoing three-year study, funded by the ESRC, which provides an account of the work-family interface in relation to the oil and gas industry.…
 
 ### Book Reviews
 **年份**: 2000 | **DOI**: [10.1177/0950017000014003021](https://doi.org/10.1177/0950017000014003021)
@@ -4304,17 +4304,17 @@
 ### Education-Work Relations: Theoretical Reference Points for a Research Domain
 **年份**: 2000 | **DOI**: [10.1177/09500170022118329](https://doi.org/10.1177/09500170022118329)
 **作者**: Maroy, Christian; Doray, Pierre
-**摘要**: （暂无）
+**摘要**: In this article, the authors examine the various approaches apparent in the research domain of the relationship between education, work and employment. The aim is to identify the main differences between the approaches and to propose a number of hypotheses on the reasons for the development of these…
 
 ### Gender and the Labour Market at the Turn of The Century: Complexity, Ambiguity and Change
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000489](https://doi.org/10.1017/s0950017000000489)
 **作者**: Bottero, Wendy
-**摘要**: （暂无）
+**摘要**: Rosemary Crompton, Women and Work in Modern Britain, Oxford: Oxford University Press, 1997, paper £9.99, xi+155 pp. Sylvia Walby, Gender Transformations, London: Routledge, 1997, paper £13.99, x+245 pp.Sue Hatt, Gender, Work and Labour Markets, Basingstoke: Macmillan Press, 1997, paper £16.99, xi+20…
 
 ### Barbara B. Stern (ed.), Representing Consumers: Voices, Views and Visions, London and New York: Routledge, 1998, paper £23.99, xv+400 pp.
 **年份**: 2000 | **DOI**: [10.1017/s095001700030023x](https://doi.org/10.1017/s095001700030023x)
 **作者**: Aldridge, Alan
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Book Reviews
 **年份**: 2000 | **DOI**: [10.1177/0950017000014004025](https://doi.org/10.1177/0950017000014004025)
@@ -4324,27 +4324,27 @@
 ### Angela McRobbie, British Fashion Design: Rag Trade or Image Industry?, London: Routledge, 1998, paper £12.99, viii+208 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000280239](https://doi.org/10.1017/s0950017000280239)
 **作者**: Wakeford, Nina
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Women and Social Class: International Feminist Perspectives, Christine Zmroczek and Pat Mahony (eds.), London: UCL Press, 1999, paperback £14.99, x+241 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000330501](https://doi.org/10.1017/s0950017000330501)
 **作者**: GREEN, MARCI
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Under Educating Women: Globalising Inequality, Jacky Brine, Buckingham: Open University Press, 1999, £55.00, paperback £17.99, xii+178 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000210507](https://doi.org/10.1017/s0950017000210507)
 **作者**: REES, TERESA
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Labour and Globalisation: Results and Prospects
 **年份**: 2000 | **DOI**: [10.1177/09500170022118338](https://doi.org/10.1177/09500170022118338)
 **作者**: Munck, Ronaldo
-**摘要**: （暂无）
+**摘要**: Andrew Herod (ed.), Organizing the Landscape. Geographical Perspectives of Labor Unionism, Minneapolis: University of Minnesota Press, 1998, £15.95, xix+372 pp.Eric Lee, The Labour Movement and the Internet.…
 
 ### Employment and Caring in British and Norwegian banking: an exploration through individual careers
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000180](https://doi.org/10.1017/s0950017000000180)
 **作者**: Crompton, Rosemary; Birkelund, Gunn Elisabeth
-**摘要**: （暂无）
+**摘要**: The continuing expansion of women's employment has increasingly focused attention on the question of how the caring work traditionally carried out by unpaid women will be accomplished.…
 
 ### Books Received
 **年份**: 2000 | **DOI**: [10.1177/09500170022118239](https://doi.org/10.1177/09500170022118239)
@@ -4358,7 +4358,7 @@
 ### Skill-Mix Changes and Work Intensification in Nursing
 **年份**: 2000 | **DOI**: [10.1177/09500170022118563](https://doi.org/10.1177/09500170022118563)
 **作者**: Adams, Ann; Lugsden, Edward; Chase, Jonathan 等5人
-**摘要**: （暂无）
+**摘要**: Recent National Health Service (NHS) structural and policy changes have brought with them shifts in the ideals, pace, and physical location of work, with significant consequences for staff.…
 
 ### Book Reviews
 **年份**: 2000 | **DOI**: [10.1177/0950017000014003018](https://doi.org/10.1177/0950017000014003018)
@@ -4372,17 +4372,17 @@
 ### Contemporary Capitalism: The Embeddedness of Institutions, J. Rogers Hollingsworth and Robert Boyer (eds.), Cambridge: Cambridge University Press, 1997, £45.00, xvi+493 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000280367](https://doi.org/10.1017/s0950017000280367)
 **作者**: SAYER, ANDREW
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Why Unions Matter, Michael D. Yates, New York: Monthly Review Press, 1998, paperback $17.00, xii+183 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000320505](https://doi.org/10.1017/s0950017000320505)
 **作者**: JEFFERYS, STEVE
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Richard Anker, Gender and Jobs, Sex Segregation of Occupations in the World, Geneva: International Labour Office, 1998, paperback 45 Swiss francs, xii+444 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000210234](https://doi.org/10.1017/s0950017000210234)
 **作者**: Jarman, Jennifer
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Book Reviews
 **年份**: 2000 | **DOI**: [10.1177/09500170022118626](https://doi.org/10.1177/09500170022118626)
@@ -4392,32 +4392,32 @@
 ### Skill-Mix Changes and Work Intensification in Nursing
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000313](https://doi.org/10.1017/s0950017000000313)
 **作者**: Adams, Ann; Lugsden, Edward; Chase, Jonathan 等5人
-**摘要**: （暂无）
+**摘要**: Recent National Health Service (NHS) structural and policy changes have brought with them shifts in the ideals, pace, and physical location of work, with significant consequences for staff.…
 
 ### Braverman and the Contribution of Labour Process Analysis to the Critique of Capitalist Production – Twenty-Five Years On
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000131](https://doi.org/10.1017/s0950017000000131)
 **作者**: Spencer, David A.
-**摘要**: （暂无）
+**摘要**: This paper seeks to reassess the contributions made by Braverman and subsequent labour process writers to the critique of capitalist production. Braverman's main motivation lay with the subversion of pro-capitalist ideologies.…
 
 ### David Peetz, Unions in a Contrary World: The Future of the Australian Trade Union Movement, Cambridge: Cambridge University Press, 1998, £45.00, paper £15.95, xi+243 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000290235](https://doi.org/10.1017/s0950017000290235)
 **作者**: Haynes, Peter
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Derecognising Unions and Centralising Bargaining: analysing dualism in the oil and chemicals industries
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000258](https://doi.org/10.1017/s0950017000000258)
 **作者**: Korczynski, Marek; Ritson, Neil
-**摘要**: （暂无）
+**摘要**: There has been a recent rise in employers derecognising unions. The oil and chemical industries have been identified as critical for the analysis and practice of derecognition. This paper presents data showing that major oil and chemical firms have, on the one hand, derecognised unions for key inter…
 
 ### A Social Movement of the Mature State of Post-industrial Society? The Internal Division of the Finnish trade union movement in the 1990s
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000076](https://doi.org/10.1017/s0950017000000076)
 **作者**: Ilmonen, Kaj; Jokivuori, Pertti
-**摘要**: （暂无）
+**摘要**: The past two decades have seen a significant shift in the industrial relations climate throughout Europe. More widespread use of individual contracts and the proliferation of non-standard forms of employment – in particular fixed-term and temporary contracts – have led many commentators to question …
 
 ### Challenging Women: Gender, Culture and Organization, Su Maddock, London: Sage, 1999, £50, paper £17.99, 250 pp.
 **年份**: 2000 | **DOI**: [10.1017/s0950017000310364](https://doi.org/10.1017/s0950017000310364)
 **作者**: RUTHERFORD, SARAH
-**摘要**: （暂无）
+**摘要**: An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.
 
 ### Automation, Job content, and Underemployment
 **年份**: 2000 | **DOI**: [10.1177/09500170022118392](https://doi.org/10.1177/09500170022118392)
@@ -4432,12 +4432,12 @@
 ### Social Science Contract Researchers in Higher Education: Perceptions of Craft Knowledge
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000088](https://doi.org/10.1017/s0950017000000088)
 **作者**: Collinson, Jacquelyn Allen
-**摘要**: （暂无）
+**摘要**: The past two decades have witnessed a trend towards the use of fixed-term and part-time contracts in higher education in the UK, where over a third of routine academic work is now carried out by staff on fixed-term contracts (Ainley 1994). As Kogan et al.…
 
 ### Reworking Sex Work
 **年份**: 2000 | **DOI**: [10.1017/s0950017000000222](https://doi.org/10.1017/s0950017000000222)
 **作者**: West, Jackie
-**摘要**: （暂无）
+**摘要**: Julia O'Connell Davidson, Prostitution, Power and Freedom, Cambridge: Polity Press, 1998, £45, paper £13.95, viii+232 pp.Lin Lean Lim (ed.), The Sex Sector: the Economic and Social bases of Prostitution in Southeast Asia, Geneva: International Labour Organisation, 1998, £19.00 paper, xiii+232 pp.The…
 
 ### The New Reality for UK Managers: Perpetual Change and Employment Instability
 **年份**: 2000 | **DOI**: [10.1177/09500170022118662](https://doi.org/10.1177/09500170022118662)

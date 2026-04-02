@@ -353,17 +353,17 @@
 ### A sociology for the second great transformation?
 **年份**: 2000 | **DOI**: [10.1146/annurev.soc.26.1.693](https://doi.org/10.1146/annurev.soc.26.1.693)
 **作者**: Burawoy, M
-**摘要**: （暂无）
+**摘要**: The term intersectionality references the critical insight that race, class, gender, sexuality, ethnicity, nation, ability, and age operate not as unitary, mutually exclusive entities, but rather as reciprocally constructing phenomena. Despite this ...Read More
 
 ### Agenda for sociology at the start of the twenty-first century
 **年份**: 2000 | **DOI**: [10.1146/annurev.soc.26.1.697](https://doi.org/10.1146/annurev.soc.26.1.697)
 **作者**: Hechter, M
-**摘要**: （暂无）
+**摘要**: The term intersectionality references the critical insight that race, class, gender, sexuality, ethnicity, nation, ability, and age operate not as unitary, mutually exclusive entities, but rather as reciprocally constructing phenomena. Despite this ...Read More
 
 ### What I don't know about my field but wish I did
 **年份**: 2000 | **DOI**: [10.1146/annurev.soc.26.1.699](https://doi.org/10.1146/annurev.soc.26.1.699)
 **作者**: Massey, DS
-**摘要**: （暂无）
+**摘要**: As a young college student in the early 1970s, I was very indecisive. I had always been attracted to academia but, having come of age during the 1960s, I was determined to do something relevant with my life. Earning a decent living was the last thing on my mind.…
 
 ### Family, state, and child well-being
 **年份**: 2000 | **DOI**: [10.1146/annurev.soc.26.1.703](https://doi.org/10.1146/annurev.soc.26.1.703)
@@ -373,12 +373,12 @@
 ### Getting it right: Sex and race inequality in work organizations
 **年份**: 2000 | **DOI**: [10.1146/annurev.soc.26.1.707](https://doi.org/10.1146/annurev.soc.26.1.707)
 **作者**: Reskin, BF
-**摘要**: （暂无）
+**摘要**: One of sociology's major accomplishments in the last quarter of the twentieth century was establishing that race and gender matter at work. We have been far less successful in explaining why workers' sex and race affect their employment outcomes, however, especially why jobs are segregated by sex an…
 
 ### Whither the sociological study of crime?
 **年份**: 2000 | **DOI**: [10.1146/annurev.soc.26.1.711](https://doi.org/10.1146/annurev.soc.26.1.711)
 **作者**: Sampson, RJ
-**摘要**: （暂无）
+**摘要**: The rapid growth of the platform economy has provoked scholarly discussion of its consequences for the nature of work and employment. We identify four major themes in the literature on platform work and the underlying metaphors associated with each. ...Read More
 
 ### On granularity
 **年份**: 2000 | **DOI**: [10.1146/annurev.soc.26.1.715](https://doi.org/10.1146/annurev.soc.26.1.715)
@@ -388,4 +388,4 @@
 ### How do relations store histories?
 **年份**: 2000 | **DOI**: [10.1146/annurev.soc.26.1.721](https://doi.org/10.1146/annurev.soc.26.1.721)
 **作者**: Tilly, C
-**摘要**: （暂无）
+**摘要**: The term intersectionality references the critical insight that race, class, gender, sexuality, ethnicity, nation, ability, and age operate not as unitary, mutually exclusive entities, but rather as reciprocally constructing phenomena. Despite this ...Read More

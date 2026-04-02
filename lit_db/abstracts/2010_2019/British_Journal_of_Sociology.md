@@ -538,7 +538,7 @@
 ### DNA, reconciliation and social empowerment
 **年份**: 2018 | **DOI**: [10.1111/1468-4446.12597](https://doi.org/10.1111/1468-4446.12597)
 **作者**: Egorova, Yulia
-**摘要**: （暂无）
+**摘要**: Publisher's copyright statement: This is the accepted version of the following article: Egorova, Yulia (2018). DNA, reconciliation and social empowerment. The British Journal of Sociology 69(3): 545-551, which has been published in nal form at https://doi.org/10.1111/1468-4446.12597.…
 
 ### Slavery and institutional morality at Georgetown University: Reply to Nelson
 **年份**: 2018 | **DOI**: [10.1111/1468-4446.12600](https://doi.org/10.1111/1468-4446.12600)
@@ -1386,7 +1386,7 @@
 ### Capital in the Twenty‐First Century: a multidimensional approach to the history of capital and social classes
 **年份**: 2014 | **DOI**: [10.1111/1468-4446.12115](https://doi.org/10.1111/1468-4446.12115)
 **作者**: Piketty, Thomas
-**摘要**: （暂无）
+**摘要**: I am most grateful to the editors of the British Journal of Sociology for putting together such an impressive set of review papers about my book. I am very honoured by the very thoughtful essays written by such a distinguished group of scholars coming from sociology, political science, anthropology,…
 
 ### After Piketty?
 **年份**: 2014 | **DOI**: [10.1111/1468-4446.12105](https://doi.org/10.1111/1468-4446.12105)
@@ -1657,7 +1657,7 @@
 ### Tension points in real social science: A response
 **年份**: 2013 | **DOI**: [10.1111/1468-4446.12047_4](https://doi.org/10.1111/1468-4446.12047_4)
 **作者**: Flyvbjerg, Bent; Landman, Todd; Schram, Sanford
-**摘要**: （暂无）
+**摘要**: Social science today often contents itself with trying to explain particular events in terms of general models without understanding those events as experienced by the people being studied and without providing findings that might help people address the problems they are experiencing.It can be argu…
 
 ### Yuval–Davis, NiraThe Politics of Belonging: Intersectional Contestations, Sage2011 226 pp. £79 (hardback) £26.99 (paperback)
 **年份**: 2013 | **DOI**: [10.1111/1468-4446.12022_7](https://doi.org/10.1111/1468-4446.12022_7)
@@ -1845,7 +1845,7 @@
 ### Note from the Editor
 **年份**: 2012 | **DOI**: [10.1111/j.1468-4446.2012.01427.x](https://doi.org/10.1111/j.1468-4446.2012.01427.x)
 **作者**: Wright, Richard
-**摘要**: （暂无）
+**摘要**: I joined the British Journal of Sociology as North American-based Editor nearly six years ago, becoming Editor-in-Chief in 2008. This will be my last issue, ending a bold experiment during which an American-based academic edited the Journal.…
 
 ### Community organization moderates the effect of alcohol outlet density on violence
 **年份**: 2012 | **DOI**: [10.1111/j.1468-4446.2012.01432.x](https://doi.org/10.1111/j.1468-4446.2012.01432.x)
@@ -1914,7 +1914,7 @@
 ### Commodifying migration: excluding migrants in Europe's emerging social model
 **年份**: 2012 | **DOI**: [10.1111/j.1468-4446.2011.01402.x](https://doi.org/10.1111/j.1468-4446.2011.01402.x)
 **作者**: Schmidtke, Oliver
-**摘要**: （暂无）
+**摘要**: Modes of social inclusion and the dominant ways of perceiving related issues of social justice are in a state of transformation in contemporary Western societies. Traditional features of the European social model are called into question by a neoliberal logic that favours market solutions to manage …
 
 ### Notes to contributors
 **年份**: 2012 | **DOI**: [10.1111/j.1468-4446.2012.01415.x](https://doi.org/10.1111/j.1468-4446.2012.01415.x)
@@ -1948,7 +1948,7 @@
 ### Rudnyckyj, DaromirSpiritual Economics: Islam, Globalization, and the Afterlife of Development2010Cornell University Press 289 pp. £60 (hardback) and £18.99 (paperback)
 **年份**: 2012 | **DOI**: [10.1111/j.1468-4446.2012.01436_9.x](https://doi.org/10.1111/j.1468-4446.2012.01436_9.x)
 **作者**: Tugal, Cihan
-**摘要**: （暂无）
+**摘要**: This is a strong ethnography of neoliberalism based on the observation of managers and employees in one of Indonesia's largest companies. Spiritual Economies advances one strand of the studies of transition to a market economy: the study of neoliberal subjectivity.…
 
 ### Urry, JohnClimate Change and SocietyCambridge: Polity Press2011 200 pp. £55 (hardback) £15.99 (paperback)
 **年份**: 2012 | **DOI**: [10.1111/j.1468-4446.2012.01436_10.x](https://doi.org/10.1111/j.1468-4446.2012.01436_10.x)
@@ -2067,7 +2067,7 @@
 ### Citizenship and human rights: ideals and actualities
 **年份**: 2012 | **DOI**: [10.1111/j.1468-4446.2011.01403.x](https://doi.org/10.1111/j.1468-4446.2011.01403.x)
 **作者**: Morris, Lydia
-**摘要**: （暂无）
+**摘要**: In her Debate article (Soysal 2012), Yasemin Soysal outlines a now familiar argument. As Jessop (1999) cogently puts it, challenges to the Keynesian Welfare National State model driven by a changing global division of labour have produced a Schumpeterian Workfare Postnational Regime of permanent inn…
 
 ### ‘Our struggles are bigger than the World Cup’: civic activism, state‐society relations and the socio‐political legacies of the 2010 FIFA World Cup1
 **年份**: 2012 | **DOI**: [10.1111/j.1468-4446.2012.01412.x](https://doi.org/10.1111/j.1468-4446.2012.01412.x)
@@ -2102,7 +2102,7 @@
 ### The post‐nationalization of immigrant rights: a theory in search of evidence1
 **年份**: 2012 | **DOI**: [10.1111/j.1468-4446.2011.01401.x](https://doi.org/10.1111/j.1468-4446.2011.01401.x)
 **作者**: Koopmans, Ruud
-**摘要**: （暂无）
+**摘要**: In her contribution to this issue, Yasemin Soysal makes a brave stand for her theory of post-national rights, even in the face of changed circumstances. Originally (Soysal 1994), the theory was designed to account for the extension of all kinds of civic and social rights to immigrants in Western Eur…
 
 ### Citizenship, immigration, and the European social project: rights and obligations of individuality
 **年份**: 2012 | **DOI**: [10.1111/j.1468-4446.2011.01404.x](https://doi.org/10.1111/j.1468-4446.2011.01404.x)
@@ -2194,7 +2194,7 @@
 ### Making Bengali Brick Lane: claiming and contesting space in East London
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01361.x](https://doi.org/10.1111/j.1468-4446.2011.01361.x)
 **作者**: Alexander, Claire
-**摘要**: （暂无）
+**摘要**: Based on a recent empirical project on 'the Bengal diaspora', the paper explores the construction and contestation of meanings around the iconic East London street, Brick Lane. Taking the 2006 protests around the film Brick Lane as its starting point, the paper draws on original interviews conducted…
 
 ### Constructions of Neoliberal Reason – By Jamie Peck
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01389_8.x](https://doi.org/10.1111/j.1468-4446.2011.01389_8.x)
@@ -2204,7 +2204,7 @@
 ### Economic advice as a vocation: symbioses of scientific and political authority
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01366.x](https://doi.org/10.1111/j.1468-4446.2011.01366.x)
 **作者**: Davies, William
-**摘要**: （暂无）
+**摘要**: Academic economists perform an important function in advising politicians and state bureaucrats, lending them epistemological authority. This creates a challenge of institutional design and of professional vocation, of how these experts can combine their commitment to scientific analysis with their …
 
 ### Drug Use and Social Change: The Distortion of History - By M. Shiner
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01369_6.x](https://doi.org/10.1111/j.1468-4446.2011.01369_6.x)
@@ -2233,7 +2233,7 @@
 ### The crime of crimes and the crime of criminology: genocide, criminology and Darfur
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2010.01355.x](https://doi.org/10.1111/j.1468-4446.2010.01355.x)
 **作者**: Moon, Claire
-**摘要**: （暂无）
+**摘要**: Blight of the last century and inauspicious marker of this one, genocide is frequently referred to as the ‘crime of crimes’. As such, it is extraordinary that Anglo-American criminology has not properly applied itself to its study.…
 
 ### Cosmopolitan communication online: YouTube responses to the anti‐Islam film Fitna1
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01383.x](https://doi.org/10.1111/j.1468-4446.2011.01383.x)
@@ -2253,7 +2253,7 @@
 ### Punishing the Poor: The Neoliberal Government of Social Insecurity – By L. Wacquant
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01379_4.x](https://doi.org/10.1111/j.1468-4446.2011.01379_4.x)
 **作者**: Wood, William R.; Craig, David
-**摘要**: （暂无）
+**摘要**: From the collapsing American dream of social mobility to the crumbling European promise of social stability, Punishing the Poor depicts the transatlantic development of the relationship between punishment and poverty under neoliberalism.…
 
 ### The gift in interaction: a study of ‘picking‐up the bill’
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01388.x](https://doi.org/10.1111/j.1468-4446.2011.01388.x)
@@ -2283,17 +2283,17 @@
 ### The cultural currency of a ‘good’ sense of humour: British comedy and new forms of distinction
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01368.x](https://doi.org/10.1111/j.1468-4446.2011.01368.x)
 **作者**: Friedman, Sam
-**摘要**: （暂无）
+**摘要**: Traditionally considered lowbrow art par excellence, British comedy has grown steadily in legitimacy since the 'Alternative Comedy Movement' of the early 1980s. Yet while there might be evidence of a transformation in British comic production, there is little understanding of how this has been refle…
 
 ### Laughing it off? Humour, affect and emotion work in communities living with nuclear risk1
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01367.x](https://doi.org/10.1111/j.1468-4446.2011.01367.x)
 **作者**: Parkhill, K.A.; Henwood, K.L.; Pidgeon, N.F. 等4人
-**摘要**: （暂无）
+**摘要**: Over the past two decades, an increasing number of risk researchers have recognized that risks are not simply objective hazards but that the meanings of risk are discursively negotiated, dynamic and embedded within the wider social relations that constitute everyday life.…
 
 ### Genocide as a matter of degree1
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01382.x](https://doi.org/10.1111/j.1468-4446.2011.01382.x)
 **作者**: Campbell, Bradley
-**摘要**: （暂无）
+**摘要**: This article employs Max Weber's ideal-type method to classify genocides based on their degree of mass killing, unilateralism, and ethnic liability. The identification of the elements of genocide draws from a general theory of genocide (Campbell 2009, 2010) and from theories of social control employ…
 
 ### Notes to contributors
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01390.x](https://doi.org/10.1111/j.1468-4446.2011.01390.x)
@@ -2352,7 +2352,7 @@
 ### Ageing in a spectacular ‘youth culture’: continuity, change and community amongst older goths
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01364.x](https://doi.org/10.1111/j.1468-4446.2011.01364.x)
 **作者**: Hodkinson, Paul
-**摘要**: （暂无）
+**摘要**: This article explores the continuing involvement in youth music and style cultures of older participants through examination of the case study of the goth scene. It does so in the context of a widespread neglect, until recently, of what happens to participants of 'youth cultures' as they move beyond…
 
 ### ‘Strange money’: risk, finance and socialized debt
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2010.01349.x](https://doi.org/10.1111/j.1468-4446.2010.01349.x)
@@ -2367,7 +2367,7 @@
 ### Incivility: The Rude Stranger in Everyday Life – By P. Smith, T.L. Phillips and R.D. King
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01389_10.x](https://doi.org/10.1111/j.1468-4446.2011.01389_10.x)
 **作者**: Millie, Andrew
-**摘要**: （暂无）
+**摘要**: A discourse of moral decline has been popular among certain strands of sociological and criminological enquiry; that ‘we are all going to Hell in a handcart’ – for example Wilson and Kelling (iBroken Windows: The Police and Neighborhood Safety,/i 1982) and Putnam (iBowling Alone: The Collapse and Re…
 
 ### Identifying Citizens: ID Cards as Surveillance – By D. Lyon
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01389_7.x](https://doi.org/10.1111/j.1468-4446.2011.01389_7.x)
@@ -2397,7 +2397,7 @@
 ### Paths to citizenship? Public views on the extension of rights to legal and second-generation immigrants in Europe
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01362.x](https://doi.org/10.1111/j.1468-4446.2011.01362.x)
 **作者**: Ceobanu, Alin M.; Escandell, Xavier
-**摘要**: （暂无）
+**摘要**: This study uses variations in the legal-institutional frameworks of citizenship to explore cross-nationally public views about granting equal rights to legal immigrants and citizenship status to second-generation immigrants in 20 European countries.…
 
 ### The Politics of Multiculturalism: Race and Racism in Contemporary Britain – By Ben Pitcher
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2010.01359.x](https://doi.org/10.1111/j.1468-4446.2010.01359.x)
@@ -2436,7 +2436,7 @@
 ### A tainted trade? Moral ambivalence and legitimation work in the private security industry1
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01365.x](https://doi.org/10.1111/j.1468-4446.2011.01365.x)
 **作者**: Thumala, Angélica; Goold, Benjamin; Loader, Ian
-**摘要**: （暂无）
+**摘要**: The private security industry is often represented - and typically represents itself - as an expanding business, confident of its place in the world and sure of its ability to meet a rising demand for security.…
 
 ### Economic Sociology: A Systematic Inquiry – By Alejandro Portes
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01389_9.x](https://doi.org/10.1111/j.1468-4446.2011.01389_9.x)
@@ -2446,7 +2446,7 @@
 ### Dissenting families and social movement abeyance: the transmission of neo-fascist frames in postwar Italy1
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01363.x](https://doi.org/10.1111/j.1468-4446.2011.01363.x)
 **作者**: Veugelers, John W.P.
-**摘要**: （暂无）
+**摘要**: What explains the re-emergence of social movements after abeyance? Based on interviews with activists who belonged to the Italian neo-fascist movement of the late 1960s to early 1980s, this article documents the preservation of a neo-fascist mobilization potential after 1945 through the parent-child…
 
 ### Hazards of neoliberalism: delayed electric power restoration after Hurricane Ike1
 **年份**: 2011 | **DOI**: [10.1111/j.1468-4446.2011.01376.x](https://doi.org/10.1111/j.1468-4446.2011.01376.x)
@@ -2456,7 +2456,7 @@
 ### The British Journal of Sociology at sixty
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01293.x](https://doi.org/10.1111/j.1468-4446.2009.01293.x)
 **作者**: Heidensohn, Frances; Wright, Richard
-**摘要**: （暂无）
+**摘要**: The British Journal of Sociology (BJS) turns 60 this year. To mark that diamond anniversary, the editors have chosen two articles from each of the Journal's six decades that, in their judgment, represent important contributions to sociology with continuing relevance today.…
 
 ### Old baggage and missing luggage: a commentary on Beck and Sznaider's ‘Unpacking cosmopolitanism for the social sciences: a research agenda’
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01297.x](https://doi.org/10.1111/j.1468-4446.2009.01297.x)
@@ -2466,7 +2466,7 @@
 ### Islam, capitalism and the Weber theses
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01243.x](https://doi.org/10.1111/j.1468-4446.2009.01243.x)
 **作者**: Turner, Bryan S.
-**摘要**: （暂无）
+**摘要**: Over the last half century a substantial tradition of Weberian scholarship has developed in Europe which is focused on elaborate analyses of Weber's exploration of the relationship between religion and capitalism.…
 
 ### Education and occupational status in 14 countries: the role of educational institutions and labour market coordination
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2010.01315.x](https://doi.org/10.1111/j.1468-4446.2010.01315.x)
@@ -2491,7 +2491,7 @@
 ### ‘The meaning of poverty' and contemporary quantitative poverty research1
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01267.x](https://doi.org/10.1111/j.1468-4446.2009.01267.x)
 **作者**: Rosenfeld, Jake
-**摘要**: （暂无）
+**摘要**: ‘. . . the study of poverty has not developed theoretically during the course of this century’ (Townsend 2010 [1962]: 93 [218]). During the postwar period, policymakers and social scientists alike began to believe that the problem of poverty was nearly solved (Bradshaw 2000).…
 
 ### The Afghan War and ‘postmodern’ memory: commemoration and the dead of Helmand1
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01299.x](https://doi.org/10.1111/j.1468-4446.2009.01299.x)
@@ -2511,7 +2511,7 @@
 ### Mobile social science: creating a dialogue among the sociologies
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01294.x](https://doi.org/10.1111/j.1468-4446.2009.01294.x)
 **作者**: Kaufmann, Vincent
-**摘要**: （暂无）
+**摘要**: John Urry's article Mobile Sociology (2010 [2000a]) proposes a sociological revolution – a revolution the field itself is not yet fully conscious of – heralding the first fruits of the ‘mobility turn’ for which Urry advocates so strongly.…
 
 ### Cosmopolitanism – By R. Fine
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01308_3.x](https://doi.org/10.1111/j.1468-4446.2009.01308_3.x)
@@ -2526,7 +2526,7 @@
 ### The British Journal of Sociology in the 1960s: a discipline in ferment
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01266.x](https://doi.org/10.1111/j.1468-4446.2009.01266.x)
 **作者**: Wright, Richard
-**摘要**: （暂无）
+**摘要**: Early on in the process of reading all of the articles published by the BJS in the 1960s, a period of great ferment in sociology, I abandoned any hope of singling out the two ‘best’ articles from that decade.…
 
 ### Suicide: The Hidden Side of Modernity – By Christian Baudelot and Roger Establet
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2010.01318_1.x](https://doi.org/10.1111/j.1468-4446.2010.01318_1.x)
@@ -2536,7 +2536,7 @@
 ### TheBritish Journal of Sociologyin the 1990s: disintegration and disarray?1
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01281.x](https://doi.org/10.1111/j.1468-4446.2009.01281.x)
 **作者**: Moon, Claire
-**摘要**: （暂无）
+**摘要**: Lacking any coherent definition of the field and blessed by a democratic attitude, our ark accepts animals, plants, rocks, bicycles, junked cars – you name it – which, in turn, makes it harder and harder to turn anything away.…
 
 ### Beck, Asia and second modernity
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2010.01328.x](https://doi.org/10.1111/j.1468-4446.2010.01328.x)
@@ -2556,7 +2556,7 @@
 ### Seymour Martin Lipset and political sociology1
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01298.x](https://doi.org/10.1111/j.1468-4446.2009.01298.x)
 **作者**: Archer, Robin
-**摘要**: （暂无）
+**摘要**: In the English speaking world, Seymour Martin Lipset was arguably the most important political sociologist of the second half of the twentieth century. Certainly he was one of them. Claims such as these are always invidious, but it is clear that Lipset's work stands out in a number of respects.…
 
 ### Market, Class and Employment – By P. McGovern, S. Hill, C. Mills and M. White
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01308_6.x](https://doi.org/10.1111/j.1468-4446.2009.01308_6.x)
@@ -2566,7 +2566,7 @@
 ### The deviance of women: a critique and an enquiry
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01242.x](https://doi.org/10.1111/j.1468-4446.2009.01242.x)
 **作者**: Heidensohn, Frances
-**摘要**: （暂无）
+**摘要**: The purpose of this paper is quite simple: it is to focus on an obscure and largely ignored area of human behaviour, namely deviance in women. It is suggested. that the problems associated with this neglect may, in themselves, be interesting from a sociological point of view.…
 
 ### Social acceleration and the network effect: a defence of social ‘science fiction’ and network determinism
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2010.01316.x](https://doi.org/10.1111/j.1468-4446.2010.01316.x)
@@ -2606,12 +2606,12 @@
 ### Explaining the world as a system: can it be done?
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01286.x](https://doi.org/10.1111/j.1468-4446.2009.01286.x)
 **作者**: Mann, Michael
-**摘要**: （暂无）
+**摘要**: The first volume of Immanuel Wallerstein's magnum opus, The Modern World System (1974a), hit the bookstalls in 1974, alongside a summarizing journal article in Comparative Studies in Society and History (1974b).…
 
 ### Morphogenesis versus structuration: on combining structure and action1
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01245.x](https://doi.org/10.1111/j.1468-4446.2009.01245.x)
 **作者**: Archer, Margaret S.
-**摘要**: （暂无）
+**摘要**: The fundamental problem of linking human agency and social structure stalks through the history of sociological theory. Basically it concerns how to develop an adequate theoretical account which deals simultaneously with men constituting society and the social formation of human agents.…
 
 ### Transnational Tortillas: Race, Gender, and Shop‐floor Politics in Mexico and the United States – By C. Bank Muñoz
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01308_2.x](https://doi.org/10.1111/j.1468-4446.2009.01308_2.x)
@@ -2621,7 +2621,7 @@
 ### The state, politics and problematics of government
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01291.x](https://doi.org/10.1111/j.1468-4446.2009.01291.x)
 **作者**: Joyce, Patrick
-**摘要**: （暂无）
+**摘要**: Rose and Miller write in the conclusion to their article that the central point is a simple one.They phrase it
 
 ### When was secularization? Dating the decline of the British churches and locating its cause1
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01304.x](https://doi.org/10.1111/j.1468-4446.2009.01304.x)
@@ -2631,7 +2631,7 @@
 ### Intergenerational class mobility and the convergence thesis: England, France and Sweden1
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01246.x](https://doi.org/10.1111/j.1468-4446.2009.01246.x)
 **作者**: Erikson, Robert; Goldthorpe, John H.; Portocarero, Lucienne
-**摘要**: （暂无）
+**摘要**: In two papers previously published, we have compared rates of intergenerational class mobility among the adult male populations of England, France and Sweden (Erikson, Goldthorpe and Portocarero 1979, 1982).…
 
 ### Class analysis and the reorientation of class theory: the case of persisting differentials in educational attainment1
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01248.x](https://doi.org/10.1111/j.1468-4446.2009.01248.x)
@@ -2656,7 +2656,7 @@
 ### Varieties of second modernity: the cosmopolitan turn in social and political theory and research
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2010.01320.x](https://doi.org/10.1111/j.1468-4446.2010.01320.x)
 **作者**: Beck, Ulrich; Grande, Edgar
-**摘要**: （暂无）
+**摘要**: The theme of this special issue is the necessity of a cosmopolitan turn in social and political theory. The question at the heart of this introductory chapter takes the challenge of 'methodological cosmopolitanism', already addressed in a Special Issue on Cosmopolitan Sociology in this journal (Beck…
 
 ### Assessors
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2010.01344.x](https://doi.org/10.1111/j.1468-4446.2010.01344.x)
@@ -2665,7 +2665,7 @@
 ### Revisiting Weber and Islam
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01285.x](https://doi.org/10.1111/j.1468-4446.2009.01285.x)
 **作者**: Turner, Bryan S.
-**摘要**: （暂无）
+**摘要**: When I published ‘Islam, capitalism and the Weber thesis’ in the BJS in 1974 (Turner 2010 [1974a]), there was relatively little written about Weber's comparative sociology of religion and even less about his fragmented commentary on Islam.…
 
 ### Individualizing Japan: searching for its origin in first modernity
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2010.01324.x](https://doi.org/10.1111/j.1468-4446.2010.01324.x)
@@ -2695,7 +2695,7 @@
 ### The British Journal of Sociology in the 1970s: continuity and crisis
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01280.x](https://doi.org/10.1111/j.1468-4446.2009.01280.x)
 **作者**: Tonkiss, Fran
-**摘要**: （暂无）
+**摘要**: In 1977, on the occasion of the forty-third Hobhouse Memorial Lecture presented at the London School of Economics and published in the December issue of the British Journal of Sociology, Daniel Bell noted that the first was given in 1930 by J.A.…
 
 ### What is society? Social thought and the arts of government
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2010.01336.x](https://doi.org/10.1111/j.1468-4446.2010.01336.x)
@@ -2718,12 +2718,12 @@
 ### The Assassination of Theo van Gogh: From Social Drama to Cultural Trauma – By R. Eyerman
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2010.01318_3.x](https://doi.org/10.1111/j.1468-4446.2010.01318_3.x)
 **作者**: Alexander, Jeffrey C.
-**摘要**: （暂无）
+**摘要**: Baudelot and Establet build upon Durkheim's classic work on suicide by constructing a contemporary analysis of what suicide rates tell us about both macro-level socio-economic trends as well as the dynamics of everyday life.Patterns and variations in suicide rates both within and between various gro…
 
 ### Linguistic forms and educational policy: the influence of Basil Bernstein
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01265.x](https://doi.org/10.1111/j.1468-4446.2009.01265.x)
 **作者**: Blackstone, Tessa
-**摘要**: （暂无）
+**摘要**: Basil Bernstein was one of the most inventive British sociologists in the second half of the twentieth century. Unlike many of his peers, he also had an important influence on policy. I do not believe this was ever his intention.…
 
 ### How Professors Think: Inside the Curious World of Academic Judgment – By M. Lamont
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2010.01318_8.x](https://doi.org/10.1111/j.1468-4446.2010.01318_8.x)
@@ -2738,12 +2738,12 @@
 ### The odd couple: Margaret Archer, Anthony Giddens and British social theory
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01288.x](https://doi.org/10.1111/j.1468-4446.2009.01288.x)
 **作者**: King, Anthony
-**摘要**: （暂无）
+**摘要**: In 1982, the British Journal of Sociology published an important article by Margaret Archer, ‘Morphogenesis versus Structuration: on combining structure and action’ (2010 [l982]), which had an impact at the time and remains widely cited to this day.…
 
 ### Central concerns in social stratification research: comments on Goldthorpe
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01292.x](https://doi.org/10.1111/j.1468-4446.2009.01292.x)
 **作者**: Scott, John
-**摘要**: （暂无）
+**摘要**: John H. Goldthorpe's work on social stratification has been central to British sociology for at least forty years and it has had a huge impact internationally. This international impact has been most notable within Europe, where Goldthorpe has led and participated in a number of collaborative projec…
 
 ### Sociology, the public sphere, and modern government: a challenge to the dominance of Habermas
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01306.x](https://doi.org/10.1111/j.1468-4446.2009.01306.x)
@@ -2758,7 +2758,7 @@
 ### The British Journal of Sociology in the 1980s: a decade of eclecticism
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01287.x](https://doi.org/10.1111/j.1468-4446.2009.01287.x)
 **作者**: Stevens, Gillian
-**摘要**: （暂无）
+**摘要**: The 1980s was a time of eclecticism and transition in the styles of research articles published in the BJS. There were articles that could have been published in mainstream American sociology journals alongside articles that evoked a more critical stance in the European tradition.…
 
 ### Redefining second modernity for East Asia: a critical assessment
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2010.01322.x](https://doi.org/10.1111/j.1468-4446.2010.01322.x)
@@ -2788,17 +2788,17 @@
 ### The British Journal of Sociology in the 1950s: firm foundations
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01290.x](https://doi.org/10.1111/j.1468-4446.2009.01290.x)
 **作者**: Heidensohn, Frances
-**摘要**: （暂无）
+**摘要**: The 1950s was the BJS's first decade and, understandably, the papers which appeared during this period come closest to representing what the founding editors expected when they established it.…
 
 ### The British Journal of Sociology in the 2000s: sociology in a new century
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01282.x](https://doi.org/10.1111/j.1468-4446.2009.01282.x)
 **作者**: Tonkiss, Fran
-**摘要**: （暂无）
+**摘要**: The British Journal of Sociology entered its sixth decade along with a new century. It was a moment, as elsewhere, for millennial reflections – although sociologists were no longer much given to making predictions.…
 
 ### A public language: some sociological implications of a linguistic form
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01240.x](https://doi.org/10.1111/j.1468-4446.2009.01240.x)
 **作者**: Bernstein, Basil
-**摘要**: （暂无）
+**摘要**: In an earlier paper an attempt was made to show a relationship between two forms of linguistic expression and the way relationships to objects were established (Bernstein 1958: 159–74).…
 
 ### Mobile sociology1
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01249.x](https://doi.org/10.1111/j.1468-4446.2009.01249.x)
@@ -2827,7 +2827,7 @@
 ### A world‐system perspective on the social sciences
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01244.x](https://doi.org/10.1111/j.1468-4446.2009.01244.x)
 **作者**: Wallerstein, Immanuel
-**摘要**: （暂无）
+**摘要**: It is in the nineteenth century and the early twentieth that the organizational structures of the sciences of man which we use today became fixed. In 1800 the categories (or ‘disciplines’) which today are standard – history, economics, sociology, anthropology, political science – did not for the mos…
 
 ### Further reflections on the sociology of technology and time: a response to Hassan
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2010.01317.x](https://doi.org/10.1111/j.1468-4446.2010.01317.x)
@@ -2842,7 +2842,7 @@
 ### On writing ‘The deviance of women’: observations and analysis
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01269.x](https://doi.org/10.1111/j.1468-4446.2009.01269.x)
 **作者**: Heidensohn, Frances
-**摘要**: （暂无）
+**摘要**: ‘The past is a foreign country: they do things differently there’– so begins L.P. Hartley's The Go-Between (1953), reminding readers how difficult it is to reconstruct aims and events even if we were participants in them ourselves.…
 
 ### False security or greater social inclusion? Exploring perceptions of CCTV use in public and private spaces accessed by the homeless
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01302.x](https://doi.org/10.1111/j.1468-4446.2009.01302.x)
@@ -2852,12 +2852,12 @@
 ### Intergenerational class mobility and the convergence thesis: reflections 25 years later
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01289.x](https://doi.org/10.1111/j.1468-4446.2009.01289.x)
 **作者**: Hout, Michael
-**摘要**: （暂无）
+**摘要**: The extraordinary trio of papers by Robert Erikson, John H. Goldthorpe and Lucienne Portocarero in the British Journal of Sociology in 1979, 1982, and 1983 advanced thinking and research in the field of social stratification and mobility.…
 
 ### The meaning of poverty
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01241.x](https://doi.org/10.1111/j.1468-4446.2009.01241.x)
 **作者**: Townsend, Peter
-**摘要**: （暂无）
+**摘要**: meaning of povertyb jos_1241 85..102
 
 ### Youth masculinities: compelling male heterosexuality
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2010.01339.x](https://doi.org/10.1111/j.1468-4446.2010.01339.x)
@@ -2882,7 +2882,7 @@
 ### Language speaks more than it says: some reflections on the work of Basil Bernstein
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01284.x](https://doi.org/10.1111/j.1468-4446.2009.01284.x)
 **作者**: Jenks, Chris
-**摘要**: （暂无）
+**摘要**: It seems hard to reflect on a time when language was not a central concern for sociological theory yet when we look back on the late 1950s the period Basil Bernstein was forming his groundbreaking thesis on socio-linguistic codes he stood alone, regarded almost as a maverick.…
 
 ### The Americanization Of Social Science: Intellectuals And Public Responsibility In The Post‐War United States – By D.P. Haney
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2010.01318_6.x](https://doi.org/10.1111/j.1468-4446.2010.01318_6.x)
@@ -2892,7 +2892,7 @@
 ### Democracy in private government (a case study of the International Typographical Union)
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01239.x](https://doi.org/10.1111/j.1468-4446.2009.01239.x)
 **作者**: Lipset, Seymour M.
-**摘要**: （暂无）
+**摘要**: Social science has as one of its objectives the prediction of the behaviour of classes of individuals or institutions under specific structural conditions. One of the few macroscopic sets of generalizations which appears to fit the scientific criterion of predictability is the theory of organization…
 
 ### Rewriting the Persian letters
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2010.01330.x](https://doi.org/10.1111/j.1468-4446.2010.01330.x)
@@ -2912,7 +2912,7 @@
 ### Unpacking cosmopolitanism: an insider–outsider's reading
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01296.x](https://doi.org/10.1111/j.1468-4446.2009.01296.x)
 **作者**: Soysal, Yasemin Nuhoğlu
-**摘要**: （暂无）
+**摘要**: I will make my position clear from the outset. I am all in favour of ‘liberating social sciences from their national confines’, as advocated by Beck and Sznaider; and having been intellectually formed within Sociological Institutionalism of Stanford School that has been for long time pushing such an…
 
 ### The political mobilization of corporate directors: socio‐economic correlates of affiliation to European pressure groups
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2010.01314.x](https://doi.org/10.1111/j.1468-4446.2010.01314.x)
@@ -2937,4 +2937,4 @@
 ### ‘Mobile sociology’
 **年份**: 2010 | **DOI**: [10.1111/j.1468-4446.2009.01295.x](https://doi.org/10.1111/j.1468-4446.2009.01295.x)
 **作者**: Knowles, Caroline
-**摘要**: （暂无）
+**摘要**: John Urry's (2010 [2000]) Mobile Sociology remains as relevant as when it was first published. His 'manifesto for sociology' reveals the kind of grand plans that only theoreticians of Urry's standing have the courage to advance.…

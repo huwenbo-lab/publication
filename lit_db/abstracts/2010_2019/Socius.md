@@ -592,7 +592,7 @@
 ### Gender and Politics in the 2016 U.S. Election and Beyond
 **年份**: 2018 | **DOI**: [10.1177/2378023118763844](https://doi.org/10.1177/2378023118763844)
 **作者**: Paxton, Pamela; Hughes, Melanie M.
-**摘要**: （暂无）
+**摘要**: We are delighted to introduce the Socius Gender and Politics Special Collection. The need for a special collection on gender and politics has never been timelier, evidenced both by gains in women's political participation and leadership around the world and the 2016 presidential election in the Unit…
 
 ### As Disaster Costs Rise, So Does Inequality
 **年份**: 2018 | **DOI**: [10.1177/2378023118816795](https://doi.org/10.1177/2378023118816795)
@@ -727,7 +727,7 @@
 ### How to Think Scientifically about Scientists’ Proposals for Fixing Science
 **年份**: 2018 | **DOI**: [10.1177/2378023118785743](https://doi.org/10.1177/2378023118785743)
 **作者**: Gelman, Andrew
-**摘要**: （暂无）
+**摘要**: Science is in crisis. Any doubt about this status has surely been been dispelled by the loud assurances to the contrary by various authority figures who are deeply invested in the current system and have written things such as, “Psychology is not in crisis, contrary to popular rumor . . .…
 
 ### Gender, Punishment, and Cooperation: Men Hurt Others to Advance Their Interests
 **年份**: 2018 | **DOI**: [10.1177/2378023117742245](https://doi.org/10.1177/2378023117742245)

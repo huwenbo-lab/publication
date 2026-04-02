@@ -547,7 +547,7 @@
 ### How and Why Sociology Is under Attack
 **年份**: 2025 | **DOI**: [10.1177/00380385251372714](https://doi.org/10.1177/00380385251372714)
 **作者**: Themelis, Spyros; Bhattacharyya, Gargi; Rostas, Iulius
-**摘要**: （暂无）
+**摘要**: on the promises and challenges of a decolonial peda-gogic practice in classrooms in the Global South. They underline the role of an alternative Sociology as a way of unlearning and othering modernity, which is required for the creation of an ongoing decolonial debate that needs to be at the heart of…
 
 ### Customer Agency in Interactive Service: Small Talk and Rapport at the Cafe Counter
 **年份**: 2025 | **DOI**: [10.1177/00380385251387035](https://doi.org/10.1177/00380385251387035)
@@ -2195,7 +2195,7 @@
 ### Race and Racism(s): Current Debates in Global and UK Theorisation and Empiricism
 **年份**: 2021 | **DOI**: [10.1177/0038038520986053](https://doi.org/10.1177/0038038520986053)
 **作者**: Njaka, Chinelo L.
-**摘要**: （暂无）
+**摘要**: The global responses to recent current events drawing attention to systemic racial equality in the spring of 2020 highlight the continued salience and importance of race and racism in contemporary societies.…
 
 ### Individualization and Individualism: Facets and Turning Points of the Entrepreneurial Self among Young People in Italy
 **年份**: 2021 | **DOI**: [10.1177/00380385211037857](https://doi.org/10.1177/00380385211037857)
@@ -2465,7 +2465,7 @@
 ### Global Technologies of Sperm Donation from Conception to Connection
 **年份**: 2020 | **DOI**: [10.1177/0038038519897900](https://doi.org/10.1177/0038038519897900)
 **作者**: Wheatley, Alison
-**摘要**: （暂无）
+**摘要**: The sociological study of Assistive Reproductive Technologies (ARTs) is situated within a landscape that is continuously shifting. New technologies are developed as legislation catches up with the implications of the old ones.…
 
 ### Bowling Together? Practices of Belonging and Becoming in a London Ten-Pin Bowling League
 **年份**: 2020 | **DOI**: [10.1177/0038038519892528](https://doi.org/10.1177/0038038519892528)
@@ -2515,7 +2515,7 @@
 ### Research Agendas for the Digital Economy
 **年份**: 2020 | **DOI**: [10.1177/0038038520932747](https://doi.org/10.1177/0038038520932747)
 **作者**: Foster, Christopher
-**摘要**: （暂无）
+**摘要**: At one time, sociological studies into the digital economy might have been seen as a niche area. But as our daily lives, our work and our spaces have become shaped by digital technologies, investigating these changes is becoming an important strand of sociological study.…
 
 ### Mobile Nationalism: Parenting and Articulations of Belonging among Globally Mobile Professionals
 **年份**: 2020 | **DOI**: [10.1177/0038038520933457](https://doi.org/10.1177/0038038520933457)
@@ -2605,7 +2605,7 @@
 ### Neoliberal Entrenchment in India: Consequences for the Informal Labour and the Poor at Large
 **年份**: 2020 | **DOI**: [10.1177/0038038520966945](https://doi.org/10.1177/0038038520966945)
 **作者**: Chowdhury, Arnab Roy
-**摘要**: （暂无）
+**摘要**: From Developmentalism to Neoliberalism presents an incisive macro-political-economic analysis of the neoliberal transition in India after 1991 and, especially, the period after 2014 when the right-wing religious Bharatiya Janata Party (BJP) came into power.…
 
 ### Negotiating Novelty: Constructing the Novel within Scientific Accounts of Epigenetics
 **年份**: 2020 | **DOI**: [10.1177/0038038520954752](https://doi.org/10.1177/0038038520954752)
@@ -2754,7 +2754,7 @@
 ### Sociology and Self-Injury: The State of the Field
 **年份**: 2020 | **DOI**: [10.1177/0038038519897904](https://doi.org/10.1177/0038038519897904)
 **作者**: Daley, Kathryn
-**摘要**: （暂无）
+**摘要**: Introduction Self-injury1 refers to the intentional, non-suicidal injury of one’s own body. In the past 10 years, there has been a significant sociological contribution to literature on self-injury. Prior to this, explanations of self-injury were provided by psychology and psychiatry.…
 
 ### Serving as a Charitable Trustee in England and Wales: Trends in Volunteering by Birth Cohort
 **年份**: 2020 | **DOI**: [10.1177/0038038520937596](https://doi.org/10.1177/0038038520937596)

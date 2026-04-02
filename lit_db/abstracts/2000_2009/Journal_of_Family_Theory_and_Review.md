@@ -91,7 +91,7 @@
 ### Coming of Age in Second Life: An Anthropologist Explores the Virtually Human ‐ by Tom Boellstorff
 **年份**: 2009 | **DOI**: [10.1111/j.1756-2589.2009.00029.x](https://doi.org/10.1111/j.1756-2589.2009.00029.x)
 **作者**: Blume, Thomas W.
-**摘要**: （暂无）
+**摘要**: Coming of Age in Second Life: An Anthropologist Explores the Virtually Human . Boellstorff, Tom . 2008 . Princeton, NJ : Princeton University Press . 328 pp. ISBN13: 978-0-691-13528-1 . $32.95 (cloth) .…
 
 ### Critiquing the General Theory of Crime's Empirical Evidence: Does the Evidence Support the Theory?
 **年份**: 2009 | **DOI**: [10.1111/j.1756-2589.2009.00019.x](https://doi.org/10.1111/j.1756-2589.2009.00019.x)

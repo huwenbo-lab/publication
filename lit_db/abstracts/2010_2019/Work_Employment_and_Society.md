@@ -73,7 +73,7 @@
 ### ‘Good’ Jobs and ‘Bad’ Jobs: Contemplating Job Quality in Different Contexts
 **年份**: 2019 | **DOI**: [10.1177/0950017019855510](https://doi.org/10.1177/0950017019855510)
 **作者**: Adamson, Maria; Roper, Ian
-**摘要**: （暂无）
+**摘要**: As stated in our previous editorial (Beauregard et al, 2018) we aim to capitalise on the interdisciplinary expertise of our team and draw attention of the WES readership to some of the thematic issues through our short editorials.In our first editorial we debated the issues of gender at work.This th…
 
 ### Book Review: Wing-Chung Ho, Occupational Health and Social Estrangement in China
 **年份**: 2019 | **DOI**: [10.1177/0950017019837186](https://doi.org/10.1177/0950017019837186)
@@ -557,7 +557,7 @@
 ### The Many Faces of Gender Inequality at Work
 **年份**: 2018 | **DOI**: [10.1177/0950017018780603](https://doi.org/10.1177/0950017018780603)
 **作者**: Lup, Daniela; Beauregard, T Alexandra; Adamson, Maria
-**摘要**: （暂无）
+**摘要**: The collection of articles included in this first thematic issue addresses gender inequalities, a theme that has featured intensively in the public sphere in these past months, including high profile revelations about gender pay discrimination such as those at the BBC and others in the UK, the #MeTo…
 
 ### Multiple Dimensions of Work Intensity: Ambulance Work as Edgework
 **年份**: 2018 | **DOI**: [10.1177/0950017018759207](https://doi.org/10.1177/0950017018759207)
@@ -1049,7 +1049,7 @@
 ### Informal and uncertain: employment relations through the broken mirror of Russian social sciences
 **年份**: 2017 | **DOI**: [10.1177/0950017016687906](https://doi.org/10.1177/0950017016687906)
 **作者**: Morrison, Claudio; Bizyukov, Petr
-**摘要**: （暂无）
+**摘要**: Twenty five years of intense market reforms have not contributed to Russia developing a coherent and effective set of institutions regulating employment relations. The world of work instead has grown into a wilderness of highly differentiated, shadowy arrangements ruled by employers’ arbitrariness (…
 
 ### Response to reviews of On Gender, Labor, and Inequality
 **年份**: 2017 | **DOI**: [10.1177/0950017017708743](https://doi.org/10.1177/0950017017708743)
@@ -1596,7 +1596,7 @@
 ### Work, employment and society sans frontières: extending and deepening our reach
 **年份**: 2016 | **DOI**: [10.1177/0950017015613747](https://doi.org/10.1177/0950017015613747)
 **作者**: Beck, Vanessa; Brook, Paul; Carter, Bob 等8人
-**摘要**: （暂无）
+**摘要**: Work, employment and society (WES ) was launched in 1987 in a period in which a number of features of British society were changing rapidly. The vibrancy and the optimism of the 1960s looked increasingly remote and sociology and the study of work reflected the more straitened times that came with th…
 
 ### Controlling routine front line service workers: an Australian retail supermarket case
 **年份**: 2016 | **DOI**: [10.1177/0950017015601778](https://doi.org/10.1177/0950017015601778)
@@ -1898,7 +1898,7 @@
 ### Work–family balance in international perspective
 **年份**: 2015 | **DOI**: [10.1177/0950017015604568](https://doi.org/10.1177/0950017015604568)
 **作者**: Mehdizadeh, Narjes
-**摘要**: （暂无）
+**摘要**: In recent academic debates on work–family balance, there has frequently been a disparity between theory and practice. With ageing populations globally, it is expected that both men and women will work later into life, and greater effort is needed on the part of governments and families to ensure car…
 
 ### Book review: Paul Edwards, Joe O’Mahoney and Steve Vincent (eds), Studying Organizations Using Critical Realism: A Practical Guide
 **年份**: 2015 | **DOI**: [10.1177/0950017014567563](https://doi.org/10.1177/0950017014567563)
@@ -1938,7 +1938,7 @@
 ### Contesting the history and politics of enterprise and entrepreneurship
 **年份**: 2015 | **DOI**: [10.1177/0950017014559265](https://doi.org/10.1177/0950017014559265)
 **作者**: Mallett, Oliver; Wapshott, Robert
-**摘要**: （暂无）
+**摘要**: Enterprise and entrepreneurship are frequently constructed within political discourse in terms of economic growth and prosperity. In the UK, for example, the cross-party political consensus on the value of 'the entrepreneur' ensures that this hegemony is rarely questioned.…
 
 ### Book review: Tom Malleson, After Occupy: Economic Democracy for the 21st Century
 **年份**: 2015 | **DOI**: [10.1177/0950017015575686](https://doi.org/10.1177/0950017015575686)
@@ -1978,7 +1978,7 @@
 ### Parenting, work and the marketization of family life
 **年份**: 2015 | **DOI**: [10.1177/0950017015581768](https://doi.org/10.1177/0950017015581768)
 **作者**: Cullen, John G
-**摘要**: （暂无）
+**摘要**: In the contemporary late capitalist milieu, changes in the nature of labour have resulted in long-standing divisions between work and family life being compromised. The three texts reviewed in this essay are all concerned with what happens when long-established boundaries between work and non-work a…
 
 ### Book review symposium: Åke Sandberg (ed.), Nordic Lights: Work, Management and Welfare in Scandinavia
 **年份**: 2015 | **DOI**: [10.1177/0950017015594317](https://doi.org/10.1177/0950017015594317)
@@ -2500,7 +2500,7 @@
 ### Clear, rigorous and relevant: publishing quantitative research articles in Work, employment and society
 **年份**: 2014 | **DOI**: [10.1177/0950017014526448](https://doi.org/10.1177/0950017014526448)
 **作者**: Charlwood, Andy; Forde, Chris; Grugulis, Irena 等7人
-**摘要**: （暂无）
+**摘要**: This article was published in the journal, Work, Employment and Society [Sage Publications / © The Authors]. The definitive version is available at: http://dx.doi.org/10.1177/0950017014526448
 
 ### Occupational segregation and gender inequality in job quality: a multi-level approach
 **年份**: 2014 | **DOI**: [10.1177/0950017013510758](https://doi.org/10.1177/0950017013510758)
@@ -2554,7 +2554,7 @@
 ### Tradeoffs and paradoxes in the pursuit of gender equality in the labour market
 **年份**: 2014 | **DOI**: [10.1177/0950017014523466](https://doi.org/10.1177/0950017014523466)
 **作者**: McLean, Caitlin
-**摘要**: （暂无）
+**摘要**: Over a decade into the 21st century scholars are critically evaluating current approaches to gender equality. Despite many advances, inequalities in the home and in the market remain deeply gendered.…
 
 ### Mobility strategies, ‘mobility differentials’ and ‘transnational exit’: the experiences of precarious migrants in London’s hospitality jobs
 **年份**: 2014 | **DOI**: [10.1177/0950017014528403](https://doi.org/10.1177/0950017014528403)
@@ -3713,7 +3713,7 @@
 ### Writing articles for Work, Employment and Society: different voices, same language
 **年份**: 2012 | **DOI**: [10.1177/0950017011433988](https://doi.org/10.1177/0950017011433988)
 **作者**: Grugulis, Irena; Stuart, Mark; Forde, Chris 等6人
-**摘要**: （暂无）
+**摘要**: Writing articles for Work, Employment and Society : different voices, same language Foreward
 
 ### Books for review
 **年份**: 2012 | **DOI**: [10.1177/0950017012452092](https://doi.org/10.1177/0950017012452092)
@@ -3999,7 +3999,7 @@
 
 ### Books For Review
 **年份**: 2011 | **DOI**: [10.1177/095001701038923i](https://doi.org/10.1177/095001701038923i)
-**摘要**: （暂无）
+**摘要**: Anthropology in Action is always happy to hear from potential reviewers at all stages in their academic careers. Reviews are normally short – about 500 words – but a more in-depth review can also be planned if you wish. We currently have a number of books awaiting review.…
 
 ### Workplace aggression: the effects of harassment on job burnout and turnover intentions
 **年份**: 2011 | **DOI**: [10.1177/0950017011419707](https://doi.org/10.1177/0950017011419707)
@@ -4074,7 +4074,7 @@
 ### Still on the scrapheap?: The meaning and characteristics of unemployment in prosperous welfare states
 **年份**: 2011 | **DOI**: [10.1177/0950017011399011](https://doi.org/10.1177/0950017011399011)
 **作者**: Fevre, R.
-**摘要**: （暂无）
+**摘要**: This e-special features examples from unemployment research published in Work, Employment and Society since the late 1980s. An early preoccupation was with the way a large section of the workforce had been removed from employment altogether.…
 
 ### Books For Review
 **年份**: 2011 | **DOI**: [10.1177/0950017010389231i](https://doi.org/10.1177/0950017010389231i)
@@ -4267,7 +4267,7 @@
 ### Understanding the experience of the ‘older worker’ in a globalized world
 **年份**: 2011 | **DOI**: [10.1177/0950017011419725](https://doi.org/10.1177/0950017011419725)
 **作者**: Riach, Kathleen
-**摘要**: （暂无）
+**摘要**: Older Workers in a Globalizing World: An International Comparison of Retirement and Late-Career Patterns in Western Industrialized Countries. Hofäcker Dirk, Older Workers in a Globalizing World: An International Comparison of Retirement and Late-Career Patterns in Western Industrialized Countries.…
 
 ### Work environment quality: the role of workplace participation and democracy
 **年份**: 2011 | **DOI**: [10.1177/0950017011407966](https://doi.org/10.1177/0950017011407966)
@@ -4382,7 +4382,7 @@
 ### Remembering Mike Rose
 **年份**: 2010 | **DOI**: [10.1177/0950017010371425](https://doi.org/10.1177/0950017010371425)
 **作者**: Gallie, Duncan
-**摘要**: （暂无）
+**摘要**: With Mike Rose's death, British economic sociology has lost one of its most knowledgeable and loveable characters. Mike had a mastery of the history and literature of the discipline that few could rival not only of Anglo-Saxon research but also of the French tradition of 'sociologie du travail'.…
 
 ### Book Review: Patrick Reedy The Manager’s Tale: Stories of Managerial Identity Farnham: Ashgate, 2009, £55.00 hbk, no price stated pbk, (ISBN: 9780754646648) vi + 194 pp
 **年份**: 2010 | **DOI**: [10.1177/09500170100240021504](https://doi.org/10.1177/09500170100240021504)

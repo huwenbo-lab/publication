@@ -1438,7 +1438,7 @@
 ### Nativity Penalty and Legal Status Paradox: The Effects of Nativity and Legal Status Signals in the US Labor Market
 **年份**: 2022 | **DOI**: [10.1093/sf/soac055](https://doi.org/10.1093/sf/soac055)
 **作者**: Kreisberg, A. Nicole
-**摘要**: （暂无）
+**摘要**: Foreign-born Latinos face hiring disadvantages in the US labor market compared to native-born Latinos, which may be due to differences in human capital, legal status, or employer bias.…
 
 ### The Effects of Undergraduate Financing on Advanced Degree Attainment
 **年份**: 2022 | **DOI**: [10.1093/sf/soac044](https://doi.org/10.1093/sf/soac044)

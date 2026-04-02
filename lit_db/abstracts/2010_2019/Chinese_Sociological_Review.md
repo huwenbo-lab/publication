@@ -208,7 +208,7 @@
 ### Institutional Compatibility and the Diffusion of Best Practices: Human Resource Management in Foreign-Invested Enterprises in China
 **年份**: 2017 | **DOI**: [10.1080/21620555.2016.1195233](https://doi.org/10.1080/21620555.2016.1195233)
 **作者**: Zhao, Wei; Cao, Yang
-**摘要**: （暂无）
+**摘要**: We advance the literature on global diffusion, currently dominated by the world polity theory, by examining how the local institutional environment shapes the diffusion of global best practices.…
 
 ### Assortative Mating by Education and Hukou in Shanghai
 **年份**: 2017 | **DOI**: [10.1080/21620555.2017.1288066](https://doi.org/10.1080/21620555.2017.1288066)
@@ -278,7 +278,7 @@
 ### Women's Labor Force Participation in Hong Kong: 1991-2011
 **年份**: 2017 | **DOI**: [10.1080/21620555.2016.1166045](https://doi.org/10.1080/21620555.2016.1166045)
 **作者**: Tong, Yuying; Chiu, Stephen Wing-Kai
-**摘要**: （暂无）
+**摘要**: Using Hong Kong population census and by-census data from 1991, 1996, 2001, 2006, and 2011, this study examined the trends and determinants of women's labor force participation (WLFP) in Hong Kong.…
 
 ### Family Background, Private Tutoring, and Children's Educational Performance in Contemporary China
 **年份**: 2016 | **DOI**: [10.1080/21620555.2015.1096193](https://doi.org/10.1080/21620555.2015.1096193)

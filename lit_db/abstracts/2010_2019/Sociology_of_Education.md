@@ -528,7 +528,7 @@
 ### The Collective Mind: A Reassessment
 **年份**: 2013 | **DOI**: [10.1177/0038040713503303](https://doi.org/10.1177/0038040713503303)
 **作者**: Bills, David B.
-**摘要**: （暂无）
+**摘要**: The spring 2009 issue of the newsletter of the Sociology of Education Section of the American Sociological Association featured a brief (about 4,000 words) essay by sociologist Steven Brint. In ‘‘The ‘Collective Mind’ at Work: A Decade in the Life of U.S.…
 
 ### What Shapes the Collective Mind? A Response to Brint
 **年份**: 2013 | **DOI**: [10.1177/0038040713503305](https://doi.org/10.1177/0038040713503305)
@@ -553,7 +553,7 @@
 ### The Light Bulb Test
 **年份**: 2013 | **DOI**: [10.1177/0038040713503309](https://doi.org/10.1177/0038040713503309)
 **作者**: Brint, Steven
-**摘要**: （暂无）
+**摘要**: My vision of the sociology of education comes out of identification with the aspirations of the nineteenth-century founders of sociology, many of whom, in Comte’s ([1851–1854] 1896) words, saw the new discipline as the ‘‘queen of the sciences.’’ For this founding generation, sociology could aspire t…
 
 ### Mismatch and the Paternalistic Justification for Selective College Admissions
 **年份**: 2013 | **DOI**: [10.1177/0038040713500772](https://doi.org/10.1177/0038040713500772)

@@ -1733,7 +1733,7 @@
 ### When upward social mobility leads to frustration: Boudon's game-theoretic model of relative deprivation and experimental evidence
 **年份**: 2020 | **DOI**: [10.1016/j.rssm.2019.100440](https://doi.org/10.1016/j.rssm.2019.100440)
 **作者**: Otten, Kasper
-**摘要**: （暂无）
+**摘要**: • The relationship between social mobility and frustration is examined. • A game-theoretic model of relative deprivation is studied and experimentally tested. • Improvements in social mobility can paradoxically increase frustration.
 
 ### Investigating the impact of interventions on educational disparities: Estimating average treatment effects (ATEs) is not sufficient
 **年份**: 2020 | **DOI**: [10.1016/j.rssm.2019.100471](https://doi.org/10.1016/j.rssm.2019.100471)

@@ -13,17 +13,17 @@
 ### Analytic approaches to disorder
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2008.01219.x](https://doi.org/10.1111/j.1468-4446.2008.01219.x)
 **作者**: Sampson, Robert J.
-**摘要**: （暂无）
+**摘要**: There is no greater honour for a scholar than to have one's work taken seriously and engaged critically at an intellectual level. Indeed, what is better than a vigorous debate about ideas one cares about, especially ones that have generated controversy over the course of decades?…
 
 ### A Sociology of Spirituality – Edited by Kieran Flanagan and Peter C. Jupp
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01237_4.x](https://doi.org/10.1111/j.1468-4446.2009.01237_4.x)
 **作者**: Palmer, David A.
-**摘要**: （暂无）
+**摘要**: held in 2004 at the University of Bristol.The theme of the sociology of spirituality is a timely one, and appears as a response from sociologists of religion to the growing phenomenon of individuals in contemporary societies seeking a spiritual life outside of the institutionalized religions.But
 
 ### A Historian Reads Max Weber: Essays On The Protestant Ethic – By P. Ghosh
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01237_5.x](https://doi.org/10.1111/j.1468-4446.2009.01237_5.x)
 **作者**: Poggi, Gianfranco
-**摘要**: （暂无）
+**摘要**: Ghosh, P. A Historian Reads Max Weber: Essays On The Protestant Ethic Harrassowitz Verlag Wiesbaden 2008 XIII-302 pp. €58 (hardback) This volume, the first in a new series –Studies in Cultural and Social Sciences– from an old and highly respected German publisher, is a very substantial new entry int…
 
 ### Why Is There No Labor Party in the United States? – By Robin Archer
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01277_1.x](https://doi.org/10.1111/j.1468-4446.2009.01277_1.x)
@@ -42,7 +42,7 @@
 ### The Emotional Organization: Passions and Power – Edited by Stephen Fineman
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2008.01226_6.x](https://doi.org/10.1111/j.1468-4446.2008.01226_6.x)
 **作者**: Simpson, Barbara
-**摘要**: （暂无）
+**摘要**: There can be little doubt that emotion has come of age in organization studies. Over the past two decades it has emerged from the margins of the field to become a legitimate sub-discipline that engages with, and deeply informs contemporary conceptions of managerial work.…
 
 ### Geography of Power: The Making of Global Economic Policy – By R. Peet
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2008.01226_10.x](https://doi.org/10.1111/j.1468-4446.2008.01226_10.x)
@@ -80,7 +80,7 @@
 ### Is violence natural, unnatural, or rational?
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01257.x](https://doi.org/10.1111/j.1468-4446.2009.01257.x)
 **作者**: Felson, Richard B.
-**摘要**: （暂无）
+**摘要**: Randall Collins – one of Sociology's leading theorists – has applied his erudition to the study of violence. He is a creative thinker who has brought together interesting material from diverse areas.…
 
 ### Configurations of gender inequality: the consequences of ideology and public policy1
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01271.x](https://doi.org/10.1111/j.1468-4446.2009.01271.x)
@@ -99,7 +99,7 @@
 ### Disorder, order and control signals
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2008.01214.x](https://doi.org/10.1111/j.1468-4446.2008.01214.x)
 **作者**: Bottoms, Anthony
-**摘要**: （暂无）
+**摘要**: Robert Sampson has placed us all in his debt by his immensely stimulating British Journal of Sociology lecture. Emulating the spirit of confession apparent in his third footnote (Sampson 2009: 27) I candidly admit that, while in theory recognizing the distinction between actual disorder and perceive…
 
 ### Policing the past: cold case studies, forensic evidence and retroactive social control1
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01255.x](https://doi.org/10.1111/j.1468-4446.2009.01255.x)
@@ -144,7 +144,7 @@
 ### Disadvantage, disorder and diversity
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2008.01218.x](https://doi.org/10.1111/j.1468-4446.2008.01218.x)
 **作者**: Wiles, Paul
-**摘要**: （暂无）
+**摘要**: Professor Sampson is our foremost contemporary researcher of urban disorder and crime and this recent lecture (Sampson 2009) provides an elegant summary of his current thinking. It also represents a new attempt to empirically explain how the interplay between structure and perception drive action an…
 
 ### VOLUME INDEX
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01278.x](https://doi.org/10.1111/j.1468-4446.2009.01278.x)
@@ -173,7 +173,7 @@
 ### Practicing Culture – Edited by C. Calhoun and R. Sennett
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2008.01226_3.x](https://doi.org/10.1111/j.1468-4446.2008.01226_3.x)
 **作者**: Hall, Suzanne
-**摘要**: （暂无）
+**摘要**: Throughout the postwar period in the West, social theorists have grappled with the problem of self/identity, both in terms of conflicts between individual needs and social demands and in light of significant and destabilizing social transformations.On the nature of the social changes wrought by mode…
 
 ### Unequal Chances: Ethnic minorities in Western Labour Markets – Edited by Anthony F. Heath and Sin Yi Cheung
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01237_7.x](https://doi.org/10.1111/j.1468-4446.2009.01237_7.x)
@@ -197,7 +197,7 @@
 ### What is Genocide? – By Shaw, M.
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01262_9.x](https://doi.org/10.1111/j.1468-4446.2009.01262_9.x)
 **作者**: Jabri, Vivienne
-**摘要**: （暂无）
+**摘要**: Shaw, M. What is Genocide? Polity Press 2007 232 pp. £55.00 (hardback) £15.99 (paperback) Genocide is a highly charged term. Recent controversies surrounding the Armenian Genocide and Turkish culpabilities thereof are only the most recent testimony to the contested nature of the concept and the plac…
 
 ### Interacting forms of expertise in security governance: the example of CCTV surveillance at Geneva International Airport1
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01231.x](https://doi.org/10.1111/j.1468-4446.2009.01231.x)
@@ -257,7 +257,7 @@
 ### Questions of perception and reality
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2008.01216.x](https://doi.org/10.1111/j.1468-4446.2008.01216.x)
 **作者**: Wikström, Per‐Olof H.
-**摘要**: （暂无）
+**摘要**: Professor Robert J. Sampson ranks without any doubt amongst the world leaders in the fields of urban sociology and sociological criminology. He has made seminal contributions to socio-ecological theory (e.g., through his theory of collective efficacy) and, together with Stephen Raudenbush, to the mu…
 
 ### Rethinking Expertise – By H. Collins and R. Evans
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2008.01226_4.x](https://doi.org/10.1111/j.1468-4446.2008.01226_4.x)
@@ -317,7 +317,7 @@
 ### Taking place and space seriously: reflections on ‘Disparity and Diversity in the Contemporary City’
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2008.01213.x](https://doi.org/10.1111/j.1468-4446.2008.01213.x)
 **作者**: Davis, Diane E.
-**摘要**: （暂无）
+**摘要**: Rob Sampson's ‘Disparity and Diversity in the Contemporary City’ establishes two very critical points for sociologists generally, and for scholars of the city in particular. First and foremost, it highlights the importance of individual perception, a form of cognitive processing, as a key determinan…
 
 ### Paying for Pleasure: Men Who Buy Sex – By Sanders, Teela
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01262_8.x](https://doi.org/10.1111/j.1468-4446.2009.01262_8.x)
@@ -332,7 +332,7 @@
 ### Disparity and diversity in the contemporary city: social (dis)order revisited1
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01211.x](https://doi.org/10.1111/j.1468-4446.2009.01211.x)
 **作者**: Sampson, Robert J.
-**摘要**: （暂无）
+**摘要**: When they approach me they see only my surroundings, themselves or figments of their imagination – indeed, everything and anything except me. Scholars of the city have long interpreted signs of disorder in public spaces in ways that constitute powerful forces of social differentiation.…
 
 ### Culture, Class, Distinction – By T. Bennett, M. Savage, E. Silva, A. Warde, M. Gayo‐Cal and D. Wright
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01277_2.x](https://doi.org/10.1111/j.1468-4446.2009.01277_2.x)
@@ -362,17 +362,17 @@
 ### A response
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2008.01212.x](https://doi.org/10.1111/j.1468-4446.2008.01212.x)
 **作者**: Gilroy, Paul
-**摘要**: （暂无）
+**摘要**: Professor Sampson's paper offers a valuable snapshot of the professional sociologist's craft. His methodological innovations will prove influential and his focus on durable inequality and the social ranking of places is instructive even if those dynamics are gravely complicated – as they are in cont…
 
 ### The scientific significance of Collins's Violence1
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01258.x](https://doi.org/10.1111/j.1468-4446.2009.01258.x)
 **作者**: Cooney, Mark
-**摘要**: （暂无）
+**摘要**: In Violence: A Micro-sociological Theory, one of the world's greatest sociologists, applies his formidable intellectual powers to the problem of human aggression. But how far does Randall Collins's big and ambitious book advance the scientific understanding of violent behaviour?…
 
 ### Self and Social Change – By M. Adams
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2008.01226_1.x](https://doi.org/10.1111/j.1468-4446.2008.01226_1.x)
 **作者**: Davis, Joseph E.
-**摘要**: （暂无）
+**摘要**: Adams, M. Self and Social Change Sage Publications 2007 189 pp. £60.00 (hardback) £19.99 (paperback) Throughout the postwar period in the West, social theorists have grappled with the problem of self/identity, both in terms of conflicts between individual needs and social demands and in light of sig…
 
 ### The Body in Question: A Socio‐Cultural Approach – By Alan Peterson The Sociology of the Body: Mapping the Abstraction of the Body – By Kate Cregan Body/Embodiment: Symbolic Interactionism and the Sociology of the Body – Edited by Dennis Waskul and Phillip Vannini
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2008.01226_5.x](https://doi.org/10.1111/j.1468-4446.2008.01226_5.x)
@@ -382,12 +382,12 @@
 ### A plea for urban disorder
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2008.01217.x](https://doi.org/10.1111/j.1468-4446.2008.01217.x)
 **作者**: Body‐Gendrot, Sophie
-**摘要**: （暂无）
+**摘要**: Can we live together? Can we live together in cities? Robert Sampson's argument is that signs of disorder in disreputable areas, robust pockets of poverty and the homes of stigmatized minorities or immigrants, generate social differentiation and an urge to avoid both the spatial and the social stigm…
 
 ### The micro‐sociology of violence
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01256.x](https://doi.org/10.1111/j.1468-4446.2009.01256.x)
 **作者**: Collins, Randall
-**摘要**: （暂无）
+**摘要**: In recent years, sociologists have acquired much better evidence of what happens in violent situations. The advent of video cameras in the 1990s shocked public sensibilities about police violence. Much more data is now available from CCTV surveillance film for violence of many kinds.…
 
 ### Making the Cut. How Cosmetic Surgery is Transforming Our Lives – By Anthony Elliott
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2009.01277_4.x](https://doi.org/10.1111/j.1468-4446.2009.01277_4.x)
@@ -442,7 +442,7 @@
 ### Urban disorder today
 **年份**: 2009 | **DOI**: [10.1111/j.1468-4446.2008.01215.x](https://doi.org/10.1111/j.1468-4446.2008.01215.x)
 **作者**: Sennett, Richard
-**摘要**: （暂无）
+**摘要**: Rob Sampson's research has important implications for how we understand cities, in the way urbanites themselves understand each other. Sampson demonstrates that perceptions of urban disorder are fundamentally tied to the hard facts of racial and economic inequality, which is to say that the visual e…
 
 ### Sexing the Soldier: The Politics of Gender and the Contemporary British Army – By R. Woodward and T. Winter
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00209_10.x](https://doi.org/10.1111/j.1468-4446.2008.00209_10.x)
@@ -482,12 +482,12 @@
 ### After the Baby Boomers: How Twenty and Thirty‐Somethings Are Shaping the Future of American Religion – By R. Wuthnow
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00220_11.x](https://doi.org/10.1111/j.1468-4446.2008.00220_11.x)
 **作者**: Marler, Penny Long
-**摘要**: （暂无）
+**摘要**: Wuthnow, R. After the Baby Boomers: How Twenty and Thirty-Somethings Are Shaping the Future of American Religion Princeton University Press 2007 298 pp. £17.95 (paperback ) Robert Wuthnow's current project focusing on ‘younger’ adults aged 21–45 is the second recent study to examine the religious in…
 
 ### Secular privilege, religious disadvantage
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2007.00181.x](https://doi.org/10.1111/j.1468-4446.2007.00181.x)
 **作者**: Woodhead, Linda
-**摘要**: （暂无）
+**摘要**: Judith Butler's paper 'Sexual Politics, Torture and Secular Time' (Butler 2008) makes an excellent point about the ways in which individual sexual freedoms can be used to negate the rights of vulnerable groups.…
 
 ### Micropolitics of race and ethnicity in women's prisons in two political contexts
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00216.x](https://doi.org/10.1111/j.1468-4446.2008.00216.x)
@@ -545,7 +545,7 @@
 ### Telling About Society – By Howard S. Becker
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00220_1.x](https://doi.org/10.1111/j.1468-4446.2008.00220_1.x)
 **作者**: Katz, Jack
-**摘要**: （暂无）
+**摘要**: Social Scientists andTricks of the Trade, are sociologically informed, practical aids to research and writing.Telling About Society, although presented by its publisher as a 'Guide to Writing, Editing and Publishing', is more like Becker's earlier substantive work, where he undermines presumptive au…
 
 ### Multiculturalism Without Culture – By Anne Phillips
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00198_6.x](https://doi.org/10.1111/j.1468-4446.2008.00198_6.x)
@@ -570,7 +570,7 @@
 ### The times of movements: a response
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2007.00177.x](https://doi.org/10.1111/j.1468-4446.2007.00177.x)
 **作者**: Bhatt, Chetan
-**摘要**: （暂无）
+**摘要**: Judith Butler's expansive, stimulating paper can be seen as an exploration of the kinds of ethical positions that might become possible once we internalize fully the loss of a political conception of linear, progressive time and secure ethical foundations.…
 
 ### Economic deprivation, maternal depression, parenting and children's cognitive and emotional development in early childhood1
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00219.x](https://doi.org/10.1111/j.1468-4446.2008.00219.x)
@@ -613,7 +613,7 @@
 ### Sexual politics, torture, and secular time
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2007.00176.x](https://doi.org/10.1111/j.1468-4446.2007.00176.x)
 **作者**: Butler, Judith
-**摘要**: （暂无）
+**摘要**: If one wants to begin with most common of beginnings, namely, with the claim that one would like to be able to consider sexual politics during this time, a certain problem arises. Since, it seems clear that one cannot reference ‘this time’ without knowing which time, where that time takes hold, and …
 
 ### On the Fireline: Living and Dying with Wildland Firefighters – By Matthew Desmond
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00209_4.x](https://doi.org/10.1111/j.1468-4446.2008.00209_4.x)
@@ -687,12 +687,12 @@
 ### Cold Intimacies: The Making of Emotional Capitalism – By E. Illouz
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00198_3.x](https://doi.org/10.1111/j.1468-4446.2008.00198_3.x)
 **作者**: Fineman, Stephen
-**摘要**: （暂无）
+**摘要**: Even if we concede that globalization is a marker for our times and that understanding global social change requires an historical perspective, it is questionable whether it provides an appropriate way to look at values such as equity.Since values are always located culturally, somewhere, where are …
 
 ### Bar Wars: Contesting the Night in Contemporary Cities – By P. Hadfield
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00220_2.x](https://doi.org/10.1111/j.1468-4446.2008.00220_2.x)
 **作者**: Moore, Karenza
-**摘要**: （暂无）
+**摘要**: INTRODUCTION: Pregnancy is a crucial period which ultimately directly impacts two individuals health and wellbeing. Within the UK, a standardised pattern of care is established with collaborations across disciplines to the benefit of women and babies.…
 
 ### World City – By Doreen Massey
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00209_8.x](https://doi.org/10.1111/j.1468-4446.2008.00209_8.x)
@@ -756,12 +756,12 @@
 ### Transforming Youth Justice: Occupational Identity and Cultural Change – By A. Souhami
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00198_7.x](https://doi.org/10.1111/j.1468-4446.2008.00198_7.x)
 **作者**: Strang, Heather
-**摘要**: （暂无）
+**摘要**: Souhami, A. Transforming Youth Justice: Occupational Identity and Cultural Change Willan Publishing 2007 221 pp. £42.00 (hardback) New Labour's 1997 election victory brought with it the promise of a radical overhaul of youth justice.…
 
 ### Reconceptualizing reflexivity and dissonance in professional and personal domains
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00207.x](https://doi.org/10.1111/j.1468-4446.2008.00207.x)
 **作者**: Brooks, Ann
-**摘要**: （暂无）
+**摘要**: Debates around 'reflexivity' and the construction of the gendered self within late modernity have occupied the attention of both 'reflexive modernization' theorists (Beck, Giddens and Lash 1994; Beck and Beck-Gernsheim 1996; Giddens 1991, 1992) as well as gender and feminist theorists.…
 
 ### Foucault, Psychology and the Analytics of Power – By D. Hook
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00198_2.x](https://doi.org/10.1111/j.1468-4446.2008.00198_2.x)
@@ -781,7 +781,7 @@
 ### Troubling times: a comment on Judith Butler's ‘Sexual politics, torture and secular time’
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2007.00178.x](https://doi.org/10.1111/j.1468-4446.2007.00178.x)
 **作者**: Ali, Suki
-**摘要**: （暂无）
+**摘要**: These are ‘troubled times’. For some, such troubles are felt immediately in and on the body, for others they are filtered through media and representations. But it is not only the ‘trouble’ itself that forms the object of analysis for Judith Butler's paper, it is also the ‘times’; and the plurality …
 
 ### Nations Matter: Culture, History, and the Cosmopolitan Dream – By C. Calhoun
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2007.00187_1.x](https://doi.org/10.1111/j.1468-4446.2007.00187_1.x)
@@ -801,7 +801,7 @@
 ### A basis for and two obstacles in the way of a multiculturalist coalition
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2007.00180.x](https://doi.org/10.1111/j.1468-4446.2007.00180.x)
 **作者**: Modood, Tariq
-**摘要**: （暂无）
+**摘要**: There is a deepening crisis between oppressed and disaffected religious groups such as Muslims in western societies and some of the principal sources of anti-oppression doctrines and movements.…
 
 ### In search of the glass ceiling: gender and recruitment to management in Norway's state bureaucracy1
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00217.x](https://doi.org/10.1111/j.1468-4446.2008.00217.x)
@@ -831,7 +831,7 @@
 ### Secularism and coercive freedoms
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2007.00179.x](https://doi.org/10.1111/j.1468-4446.2007.00179.x)
 **作者**: Beckford, James A.
-**摘要**: （暂无）
+**摘要**: The animus behind Judith Butler's investigation of the links between sexual politics, torture and secularism in the early twenty-first century is the perceived need for a ‘politics that opposes state coercion and violence’ (Butler 2008: 20).…
 
 ### Ignorance as an under‐identified social problem1
 **年份**: 2008 | **DOI**: [10.1111/j.1468-4446.2008.00195.x](https://doi.org/10.1111/j.1468-4446.2008.00195.x)
@@ -921,7 +921,7 @@
 ### Art from Start to Finish: Jazz, Painting, Writing, and Other Improvisations – By H.S. Becker, R.R. Faulkner and B. Kirschenblatt‐Gimblett
 **年份**: 2007 | **DOI**: [10.1111/j.1468-4446.2007.00144_2.x](https://doi.org/10.1111/j.1468-4446.2007.00144_2.x)
 **作者**: Hawkins, Alexander
-**摘要**: （暂无）
+**摘要**: The British Journal of SociologyVolume 58, Issue 1 p. 141-142 Art from Start to Finish: Jazz, Painting, Writing, and Other Improvisations – By H.S. Becker, R.R. Faulkner and B. Kirschenblatt-Gimblett Alexander Hawkins, Alexander HawkinsSearch for more papers by this author Alexander Hawkins, Alexand…
 
 ### Drinking Cultures – Edited by T. Wilson
 **年份**: 2007 | **DOI**: [10.1111/j.1468-4446.2007.00153_18.x](https://doi.org/10.1111/j.1468-4446.2007.00153_18.x)
@@ -1045,7 +1045,7 @@
 ### The Technological Economy – Edited by Andrew Barry and Don Slater Status Signals, A Sociological Study of Market Competition – By Joel Podolny Talking Prices, Symbolic Meanings of Prices on the Market for Contemporary Art – By Olav Velthuis
 **年份**: 2007 | **DOI**: [10.1111/j.1468-4446.2007.00144_1.x](https://doi.org/10.1111/j.1468-4446.2007.00144_1.x)
 **作者**: Aspers, Patrik
-**摘要**: （暂无）
+**摘要**: Books reviewed: Barry, Andrew and Slater, Don (eds) The Technological Economy London: Routledge 2005 224 pp. £20.99 (paperback) Podolny, Joel Status Signals, A Sociological Study of Market Competition Princeton, NJ.: Princeton University Press 2005 296 pp.…
 
 ### The Body in Culture, Technology and Society – By C. Shilling
 **年份**: 2007 | **DOI**: [10.1111/j.1468-4446.2007.00144_11.x](https://doi.org/10.1111/j.1468-4446.2007.00144_11.x)
@@ -1737,7 +1737,7 @@
 ### Ethnicity, Nationalism and Minority Rights – Edited by S. May, T. Modood and J. Squires
 **年份**: 2006 | **DOI**: [10.1111/j.1468-4446.2006.00111_15.x](https://doi.org/10.1111/j.1468-4446.2006.00111_15.x)
 **作者**: Rumford, Chris
-**摘要**: （暂无）
+**摘要**: May, S., Modood, T., and Squires, J. (eds) Ethnicity, Nationalism and Minority Rights Cambridge University Press 2004 261 pp. £45 (hardback) £19.99 (paperback) This is an edited collection of essays on a topic of great importance (minority rights in democracies) and many of the chapters are written …
 
 ### The Values of Bureaucracy – Paul Du Gay
 **年份**: 2006 | **DOI**: [10.1111/j.1468-4446.2006.00123_6.x](https://doi.org/10.1111/j.1468-4446.2006.00123_6.x)
@@ -1899,7 +1899,7 @@
 ### The promise of public sociology
 **年份**: 2005 | **DOI**: [10.1111/j.1468-4446.2005.00065.x](https://doi.org/10.1111/j.1468-4446.2005.00065.x)
 **作者**: Calhoun, Craig
-**摘要**: （暂无）
+**摘要**: Michael Burawoy’s Presidential Address to the 2005 ASA meeting was an extraordinary event. There was a buzz of excitement, the culmination of a week of high energy discussions of ‘public sociology’, and the product also of a year in which Burawoy had criss-crossed the USA speaking to dozens of group…
 
 ### The Experience of Middle Australia: The Dark Side of Economic Reform
 **年份**: 2005 | **DOI**: [10.1111/j.1468-4446.2005.00080_11.x](https://doi.org/10.1111/j.1468-4446.2005.00080_11.x)
@@ -1968,7 +1968,7 @@
 ### Handbook of the Sociology of Religion
 **年份**: 2005 | **DOI**: [10.1111/j.1468-4446.2005.00080_5.x](https://doi.org/10.1111/j.1468-4446.2005.00080_5.x)
 **作者**: Palmer, David
-**摘要**: （暂无）
+**摘要**: Dillon, Michele (ed.) Handbook of the Sociology of Religion Cambridge : Cambridge University Press 2003 481 pp. £65.00 (hardback) Students and scholars looking for an overview of the state of the field of the sociology of religion in America today will be well served by Dillon's Handbook, which cove…
 
 ### Making Families: Moral Tales of Parenting and Step‐parenting
 **年份**: 2005 | **DOI**: [10.1111/j.1468-4446.2005.00080_12.x](https://doi.org/10.1111/j.1468-4446.2005.00080_12.x)
@@ -2092,7 +2092,7 @@
 ### Bookmarks for public sociologists1
 **年份**: 2005 | **DOI**: [10.1111/j.1468-4446.2005.00067.x](https://doi.org/10.1111/j.1468-4446.2005.00067.x)
 **作者**: Etzioni, Amitai
-**摘要**: （暂无）
+**摘要**: Michael Burawoy deserves much credit for bringing the role of public sociol-ogy back to the discipline’s attention. Public sociologists have always been called for. However, it is hard to recall a time in which they have been more needed but less in evidence than the present day.…
 
 ### Discovering Successful Pathways in Children's Development: Mixed Methods in the Study of Childhood and Family Life
 **年份**: 2005 | **DOI**: [10.1111/j.1468-4446.2005.00088_15.x](https://doi.org/10.1111/j.1468-4446.2005.00088_15.x)
@@ -2282,7 +2282,7 @@
 ### How Users Matter: The Co‐construction of Users and Technologies
 **年份**: 2004 | **DOI**: [10.1111/j.1468-4446.2004.00040_10.x](https://doi.org/10.1111/j.1468-4446.2004.00040_10.x)
 **作者**: Muniesa, Fabian
-**摘要**: （暂无）
+**摘要**: Oudshoorn, Nelly and Pinch, Trevor (eds) How Users Matter: The Co-construction of Users and Technologies MIT Press 2002 340 pp. £ 25.95 (hardback) Use stands, from many angles, as a privileged object for sociological inquiry.…
 
 ### Notes to contributors
 **年份**: 2004 | **DOI**: [10.1111/j.1468-4446.2004.00021.x](https://doi.org/10.1111/j.1468-4446.2004.00021.x)
@@ -2480,7 +2480,7 @@
 ### The Political Class in Advanced Democracies
 **年份**: 2004 | **DOI**: [10.1111/j.1468-4446.2004.00040_2.x](https://doi.org/10.1111/j.1468-4446.2004.00040_2.x)
 **作者**: Kaye, Robert
-**摘要**: （暂无）
+**摘要**: Borchert Jens and Zeiss Jürgen , The Political Class in Advanced Democracies Oxford , University Press 2004 425 pp. $ 99.00 (hardback) This book – previously published in a German edition – aims to study comparatively the development of a ‘political class’.…
 
 ### Book review symposium: The scientific study of society
 **年份**: 2004 | **DOI**: [10.1111/j.1468-4446.2004.00011.x](https://doi.org/10.1111/j.1468-4446.2004.00011.x)
@@ -2520,7 +2520,7 @@
 ### Social capital and social exclusion in England and Wales (1972-1999)
 **年份**: 2003 | **DOI**: [10.1080/0007131032000143564](https://doi.org/10.1080/0007131032000143564)
 **作者**: Li, Yaojun
-**摘要**: （暂无）
+**摘要**: Recent research on social capital has explored trends in membership in voluntary organizations. However, there is currently little robust evidence on such trends in the UK since the 1970s, nor is there any analysis of whether participation bridges social divisions or accentuates them.…
 
 ### Choice and constraints in mothers' employment careers: McRae replies to Hakim
 **年份**: 2003 | **DOI**: [10.1111/j.1468-4446.2003.00585.x](https://doi.org/10.1111/j.1468-4446.2003.00585.x)
@@ -2564,7 +2564,7 @@
 ### Educational homogamy in Ireland and Britain: trends and patterns*
 **年份**: 2003 | **DOI**: [10.1080/0007131032000143546](https://doi.org/10.1080/0007131032000143546)
 **作者**: Halpin, Brendan
-**摘要**: （暂无）
+**摘要**: This paper examines the pattern of educational homogamy in Ireland and Britain. Using contemporary data on recent marriages from the early 1970s through to the mid-1990s, we show that these two countries share a broadly similar pattern of educational homogamy, which is quasi-symmetric in character, …
 
 ### Social interaction distance and stratification
 **年份**: 2003 | **DOI**: [10.1080/0007131032000080195](https://doi.org/10.1080/0007131032000080195)
@@ -2597,7 +2597,7 @@
 ### Declining inequality? The changing impact of socio-economic background and ability on education in Australia
 **年份**: 2003 | **DOI**: [10.1080/0007131032000143555](https://doi.org/10.1080/0007131032000143555)
 **作者**: Marks, Gary
-**摘要**: （暂无）
+**摘要**: The paper addresses several debates surrounding the reproduction of socio-economic inequality: (i) the persistent inequality thesis, which maintains that despite the increases in educational participation socio-economic inequalities in education have not declined; (ii) the related thesis of maximall…
 
 ### Book reviews
 **年份**: 2003 | **DOI**: [10.1080/0007131032000111910](https://doi.org/10.1080/0007131032000111910)
@@ -2681,7 +2681,7 @@
 ### Rethinking the concept of professionalism: the case of journalism
 **年份**: 2003 | **DOI**: [10.1080/0007131032000143582](https://doi.org/10.1080/0007131032000143582)
 **作者**: Aldridge, Meryl; Evetts, Julia
-**摘要**: （暂无）
+**摘要**: Journalists in the UK have always been ambivalent about what form of occupational control to pursue. Although resistant to the structures of the conventional profession, they have embraced the idea of 'professionalism'.…
 
 ### Public Morality Versus Personal Choice: The Failure of Social Attitude Surveys
 **年份**: 2003 | **DOI**: [10.1111/j.1468-4446.2003.00339.x](https://doi.org/10.1111/j.1468-4446.2003.00339.x)
@@ -2701,7 +2701,7 @@
 ### Marshall, Mannheim and contested citizenship
 **年份**: 2003 | **DOI**: [10.1080/0007131032000111884](https://doi.org/10.1080/0007131032000111884)
 **作者**: White, Robert
-**摘要**: （暂无）
+**摘要**: In this paper we address tensions in Marshall's account of the successive emergence of civil, political and social rights in citizenship. These tensions were Marshall's implicit and typically modem assumption of human nature, his privileging of the analytical rationality that follows from it, and th…
 
 ### Marshall, Mannheim and Contested Citizenship
 **年份**: 2003 | **DOI**: [10.1111/j.1468-4446.2003.00391.x](https://doi.org/10.1111/j.1468-4446.2003.00391.x)
@@ -2721,7 +2721,7 @@
 ### Interdependencies, values and the reshaping of difference: gender and generation at the birth of twentieth-century modernity
 **年份**: 2003 | **DOI**: [10.1080/0007131032000143591](https://doi.org/10.1080/0007131032000143591)
 **作者**: Irwin, Sarah
-**摘要**: （暂无）
+**摘要**: The paper explores the mutuality of values, claims and social relations in the process of social change. Values are not separable from social relations but are embedded in the shaping and reshaping of social difference and interdependence.…
 
 ### Book reviews
 **年份**: 2003 | **DOI**: [10.1080/0007131032000143618](https://doi.org/10.1080/0007131032000143618)
@@ -2739,7 +2739,7 @@
 ### Inequality/difference in education: is a real explanation of primary and secondary effects possible?
 **年份**: 2003 | **DOI**: [10.1080/0007131032000143537](https://doi.org/10.1080/0007131032000143537)
 **作者**: Nash, Roy
-**摘要**: （暂无）
+**摘要**: The persistence of social disparities in educational achievement in contemporary societies is a matter of concern to social theory. Sociology of education has distinguished between the primary and secondary effects of socialization in order to construct explanatory theories of inequality of educatio…
 
 ### The revival of death: expression, expertise and governmentality
 **年份**: 2003 | **DOI**: [10.1080/0007131032000045897](https://doi.org/10.1080/0007131032000045897)
@@ -2951,7 +2951,7 @@
 ### A rejoinder to Abell and Reyniers' ‘Failure of Social Theory’
 **年份**: 2001 | **DOI**: [10.1080/00071310120071179](https://doi.org/10.1080/00071310120071179)
 **作者**: Castells, Manuel
-**摘要**: （暂无）
+**摘要**: Manuel Castells responds to an essay by Abell and Reyniers criticizing his work. Castells describes the essay as an angry refusal of the entire intellectual effort that he has submitted to collegial consideration, proceeding on the basis of selected paragraphs quoted out of context, and a series of …
 
 ### Book reviews
 **年份**: 2001 | **DOI**: [10.1080/00071310120071100](https://doi.org/10.1080/00071310120071100)
@@ -2960,12 +2960,12 @@
 ### BSE as an organizational construction: a case study on the globalization of risk
 **年份**: 2001 | **DOI**: [10.1080/00071310121846](https://doi.org/10.1080/00071310121846)
 **作者**: Tacke, Veronika
-**摘要**: （暂无）
+**摘要**: This article examines the BSE problem as an example of the ‘globalization of risk’. In order to determine whether the ‘globalization of risk’ is a social construction depending on the context, the paper emphasizes the particular role of organizations.…
 
 ### Pension prospects of minority ethnic groups: inequalities by gender and ethnicity
 **年份**: 2001 | **DOI**: [10.1080/00071310121671](https://doi.org/10.1080/00071310121671)
 **作者**: Arber, Jay Ginn, Sara
-**摘要**: （暂无）
+**摘要**: Minority ethnic groups have low income in later life from private pensions, partly due to shorter employment records in Britain since migration. Yet disadvantage and discrimination in the labour market, as well as differences in cultural norms concerning women's employment, may lead to persistence o…
 
 ### Modernization, globalization and the welfare state: a comparative analysis of old and new convergence of social insurance since 1930
 **年份**: 2001 | **DOI**: [10.1080/00071310120071142](https://doi.org/10.1080/00071310120071142)
@@ -2975,7 +2975,7 @@
 ### Zygmunt Bauman's poisoned gift of morality
 **年份**: 2001 | **DOI**: [10.1080/00071310122404](https://doi.org/10.1080/00071310122404)
 **作者**: Junge, Matthias
-**摘要**: （暂无）
+**摘要**: Bauman's attempt to develop a sociological theory of morality turning around fundamental premises of Durkheim's approach fails in the last analysis, since in Bauman's view the ‘moral party of two’ does not constitute a social situation.…
 
 ### Socio‐political control in urban China: changes and crisis*
 **年份**: 2001 | **DOI**: [10.1080/00071310120084490](https://doi.org/10.1080/00071310120084490)
@@ -2999,7 +2999,7 @@
 ### The authority of complexity
 **年份**: 2001 | **DOI**: [10.1080/00071310122416](https://doi.org/10.1080/00071310122416)
 **作者**: Grundmann, Nico Stehr, Reiner
-**摘要**: （暂无）
+**摘要**: The assertion about the unique ‘complexity’ or the peculiarly intricate character of social phenomena has, at least within sociology, a long, venerable and virtually uncontested tradition.…
 
 ### Social mobility and constitutional and political preferences in Northern Ireland
 **年份**: 2001 | **DOI**: [10.1080/00071310120084508](https://doi.org/10.1080/00071310120084508)
@@ -3059,7 +3059,7 @@
 ### Modernization, globalization and the welfare state: a comparative analysis of old and new convergence of social insurance since 1930
 **年份**: 2001 | **DOI**: [10.1080/00071310122623](https://doi.org/10.1080/00071310122623)
 **作者**: Montanari, Ingelill
-**摘要**: （暂无）
+**摘要**: Convergence of policies and institutions across countries has been a recurrent theme within social sciences. ‘Old’ and ‘new’ convergence hypotheses have been associated with changing concepts and catchwords, such as modernization, logic of industrialism, post-industrialism, post-Fordism and globaliz…
 
 ### Book Reviews
 **年份**: 2001 | **DOI**: [10.1080/00071310120045024](https://doi.org/10.1080/00071310120045024)
@@ -3068,7 +3068,7 @@
 ### The erosion of citizenship
 **年份**: 2001 | **DOI**: [10.1080/00071310121968](https://doi.org/10.1080/00071310121968)
 **作者**: Turner, Bryan S.
-**摘要**: （暂无）
+**摘要**: The Marshallian paradigm of social citizenship has been eroded because the social and economic conditions that supported postwar British welfare consensus have been transformed by economic and technological change.…
 
 ### Uncertain identities and health-risking behaviour: the case of young people and smoking in late modernity
 **年份**: 2001 | **DOI**: [10.1080/00071310122468](https://doi.org/10.1080/00071310122468)
@@ -3078,12 +3078,12 @@
 ### Colonizing nature: scientific knowledge, colonial power and the incorporation of India into the modern world-system
 **年份**: 2001 | **DOI**: [10.1080/00071310122879](https://doi.org/10.1080/00071310122879)
 **作者**: Baber, Zaheer
-**摘要**: （暂无）
+**摘要**: In this paper, the role of scientific knowledge, institutions and colonialism in mutually co-producing each other is analysed. Under the overarching rubric of colonial structures and imperatives, amateur scientists sought to deploy scientific expertise to expand the empire while at the same time see…
 
 ### Women and class structure in contemporary Japan
 **年份**: 2001 | **DOI**: [10.1080/00071310121939](https://doi.org/10.1080/00071310121939)
 **作者**: Shirahase, Sawaka
-**摘要**: （暂无）
+**摘要**: The main purpose of this study is to examine how to determine the class position of women, especially married women, in Japan. This study examines three different approaches to conceptualizing women's position in the class structure: the conventional approach, the individual approach, and the domina…
 
 ### Family business in Russia: the path to middle class?
 **年份**: 2001 | **DOI**: [10.1080/00071310120044971](https://doi.org/10.1080/00071310120044971)
@@ -3121,7 +3121,7 @@
 ### Witchcraft, genealogy, Foucault
 **年份**: 2001 | **DOI**: [10.1080/00071310122146](https://doi.org/10.1080/00071310122146)
 **作者**: Russell, Steven
-**摘要**: （暂无）
+**摘要**: This paper is a genealogical reflection on both the historiography of European witchcraft and the dynamics of witchcraft trials. I argue that traditional scholarly assumptions about the ‘unsophisticated’ nature of early modern European mentalities result in inadequate representations of accused witc…
 
 ### Modernization and religious intermarriage in the Republic of Ireland
 **年份**: 2001 | **DOI**: [10.1080/00071310120084517](https://doi.org/10.1080/00071310120084517)
@@ -3150,12 +3150,12 @@
 ### Dialectical dialogue: the struggle for speech, repressive silence, and the shift to multiplicity
 **年份**: 2001 | **DOI**: [10.1080/00071310122878](https://doi.org/10.1080/00071310122878)
 **作者**: Gurevitch, Zali
-**摘要**: （暂无）
+**摘要**: In the present essay I intend to explore ‘dialectical dialogue’ in three distinct moments: the battle for recognition, the ethics of giving recognition, and the multiplicity of conversation. The essay begins with Hegel's figures of Master and Slave portraying the struggle of speech for recognition.…
 
 ### Cross-national changes in time-use: some sociological (hi)stories re-examined
 **年份**: 2001 | **DOI**: [10.1080/00071310122071](https://doi.org/10.1080/00071310122071)
 **作者**: Gershuny, Oriel Sullivan, Jonathan
-**摘要**: （暂无）
+**摘要**: The paper addresses some macro-sociological questions about changes in broad categories of time-use. The focus is on large-scale cross-national time trends from developed countries in paid and unpaid work, and leisure.…
 
 ### Witchcraft, genealogy, Foucault
 **年份**: 2001 | **DOI**: [10.1080/00071310020023064](https://doi.org/10.1080/00071310020023064)
@@ -3175,7 +3175,7 @@
 ### Tightening the net: children, community, and control
 **年份**: 2001 | **DOI**: [10.1080/00071310122293](https://doi.org/10.1080/00071310122293)
 **作者**: James, Adrian L. James, Allison
-**摘要**: （暂无）
+**摘要**: The recent move to revitalize social democracy in the UK under the New Labour government, explored by Giddens as ‘the Third Way’, embraces many of Etzioni's ideas on communitarianism.…
 
 ### Book Reviews
 **年份**: 2001 | **DOI**: [10.1080/00071310121741](https://doi.org/10.1080/00071310121741)
@@ -3184,7 +3184,7 @@
 ### Science against modernism: the relevance of the social theory of Michael Polanyi
 **年份**: 2001 | **DOI**: [10.1080/00071310122120](https://doi.org/10.1080/00071310122120)
 **作者**: Thorpe, Charles
-**摘要**: （暂无）
+**摘要**: Science, as an institution, is widely taken by sociologists to exemplify the modern tendency towards vesting trust and authority in impersonal offices and procedures, rather than in embodied human individuals.…
 
 ### Class structure in a deeply divided society: class and ethnic inequality in Israel, 19741991
 **年份**: 2001 | **DOI**: [10.1080/00071310121927](https://doi.org/10.1080/00071310121927)
@@ -3209,7 +3209,7 @@
 ### The myth of the best argument: power, deliberation and reason
 **年份**: 2001 | **DOI**: [10.1080/00071310122320](https://doi.org/10.1080/00071310122320)
 **作者**: Pellizzoni, Luigi
-**摘要**: （暂无）
+**摘要**: Power in communication takes two main forms. As ‘external’ power, it consists in the ability to acknowledge or disregard a speaker or a discourse. As ‘internal’ power, it is the ability of an argument to eliminate other arguments by demonstrating its superiority.…
 
 ### Book Reviews
 **年份**: 2001 | **DOI**: [10.1080/00071310020023109](https://doi.org/10.1080/00071310020023109)
@@ -3218,12 +3218,12 @@
 ### Sociology and the public understanding of science: from rationalization to rhetoric
 **年份**: 2001 | **DOI**: [10.1080/00071310123008](https://doi.org/10.1080/00071310123008)
 **作者**: Locke, Simon
-**摘要**: （暂无）
+**摘要**: This paper contributes to the reappraisal of sociological theories of modernity inspired by the sociology of scientific knowledge (SSK). As much as these theories rely on received ideas about the nature of science that SSK has called into doubt, so do they rely on ideas about the public understandin…
 
 ### Childhood poverty, early motherhood and adult social exclusion
 **年份**: 2001 | **DOI**: [10.1080/00071310122372](https://doi.org/10.1080/00071310122372)
 **作者**: Kiernan, John Hobcraft, Kathleen
-**摘要**: （暂无）
+**摘要**: Childhood poverty and early parenthood are both high on the current political agenda. The key new issue that this research addresses is the relative importance of childhood poverty and of early motherhood as correlates of outcomes later in life.…
 
 ### Testing the modernization hypothesis and the socialist ideology hypothesis: a comparative sibling analysis of educational attainment and occupational status
 **年份**: 2001 | **DOI**: [10.1080/00071310120071133](https://doi.org/10.1080/00071310120071133)
@@ -3252,12 +3252,12 @@
 ### Religion and attitudes towards nature in Britain
 **年份**: 2001 | **DOI**: [10.1080/00071310122733](https://doi.org/10.1080/00071310122733)
 **作者**: Marangudakis, Bernadette C. Hayes, Manussos
-**摘要**: （暂无）
+**摘要**: Religious institutions have been identified as important conduits in shaping social attitudes toward nature and the environment. Using Lynn White's historical thesis that Judeo-Christianity has cherished the domination of nature (‘dominion’ belief) by humans as our frame of reference, this article e…
 
 ### The material and the symbolic in theorizing social stratification: issues of gender, ethnicity and class
 **年份**: 2001 | **DOI**: [10.1080/00071310122316](https://doi.org/10.1080/00071310122316)
 **作者**: Anthias, Floya
-**摘要**: （暂无）
+**摘要**: Within most approaches to stratification gender and ethnicity are seen to pertain primarily to the symbolic or cultural realms, whilst class is regarded as pertaining to material inequality.…
 
 ### Mobile sociology1
 **年份**: 2000 | **DOI**: [10.1111/j.1468-4446.2000.00185.x](https://doi.org/10.1111/j.1468-4446.2000.00185.x)
@@ -3386,7 +3386,7 @@
 ### Materials for an exploratory theory of the network society
 **年份**: 2000 | **DOI**: [10.1080/000713100358408](https://doi.org/10.1080/000713100358408)
 **作者**: Castells, Manuel
-**摘要**: （暂无）
+**摘要**: This article aims at proposing some elements for a grounded theor y of the network society. The network society is the social structure characteristic of the Information Age, as tentatively identie ed by empirical, cross-cultural investigation.…
 
 ### Is it a different world to when you were growing up? Generational effects on social representations and child‐rearing values*
 **年份**: 2000 | **DOI**: [10.1111/j.1468-4446.2000.00355.x](https://doi.org/10.1111/j.1468-4446.2000.00355.x)
@@ -3470,7 +3470,7 @@
 ### The Irish brawn drain: English League clubs and Irish footballers, 1946-1995
 **年份**: 2000 | **DOI**: [10.1080/00071310050131594](https://doi.org/10.1080/00071310050131594)
 **作者**: McGovern, Patrick
-**摘要**: （暂无）
+**摘要**: This paper draws on world systems and resource dependency theories to show how the changing recruitment practices of English League clubs have deepened the brawn drain from Irish football, thereby compounding its underdevelopment.An analysis of the origins, method of recruitment and destinations of …
 
 ### On sources and narratives in historical social science: a realist critique of positivist and postmodernist epistemologies
 **年份**: 2000 | **DOI**: [10.1080/00071310050131639](https://doi.org/10.1080/00071310050131639)
@@ -3490,7 +3490,7 @@
 ### Technology and social interaction: the emergence of ‘workplace studies’
 **年份**: 2000 | **DOI**: [10.1080/00071310050030190](https://doi.org/10.1080/00071310050030190)
 **作者**: Heath, Christian; Knoblauch, Hubert; Luff, Paul
-**摘要**: （暂无）
+**摘要**: Despite the substantial body of literature concerned with the ways in which digital media are transforming contemporary society and institutional life, we have relatively little understanding of the ways in which new technologies feature in day to day organizational conduct and interaction.…
 
 ### Is it a different world to when you were growing up? Generational effects on social representations and child-rearing values
 **年份**: 2000 | **DOI**: [10.1080/00071310050030226](https://doi.org/10.1080/00071310050030226)
@@ -3522,12 +3522,12 @@
 ### Market returns? Gender and theories of change in employment relations
 **年份**: 2000 | **DOI**: [10.1080/00071310050030172](https://doi.org/10.1080/00071310050030172)
 **作者**: Bottero, Sarah Irwin, Wendy
-**摘要**: （暂无）
+**摘要**: This paper explores recent arguments about the marketization of female labour, in the context of a wider analysis of the role of concepts like 'the market' and 'individualization' in sociological accounts of change in employment relations.…
 
 ### Two societies, one sociology, and no theory
 **年份**: 2000 | **DOI**: [10.1080/000713100358435](https://doi.org/10.1080/000713100358435)
 **作者**: Esping-Andersen, Gosta
-**摘要**: （暂无）
+**摘要**: This article shows the declining effectiveness of sociological classics to make sense of dramatically changing economy and society. However, the various ‘postsomething’ analyses of such transformation, especially the postmodern emphases on language and discourse, are also shown to be inadequate.…
 
 ### At the birth of second century sociology: times of reflexivity, spaces of identity, and nodes of knowledge
 **年份**: 2000 | **DOI**: [10.1080/000713100358426](https://doi.org/10.1080/000713100358426)

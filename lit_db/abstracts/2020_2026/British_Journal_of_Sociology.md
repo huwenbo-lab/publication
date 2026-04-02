@@ -1618,7 +1618,7 @@
 ### Capital and ideology: A global perspective on inequality regimes
 **年份**: 2021 | **DOI**: [10.1111/1468-4446.12836](https://doi.org/10.1111/1468-4446.12836)
 **作者**: Piketty, Thomas
-**摘要**: （暂无）
+**摘要**: In this thought-provoking sequel to his bestselling Capital in the Twenty-First Century, economist Thomas Piketty expands his focus on inequality to the prodigious “political-ideological repertoire” that constitutes the economic narratives of major nations.…
 
 ### Below the radar: A UK benefit fraud media coverage tsunami-Impact, ideology, and society
 **年份**: 2021 | **DOI**: [10.1111/1468-4446.12809](https://doi.org/10.1111/1468-4446.12809)
@@ -1643,7 +1643,7 @@
 ### Institutional underpinnings, global reach, and the future of ordinal citizenship
 **年份**: 2021 | **DOI**: [10.1111/1468-4446.12837](https://doi.org/10.1111/1468-4446.12837)
 **作者**: Soysal, Yasemin Nuhoglu
-**摘要**: （暂无）
+**摘要**: I had the opportunity to attend Marion Fourcade's highly stimulating 2019 BJS lecture on the transformations of liberal citizenship in the digital age. Between then and its printing in these pages (Fourcade, 2021), a big chunk of our lives indeed moved online.…
 
 ### Social capital as a partial explanation for gender wage gaps
 **年份**: 2021 | **DOI**: [10.1111/1468-4446.12833](https://doi.org/10.1111/1468-4446.12833)
@@ -1703,7 +1703,7 @@
 ### Revisiting the Great Levelling: The limits of Piketty's Capital and Ideology for understanding the rise of late 20th century inequality
 **年份**: 2021 | **DOI**: [10.1111/1468-4446.12840](https://doi.org/10.1111/1468-4446.12840)
 **作者**: Paidipaty, Poornima; Ramos Pinto, Pedro
-**摘要**: （暂无）
+**摘要**: In Capital and Ideology, Thomas Piketty returns to questions of historical inequality, not merely to fill in the gaps in the earlier, widely circulated and impactful Capital in the 21st Century, but to undertake a far more ambitious and nuanced project.…
 
 ### Narrating inequality, eliding empire
 **年份**: 2021 | **DOI**: [10.1111/1468-4446.12804](https://doi.org/10.1111/1468-4446.12804)

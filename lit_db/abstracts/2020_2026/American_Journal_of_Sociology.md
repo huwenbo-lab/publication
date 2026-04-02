@@ -293,7 +293,7 @@
 ### Changing Women in a Changing Society at 50: A Symposium
 **年份**: 2023 | **DOI**: [10.1086/729058](https://doi.org/10.1086/729058)
 **作者**: Schilt, Kristen; Hoang, Kimberly Kay
-**摘要**: （暂无）
+**摘要**: We convened this symposium to celebrate the 50th anniversary of a special issue of the American Journal of Sociology ( AJS ): “ Changing Women in a ChangingSociety ” (hereafter “ ChangingWomen ” ).Across21articles, “ Changing Women ” featured 19 women as solo or ﬁ rst authors at a time when readers …
 
 ### Six Revolutions and Perhaps a Funeral
 **年份**: 2023 | **DOI**: [10.1086/728970](https://doi.org/10.1086/728970)

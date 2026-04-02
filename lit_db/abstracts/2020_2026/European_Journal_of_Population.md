@@ -8,7 +8,7 @@
 ### Poverty Dynamics in Early Childhood among the Native-Born Children of Immigrants in Sweden and Finland
 **年份**: 2026 | **DOI**: [10.1007/s10680-026-09772-y](https://doi.org/10.1007/s10680-026-09772-y)
 **作者**: Grotti, Raffaele; Aradhya, Siddartha; Vaalavuo, Maria 等4人
-**摘要**: （暂无）
+**摘要**: This brief report delves into the poverty dynamics of second-generation immigrant (G2) children in Sweden and Finland, comparing them with their peers from the majority population. These are unique contexts to examine such socioeconomic inequalities since they are the two highest ranked countries in…
 
 ### A Simulation Approach for the Spatial Testing of Migration Theories
 **年份**: 2026 | **DOI**: [10.1007/s10680-026-09770-0](https://doi.org/10.1007/s10680-026-09770-0)
@@ -18,27 +18,27 @@
 ### No Partner, No Children? Union Formation, Assortative Mating, and Educational Inequalities in Fertility in Germany
 **年份**: 2026 | **DOI**: [10.1007/s10680-026-09766-w](https://doi.org/10.1007/s10680-026-09766-w)
 **作者**: Leesch, Julia; Hiekel, Nicole
-**摘要**: （暂无）
+**摘要**: Education is linked to whether and with whom individuals form partnerships. However, it is largely unclear how educational differences in union formation and matching with equally, more, or less educated partners shape educational disparities in fertility.…
 
 ### Abortion Ban and the Next Generation’s Family Formation Decisions: Evidence from Romania
 **年份**: 2026 | **DOI**: [10.1007/s10680-026-09768-8](https://doi.org/10.1007/s10680-026-09768-8)
 **作者**: Köksal, Selin; Balbo, Nicoletta; Billari, Francesco C.
-**摘要**: （暂无）
+**摘要**: This study examines how the introduction of an abortion ban can shape the next generation’s family formation trajectories, and whether the influence of the ban varies by gender and parental socioeconomic status (SES).…
 
 ### Leaving Again? Job Quality and Repeat Internal Migration in China
 **年份**: 2026 | **DOI**: [10.1007/s10680-026-09769-7](https://doi.org/10.1007/s10680-026-09769-7)
 **作者**: Huangfu, Yiyue; Wang, Jia
-**摘要**: （暂无）
+**摘要**: Research on internal migration has paid limited attention to how job quality influences repeat migration. We theorize three possible scenarios where job quality may exert a dampening, facilitating, or null effect on repeat migration, a complex process contingent on gender and educational attainment.…
 
 ### Harvesting Effect and Extreme Temperature-Related Mortality in Italy
 **年份**: 2026 | **DOI**: [10.1007/s10680-025-09764-4](https://doi.org/10.1007/s10680-025-09764-4)
 **作者**: Kannankeril Joseph, Vinod Joseph; Conte Keivabu, Risto; Muttarak, Raya 等5人
-**摘要**: （暂无）
+**摘要**: It is well-established that deaths peak in winter and show throughs in summer. However, it remains unclear how mortality patterns will unfold as the climate warms, bringing fewer cold days and more hot days.…
 
 ### The Double Challenges of Single Parents Raising Children with Disabilities
 **年份**: 2026 | **DOI**: [10.1007/s10680-026-09767-9](https://doi.org/10.1007/s10680-026-09767-9)
 **作者**: Balbo, Nicoletta; Burciu, Roxana-Diana
-**摘要**: （暂无）
+**摘要**: This paper sheds light on the health-related, economic, and social well-being of single parents of children with disabilities, a population often overlooked in research. Much literature examines single parenthood and child disability independently and generally finds negative consequences of experie…
 
 ### Origin, Generation, and Destination Country Context: Employment Changes and Childbearing Among Female Immigrants and Their Descendants in the UK, France, and Germany
 **年份**: 2025 | **DOI**: [10.1007/s10680-025-09750-w](https://doi.org/10.1007/s10680-025-09750-w)
@@ -58,7 +58,7 @@
 ### Various Domains of Integration of Refugees and Their Interrelationships: A Study of Recent Middle Eastern Refugee Inflows in Austria
 **年份**: 2025 | **DOI**: [10.1007/s10680-024-09720-8](https://doi.org/10.1007/s10680-024-09720-8)
 **作者**: Landesmann, Michael; Leitner, Sandra M.
-**摘要**: （暂无）
+**摘要**: This paper investigates the size and direction of the interrelationships between two important aspects of integration of refugees in Austria: labour market integration and social integration.…
 
 ### Residential Mobility and Housing Tenure Among Immigrants and Their Descendants: a Cross-National Analysis of Five European Countries
 **年份**: 2025 | **DOI**: [10.1007/s10680-025-09757-3](https://doi.org/10.1007/s10680-025-09757-3)
@@ -93,7 +93,7 @@
 ### The 2021 Baby Boom in Iceland: Exploring the Role of a Parental Leave Reform and the COVID-19 Pandemic
 **年份**: 2025 | **DOI**: [10.1007/s10680-024-09727-1](https://doi.org/10.1007/s10680-024-09727-1)
 **作者**: Arnalds, Ásdís; Jónsson, Ari Klængur; Símonardóttir, Sunna
-**摘要**: （暂无）
+**摘要**: In 2021, during the height of the COVID-19 pandemic, the Total Fertility Rate in Iceland rose unexpectedly from 1.79 to 1.90. The increased number of births followed an important reform in the Icelandic paid parental leave scheme, which included an expansion of the leave from 10 to 12 months.…
 
 ### Fertility among Norwegian Women and Men with Mental Disorders
 **年份**: 2025 | **DOI**: [10.1007/s10680-025-09739-5](https://doi.org/10.1007/s10680-025-09739-5)
@@ -103,7 +103,7 @@
 ### Correction: Does Ethnicity Moderate the Union Dissolution Penalty for Women? A Register-based Analysis of Changes in Income Components
 **年份**: 2025 | **DOI**: [10.1007/s10680-025-09731-z](https://doi.org/10.1007/s10680-025-09731-z)
 **作者**: Hogendoorn, Bram; Kalmijn, Matthijs
-**摘要**: （暂无）
+**摘要**: In Appendix Table A1 of this article, the data in the column 'M' headed 'Personal earnings' were mistakenly listed under heading 'Personal benefits'. As a result, all columns 'M' have erroneously shifted one column to the right.…
 
 ### Swedish Fertility Developments Before, During and After the COVID-19 Pandemic
 **年份**: 2025 | **DOI**: [10.1007/s10680-025-09744-8](https://doi.org/10.1007/s10680-025-09744-8)
@@ -168,7 +168,7 @@
 ### Women's Domestic Burden and Gendered Fertility Intentions in Italy: The Role of Parity and Child's Sex
 **年份**: 2025 | **DOI**: [10.1007/s10680-025-09743-9](https://doi.org/10.1007/s10680-025-09743-9)
 **作者**: García-Pereiro, Thaís; Mencarini, Letizia; Patimo, Raffaella 等4人
-**摘要**: （暂无）
+**摘要**: In Italy, the unequal distribution of household chores persists, disproportionately affecting women and potentially discouraging fertility intentions. This study explores the relationship between women's domestic burden and reproductive intentions, and how this relationship varies between men and wo…
 
 ### Agree to Disagree? Fertility Intentions Among Mixed Couples in Sweden
 **年份**: 2025 | **DOI**: [10.1007/s10680-025-09742-w](https://doi.org/10.1007/s10680-025-09742-w)
@@ -208,7 +208,7 @@
 ### Joint Physical Custody in Europe: A Comparative Exploration
 **年份**: 2025 | **DOI**: [10.1007/s10680-025-09732-y](https://doi.org/10.1007/s10680-025-09732-y)
 **作者**: Claessens, Elke; Mortelmans, Dimitri
-**摘要**: （暂无）
+**摘要**: Joint physical custody (JPC)-where children alternate between parental households after a separation-has been found to be on a rise in a diversity of European countries. However, variations in sampling, data and operationalization consistently complicate the comparative mapping of JPC prevalence and…
 
 ### Parental Separation and Children’s Education—Changes Over Time?
 **年份**: 2025 | **DOI**: [10.1007/s10680-024-09721-7](https://doi.org/10.1007/s10680-024-09721-7)
@@ -253,7 +253,7 @@
 ### Does Ethnicity Moderate the Union Dissolution Penalty for Women? A Register-based Analysis of Changes in Income Components
 **年份**: 2024 | **DOI**: [10.1007/s10680-024-09714-6](https://doi.org/10.1007/s10680-024-09714-6)
 **作者**: Hogendoorn, Bram; Kalmijn, Matthijs
-**摘要**: （暂无）
+**摘要**: Union dissolution has severe consequences for women's economic well-being. Theoretical work links these consequences to ethnic inequality. Ethnic groups vary in terms of separation rates, female employment, repartnering trajectories, kin support, and reliance on welfare benefits.…
 
 ### Urban–Rural Disparities in the Transition to Parenthood During Times of Uncertainty: A Multilevel Perspective on Finland
 **年份**: 2024 | **DOI**: [10.1007/s10680-024-09725-3](https://doi.org/10.1007/s10680-024-09725-3)
@@ -328,7 +328,7 @@
 ### Stratified Fertility: Age Norms, Ideals, Behaviors, and the Role of National Contexts
 **年份**: 2024 | **DOI**: [10.1007/s10680-024-09718-2](https://doi.org/10.1007/s10680-024-09718-2)
 **作者**: Badolato, Luca; Billari, Francesco C.; Liefbroer, Aart C.
-**摘要**: （暂无）
+**摘要**: A growing body of research shows that demographic attitudes and behaviors across the life course are socially stratified. Building on this and focusing on the transition to parenthood, we hypothesize that (i) parental socioeconomic status is associated with multiple dimensions of the transition to p…
 
 ### Fertility Declines Near the End of the COVID-19 Pandemic: Evidence of the 2022 Birth Declines in Germany and Sweden
 **年份**: 2024 | **DOI**: [10.1007/s10680-023-09689-w](https://doi.org/10.1007/s10680-023-09689-w)
@@ -388,7 +388,7 @@
 ### The Urban Bias in Latin American Avoidable Mortality
 **年份**: 2024 | **DOI**: [10.1007/s10680-024-09716-4](https://doi.org/10.1007/s10680-024-09716-4)
 **作者**: Garcia Arias, Jenny
-**摘要**: （暂无）
+**摘要**: In 1977, Michael Lipton introduced the Urban Bias Thesis as a framework for understanding how most economic policy initiatives have contributed to the overdevelopment of urban areas and the underdevelopment of rural areas.…
 
 ### Partnership Dynamics of LGB People and Heterosexuals: Patterns of First Partnership Formation and First Cohabitation
 **年份**: 2024 | **DOI**: [10.1007/s10680-024-09697-4](https://doi.org/10.1007/s10680-024-09697-4)
@@ -398,12 +398,12 @@
 ### Correction: Cross-sectional Average Length of Life Entropy $$({\mathcal{H}}_{{{\text{CAL}}}} )$$: International Comparisons and Decompositions
 **年份**: 2024 | **DOI**: [10.1007/s10680-024-09715-5](https://doi.org/10.1007/s10680-024-09715-5)
 **作者**: Su, Wen; Canudas-Romo, Vladimir
-**摘要**: （暂无）
+**摘要**: In this article, published online 7 June 2024, the label in Figure 1 read ‘Chohort Entropy (1907)’, but should have read ‘Cohort Entropy (1907)’. The original article has been corrected.
 
 ### Residential Mobility in Childhood and Union Dissolution Later in Life
 **年份**: 2024 | **DOI**: [10.1007/s10680-024-09717-3](https://doi.org/10.1007/s10680-024-09717-3)
 **作者**: Pertzikovitz, Alon; Vidal, Sergi; de Valk, Helga A. G.
-**摘要**: （暂无）
+**摘要**: The limited existing literature studying the effects of childhood residential mobility suggests that it influences a range of life outcomes, at least in young adulthood. Little is known about how the frequency of moving in childhood is related to later-life demographic behaviour in Europe.…
 
 ### Educational Gradient of Multi-partner Fertility: First Estimates for the UK
 **年份**: 2024 | **DOI**: [10.1007/s10680-024-09708-4](https://doi.org/10.1007/s10680-024-09708-4)

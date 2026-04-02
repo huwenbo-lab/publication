@@ -658,7 +658,7 @@
 ### Blaming the victims: Hearsay, labeling, and the hazards of quick-hit disaster ethnography
 **年份**: 2006 | **DOI**: [10.1177/000312240607100409](https://doi.org/10.1177/000312240607100409)
 **作者**: Klinenberg, Eric
-**摘要**: （暂无）
+**摘要**: behavioral characteristics. These myths were harmful, because they helped perpetuate the official and journalistic opinion that people died because their families and neighbors did not care about or take care of them, or because they neglected themselves.…
 
 ### Politics and inequality in Latin America and the Caribbean
 **年份**: 2006 | **DOI**: [10.1177/000312240607100604](https://doi.org/10.1177/000312240607100604)
@@ -1468,7 +1468,7 @@
 ### Feminist critics uncover determinism, positivism, and antiquated theory - Reply
 **年份**: 2001 | **DOI**: [10.2307/3088927](https://doi.org/10.2307/3088927)
 **作者**: Udry, JR
-**摘要**: （暂无）
+**摘要**: Kanter, Rosabeth. 1977. Men and Women of the Corporation. New York: Harper and Row. Lorber, Judith. 1994. Paradoxes of New Haven, CT: Yale University Press. Maccoby, Eleanor. 1998. Two Sexes. Cambridge, MA: Belknap Press of Harvard University. Meyers, Kristen, Cynthia Anderson, and Barbara Risman.…
 
 ### Time-dependent effects of wives' employment on marital dissolution
 **年份**: 2001 | **DOI**: [10.2307/2657416](https://doi.org/10.2307/2657416)
@@ -1503,7 +1503,7 @@
 ### The ASR review process
 **年份**: 2001 | **DOI**: [10.2307/3088928](https://doi.org/10.2307/3088928)
 **作者**: Firebaugh, G
-**摘要**: （暂无）
+**摘要**: Because Professors Risman (2001, henceforward Risman) and Udry (2001, henceforward Udry) speculate about the ASR review process in their exchange, the current ASR Editors asked me to write a reply.…
 
 ### The small world of Germany and the durability of national networks
 **年份**: 2001 | **DOI**: [10.2307/3088882](https://doi.org/10.2307/3088882)
@@ -1523,7 +1523,7 @@
 ### The limits of biological determinism - Comment
 **年份**: 2001 | **DOI**: [10.2307/3088924](https://doi.org/10.2307/3088924)
 **作者**: Miller, EM; Costello, CY
-**摘要**: （暂无）
+**摘要**: Udry (2000, henceforward Udry), claims to have established that sex dimorphic behavior is produced by prenatal exposure to varying levels of testosterone. He concludes that if societies depart too far from the underlying sex-dimorphism of biological predispositions, they will generate social malaise…
 
 ### The two faces of capital: Corporations and individual capitalists as political actors
 **年份**: 2001 | **DOI**: [10.2307/3088884](https://doi.org/10.2307/3088884)
@@ -1618,7 +1618,7 @@
 ### World society, the nation-state, and environmental protection - Comment on Frank, Hironaka, and Schofer
 **年份**: 2000 | **DOI**: [10.2307/2657292](https://doi.org/10.2307/2657292)
 **作者**: Buttel, FH
-**摘要**: （暂无）
+**摘要**: Frederick H. Buttel, World Society, the Nation-State, and Environmental Protection: Comment on Frank, Hironaka, and Schofer, American Sociological Review, Vol. 65, No. 1, Looking Forward, Looking Back: Continuity and Change at the Turn of the Millenium (Feb., 2000), pp. 117-121
 
 ### Demographic transition in ecological focus
 **年份**: 2000 | **DOI**: [10.2307/2657462](https://doi.org/10.2307/2657462)

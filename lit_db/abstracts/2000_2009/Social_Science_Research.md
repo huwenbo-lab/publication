@@ -93,7 +93,7 @@
 ### Are there sex differences in the utilization of educational capital among college-educated workers?
 **年份**: 2009 | **DOI**: [10.1016/j.ssresearch.2009.02.004](https://doi.org/10.1016/j.ssresearch.2009.02.004)
 **作者**: Shauman, Kimberlee A.
-**摘要**: （暂无）
+**摘要**: Abstract This paper introduces the concept of educational utilization as an overlooked part of the education-to-work transition and a potential mechanism by which occupational sex segregation is generated among the college-educated labor force.…
 
 ### Vocational education: A clean slate for disengaged students?
 **年份**: 2009 | **DOI**: [10.1016/j.ssresearch.2009.05.002](https://doi.org/10.1016/j.ssresearch.2009.05.002)
@@ -1140,7 +1140,7 @@
 ### Occupational sex segregation and the earnings of occupations: What causes the link among college-educated workers?
 **年份**: 2006 | **DOI**: [10.1016/j.ssresearch.2004.12.001](https://doi.org/10.1016/j.ssresearch.2004.12.001)
 **作者**: Shauman, Kimberlee A.
-**摘要**: （暂无）
+**摘要**: Abstract A significant proportion of the earnings gap between men and women is attributable to occupational sex segregation and the concentration of women in relatively low-paying occupations, but we do not yet know why women continue to be employed disproportionately in lesser-paying occupations.…
 
 ### Editorial Board
 **年份**: 2006 | **DOI**: [10.1016/s0049-089x(05)00061-x](https://doi.org/10.1016/s0049-089x(05)00061-x)
@@ -1309,7 +1309,7 @@
 ### Pre-school enrollment: An analysis by immigrant generation
 **年份**: 2006 | **DOI**: [10.1016/j.ssresearch.2004.06.003](https://doi.org/10.1016/j.ssresearch.2004.06.003)
 **作者**: Chiswick, Barry R.; DebBurman, Noyna
-**摘要**: （暂无）
+**摘要**: There has been minimal research on the pre-school enrollment of immigrant children. Using 1990 U.S. Census data, this paper investigates pre-school enrollment of child immigrants, those who immigrated as children and the U.S.-born children of immigrants.…
 
 ### Reinvigorating relative deprivation: A new measure for a classic concept
 **年份**: 2006 | **DOI**: [10.1016/j.ssresearch.2005.07.001](https://doi.org/10.1016/j.ssresearch.2005.07.001)
@@ -2284,7 +2284,7 @@
 ### Sibship Sex Composition: Effects on Educational Attainment
 **年份**: 2000 | **DOI**: [10.1006/ssre.2000.0678](https://doi.org/10.1006/ssre.2000.0678)
 **作者**: Conley, Dalton
-**摘要**: （暂无）
+**摘要**: This study decomposes the detrimental effects of increased sibship on educational attainment by the sex of the respondent and his/her siblings. Previous theories regarding the interaction of gender and sibship sex composition are reviewed and a new hypothesis is offered: a revision of the sex minori…
 
 ### Canadian Biotechnology Start-Ups, 1991–1997: The Role of Incumbents' Patents and Strategic Alliances in Controlling Competition
 **年份**: 2000 | **DOI**: [10.1006/ssre.2000.0679](https://doi.org/10.1006/ssre.2000.0679)

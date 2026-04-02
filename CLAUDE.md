@@ -59,6 +59,7 @@ index.html             # 前端展示页面
 check_quality.py       # 数据质量检查，生成 data_quality_report.md
 build_articles.py      # 从XLS清洗合并为 articles.json
 enrich_crossref.py     # CrossRef API补全摘要/DOI/缺失数据
+enrich_openalex.py     # OpenAlex + Semantic Scholar 补全摘要（CrossRef遗漏的）
 update.py              # 定期更新脚本
 build_lit_db.py        # 生成 lit_db/ 目录（AI查阅索引）
 build_search_db.py     # 构建 SQLite FTS5 全文检索数据库 → literature.db
@@ -94,6 +95,7 @@ python update.py --dry-run    # 仅检查，不写入
 source venv/bin/activate
 python build_articles.py      # 从XLS重建（仅已有Excel的17本期刊）
 python enrich_crossref.py     # CrossRef补全（摘要、DOI、历史数据、缺失期刊）
+python enrich_openalex.py     # OpenAlex+S2补全（CrossRef遗漏的摘要）
 python build_lit_db.py        # 重建AI查阅索引
 python build_search_db.py     # 重建全文检索数据库
 ```

@@ -218,7 +218,7 @@
 ### How routine tasks affect labor market inequalities between vocational and tertiary graduates over the career
 **年份**: 2025 | **DOI**: [10.1016/j.ssresearch.2025.103207](https://doi.org/10.1016/j.ssresearch.2025.103207)
 **作者**: Decker, Viktor; Labussiere, Marie; Bol, Thijs
-**摘要**: （暂无）
+**摘要**: • Vocational graduates perform more routine tasks than general graduates. • Group differences in routine tasks account for 11 % of the income gap. • Group differences in routine tasks do not affect unemployment risk.…
 
 ### The effects of clan culture on multidimensional poverty of older adults in China
 **年份**: 2025 | **DOI**: [10.1016/j.ssresearch.2025.103213](https://doi.org/10.1016/j.ssresearch.2025.103213)
@@ -403,7 +403,7 @@
 ### Occupations in space: Using individual mobility patterns to reveal the latent dimensions of the occupational structure
 **年份**: 2025 | **DOI**: [10.1016/j.ssresearch.2025.103154](https://doi.org/10.1016/j.ssresearch.2025.103154)
 **作者**: Westerman, Johan; Magnusson, Charlotta
-**摘要**: （暂无）
+**摘要**: Traditional perspectives on occupational structure often emphasize hierarchical and socio-economic dimensions, typically reducing it to a one-dimensional framework. As noted in much previous research, this simplification may overlook the complexity of critical social issues.…
 
 ### Who is using flexible work arrangements among couples? A longitudinal analysis of the disparities between gender, parenthood, and occupations
 **年份**: 2025 | **DOI**: [10.1016/j.ssresearch.2025.103144](https://doi.org/10.1016/j.ssresearch.2025.103144)
@@ -563,7 +563,7 @@
 ### The effects of world society on international poverty, 1990-2018
 **年份**: 2025 | **DOI**: [10.1016/j.ssresearch.2024.103090](https://doi.org/10.1016/j.ssresearch.2024.103090)
 **作者**: Mejia, Steven A.
-**摘要**: （暂无）
+**摘要**: Recent decades have witnessed a worldwide decline in international poverty. Conventional explanations of this empirical problem emphasize variables tied to domestic and global economic processes.…
 
 ### Adult intergenerational proximity and parents' depressive symptoms: A bidirectional approach
 **年份**: 2025 | **DOI**: [10.1016/j.ssresearch.2024.103094](https://doi.org/10.1016/j.ssresearch.2024.103094)
@@ -768,7 +768,7 @@
 ### Gender attitudes and the new cultural divide in Europe
 **年份**: 2024 | **DOI**: [10.1016/j.ssresearch.2024.103042](https://doi.org/10.1016/j.ssresearch.2024.103042)
 **作者**: Schaefer, Ines; Khoudja, Yassine; Grunow, Daniela
-**摘要**: （暂无）
+**摘要**: This paper investigates how gender attitudes relate to the new cultural divide between cosmopolitans and communitarians in Europe, defined by immigration and EU attitudes. We examine how gender attitudes vary across this divide, how large and diverse the ideological groups are, and differences betwe…
 
 ### Overwork and the use of paid leave and flexible work policies in US workplaces
 **年份**: 2024 | **DOI**: [10.1016/j.ssresearch.2024.103006](https://doi.org/10.1016/j.ssresearch.2024.103006)
@@ -1048,7 +1048,7 @@
 ### Teacher judgements and gender achievement gaps in primary education in England, Germany, and the US
 **年份**: 2023 | **DOI**: [10.1016/j.ssresearch.2023.102938](https://doi.org/10.1016/j.ssresearch.2023.102938)
 **作者**: Olczyk, Melanie; Gentrup, Sarah; Schneider, Thorsten 等8人
-**摘要**: （暂无）
+**摘要**: We examined whether inaccurate teacher judgements of primary school student achievement correlate with students' gender and whether such bias contributes to gender achievement gaps in language and mathematics. Our study used ex-post harmonised longitudinal data from England, Germany, and the US.…
 
 ### How did it get this way? Disentangling the sources of teacher quality gaps through agent-based modeling
 **年份**: 2023 | **DOI**: [10.1016/j.ssresearch.2023.102941](https://doi.org/10.1016/j.ssresearch.2023.102941)

@@ -33,7 +33,7 @@
 ### “I was Aggressive for the Streets, Pretty for the Pictures”
 **年份**: 2009 | **DOI**: [10.1177/0891243208326676](https://doi.org/10.1177/0891243208326676)
 **作者**: Jones, Nikki
-**摘要**: （暂无）
+**摘要**: It is a late June afternoon and I am standing outside of a caf6 on Fillmore Street in San Francisco. I am holding flyers for Kiara', a young woman I met a few hours earlier. Kiara is 22 years old with a light brown com plexion and long, wavy hair that suggests a multiracial heritage.…
 
 ### “Doing Gender” as Canon or Agenda
 **年份**: 2009 | **DOI**: [10.1177/0891243208326677](https://doi.org/10.1177/0891243208326677)
@@ -68,7 +68,7 @@
 ### Categories Are Not Enough
 **年份**: 2009 | **DOI**: [10.1177/0891243208327081](https://doi.org/10.1177/0891243208327081)
 **作者**: Smith, Dorothy E.
-**摘要**: （暂无）
+**摘要**: W est and Zimmerman's (1975) early investigations of gender in interaction were particularly valuable in contributing to the visibili y of how we (women) might be inadvertently participating in our own silencing in interactions with men.…
 
 ### Heteronormativity and Homonormativity as Practical and Moral Resources
 **年份**: 2009 | **DOI**: [10.1177/0891243209341357](https://doi.org/10.1177/0891243209341357)
@@ -83,7 +83,7 @@
 ### The Figure of the Transwoman of Color Through the Lens of “Doing Gender”
 **年份**: 2009 | **DOI**: [10.1177/0891243208326461](https://doi.org/10.1177/0891243208326461)
 **作者**: Vidal-Ortiz, Salvador
-**摘要**: （暂无）
+**摘要**: often visit my birth family in Manati, a mid-size town in Puerto Rico.For over 20 years, I have driven on a main road (before the expresswaywas built) that connected the West and the North parts of the Island.…
 
 ### Book Review: Guyland: The Perilous World Where Boys Become Men. By Michael Kimmel. New York: HarperCollins, 2008, 332 pp., $25.95 (cloth)
 **年份**: 2009 | **DOI**: [10.1177/0891243209339750](https://doi.org/10.1177/0891243209339750)
@@ -123,7 +123,7 @@
 ### Accounting for Doing Gender
 **年份**: 2009 | **DOI**: [10.1177/0891243208326529](https://doi.org/10.1177/0891243208326529)
 **作者**: West, Candace; Zimmerman, Don H.
-**摘要**: （暂无）
+**摘要**: W e're delighted to have Doing Gender and its sequelae as the subjects of this symposium. The serious readings of our work by Professors Connell, Jones, Kitzinger, Messerschmidt, Risman, Smith, and Vidal-Ortiz do us honor, and we welcome the chance to address them.…
 
 ### Book Review: Queering Reproduction: Achieving Pregnancy in the Age of Technoscience. By Laura Mamo. Durham, NC: Duke University Press, 2007, 320 pp., $84.95 (cloth); $23.95 (paper)
 **年份**: 2009 | **DOI**: [10.1177/0891243209341372](https://doi.org/10.1177/0891243209341372)
@@ -143,7 +143,7 @@
 ### Doing Gender
 **年份**: 2009 | **DOI**: [10.1177/0891243208326730](https://doi.org/10.1177/0891243208326730)
 **作者**: Kitzinger, Celia
-**摘要**: （暂无）
+**摘要**: R e-reading Doing Gender has confirmed its status for me both as a landmark publication and as a missed opportunity. Its achievement was to build on, develop, and promote Garfinkel's (1967) focus on the mundane production of in interaction.…
 
 ### Book Review: Intimate Partner Violence. By Angela J. Hattery. New York: Rowman &amp; Littlefield Publishers, Inc., 2008, 222 pp., $75.00 (cloth); $28.95 (paper)
 **年份**: 2009 | **DOI**: [10.1177/0891243209341186](https://doi.org/10.1177/0891243209341186)
@@ -193,7 +193,7 @@
 ### “Doing Gender”
 **年份**: 2009 | **DOI**: [10.1177/0891243208326253](https://doi.org/10.1177/0891243208326253)
 **作者**: Messerschmidt, James W.
-**摘要**: （暂无）
+**摘要**: C andace West and Don Zimmerman wrote Doing Gender at a time (the 1980s) when a paradigm shift in feminist social science was occur ring. The long-standing conception of sex roles had suffered fundamental feminist critique for a variety of reasons, none more important than its eclipsing of interroga…
 
 ### Racializing the Glass Escalator
 **年份**: 2009 | **DOI**: [10.1177/0891243208323054](https://doi.org/10.1177/0891243208323054)
@@ -228,7 +228,7 @@
 ### From Doing To Undoing: Gender as We Know It
 **年份**: 2009 | **DOI**: [10.1177/0891243208326874](https://doi.org/10.1177/0891243208326874)
 **作者**: Risman, Barbara J.
-**摘要**: （暂无）
+**摘要**: This symposium honors the importance of (West and Zim erman 1987) as a conceptual contribution to social th ught. I offer a critique not of the original concept but of how it has come to be used or, as I argue, misused.…
 
 ### Enterprising Women
 **年份**: 2009 | **DOI**: [10.1177/0891243209336741](https://doi.org/10.1177/0891243209336741)
@@ -263,7 +263,7 @@
 ### Accountable Conduct
 **年份**: 2009 | **DOI**: [10.1177/0891243208327175](https://doi.org/10.1177/0891243208327175)
 **作者**: Connell, Raewyn
-**摘要**: （暂无）
+**摘要**: Candace West and Don Zimmerman's (1987) classic and beautifully constructed article was written and published in interesting times. The mid and late 1980s saw a number of attempts by feminists to formulate accounts of gender and sex on a more coherent sociological basis: in Britain (Caplan 1987; Wal…
 
 ### Book Review: The Making of Our Bodies, Ourselves: How Feminism Knowledge Travels across Borders. By Kathy Davis. Durham, NC: Duke University Press, 2007, 296 pp., $79.95 (cloth); $22.95 (paper)
 **年份**: 2009 | **DOI**: [10.1177/0891243209344431](https://doi.org/10.1177/0891243209344431)
@@ -440,7 +440,7 @@
 ### Thinking About Women Some More
 **年份**: 2008 | **DOI**: [10.1177/0891243207309908](https://doi.org/10.1177/0891243207309908)
 **作者**: Andersen, Margaret L.
-**摘要**: （暂无）
+**摘要**: When I wrote “Thinking about Women: A Quarter Century’s View,” I hoped the article would not only review some of the development of the sociology of gender but would also stimulate additional thinking about the connections between gender, race, class, and sexuality.…
 
 ### “This isn't Paradise—I Work Here”
 **年份**: 2008 | **DOI**: [10.1177/0891243208324999](https://doi.org/10.1177/0891243208324999)
@@ -559,7 +559,7 @@
 ### The Unfinished Business of Sexuality
 **年份**: 2008 | **DOI**: [10.1177/0891243207309914](https://doi.org/10.1177/0891243207309914)
 **作者**: Schilt, Kristen
-**摘要**: （暂无）
+**摘要**: Margaret L. Andersen provides an insightful overview of the development of feminist studies in sociology and a roadmap for the future. Using her impressive history as a feminist sociologist as a backdrop, she illustrates the inroads women and gender scholarship have made into mainstream sociology.…
 
 ### The Well-Coiffed Man
 **年份**: 2008 | **DOI**: [10.1177/0891243208321168](https://doi.org/10.1177/0891243208321168)
@@ -594,7 +594,7 @@
 ### Introduction
 **年份**: 2008 | **DOI**: [10.1177/0891243208321520](https://doi.org/10.1177/0891243208321520)
 **作者**: Segura, Denise A.; Zavella, Patricia
-**摘要**: （暂无）
+**摘要**: With Borderlands/Ea Frontera: The New Mestiza, Gloria Anzald?a burst onto the feminist conceptual scene offering new ways of exploring relationships of power and domination, resistance and agency, among women and men hitherto cast as marginalized others.…
 
 ### Book Review: Wannabes, Goths, and Christians: The Boundaries of Sex, Style, and Status. By Amy C. Wilkins. Chicago, IL: University of Chicago Press, 2008, 256 pp., $55.00 (cloth); $22.00 (paper)
 **年份**: 2008 | **DOI**: [10.1177/0891243207311524](https://doi.org/10.1177/0891243207311524)
@@ -749,7 +749,7 @@
 ### Bringing Minority Men Back in
 **年份**: 2008 | **DOI**: [10.1177/0891243207310719](https://doi.org/10.1177/0891243207310719)
 **作者**: Wingfield, Adia Harvey
-**摘要**: （暂无）
+**摘要**: In 2007, controversial shock jock Don Imus generated a media firestormwith his on-air reference to the Black players on the Rutgers University women’s basketball team as “nappy-headed hoes.…
 
 ### The Media Depiction of Women Who Opt Out
 **年份**: 2008 | **DOI**: [10.1177/0891243208319767](https://doi.org/10.1177/0891243208319767)
@@ -1726,7 +1726,7 @@
 ### Conceptualizing Gender-Sexuality-State-Nation
 **年份**: 2005 | **DOI**: [10.1177/0891243204273021](https://doi.org/10.1177/0891243204273021)
 **作者**: Kim-Puri, H. J.
-**摘要**: （暂无）
+**摘要**: Feminists' attention to states and nations has been uneven. The cultural struggles over citizenship, the deployment of nationalisms, and the exigencies of an international system of states have not been fully analyzed from a race/sexuality/gender perspective.…
 
 ### What’s in a Label? The Relationship between Feminist Self-Identification and “Feminist” Attitudes among U.S. Women and Men
 **年份**: 2005 | **DOI**: [10.1177/0891243204273498](https://doi.org/10.1177/0891243204273498)
@@ -2391,7 +2391,7 @@
 ### Developing a Theory of Gender as Practice
 **年份**: 2003 | **DOI**: [10.1177/0891243203017003004](https://doi.org/10.1177/0891243203017003004)
 **作者**: Connell, R. W.
-**摘要**: （暂无）
+**摘要**: In her feminist lecture 'Said and Done' versus 'Saying and Doing,' Patricia Yancey Martin gives us an exceptionally clear and useful review of the problems of theorizing in organizational contexts. Yancey Martin has been working on these issues for more than a decade (cf.…
 
 ### Book Reviews
 **年份**: 2003 | **DOI**: [10.1177/08912432030175013](https://doi.org/10.1177/08912432030175013)
@@ -2471,7 +2471,7 @@
 ### Guest Editors’ Introduction
 **年份**: 2003 | **DOI**: [10.1177/0891243202250714](https://doi.org/10.1177/0891243202250714)
 **作者**: Litt, Jacquelyn S.; Zimmerman, Mary K.
-**摘要**: （暂无）
+**摘要**: This issue of Gender & Society offers in-depth analyses of carework in a wide variety of circumstances and locations around the globe: Azerbaijan, Bangladesh, Botswana, Brazil, Canada, China, the Philippines, Spain, Taiwan, and the United States.…
 
 ### Book Review: Inside Organized Racism: Women in the Hate Movement. By Kathleen M. Blee. Berkeley: University of California Press, 2002, 272 pp., $35.00 (cloth)
 **年份**: 2003 | **DOI**: [10.1177/0891243202238988](https://doi.org/10.1177/0891243202238988)
@@ -2740,7 +2740,7 @@
 ### Gender And The Politics Of Needs: Broadening the Scope of Welfare State Provision in Costa Rica
 **年份**: 2002 | **DOI**: [10.1177/0891243202016002005](https://doi.org/10.1177/0891243202016002005)
 **作者**: Noonan, Rita K.
-**摘要**: （暂无）
+**摘要**: This study examines the ways in which gendered definitions of social provision in Costa Rica have created gaps in national health care programs that women's organizations are currently (and successfully) addressing.…
 
 ### Alternative Therapies and Attention Deficit Disorder
 **年份**: 2002 | **DOI**: [10.1177/0891243202016003006](https://doi.org/10.1177/0891243202016003006)
@@ -3704,4 +3704,4 @@
 ### THE GLASS CEILING HYPOTHESIS
 **年份**: 2000 | **DOI**: [10.1177/089124300014006008](https://doi.org/10.1177/089124300014006008)
 **作者**: WRIGHT, ERIK OLIN; BAXTER, JANEEN
-**摘要**: （暂无）
+**摘要**: There is a range of issues on which we and our critics-Myra Marx Ferree and Bandana Purkayastha, and Dana M. Britton and Christine L. Williams-agree: Women face systematic obstacles to promotions in managerial hierarchies; some of these obstacles take the form of direct discrimination in promotion d…
