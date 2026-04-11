@@ -93,6 +93,7 @@ const app = {
         journals: [],
         yearFrom: "",
         yearTo: "",
+        hasAbstractOnly: false,
         sort: "relevance",
         page: 1,
         browseJournal: "",
@@ -630,7 +631,9 @@ function cacheDom() {
     dom.sortSelect = $("sort-select");
     dom.yearFrom = $("year-from");
     dom.yearTo = $("year-to");
+    dom.hasAbstractOnly = $("has-abstract-only");
     dom.filterContainer = $("journal-filters");
+    dom.activeFilters = $("active-filters");
     dom.resultSummary = $("result-summary");
     dom.resultList = $("result-list");
     dom.pagination = $("pagination");
@@ -780,6 +783,7 @@ function hydrateStateFromUrl() {
     app.state.journals = params.getAll("journal").filter(Boolean);
     app.state.yearFrom = params.get("year_from") ?? "";
     app.state.yearTo = params.get("year_to") ?? "";
+    app.state.hasAbstractOnly = params.get("has_abstract") === "1";
     app.state.sort = params.get("sort") || "relevance";
     app.state.page = Math.max(1, Number.parseInt(params.get("page") || "1", 10));
     app.state.browseJournal = params.get("browse_journal") ?? "";
@@ -806,6 +810,9 @@ function syncUrl() {
     }
     if (app.state.yearTo) {
         params.set("year_to", app.state.yearTo);
+    }
+    if (app.state.hasAbstractOnly) {
+        params.set("has_abstract", "1");
     }
     if (app.state.sort && app.state.sort !== "relevance") {
         params.set("sort", app.state.sort);
@@ -1500,6 +1507,9 @@ function buildWhereClause(params, query, includeMatch = true) {
         clauses.push("m.year <= $year_to");
         params.$year_to = Number(app.state.yearTo);
     }
+    if (app.state.hasAbstractOnly) {
+        clauses.push("TRIM(COALESCE(articles.abstract, '')) <> ''");
+    }
     return clauses.length ? `WHERE ${clauses.join(" AND ")}` : "";
 }
 
@@ -1593,6 +1603,9 @@ function filterFallbackRows() {
         if (app.state.yearTo && !Number.isNaN(year) && year > Number(app.state.yearTo)) {
             return false;
         }
+        if (app.state.hasAbstractOnly && !String(item["Abstract"] || "").trim()) {
+            return false;
+        }
         if (!tokens.length) {
             return true;
         }
@@ -1644,6 +1657,9 @@ function renderResults(result) {
     }
     if (result.usedFallback) {
         summary += " 当前为备用 JSON 搜索，语法仅支持基础关键词包含。";
+    }
+    if (app.state.hasAbstractOnly) {
+        summary += " 已过滤掉无摘要记录。";
     }
     dom.resultSummary.textContent = summary;
 
@@ -1708,12 +1724,66 @@ function renderResults(result) {
     `;
 }
 
+function renderActiveFilters() {
+    if (!dom.activeFilters) {
+        return;
+    }
+    const chips = [];
+    if (app.state.q.trim()) {
+        chips.push(`
+            <span class="filter-chip">
+                <strong>关键词</strong>
+                <span>${escapeHtml(app.state.q.trim())}</span>
+                <button type="button" data-clear-filter="query">清除</button>
+            </span>
+        `);
+    }
+    if (app.state.yearFrom || app.state.yearTo) {
+        chips.push(`
+            <span class="filter-chip">
+                <strong>年份</strong>
+                <span>${escapeHtml(app.state.yearFrom || "不限")} - ${escapeHtml(app.state.yearTo || "不限")}</span>
+                <button type="button" data-clear-filter="year">清除</button>
+            </span>
+        `);
+    }
+    if (app.state.journals.length) {
+        chips.push(`
+            <span class="filter-chip">
+                <strong>期刊</strong>
+                <span>${formatNumber(app.state.journals.length)} 本</span>
+                <button type="button" data-clear-filter="journals">清除</button>
+            </span>
+        `);
+    }
+    if (app.state.hasAbstractOnly) {
+        chips.push(`
+            <span class="filter-chip">
+                <strong>摘要</strong>
+                <span>只看有摘要</span>
+                <button type="button" data-clear-filter="abstract">清除</button>
+            </span>
+        `);
+    }
+    if (chips.length > 1) {
+        chips.push(`
+            <span class="filter-chip">
+                <strong>全部筛选</strong>
+                <button type="button" data-clear-filter="all">一键清空</button>
+            </span>
+        `);
+    }
+    dom.activeFilters.innerHTML = chips.join("");
+}
+
 async function renderSearchView() {
     dom.searchInput.value = app.state.q;
     dom.yearFrom.value = app.state.yearFrom;
     dom.yearTo.value = app.state.yearTo;
+    dom.hasAbstractOnly.checked = app.state.hasAbstractOnly;
     dom.sortSelect.value = app.state.sort;
     renderJournalFilters();
+    renderActiveFilters();
 
     if (app.engine === "fallback" && (app.state.q.trim() || app.state.journals.length || app.state.yearFrom || app.state.yearTo)) {
         await ensureFallbackData();
@@ -1973,6 +2043,7 @@ function resetSearchFilters() {
     app.state.journals = [];
     app.state.yearFrom = "";
     app.state.yearTo = "";
+    app.state.hasAbstractOnly = false;
     app.state.sort = "relevance";
     app.state.page = 1;
     clearActiveNavigationSelection();
@@ -2071,6 +2142,13 @@ function bindEvents() {
         await renderAll();
     });
 
+    dom.hasAbstractOnly.addEventListener("change", async () => {
+        app.state.hasAbstractOnly = dom.hasAbstractOnly.checked;
+        app.state.page = 1;
+        clearActiveNavigationSelection();
+        await renderAll();
+    });
+
     dom.filterContainer.addEventListener("change", async (event) => {
         const checkbox = event.target.closest("[data-journal-filter]");
         if (!checkbox) {
@@ -2098,6 +2176,32 @@ function bindEvents() {
         app.state.q = "";
         app.state.page = 1;
         dom.searchInput.value = "";
+        clearActiveNavigationSelection();
+        await renderAll();
+    });
+
+    dom.activeFilters.addEventListener("click", async (event) => {
+        const button = event.target.closest("[data-clear-filter]");
+        if (!button) {
+            return;
+        }
+        const kind = button.dataset.clearFilter;
+        if (kind === "query") {
+            app.state.q = "";
+            dom.searchInput.value = "";
+        } else if (kind === "year") {
+            app.state.yearFrom = "";
+            app.state.yearTo = "";
+        } else if (kind === "journals") {
+            app.state.journals = [];
+        } else if (kind === "abstract") {
+            app.state.hasAbstractOnly = false;
+        } else if (kind === "all") {
+            app.state.q = "";
+            dom.searchInput.value = "";
+            resetSearchFilters();
+        }
+        app.state.page = 1;
         clearActiveNavigationSelection();
         await renderAll();
     });

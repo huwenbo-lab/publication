@@ -97,6 +97,10 @@
                         <input id="year-from" class="field" type="number" min="2000" max="2100" placeholder="起始年">
                         <input id="year-to" class="field" type="number" min="2000" max="2100" placeholder="截止年">
                     </div>
+                    <label class="toggle-field" for="has-abstract-only">
+                        <input id="has-abstract-only" type="checkbox">
+                        <span>只看有摘要的文章</span>
+                    </label>
                 </div>
                 <div class="sidebar-section">
                     <div class="browse-header">
@@ -127,6 +131,7 @@
                 </form>
 
                 <div id="search-notice"></div>
+                <div id="active-filters" class="active-filters" aria-live="polite"></div>
 
                 <div class="toolbar">
                     <div id="result-summary" class="toolbar-meta">等待检索输入。</div>
