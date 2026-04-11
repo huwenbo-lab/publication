@@ -30,6 +30,16 @@
         </div>
     </section>
 
+    <section class="discipline-strip panel" aria-label="学科入口">
+        <div class="browse-header">
+            <div>
+                <h2>学科入口</h2>
+                <div class="helper-text">先按研究方向预设期刊范围，再搜主题。适合快速切到人口学、家庭、教育或劳动分层等子领域。</div>
+            </div>
+        </div>
+        <div id="discipline-grid" class="discipline-grid"></div>
+    </section>
+
     <nav id="tabbar" class="tabbar panel" aria-label="视图切换">
         <button class="tab-btn active" type="button" data-mode="search">搜索</button>
         <button class="tab-btn" type="button" data-mode="browse">浏览</button>
@@ -69,7 +79,7 @@
                         <button type="submit" class="primary-btn">立即搜索</button>
                     </div>
                     <div class="browse-header">
-                        <div class="search-hint">按 <code>/</code> 可随时聚焦搜索框。默认每页显示 50 条结果。</div>
+                        <div class="search-hint">按 <code>/</code> 聚焦搜索框，<code>↑↓</code> 选结果，<code>Enter</code> 打开详情。默认每页显示 50 条结果。</div>
                         <button id="clear-query" type="button" class="ghost-btn">清空关键词</button>
                     </div>
                 </form>

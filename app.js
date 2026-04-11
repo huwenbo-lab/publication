@@ -64,6 +64,16 @@ const JOURNAL_GROUPS = [
     },
 ];
 
+const DISCIPLINE_COPY = {
+    "综合社会学": "先收敛到综合社会学核心刊，再搜理论、方法或一般性经验议题。",
+    "人口学": "适合直接进入生育、死亡、迁移、家庭人口结构等人口学主题。",
+    "婚姻与家庭": "聚焦婚姻、伴侣关系、代际支持、家庭形成与照料分工。",
+    "教育": "优先查看教育分层、学校制度、教育机会与代际再生产。",
+    "性别": "把结果限定在性别不平等、照料劳动、性别规范与交叉性研究。",
+    "中国研究": "先切到中国相关英文期刊，再缩小到具体主题。",
+    "劳动与分层": "适合查职业流动、阶层再生产、劳动力市场与雇佣关系。",
+};
+
 const app = {
     db: null,
     facets: null,
@@ -87,6 +97,7 @@ const app = {
         activeArticleKey: "",
         activeArticleDoi: "",
         favoritesOpen: false,
+        activeResultKey: "",
     },
 };
 
@@ -442,6 +453,7 @@ function cacheDom() {
     dom.engineMessage = $("engine-message");
     dom.themeToggle = $("theme-toggle");
     dom.favoritesToggle = $("favorites-toggle");
+    dom.disciplineGrid = $("discipline-grid");
     dom.tabbar = $("tabbar");
     dom.searchView = $("view-search");
     dom.browseView = $("view-browse");
@@ -497,6 +509,99 @@ function renderFavoriteButton(articleKey, label = "") {
     `;
 }
 
+function getAvailableJournalsForGroup(group) {
+    if (!app.facets) {
+        return [...group.journals];
+    }
+    const allowed = new Set(app.facets.map((facet) => facet.journal));
+    return group.journals.filter((journal) => allowed.has(journal));
+}
+
+function renderDisciplinePresets() {
+    if (!dom.disciplineGrid) {
+        return;
+    }
+    dom.disciplineGrid.innerHTML = JOURNAL_GROUPS.map((group) => {
+        const journals = getAvailableJournalsForGroup(group);
+        const stats = app.facets
+            ? app.facets.filter((facet) => journals.includes(facet.journal))
+            : [];
+        const articleCount = stats.reduce((sum, item) => sum + Number(item.total || 0), 0);
+        const meta = articleCount
+            ? `${formatNumber(articleCount)} 篇 · ${journals.length} 本期刊`
+            : `${journals.length} 本期刊`;
+        return `
+            <button type="button" class="discipline-card" data-discipline-filter="${escapeHtml(group.label)}">
+                <span class="discipline-kicker">预设筛选</span>
+                <strong>${escapeHtml(group.label)}</strong>
+                <span class="discipline-body">${escapeHtml(DISCIPLINE_COPY[group.label] || "按学科快速限定期刊范围。")}</span>
+                <span class="discipline-meta">${escapeHtml(meta)}</span>
+            </button>
+        `;
+    }).join("");
+}
+
+function clearActiveNavigationSelection() {
+    app.state.activeResultKey = "";
+}
+
+function getNavigationButtons() {
+    if (app.state.favoritesOpen) {
+        return [...dom.favoritesList.querySelectorAll("[data-nav-article]")];
+    }
+    if (app.state.mode === "search") {
+        return [...dom.resultList.querySelectorAll("[data-nav-article]")];
+    }
+    if (app.state.mode === "browse") {
+        return [...dom.articleList.querySelectorAll("[data-nav-article]")];
+    }
+    return [];
+}
+
+function syncActiveNavigationButtons() {
+    const buttons = getNavigationButtons();
+    let matched = false;
+    buttons.forEach((button) => {
+        const active = button.dataset.navArticle === app.state.activeResultKey;
+        button.classList.toggle("is-selected", active);
+        button.setAttribute("aria-current", active ? "true" : "false");
+        if (active) {
+            matched = true;
+        }
+    });
+    if (!matched) {
+        app.state.activeResultKey = "";
+    }
+}
+
+function setActiveNavigationKey(articleKey, options = {}) {
+    const { focus = false, behavior = "smooth" } = options;
+    app.state.activeResultKey = articleKey || "";
+    syncActiveNavigationButtons();
+    if (!focus || !articleKey) {
+        return;
+    }
+    const button = getNavigationButtons().find((item) => item.dataset.navArticle === articleKey);
+    if (!button) {
+        return;
+    }
+    button.focus({ preventScroll: true });
+    button.scrollIntoView({ block: "nearest", behavior });
+}
+
+function moveActiveNavigation(direction) {
+    const buttons = getNavigationButtons();
+    if (!buttons.length) {
+        return false;
+    }
+    const currentIndex = buttons.findIndex((button) => button.dataset.navArticle === app.state.activeResultKey);
+    const nextIndex = currentIndex === -1
+        ? (direction > 0 ? 0 : buttons.length - 1)
+        : Math.max(0, Math.min(buttons.length - 1, currentIndex + direction));
+    setActiveNavigationKey(buttons[nextIndex].dataset.navArticle, { focus: true });
+    return true;
+}
+
 function hydrateStateFromUrl() {
     const params = new URLSearchParams(window.location.search);
     app.state.mode = params.get("mode") === "browse" ? "browse" : "search";
@@ -513,6 +618,7 @@ function hydrateStateFromUrl() {
         ? `doi:${app.state.activeArticleDoi.toLowerCase()}`
         : "";
     app.state.favoritesOpen = false;
+    app.state.activeResultKey = "";
 }
 
 function syncUrl() {
@@ -879,6 +985,7 @@ function renderFavoritesModal() {
     dom.clearFavorites.disabled = favorites.length === 0;
 
     if (!favorites.length) {
+        clearActiveNavigationSelection();
         dom.favoritesList.innerHTML = '<div class="empty-state">还没有收藏文章。</div>';
         setFavoritesModalOpen(true);
         return;
@@ -892,7 +999,7 @@ function renderFavoritesModal() {
                 <div class="favorite-card-head">
                     <div>
                         <h3 class="favorite-card-title">
-                            <button type="button" class="article-trigger" data-open-article="${escapeHtml(articleKey)}">${escapeHtml(article.title || "无标题")}</button>
+                            <button type="button" class="article-trigger" data-open-article="${escapeHtml(articleKey)}" data-nav-article="${escapeHtml(articleKey)}">${escapeHtml(article.title || "无标题")}</button>
                         </h3>
                         <div class="favorite-card-meta">
                             ${escapeHtml(article.journal || "未知期刊")} · ${escapeHtml(article.year || "年份未知")} · ${article.doi ? `DOI: ${escapeHtml(article.doi)}` : "无 DOI"}
@@ -909,6 +1016,7 @@ function renderFavoritesModal() {
             </article>
         `;
     }).join("");
+    syncActiveNavigationButtons();
     setFavoritesModalOpen(true);
 }
 
@@ -1164,6 +1272,7 @@ function renderResults(result) {
     dom.resultSummary.textContent = summary;
 
     if (!result.rows.length) {
+        clearActiveNavigationSelection();
         dom.resultList.innerHTML = `
             <div class="empty-state">
                 ${queryActive
@@ -1198,7 +1307,7 @@ function renderResults(result) {
                     <span>${row.doi ? `DOI: ${escapeHtml(row.doi)}` : "无 DOI"}</span>
                 </div>
                 <h3 class="result-title">
-                    <button type="button" class="article-trigger" data-open-article="${escapeHtml(articleKey)}">${escapeHtml(row.title)}</button>
+                    <button type="button" class="article-trigger" data-open-article="${escapeHtml(articleKey)}" data-nav-article="${escapeHtml(articleKey)}">${escapeHtml(row.title)}</button>
                 </h3>
                 <p class="result-authors">${escapeHtml(row.authors || "未知作者")}</p>
                 ${preview}
@@ -1212,6 +1321,7 @@ function renderResults(result) {
             </article>
         `;
     }).join("");
+    syncActiveNavigationButtons();
 
     dom.pagination.innerHTML = `
         <div class="pagination-meta">第 ${app.state.page} / ${totalPages} 页 · 每页 ${PAGE_SIZE} 条</div>
@@ -1237,6 +1347,7 @@ async function renderSearchView() {
     }
 
     if (app.engine === "fallback" && !app.fallbackData && !app.state.q.trim() && !app.state.journals.length && !app.state.yearFrom && !app.state.yearTo) {
+        clearActiveNavigationSelection();
         dom.searchNotice.innerHTML = `
             <div class="notice-box warning">
                 当前尚未发布 <code>literature.db</code>，所以搜索引擎还没法直接在网页端启动。
@@ -1270,6 +1381,7 @@ async function renderSearchView() {
         renderResults(result);
     } catch (error) {
         console.error(error);
+        clearActiveNavigationSelection();
         dom.resultSummary.textContent = "查询失败";
         dom.resultList.innerHTML = `
             <div class="empty-state">
@@ -1381,10 +1493,12 @@ function renderBrowseYears(years) {
 
 function renderBrowseArticles(articles) {
     if (!app.state.browseYear) {
+        clearActiveNavigationSelection();
         dom.articleList.innerHTML = '<div class="empty-state">选定年份后，这里会列出文章标题、作者、摘要和 DOI。</div>';
         return;
     }
     if (!articles.length) {
+        clearActiveNavigationSelection();
         dom.articleList.innerHTML = '<div class="empty-state">这一年暂时没有文章。</div>';
         return;
     }
@@ -1400,7 +1514,7 @@ function renderBrowseArticles(articles) {
                     <span>${row.doi ? `DOI: ${escapeHtml(row.doi)}` : "无 DOI"}</span>
                 </div>
                 <h3 class="result-title">
-                    <button type="button" class="article-trigger" data-open-article="${escapeHtml(articleKey)}">${escapeHtml(row.title)}</button>
+                    <button type="button" class="article-trigger" data-open-article="${escapeHtml(articleKey)}" data-nav-article="${escapeHtml(articleKey)}">${escapeHtml(row.title)}</button>
                 </h3>
                 <p class="result-authors">${escapeHtml(row.authors || "未知作者")}</p>
                 <p class="result-snippet">${escapeHtml(preview || "暂无摘要。")}</p>
@@ -1413,6 +1527,7 @@ function renderBrowseArticles(articles) {
             </article>
         `;
     }).join("");
+    syncActiveNavigationButtons();
 }
 
 function renderBrowseBreadcrumbs() {
@@ -1462,6 +1577,7 @@ async function renderAll() {
     renderTabs();
     renderEngineStatus();
     renderDatasetMeta();
+    renderDisciplinePresets();
     if (app.state.mode === "search") {
         await renderSearchView();
     } else {
@@ -1471,6 +1587,7 @@ async function renderAll() {
     renderFavoritesModal();
     renderEngineStatus();
     renderDatasetMeta();
+    renderDisciplinePresets();
     syncUrl();
 }
 
@@ -1480,6 +1597,7 @@ function resetSearchFilters() {
     app.state.yearTo = "";
     app.state.sort = "relevance";
     app.state.page = 1;
+    clearActiveNavigationSelection();
 }
 
 async function toggleFavoriteByKey(articleKey) {
@@ -1506,12 +1624,33 @@ function bindEvents() {
         await renderAll();
     });
 
+    dom.disciplineGrid.addEventListener("click", async (event) => {
+        const button = event.target.closest("[data-discipline-filter]");
+        if (!button) {
+            return;
+        }
+        const group = JOURNAL_GROUPS.find((item) => item.label === button.dataset.disciplineFilter);
+        if (!group) {
+            return;
+        }
+        closeArticleModalState();
+        closeFavoritesModalState();
+        app.state.mode = "search";
+        app.state.journals = getAvailableJournalsForGroup(group);
+        app.state.page = 1;
+        clearActiveNavigationSelection();
+        await renderAll();
+        dom.searchInput.focus();
+        dom.searchInput.scrollIntoView({ block: "center", behavior: "smooth" });
+    });
+
     dom.tabbar.addEventListener("click", async (event) => {
         const button = event.target.closest("[data-mode]");
         if (!button) {
             return;
         }
         app.state.mode = button.dataset.mode;
+        clearActiveNavigationSelection();
         await renderAll();
     });
 
@@ -1519,6 +1658,7 @@ function bindEvents() {
         event.preventDefault();
         app.state.q = dom.searchInput.value;
         app.state.page = 1;
+        clearActiveNavigationSelection();
         await renderAll();
     });
 
@@ -1527,6 +1667,7 @@ function bindEvents() {
         searchDebounceId = setTimeout(async () => {
             app.state.q = dom.searchInput.value;
             app.state.page = 1;
+            clearActiveNavigationSelection();
             await renderAll();
         }, 240);
     });
@@ -1534,18 +1675,21 @@ function bindEvents() {
     dom.sortSelect.addEventListener("change", async () => {
         app.state.sort = dom.sortSelect.value;
         app.state.page = 1;
+        clearActiveNavigationSelection();
         await renderAll();
     });
 
     dom.yearFrom.addEventListener("change", async () => {
         app.state.yearFrom = dom.yearFrom.value;
         app.state.page = 1;
+        clearActiveNavigationSelection();
         await renderAll();
     });
 
     dom.yearTo.addEventListener("change", async () => {
         app.state.yearTo = dom.yearTo.value;
         app.state.page = 1;
+        clearActiveNavigationSelection();
         await renderAll();
     });
 
@@ -1563,6 +1707,7 @@ function bindEvents() {
         }
         app.state.journals = [...next];
         app.state.page = 1;
+        clearActiveNavigationSelection();
         await renderAll();
     });
 
@@ -1575,6 +1720,7 @@ function bindEvents() {
         app.state.q = "";
         app.state.page = 1;
         dom.searchInput.value = "";
+        clearActiveNavigationSelection();
         await renderAll();
     });
 
@@ -1585,6 +1731,7 @@ function bindEvents() {
         }
         app.state.page += button.dataset.pageAction === "next" ? 1 : -1;
         app.state.page = Math.max(1, app.state.page);
+        clearActiveNavigationSelection();
         await renderAll();
         window.scrollTo({ top: 0, behavior: "smooth" });
     });
@@ -1598,6 +1745,7 @@ function bindEvents() {
         if (!article) {
             return;
         }
+        setActiveNavigationKey(trigger.dataset.openArticle);
         openArticleModalState(article);
         await renderAll();
     };
@@ -1607,6 +1755,7 @@ function bindEvents() {
         if (!trigger) {
             return;
         }
+        setActiveNavigationKey(trigger.dataset.favoriteArticle);
         await toggleFavoriteByKey(trigger.dataset.favoriteArticle);
     };
 
@@ -1622,6 +1771,7 @@ function bindEvents() {
         }
         app.state.browseJournal = button.dataset.browseJournal;
         app.state.browseYear = "";
+        clearActiveNavigationSelection();
         await renderAll();
     });
 
@@ -1631,6 +1781,7 @@ function bindEvents() {
             return;
         }
         app.state.browseYear = button.dataset.browseYear;
+        clearActiveNavigationSelection();
         await renderAll();
     });
 
@@ -1645,12 +1796,14 @@ function bindEvents() {
         } else {
             app.state.browseYear = "";
         }
+        clearActiveNavigationSelection();
         await renderAll();
     });
 
     dom.browseReset.addEventListener("click", async () => {
         app.state.browseJournal = "";
         app.state.browseYear = "";
+        clearActiveNavigationSelection();
         await renderAll();
     });
 
@@ -1702,6 +1855,7 @@ function bindEvents() {
                 return;
             }
             closeFavoritesModalState();
+            setActiveNavigationKey(openTrigger.dataset.openArticle);
             openArticleModalState(article);
             await renderAll();
             return;
@@ -1741,6 +1895,11 @@ function bindEvents() {
     });
 
     document.addEventListener("keydown", async (event) => {
+        const activeTag = document.activeElement?.tagName || "";
+        const editingElsewhere =
+            document.activeElement &&
+            document.activeElement !== dom.searchInput &&
+            (activeTag === "INPUT" || activeTag === "TEXTAREA" || activeTag === "SELECT" || document.activeElement.isContentEditable);
         if (event.key === "Escape" && !dom.favoritesModal.classList.contains("hidden")) {
             closeFavoritesModalState();
             await renderAll();
@@ -1751,14 +1910,32 @@ function bindEvents() {
             await renderAll();
             return;
         }
-        if (event.key === "/" && document.activeElement !== dom.searchInput && dom.modal.classList.contains("hidden")) {
+        if (event.key === "/" && document.activeElement !== dom.searchInput && dom.modal.classList.contains("hidden") && dom.favoritesModal.classList.contains("hidden")) {
             event.preventDefault();
             app.state.mode = "search";
             await renderAll();
             dom.searchInput.focus();
         }
+        if ((event.key === "ArrowDown" || event.key === "ArrowUp") && !editingElsewhere && dom.modal.classList.contains("hidden")) {
+            const moved = moveActiveNavigation(event.key === "ArrowDown" ? 1 : -1);
+            if (moved) {
+                event.preventDefault();
+            }
+        }
+        if (event.key === "Enter" && document.activeElement === dom.searchInput && app.state.activeResultKey && dom.modal.classList.contains("hidden")) {
+            const article = app.articleCache.get(app.state.activeResultKey);
+            if (article) {
+                event.preventDefault();
+                openArticleModalState(article);
+                await renderAll();
+                return;
+            }
+        }
         if (event.key === "Escape" && document.activeElement === dom.searchInput) {
             dom.searchInput.blur();
+        } else if (event.key === "Escape" && app.state.activeResultKey) {
+            clearActiveNavigationSelection();
+            syncActiveNavigationButtons();
         }
     });
 
