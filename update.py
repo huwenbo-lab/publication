@@ -18,6 +18,8 @@ update.py — 自动更新脚本
 import argparse
 import json
 import re
+import subprocess
+import sys
 import time
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -34,6 +36,13 @@ UPDATE_LOG = ROOT / "update_log.md"
 MAILTO = "hwbruc@gmail.com"
 SLEEP_SEC = 1.0
 CROSSREF_BASE = "https://api.crossref.org"
+
+DERIVED_BUILDERS = [
+    ("AI 索引", [sys.executable, "build_lit_db.py"]),
+    ("文章 API", [sys.executable, "build_article_api.py"]),
+    ("全文检索库", [sys.executable, "build_search_db.py"]),
+    ("质量报告", [sys.executable, "check_quality.py"]),
+]
 
 # 25本期刊配置
 JOURNALS = {
@@ -257,12 +266,26 @@ def append_update_log(run_date, days, journal_results, total_new, total_after):
     UPDATE_LOG.write_text(updated, encoding="utf-8")
 
 
+def run_derived_builds():
+    print("\n重建派生文件：")
+    for label, command in DERIVED_BUILDERS:
+        print(f"  → {label}")
+        try:
+            subprocess.run(command, cwd=ROOT, check=True)
+        except subprocess.CalledProcessError as error:
+            print(f"    [警告] {label} 失败（退出码 {error.returncode}）")
+        except Exception as error:
+            print(f"    [警告] {label} 失败：{error}")
+
+
 def main():
     parser = argparse.ArgumentParser(description="自动更新文献数据库")
     parser.add_argument("--days", type=int, default=30,
                         help="抓取最近N天的新文章（默认30）")
     parser.add_argument("--dry-run", action="store_true",
                         help="仅检查可用新文章数，不写入数据库")
+    parser.add_argument("--skip-derived", action="store_true",
+                        help="跳过 lit_db / API / 搜索库 / 质量报告的重建")
     args = parser.parse_args()
 
     run_date = datetime.now().strftime("%Y-%m-%d %H:%M")
@@ -326,6 +349,8 @@ def main():
         print(f"\n共新增 {total_new} 篇，数据库现有 {len(articles):,} 条")
         append_update_log(run_date, args.days, journal_results, total_new, len(articles))
         print(f"已更新 update_log.md")
+        if not args.skip_derived:
+            run_derived_builds()
     else:
         total_new = 0
         print(f"\n没有新文章")

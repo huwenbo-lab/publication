@@ -874,6 +874,12 @@ code {
     margin-top: 14px;
 }
 
+.ai-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
 .citation-card {
     padding: 14px;
     border: 1px solid rgba(24, 48, 67, 0.08);

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>期刊文献数据库</ShortName>
+  <Description>搜索社会学与人口学期刊文献数据库</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Url type="text/html" method="get" template="https://huwenbo-lab.github.io/publication/?q={searchTerms}"/>
+  <Url type="application/json" template="https://huwenbo-lab.github.io/publication/api/overview.json"/>
+  <Developer>huwenbo-lab</Developer>
+  <Attribution>数据来自社会学与人口学期刊文献数据库</Attribution>
+</OpenSearchDescription>
