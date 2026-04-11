@@ -65,6 +65,7 @@ publication/
 ├── build_article_api.py       # 生成 api/ 静态 JSON 端点
 ├── build_search_db.py         # 构建 SQLite FTS5 全文检索数据库
 ├── opensearch.xml             # 浏览器地址栏搜索描述文件
+├── .github/workflows/deploy-pages.yml # 构建 Pages 站点产物并发布 literature.db
 ├── .github/workflows/update.yml # 每周自动更新 workflow
 │
 ├── raw_data/                  # Web of Science 原始导出文件（归档）
@@ -155,7 +156,9 @@ python build_search_db.py --rebuild
 - OR 逻辑：`marriage OR cohabitation`
 - NOT 逻辑：`fertility NOT mortality`
 
-> `literature.db` 为生成文件，不纳入 git 版本管理，可随时从 `articles.json` 重建。若要在网页端启用浏览器内 SQLite 搜索，需要将该文件一并发布。
+> `literature.db` 为生成文件，不纳入 git 版本管理，可随时从 `articles.json` 重建。当前仓库采用“Pages 部署产物单独发布”的方式：`main` 分支不保存数据库文件，但 GitHub Pages 部署时会自动构建并携带 `literature.db`，因此网页端仍可直接使用浏览器内 SQLite 搜索。
+
+> 如果你刚新增了 `deploy-pages.yml`，还需要在仓库设置中把 GitHub Pages 的来源切换到 **GitHub Actions**。这是一次性设置，之后每次推送 `main` 都会自动重新发布站点。
 
 ---
 
