@@ -41,6 +41,47 @@
         <div id="discipline-grid" class="discipline-grid"></div>
     </section>
 
+    <section class="dashboard panel" aria-label="数据库概况">
+        <div class="browse-header">
+            <div>
+                <h2>数据库概况</h2>
+                <div class="helper-text">首页先给你一个全局轮廓：发文趋势、热门关键词、高产作者和期刊分布。</div>
+            </div>
+            <div id="dashboard-generated-at" class="helper-text">正在加载概况…</div>
+        </div>
+        <div id="dashboard-summary" class="dashboard-summary"></div>
+        <div class="dashboard-grid">
+            <section class="dashboard-card dashboard-card-wide">
+                <div class="section-head">
+                    <h3>年度发文趋势</h3>
+                    <div id="dashboard-trend-meta" class="helper-text"></div>
+                </div>
+                <div id="dashboard-trend" class="dashboard-chart"></div>
+            </section>
+            <section class="dashboard-card">
+                <div class="section-head">
+                    <h3>热门关键词</h3>
+                    <div class="helper-text">基于标题频率</div>
+                </div>
+                <div id="dashboard-keywords" class="dashboard-tags"></div>
+            </section>
+            <section class="dashboard-card">
+                <div class="section-head">
+                    <h3>高产作者</h3>
+                    <div class="helper-text">按署名出现次数</div>
+                </div>
+                <div id="dashboard-authors" class="dashboard-list"></div>
+            </section>
+            <section class="dashboard-card">
+                <div class="section-head">
+                    <h3>期刊分布</h3>
+                    <div class="helper-text">按收录篇数排序</div>
+                </div>
+                <div id="dashboard-journals" class="dashboard-list"></div>
+            </section>
+        </div>
+    </section>
+
     <nav id="tabbar" class="tabbar panel" aria-label="视图切换">
         <button class="tab-btn active" type="button" data-mode="search">搜索</button>
         <button class="tab-btn" type="button" data-mode="browse">浏览</button>

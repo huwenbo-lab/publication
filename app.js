@@ -79,11 +79,13 @@ const app = {
     db: null,
     facets: null,
     meta: null,
+    dashboard: null,
     fallbackData: null,
     articleCache: new Map(),
     favorites: new Map(),
     engine: "loading",
     engineMessage: "正在连接浏览器内检索引擎…",
+    staticIndexesLoaded: false,
     theme: "light",
     state: {
         mode: "search",
@@ -129,6 +131,30 @@ function renderHighlightedSnippet(text) {
 
 function formatNumber(value) {
     return new Intl.NumberFormat("zh-CN").format(value ?? 0);
+}
+
+function formatPercent(value) {
+    const numeric = Number(value || 0);
+    const percent = numeric * 100;
+    const digits = Math.abs(percent - Math.round(percent)) < 0.05 ? 0 : 1;
+    return `${percent.toFixed(digits)}%`;
+}
+
+function formatTimestamp(value) {
+    if (!value) {
+        return "";
+    }
+    const date = new Date(value);
+    if (Number.isNaN(date.getTime())) {
+        return String(value);
+    }
+    return new Intl.DateTimeFormat("zh-CN", {
+        year: "numeric",
+        month: "2-digit",
+        day: "2-digit",
+        hour: "2-digit",
+        minute: "2-digit",
+    }).format(date);
 }
 
 function normalizeText(value) {
@@ -217,6 +243,14 @@ function buildArticleApiPath(doi) {
 function buildArticleApiUrl(doi) {
     const relativePath = buildArticleApiPath(doi);
     return relativePath ? new URL(relativePath, buildAppBaseUrl()).toString() : "";
+}
+
+async function fetchJsonResource(relativePath) {
+    const response = await fetch(relativePath, { cache: "no-cache" });
+    if (!response.ok) {
+        throw new Error(`${relativePath} 不可用 (${response.status})`);
+    }
+    return response.json();
 }
 
 function buildAiResourceLinks(article) {
@@ -581,6 +615,13 @@ function cacheDom() {
     dom.themeToggle = $("theme-toggle");
     dom.favoritesToggle = $("favorites-toggle");
     dom.disciplineGrid = $("discipline-grid");
+    dom.dashboardGeneratedAt = $("dashboard-generated-at");
+    dom.dashboardSummary = $("dashboard-summary");
+    dom.dashboardTrendMeta = $("dashboard-trend-meta");
+    dom.dashboardTrend = $("dashboard-trend");
+    dom.dashboardKeywords = $("dashboard-keywords");
+    dom.dashboardAuthors = $("dashboard-authors");
+    dom.dashboardJournals = $("dashboard-journals");
     dom.tabbar = $("tabbar");
     dom.searchView = $("view-search");
     dom.browseView = $("view-browse");
@@ -875,6 +916,59 @@ function loadFacetsFromDb() {
     }));
 }
 
+function buildMetaFromSummary(summary) {
+    if (!summary) {
+        return null;
+    }
+    return {
+        total: Number(summary.total_articles || 0),
+        journals: Number(summary.total_journals || 0),
+        minYear: Number(summary.year_min || 0),
+        maxYear: Number(summary.year_max || 0),
+        withAbstract: Number(summary.articles_with_abstract || 0),
+        missingAbstract: Number(summary.articles_missing_abstract || 0),
+    };
+}
+
+function buildFacetsFromStaticIndex(payload) {
+    const journals = payload?.journals;
+    if (!Array.isArray(journals)) {
+        return null;
+    }
+    return journals.map((item) => ({
+        journal: item.journal,
+        total: Number(item.count || 0),
+        minYear: Number(item.year_min || 0),
+        maxYear: Number(item.year_max || 0),
+    }));
+}
+
+async function loadStaticIndexes() {
+    if (app.staticIndexesLoaded) {
+        return;
+    }
+    app.staticIndexesLoaded = true;
+    const [overviewResult, journalsResult, dashboardResult] = await Promise.allSettled([
+        fetchJsonResource("api/overview.json"),
+        fetchJsonResource("api/journals.json"),
+        fetchJsonResource("api/dashboard.json"),
+    ]);
+
+    if (dashboardResult.status === "fulfilled") {
+        app.dashboard = dashboardResult.value;
+    }
+
+    if (!app.meta) {
+        const summary = app.dashboard?.summary ||
+            (overviewResult.status === "fulfilled" ? overviewResult.value?.summary : null);
+        app.meta = buildMetaFromSummary(summary);
+    }
+
+    if (!app.facets && journalsResult.status === "fulfilled") {
+        app.facets = buildFacetsFromStaticIndex(journalsResult.value);
+    }
+}
+
 async function ensureFallbackData() {
     if (app.fallbackData) {
         return;
@@ -947,6 +1041,11 @@ async function initDataSources() {
         console.warn(error);
         app.engine = "fallback";
         app.engineMessage = "未找到可发布的 literature.db，页面会在需要时加载 data.json 作为备用模式。若要启用毫秒级网页搜索，请将 literature.db 一并发布。";
+    }
+    try {
+        await loadStaticIndexes();
+    } catch (error) {
+        console.warn(error);
     }
 }
 
@@ -1179,6 +1278,135 @@ function renderDatasetMeta() {
         `年份范围 ${app.meta.minYear}-${app.meta.maxYear} · ` +
         `已有摘要 ${formatNumber(app.meta.withAbstract)} 篇 · ` +
         `缺摘要 ${formatNumber(app.meta.missingAbstract)} 篇`;
+}
+
+function buildTrendChart(yearCounts) {
+    if (!Array.isArray(yearCounts) || !yearCounts.length) {
+        return '<div class="empty-state">暂无年度趋势数据。</div>';
+    }
+    const width = 760;
+    const height = 240;
+    const padding = { top: 18, right: 20, bottom: 34, left: 16 };
+    const baselineY = height - padding.bottom;
+    const plotWidth = width - padding.left - padding.right;
+    const plotHeight = baselineY - padding.top;
+    const maxCount = Math.max(...yearCounts.map((item) => Number(item.count || 0)), 1);
+    const points = yearCounts.map((item, index) => {
+        const x = yearCounts.length === 1
+            ? padding.left + plotWidth / 2
+            : padding.left + (plotWidth * index) / (yearCounts.length - 1);
+        const y = baselineY - (plotHeight * Number(item.count || 0)) / maxCount;
+        return {
+            x,
+            y,
+            year: item.year,
+            count: Number(item.count || 0),
+        };
+    });
+    const linePoints = points.map((point) => `${point.x.toFixed(1)},${point.y.toFixed(1)}`).join(" ");
+    const areaPoints = [
+        `${points[0].x.toFixed(1)},${baselineY.toFixed(1)}`,
+        linePoints,
+        `${points[points.length - 1].x.toFixed(1)},${baselineY.toFixed(1)}`,
+    ].join(" ");
+    const labelIndexes = [...new Set([0, Math.floor((points.length - 1) / 2), points.length - 1])];
+    const gridValues = [0.25, 0.5, 0.75].map((ratio) => ({
+        y: baselineY - plotHeight * ratio,
+        label: Math.round(maxCount * ratio),
+    }));
+    const lastPoint = points[points.length - 1];
+    return `
+        <svg class="trend-chart" viewBox="0 0 ${width} ${height}" role="img" aria-label="年度发文趋势图">
+            ${gridValues.map((grid) => `
+                <g>
+                    <line class="trend-grid" x1="${padding.left}" y1="${grid.y.toFixed(1)}" x2="${width - padding.right}" y2="${grid.y.toFixed(1)}"></line>
+                    <text class="trend-axis" x="${width - padding.right}" y="${(grid.y - 6).toFixed(1)}" text-anchor="end">${formatNumber(grid.label)}</text>
+                </g>
+            `).join("")}
+            <polygon class="trend-area" points="${areaPoints}"></polygon>
+            <polyline class="trend-line" points="${linePoints}"></polyline>
+            <circle class="trend-point" cx="${lastPoint.x.toFixed(1)}" cy="${lastPoint.y.toFixed(1)}" r="5"></circle>
+            ${labelIndexes.map((index) => {
+                const point = points[index];
+                return `
+                    <text class="trend-label" x="${point.x.toFixed(1)}" y="${height - 10}" text-anchor="middle">${escapeHtml(point.year)}</text>
+                `;
+            }).join("")}
+        </svg>
+    `;
+}
+
+function renderDashboardList(items, nameKey, unit = "篇") {
+    if (!Array.isArray(items) || !items.length) {
+        return '<div class="empty-state">暂无数据。</div>';
+    }
+    return items.map((item) => `
+        <div class="dashboard-list-item">
+            <strong>${escapeHtml(item[nameKey])}</strong>
+            <span>${formatNumber(item.count)} ${unit}</span>
+        </div>
+    `).join("");
+}
+
+function renderDashboard() {
+    if (!dom.dashboardSummary || !dom.dashboardTrend) {
+        return;
+    }
+    if (!app.dashboard?.summary) {
+        dom.dashboardGeneratedAt.textContent = "概况数据尚未就绪";
+        dom.dashboardSummary.innerHTML = '<div class="empty-state">首页概况会在静态索引或检索库准备好后显示。</div>';
+        dom.dashboardTrendMeta.textContent = "";
+        dom.dashboardTrend.innerHTML = '<div class="empty-state">暂无年度趋势数据。</div>';
+        dom.dashboardKeywords.innerHTML = '<div class="empty-state">暂无关键词。</div>';
+        dom.dashboardAuthors.innerHTML = '<div class="empty-state">暂无作者榜。</div>';
+        dom.dashboardJournals.innerHTML = '<div class="empty-state">暂无期刊分布。</div>';
+        return;
+    }
+
+    const summary = app.dashboard.summary;
+    const yearCounts = app.dashboard.year_counts || [];
+    const latestYear = yearCounts[yearCounts.length - 1];
+    dom.dashboardGeneratedAt.textContent = `更新于 ${formatTimestamp(app.dashboard.generated_at)}`;
+    dom.dashboardSummary.innerHTML = `
+        <article class="stat-card">
+            <div class="stat-kicker">总篇数</div>
+            <div class="stat-value">${formatNumber(summary.total_articles)}</div>
+            <div class="stat-meta">${formatNumber(summary.total_journals)} 本期刊 · ${summary.year_min}-${summary.year_max}</div>
+        </article>
+        <article class="stat-card">
+            <div class="stat-kicker">摘要覆盖率</div>
+            <div class="stat-value">${formatPercent(summary.abstract_coverage_rate)}</div>
+            <div class="stat-meta">已补摘要 ${formatNumber(summary.articles_with_abstract)} 篇</div>
+        </article>
+        <article class="stat-card">
+            <div class="stat-kicker">DOI 覆盖率</div>
+            <div class="stat-value">${formatPercent(summary.doi_coverage_rate)}</div>
+            <div class="stat-meta">可直接分享 ${formatNumber(summary.records_with_doi)} 篇</div>
+        </article>
+        <article class="stat-card">
+            <div class="stat-kicker">最新年份</div>
+            <div class="stat-value">${summary.year_max || "—"}</div>
+            <div class="stat-meta">${latestYear ? `该年份当前收录 ${formatNumber(latestYear.count)} 篇` : "年度计数待补充"}</div>
+        </article>
+    `;
+    dom.dashboardTrendMeta.textContent = latestYear
+        ? `${summary.year_min}-${summary.year_max} · ${latestYear.year} 年收录 ${formatNumber(latestYear.count)} 篇`
+        : `${summary.year_min}-${summary.year_max}`;
+    dom.dashboardTrend.innerHTML = buildTrendChart(yearCounts);
+    dom.dashboardKeywords.innerHTML = (app.dashboard.top_keywords || []).length
+        ? app.dashboard.top_keywords.slice(0, 12).map((item, index, list) => {
+            const maxCount = list[0]?.count || 1;
+            const weight = 0.92 + (Number(item.count || 0) / maxCount) * 0.34;
+            return `
+                <span class="dashboard-tag" style="font-size: ${weight.toFixed(2)}rem;">
+                    <strong>${escapeHtml(item.term)}</strong>
+                    <span>${formatNumber(item.count)}</span>
+                </span>
+            `;
+        }).join("")
+        : '<div class="empty-state">暂无关键词。</div>';
+    dom.dashboardAuthors.innerHTML = renderDashboardList(app.dashboard.top_authors, "author", "次");
+    dom.dashboardJournals.innerHTML = renderDashboardList(app.dashboard.top_journals, "journal", "篇");
 }
 
 function renderEngineStatus() {
@@ -1726,6 +1954,7 @@ async function renderAll() {
     renderEngineStatus();
     renderDatasetMeta();
     renderDisciplinePresets();
+    renderDashboard();
     if (app.state.mode === "search") {
         await renderSearchView();
     } else {
@@ -1736,6 +1965,7 @@ async function renderAll() {
     renderEngineStatus();
     renderDatasetMeta();
     renderDisciplinePresets();
+    renderDashboard();
     syncUrl();
 }
 

@@ -80,6 +80,7 @@ publication/
 │       ├── 2010_2019/         # 2010–2019 年
 │       └── 2000_2009/         # 2000–2009 年
 └── api/                       # 静态 JSON 端点（供 AI / 外部工具读取）
+    ├── dashboard.json
     ├── overview.json
     ├── journals.json
     └── articles/
@@ -198,6 +199,9 @@ https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/
 - 同年份段摘要 raw URL
 - 可复制给 AI 的提示词
 
+首页还会直接读取：
+- `api/dashboard.json`：数据库概况、年度趋势、热门关键词、高产作者与期刊分布
+
 ---
 
 ## 静态 API
@@ -205,6 +209,7 @@ https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/
 `api/` 目录为机器可读导出：
 
 ```text
+/api/dashboard.json
 /api/overview.json
 /api/journals.json
 /api/articles/10.1086/714825.json
